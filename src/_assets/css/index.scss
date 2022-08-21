@@ -4,7 +4,31 @@
 @use "modules/page-header";
 
 :root {
-  @include m.custom-properties;
+  @include m.color-scheme-light;
+}
+
+@media(prefers-color-scheme: dark) {
+  html:not(.color-scheme-light) {
+    @include m.color-scheme-dark;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    .feature-image img,
+    .content figure img {
+      filter: grayscale(100) brightness(0.8);
+    }
+  }
+}
+
+html.color-scheme-dark {
+  @include m.color-scheme-dark;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  .feature-image img,
+  .content figure img {
+    filter: grayscale(100) brightness(0.8);
+  }
 }
 
 @media ( prefers-reduced-motion: reduce ) {
@@ -61,10 +85,10 @@ body {
       margin: 0;
       padding: 0;
       li {
-        border-bottom: 1px solid rgba( 0, 0, 4, .125 );
+        border-bottom: 1px solid rgba(var(--border-primary-rgb), .125 );
       }
       li:first-child {
-        border-top: 1px solid rgba( 0, 0, 4, .125 );
+        border-top: 1px solid rgba(var(--border-primary-rgb), .125 );
       }
       h2 {
         border-bottom: 1px solid transparent;

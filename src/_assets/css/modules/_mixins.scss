@@ -1,7 +1,7 @@
 $p-margin: 1.5625rem;
 $main-margin: 18.75rem;
 
-@mixin custom-properties {
+@mixin color-scheme-light {
   --background-page: rgb(255, 255, 255);
   --background-header: rgb(247, 246, 243);
   --color-primary: rgb(18, 18, 18);
@@ -9,6 +9,20 @@ $main-margin: 18.75rem;
   --color-light-on-dark: var(--background-header);
   --color-link: rgb(32, 78, 138);
   --color-link-hover: rgb(255, 174, 0);
+  --border-primary: rgb( 0, 0, 4);
+  --border-primary-rgb: 0, 0, 4;
+}
+
+@mixin color-scheme-dark {
+  --background-page: rgb(18, 18, 18);
+  --background-header: rgb(0, 0, 0);
+  --color-primary: rgb(198, 198, 198);
+  --color-primary-rgb: 198, 198, 198;
+  --color-light-on-dark: var(--background-header);
+  --color-link: rgb(0, 133, 185);
+  --color-link-hover: rgb(255, 174, 0);
+  --border-primary: rgb( 255, 255, 250);
+  --border-primary-rgb: 255, 255, 250;
 }
 
 @mixin small-breakpoint {
