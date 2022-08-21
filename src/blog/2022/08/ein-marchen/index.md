@@ -1,6 +1,6 @@
 ---
 title: "Ein Märchen"
-date: "2022-08-08"
+date: "2022-08-08T20:00:00+02:00"
 tags:
   - "Gesellschaft"
 keywords:

@@ -1,6 +1,6 @@
 ---
 title: "It’s a long way to Tipperary"
-date: "2022-08-16"
+date: "2022-08-16T23:58:00+02:00"
 tags:
   - "Gestorben"
 persons:

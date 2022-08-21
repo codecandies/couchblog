@@ -1,6 +1,6 @@
 ---
 title: "Techno House Deutschland"
-date: "2022-08-02"
+date: "2022-08-02T08:00:00+02:00"
 tags:
   - "Gehört"
   - "Gesehen"

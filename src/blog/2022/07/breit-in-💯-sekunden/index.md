@@ -1,6 +1,6 @@
 ---
 title: "Breit in 💯 Sekunden"
-date: "2022-07-28"
+date: "2022-07-28T12:56:00+02:00"
 tags:
   - "Gehört"
 keywords:

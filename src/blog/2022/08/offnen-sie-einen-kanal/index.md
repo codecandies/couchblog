@@ -1,6 +1,6 @@
 ---
 title: "Öffnen Sie einen Kanal"
-date: "2022-08-01"
+date: "2022-08-01T06:28:00+02:00"
 tags:
   - "Gestorben"
 keywords:

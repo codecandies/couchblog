@@ -1,6 +1,6 @@
 ---
 title: "Hiroshima"
-date: "2022-08-06"
+date: "2022-08-06T13:15:00+02:00"
 tags:
   - "Gesellschaft"
 keywords:

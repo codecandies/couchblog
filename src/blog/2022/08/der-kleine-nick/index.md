@@ -1,6 +1,6 @@
 ---
 title: "Der kleine Nick"
-date: "2022-08-12"
+date: "2022-08-12T06:53:00+02:00"
 tags:
   - "Gestorben"
 keywords:

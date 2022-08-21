@@ -1,6 +1,6 @@
 ---
 title: "Das Humboldt-Tier"
-date: "2022-08-09"
+date: "2022-08-09T13:17:00+02:00"
 tags:
   - "Gelesen"
 keywords:

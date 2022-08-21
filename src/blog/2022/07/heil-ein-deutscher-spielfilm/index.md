@@ -1,6 +1,6 @@
 ---
 title: "Heil. Ein deutscher Spielfilm"
-date: "2022-07-28"
+date: "2022-07-28T08:51:00+02:00"
 tags:
   - "Gesehen"
 keywords:
