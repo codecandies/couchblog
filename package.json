@@ -36,7 +36,6 @@
     "del-cli": "^4.0.1",
     "eslint": "^8.10.0",
     "eslint-plugin-compat": "^4.0.2",
-    "light-server": "^2.9.1",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.4.1",
     "markdown-it-attribution": "^0.1.4",
