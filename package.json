@@ -9,7 +9,7 @@
     "eleventy:build": "eleventy",
     "css:build": "postcss ./_site/css/*.css --replace -u autoprefixer",
     "watch:sass": "sass src/_assets/css/:_site/css --watch --update --color",
-    "build:sass": "sass src/_assets/css/:_site/css --no-source-map --style=compressed",
+    "sass:build": "sass src/_assets/css/:_site/css --no-source-map --style=compressed",
     "start": "npm-run-all -l clean build:sass --parallel watch:*",
     "build": "run-s -l eleventy:build sass:build css:build",
     "test": "echo \"Error: no test specified\" && exit 1"
