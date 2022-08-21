@@ -1,22 +1,22 @@
 {
   "title": "Couchblog",
-  "url": "https://couchblog.de/",
-  "subtitle": "No cookies reqired.",
+  "url": "https://lovely-creponne-3cfd0e.netlify.app/",
+  "subtitle": "Der Markt regelt einen Scheiß.",
   "description": "Das Weblog von Nico Brünjes",
   "language": "de-DE",
   "feed": {
     "subtitle": "Das Weblog von Nico Brünjes.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://couchblog.de/"
+    "id": "https://lovely-creponne-3cfd0e.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://couchblog.de/feed/feed.json"
+    "url": "https://lovely-creponne-3cfd0e.netlify.app/feed/feed.json"
   },
   "author": {
     "name": "Nico Brünjes",
     "email": "nico@couchblog.de",
-    "url": "https://couchblog.de/seiten/about/"
+    "url": "https://lovely-creponne-3cfd0e.netlify.app/seiten/about/"
   }
 }
