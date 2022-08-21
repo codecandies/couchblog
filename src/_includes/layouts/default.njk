@@ -37,7 +37,7 @@
               <rect class="bar" x="2" y="17" width="20" height="2" />
             </svg>
           </label>
-          <h3 id="sidebar-nav" class="header-nav__headline">Links zu Seiten im Blog</h3>
+          <h2 id="sidebar-nav" class="header-nav__headline">Links zu Seiten im Blog</h2>
           <ul class="header-nav__nav-list">
             {%- for entry in collections.all | eleventyNavigation('main') %}
             <li class="header-nav__nav-item{% if entry.url == page.url %} header-nav__nav-item--active{% endif %}">

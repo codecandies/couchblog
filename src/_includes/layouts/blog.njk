@@ -55,7 +55,7 @@
 <footer class="articlefooter">
 {% if keywords or persons %}
 <nav class="tags" aria-labelledby="tags-nav">
-  <h3 id="tags-nav" class="visually-hidden">Links zu Stichworten dieses Artikels</h3>
+  <h2 id="tags-nav" class="visually-hidden">Links zu Stichworten dieses Artikels</h2>
   <ul>
     {% for person in persons %}
     <li><a href="/personen/person/{{ person | slugify }}/">#{{ person }}</a></li>
@@ -67,7 +67,7 @@
 </nav>
 {% endif %}
 <nav class="prevnext" aria-labelledby="pages-nav">
-  <h3 id="pages-nav" class="visually-hidden">Links zu vorigen oder späteren Einträgen</h3>
+  <h2 id="pages-nav" class="visually-hidden">Links zu vorigen oder späteren Einträgen</h2>
   <ul>
   {%- if previousPost %}
     <li class="previous-post"><a href="{{ previousPost.url | url }}"><span class="visually-hidden">Voriger Eintrag: </span>{{ previousPost.data.title }}</a></li>
