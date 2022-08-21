@@ -1,0 +1,32 @@
+---
+title: "Wie entsteht Hochwasser?"
+date: "2002-08-19"
+tags:
+  - "Gefunden"
+---
+
+[Wie entsteht Hochwasser?](https://web.archive.org/web/20040902183248/http://www.praxis-unterrichtsfilm.de/p36.html "praxis-unterrichtsfilm.de [deutsch]")
+
+> Immer häufiger führen starke Regenfälle zu enormen Hochwasserspitzen und auch -katastrophen. Neben den Spekulationen darüber, ob wir es bereits mit den Auswirkungen klimatischer Veränderungen zu tun haben, spielt in der aktuellen Diskussion die Frage der Wasserspeicherfähigkeit unserer Landschaft eine wesentliche Rolle. Dieser Frage wollen wir hier nachgehen.
+>
+> Waldschäden, Gewässerausbau, intensive Landwirtschaft und fortschreitende Flächenversiegelung führen dazu, dass der Boden die Niederschläge heute rasch abgibt, das Wasser muss sich neuen Raum erobern. In den vergangenen Jahren passierte es immer häufiger, dass nach starken Regenfällen Flüsse über die Ufer traten.
+>
+> **“Jahrhunderthochwasser”** nennt man eine Flutkatastrophe, mit der nur einmal im Jahrhundert zu rechnen ist. Diese Rechnung geht nicht mehr auf: In den letzten Jahrzehnten übertrafen sich die gemeldeten Pegelstände jährlich; ein “Jahrhunderthochwasser” nach dem anderen. Die Flutstatistik verzeichnete seit Kriegsende rund 40 Hochwasser an Donau, Elbe, Leine, Oder, Rhein oder Saale, verursacht durch starke Regenfälle.Woran liegt es, dass die Wassermassen immer häufiger als reißende Fluten das Land überspülen? Was hat sich an unserer Umwelt so verändert?Die Wasserspeicherfähigkeit der gesamten Umwelt ist zurückgegangen. Dafür gibt es vier entscheidende Gründe:
+>
+> Erstens: Große Waldbestände sind durch Luftverschmutzung geschädigt. Das beeinträchtigt die Wasseraufnahme- und Wasserspeicherfähigkeit des Waldes und begünstigt so den schnellen Abfluss der Niederschläge an der Oberfläche.Der Wald spielt eine wichtige Rolle im Wasserhaushalt der Erde. Gesunde Baumbestände fangen etwa ein Viertel des Jahresniederschlages ab! Der tiefgehende Wurzelbereich mit vielen kleinen Hohlräumen speichert einen großen Teil des Niederschlags wie ein Schwamm und gibt ihn erst nach und nach in Form von Quellen und über die Verdunstung durch die Bäume wieder ab.Sind die Bäume geschädigt, ist auch der Wasserhaushalt beeinträchtigt: Wo kaum noch Blätter sind, gibt es nicht nur weniger organische Substanz, es gibt auch weniger Wurzeln und Bodenorganismen, die den Humusaufbau bewerkstelligen, den Boden lockern und wasseraufnahmefähig halten. So extrem wie zum Beispiel im Riesengebirge sind die Waldschäden zum Glück noch nicht überall - die Wasserspeicherfähigkeit leidet aber auch schon dort, wo die Schäden noch nicht auf den ersten Blick zu erkennen sind.Besonders deutlich wurden die Auswirkungen der Waldschäden jedoch bei der Überschwemmung an der Oder 1997. Die starken Niederschläge im tschechischen Teil des Riesengebirges und im Altvatergebirge brachten die Flüsse zum Überlaufen. Vierzig Prozent des tschechischen Staatsgebietes waren überschwemmt!
+> Die Luftverschmutzung gilt als eine der Hauptursachen für das Waldsterben. Zwar hat die Waldfläche der Bundesrepublik insgesamt zugenommen, jedoch sind gerade solche Gebiete vom Waldverlust betroffen, in denen der Wald zur Steuerung des ökologischen Gleichgewichts besonders wichtig ist, wie zum Beispiel im Umland von Städten und großen Ballungszentren.
+>
+> Zweitens: Immer größere zusammenhängende Flächen werden landwirtschaftlich genutzt. Schwere Maschinen verdichten den Boden und zerstören die Hohlräume, welche die Schwammwirkung des Bodens ausmachen. Auch die Veränderungen durch industrielle Art der Landbewirtschaftung (Monokulturen, Mineraldünger anstelle von organischem Dünger, etc.) wirken sich nachteilig auf die Wasserspeicherfähigkeit des Bodens aus. Immer weniger Wasser kann auf den ausgedehnten Feldern versickern.Um Flächen besser bewirtschaftbar zu machen und um mehr Ackerland zu erschließen, wurden große Teile der Landschaft mit einem Drainagesystem versehen und so auf Dauer entwässert. Der Regen hat keine Gelegenheit mehr, tief in den Boden einzusickern, da er mit den Röhren sofort in die Fließgewässer abgeleitet wird. Aber dadurch wird das Problem nur verlagert. Bei heftigen Regenfällen können die schnell abgeleiteten Wassermassen durchaus als Hochwasser zurückkehren.
+>
+> Drittens. Durch den Ausbau und die Begradigung von Gewässern erhöht sich die Gefahr von Überflutungen. Für die Binnenschifffahrt werden Flüsse begradigt und ausgebaggert. Nicht nur die Schiffe fahren schneller und einen kürzeren Weg, auch die Fließgeschwindigkeit des Wassers erhöht sich damit, weil die Stromlänge drastisch verringert ist.So kommen auch die Flutwellen ungebremst voran. Allein der Weg von Basel nach Karlsruhe ist für das Rheinhochwasser um dreißig Stunden schneller geworden - weniger Zeit auch, um Vorkehrungen gegen die Überflutung von Stadt und Land zu treffen. Trotzdem werden noch immer Pläne für den Ausbau von Flüssen wie der Donau oder der Elbe in die Tat umgesetzt.
+>
+> Viertens: Immer größere Flächen werden durch Straßen-, Industrie- und Siedlungsbau so versiegelt, dass dort überhaupt kein Wasser mehr in den Boden eindringen kann und es sich andere Wege zum Abfließen suchen muss.Das an der Versickerung gehinderte Wasser schießt ungebremst die Straßen entlang und erreicht als Oberflächenabfluss die Fließgewässer. Aus kleinen Rinnsalen entstehen schnell reißende Bäche, welche die Flüsse innerhalb kürzester Zeit anschwellen lassen.
+> Flächen, die früher als ausgleichender Überflutungsraum gedient haben, sind durch Bebauung verlorengegangen - so wie auch die für Überschwemmungen vorgesehenen Polderflächen zum Beispiel an der Oder. Diese Flächen sind heute weitgehend besiedelt und logischerweise durch Flutkatastrophen stark gefährdet.Die aufgeführten vier unterschiedlichen Faktoren haben eine entscheidende Gemeinsamkeit: Sie sind Eingriffe des Menschen in die Natur.Die Flutkatastrophen der letzten Jahre bestätigen jene, die schon lange vor den Folgen solcher Eingriffe gewarnt haben. Die Hochwasserschäden jedenfalls sind weit kostspieliger als der ökologisch sinnvolle Rückbau der Flusslandschaften.
+
+Oder doch die Klimaerwärmung?
+
+[Klimaforscher befürchten stürmische Zeiten, DER SPIEGEL vom 31. Januar 2002 (PDF)](https://web.archive.org/web/20040902183248/http://www.herzo-agenda21.de/_PDF/Klima_102.pdf)
+
+[Klimaerwärmung hat katastrophale Folgen, Spiegel vom Februar 2001 (PDF)](https://web.archive.org/web/20040902183248/http://www.herzo-agenda21.de/_PDF/Sonne_103.pdf)
+
+links per mail von SASCHA

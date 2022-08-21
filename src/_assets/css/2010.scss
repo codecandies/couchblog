@@ -1,0 +1,206 @@
+/* mountains-of-christmas-regular - latin */
+@font-face {
+  font-family: 'Mountains of Christmas';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/css/fonts/mountains-of-christmas-v20-latin-regular.woff2') format('woff2'),
+    url('/css/fonts/mountains-of-christmas-v20-latin-regular.woff') format('woff');
+}
+
+/* mountains-of-christmas-700 - latin */
+@font-face {
+  font-family: 'Mountains of Christmas';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('/css/fonts/mountains-of-christmas-v20-latin-700.woff2') format('woff2'),
+    url('/css/fonts/mountains-of-christmas-v20-latin-700.woff') format('woff');
+}
+
+/* lato-300 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''), url('/css/fonts/lato-v22-latin-300.woff2') format('woff2'),
+    url('/css/fonts/lato-v22-latin-300.woff') format('woff');
+}
+
+/* lato-300italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local(''), url('/css/fonts/lato-v22-latin-300italic.woff2') format('woff2'),
+    url('/css/fonts/lato-v22-latin-300italic.woff') format('woff');
+}
+
+/* lato-700 - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('/css/fonts/lato-v22-latin-700.woff2') format('woff2'),
+    url('/css/fonts/lato-v22-latin-700.woff') format('woff');
+}
+
+/* lato-700italic - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local(''), url('/css/fonts/lato-v22-latin-700italic.woff2') format('woff2'),
+    url('/css/fonts/lato-v22-latin-700italic.woff') format('woff');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+body {
+  background-color: #1a1a1a;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  color: #fff;
+  em,
+  i {
+    font-style: italic;
+    font-weight: 300;
+  }
+  strong,
+  b {
+    font-weight: 700;
+  }
+  strong em,
+  strong i {
+    font-weight: 700;
+    font-style: italic;
+  }
+}
+
+header {
+  align-items: center;
+  background-color: #b30100;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  a {
+    color: #fff;
+    display: block;
+    font-family: 'Mountains of Christmas', serif;
+    font-size: 2.8rem;
+    font-weight: 400;
+    padding-top: 0.2em;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    &:hover {
+      color: #ff6600;
+    }
+    span {
+      font-size: 60%;
+    }
+  }
+  figure {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    img {
+      aspect-ratio: 655/547;
+      max-height: 100%;
+      max-width: 100%;
+    }
+  }
+  h1 {
+    align-items: center;
+    background: #1a1a1a;
+    border-top: 5px solid #fff;
+    color: #fff;
+    display: flex;
+    flex-grow: 1;
+    font-family: 'Mountains of Christmas', serif;
+    font-size: 3.5rem;
+    font-weight: 400;
+    justify-content: center;
+    padding: 15px 0;
+    width: 100%;
+  }
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(1.5rem, 1fr) minmax(auto, 60ch) minmax(1.5rem, 1fr);
+  font-size: 1.25rem;
+  line-height: 1.44;
+  padding-bottom: 5rem;
+  * {
+    grid-column: 2;
+  }
+  a:link,
+  a:visited {
+    color: #ff6600;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+  }
+  .meta {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 0.875rem;
+    margin-bottom: 2rem;
+  }
+  p {
+    hyphens: auto;
+    margin-bottom: 1em;
+    span,
+    a {
+      hyphens: none;
+    }
+  }
+  q {
+    font-style: italic;
+  }
+  h2 {
+    font-family: 'Mountains of Christmas', serif;
+    font-size: 2.4rem;
+    font-weight: 400;
+    padding-top: 2rem;
+    text-align: center;
+  }
+
+  footer {
+    color: #ff6600;
+    font-family: 'Mountains of Christmas', serif;
+    font-weight: 400;
+    margin-top: 3rem;
+    padding-top: 0.5rem;
+    ul {
+      display: flex;
+      list-style: none;
+      li {
+        flex: 1 0 48%;
+      }
+      li + li {
+        text-align: right;
+      }
+      .previous-post::before {
+        content: '←';
+        padding-right: 0.25em;
+      }
+      .next-post::after {
+        content: '→';
+        padding-left: 0.25em;
+      }
+    }
+  }
+}

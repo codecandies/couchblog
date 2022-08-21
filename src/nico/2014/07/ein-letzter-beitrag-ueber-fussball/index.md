@@ -1,0 +1,21 @@
+---
+title: "Ein letzter Beitrag über Fußball"
+date: "2014-07-16"
+tags:
+  - "Gesellschaft"
+coverImage: "gaucho-dance.png"
+---
+
+Fußball ist irgendwie sehr ambivalent. Einerseits ist der Fußball die Möglichkeit Menschen zusammen zu bringen, Frieden zu stiften und Geld in Länder zu bringen, die es brauchen. Andererseits verprügeln sich die Fans vor den Stadien, bewerfen den Gegner mit Bananen, und statt mit Geld zu helfen, werden Armenviertel eingerissen um Platz für Fußballstadien zu schaffen. Das beides sind die Realitäten des Fußballs, im Traditionsstadion _Maracanã_ ebenso, wie auf der _Kampfbahn_ nebenan, mit Champus und mit Edelhell, Weltmeisterschaft oder Kreisklasse.
+
+Die deutsche Nationalmannschaft wird und wurde dabei zur Lichtgestalt hochgejubelt und -geworben: die netten Jungs, die als Deutschlands Botschafter die Welt bereisen und nebenbei den Titel gewinnen, wahre Helden. Und dann kommen sie zurück ans Brandenburger Tor und zeigen, dass die doch nur Fußballer sind, zwar ungleich reicher, aber eben nicht viel niveauvoller als ihre Fans, die zu hundert Tausenden die Arbeit geschwänzt haben, um zum letzten Mal die Fanmeile zu füllen und sich von Helene Fischer und DJ Ötzi so richtig einheizen zu lassen. Und überall steht ein Sponsor drauf. Und dann bewerfen sie den Gegner mit Bananen, die Lichtgestalten.
+
+An der Kommerzialisierung der Party—und an Helene Fischer—[kann man sich stören](http://www.taz.de/Weltmeister-Party-in-Berlin/!142470/), wenn man die Taz ist. Oder man packt die Moralkeule aus, [wenn man der Spiegel](http://www.spiegel.de/sport/fussball/wm-party-in-berlin-nationalmannschaft-verhoehnt-argentinien-a-981132.html) oder [die FAZ](http://www.faz.net/aktuell/feuilleton/medien/tv-kritik-empfang-der-weltmeister-so-gehen-gauchos-13047240.html) ist. Aber damit demonstriert man nur, dass man von Fußball keine Ahnung hat. Jedenfalls nicht von dieser Seite des Fußballs. [Dafür muss man schonmal im Stadion gewesen sein](http://www.mobilegeeks.de/kommentar-die-gaucho-affaere-da-ist-wieder-der-haessliche-deutsche/). Das kann man nicht in einem Taktiklehrbuch oder einer WM-Statistik nachlesen, das muss man vor Ort erlebt haben. Und die _Fans_ rücken zusammen und machen das, was sie immer tun und stellen sich hinter _ihre_ Mannschaft, und shitstormen zurück, was Facebook und Twitter hergeben.
+
+Und das ist der Grund, warum ich mit Fußball nur wenig zu tun habe: eben weil ich im Stadion war. Ich habe sogar verschiedene Mannschaften ausprobiert. Den Verein meiner Heimat, aber da liefen mir seinerzeit zuviele Hools herum. Dann war ich mal bei unseren Erzfeinden, da war das Bild das gleiche. Dann habe ich es mal bei einem Linksaußenalternativclub versucht und ich war bei den größten Verlieren die die Bundesliga je gesehen hat. Demut findet man nirgendwo dort, in keinem Stadion. Es ist immer laut und das Ritual ist immer das gleiche. Respekt gegenüber dem Gegner äußert sich nur darin, dass man noch lauter feindliche Botschaften gen Besucherblock brüllt, noch mehr Bananen wirft. Und im Fußballstadion auf den Rängen ist das alles erlaubt. Und manchmal hauen sich sogar die Spieler, bis einer mit Gehirerschütterung vom Platz muss oder unter dem Auge blutet. Das ist Fußball, brüllen alle. Das ist heilig. Politcal correctness, um das Wort noch unterzubringen, ist da am falschen Platz. Das ist ja gerade der Sinn der Sache. Und das ist auch international so überall in der Welt.
+
+Deswegen gehe ich da nicht hin. Einen Zwang gibt es ja glücklicherweise nicht.
+
+Nun ist die WM vorbei und damit auch der mediale Irrglaube, dass sei irgendwie anders, wenn die Nationalmannschaft spielt oder eben feiert. Ist es nicht. Der Fan köpft genüßlich sein Edelhell, himmelt Miro Klose an und träumt vom Mercedes. Und im Hintergrund singt Helene Fischer die Nationalhymne. Nachtrag:
+
+<blockquote class="twitter-tweet" lang="de"><p>Nachtrag <a href="https://twitter.com/hashtag/WM2014?src=hash">#WM2014</a> Das Fanshirt für Reflektierte: <a href="https://twitter.com/hashtag/gauchogate?src=hash">#gauchogate</a> <a href="http://t.co/GOJeF2yavd">http://t.co/GOJeF2yavd</a> (sd)</p>— zeitonlinesport (@zeitonlinesport) <a href="https://twitter.com/zeitonlinesport/statuses/489313191638630400">16. Juli 2014</a></blockquote>

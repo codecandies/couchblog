@@ -1,0 +1,39 @@
+---
+title: "Webseiten für das iPad"
+date: "2010-02-10"
+tags:
+  - "Gestaltet"
+keywords:
+  - "Apple"
+---
+
+Man möge mir mangelnde Begeisterungsfähigkeit anlasten, aber ich bin vom iPad zwar technisch begeistert und freue mich auf ein neues slickes Spielzeug, das Apple da produziert. Ansonsten, aus beruflicher Sicht, sehe ich »just another device, to test and support«. Es stellen sich allerdings zwangsläufig ein paar Fragen, vor allem wenn man davon ausgeht, dass das iPad ein Erfolg wird, es also eine signifikante Nutzerzahl geben wird.
+
+Wie muss eine Webseite für das iPad aussehen? Es ist eigentlich alles wie immer. Mit dem iPad kommt ein _mobile Safari_, also ein potenter, moderner Webbrowser, der sich auf allerlei finessen im Bereich HTML5 und CSS3 versteht. Natürlich fungiert dieser Browser innerhalb der Constraints, die ihm das Tablet vorgeben.
+
+## 768 x 1024, wtf???
+
+Da wäre zunächst die Größe (Kleine?) von 1024 x 768px in Landscape-Ansicht, vor allem aber 768 x 1024px im möglicherweise häufiger genutzten Portraitmodus. Das ist schon mal eine gewisse Einschränkung, die es zu umschiffen gilt. Denn wie man es auch **dreht und wendet**, der User hat zwei unterschiedliche Perspektiven, aus denen er auf die Website schaut, [\[t\]he iPad has no RIGHT way of viewing websites](http://www.inspiredm.com/2010/02/09/ipad-design/).
+
+Hier dürfte es drei sehr unterschiedliche Lösungsansätze geben. Zunächst zwei Strategien, die von der (schon vorhandene) Standardwebsite ausgehen und diese anpassen oder erweitern:
+
+1. **Fluide Layouts:** die Evangelisten des _fluid designs_ können in die Hände klatschen und angeben, dass sie ja gleich Recht hatten. Ein ordentliches auf Prozent der Fensterbreite basierendes Konzept wird sicherlich auch im iPad tadellos funktionieren und zwar im Hoch- wie auch im Querformat.
+
+2. **Flexible Adaptive Layouts:** das wäre eine Taktik, wie wir sie bei [ZEIT ONLINE](http://www.zeit.de) verfolgt haben bisher, nämlich für verschiedene Bildschirmbreiten unterschiedliche Layouts anzubieten, wobei das umschalten automatisch passiert. Dies könnte beispielsweise mit Javascript gelöst werden.
+
+
+Die dritte Lösung wäre, für das iPad ganz eigene Seiten zu erstellen, so wie es heute oft auch für mobile Endgeräte gemacht wird. Das gehört aber nur insoweit hierher, diese Möglichkeit festzustellen. Geht die Welt dazu über, den iPad-Usern spezielle _Mobil_webseiten zu präsentieren, dann hätte dass ja gar keinen Einfluss auf die _normalen_ Websites.
+
+Ich tendiere mehr zu Lösung zwei. Fluide Designs sind auf jeden Fall _rock solid_, aber auch stinklangweilig. Hochkant, Querformat, die Seite ist immer gleich. Apple selbst verbindet aber mit seinen Produkten (bspw. Mail) einen ganz bestimmten Effekt auf das Aussehen, der sich beim Wechsel zwischen Hochkant- und Querformat einstellt. Beim Mailprogramm beispielsweise bietet der Landscapemodus die Übersicht, links die Inbox, rechts die Mails, während im Portraitmodus die Inbox verschwindet (und nur noch als Menüpunkt bestehen bleibt) und man sich auf eine Mail konzentrieren kann. Den gleichen Effekt sehen wir auch in der [_Sports Illustrated_ Demo](http://www.youtube.com/watch?v=ntyXvLnxyXk) \[via [Arne](http://www.arnalyse.de/2010/01/auf-dem-silbertablett-serviert/)\], die viel Müll enthält – beispielweise das Sounddesign der 60er Jahre Batman-Serie (swoosh!), aber eben auch hervorragende Ideen, wie man Landscape- und Potraitmodus nutzen kann. Mit einer _normalen_ Webseite kann man derartige Effekte nur per _flexible Layout_ erreichen.
+
+Eine Sache werden allerdings alle begreifen müssen: [es gibt ein Leben unter 600px](http://iampaddy.com/lifebelow600/).
+
+## Und dann die Wurstfinger
+
+Einen weiteren Einfluss, den das iPad auf das Webdesign nehmen könnte, hat mit seiner Bedienung zu tun. Finger sind irgendwie nicht so klein und filigran wie eine Maus bzw. deren Cursor. Im Gegenteil: Finger sind dick und fett und verdecken zudem noch das, was man gerade anklicken will. Logischerweise wird man also alles Anklickbare größer machen müssen. Und dann noch etwas größer. Und dann noch Platz bach aussen schaffen. Und Whitespace drumherum. Zusammengefasst: am besten nur noch dicke, große, fette Buttons.
+
+Ach ja und natürlich keinerlei Hovereffekte und Mouseoverspielereien. Was berüht wird, das wird geklickt oder verschoben oder sonstwas, aber einen Hoverevent gibt es nicht.
+
+## Kein Flash
+
+Wenn man sich auch uneinig ist, [welche Zukunftsaussichten das Adobe beschert](/codecandies/2010/02/01/ausgeflasht/): es gibt kein Flash auf dem iPad. That's a fact. Also: einfache Sache. Stoppt die Nutzung von Flash. Was man nicht will, sind die kleinen blauen Legosteine, die das fehlende Plugin anzeigen. Wenn man seinen iPad-Kunden seinen Content anbieten will, darf er nicht in Flash sein. Was man zum Ausweichen nutzen will, wird man noch sehen.

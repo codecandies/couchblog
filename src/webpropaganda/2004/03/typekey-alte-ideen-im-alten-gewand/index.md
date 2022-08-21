@@ -1,0 +1,18 @@
+---
+title: "Typekey, alte Ideen im alten Gewand"
+date: "2004-03-21"
+tags:
+  - "Gerante"
+---
+
+OK, [SixApart](http://sixapart.com) veröffentlicht [TypeKey](http://www.typekey.com/) und regt damit natürlich auch [Diskussionen](http://www.metafilter.com/mefi/31910 "Metafilter:Typekey") an. [Haiko Hebig stellt ganz richtig fest](http://www.hebig.org/blogs/archives/main/001402.php), daß dies durchaus kritisch zu betrachten ist.
+
+Interessanterweise greift man im Hause Movable Type mit TypeKey eine Idee auf, die wir hier in Deutschland schon lange diskutiert haben. Unter dem Arbeitstitel OBKA hatten wir über Möglichkeiten diskutiert, wie man Spamkommentaren und Kommentaren unter falscher Identität mithilfe eines Registrierungsdienstes beikommen könnte. Was jedoch mehr Kritik als konstruktive Diskussion hervorrief, mit teilweise guten Gründen, wie ich denke. Ein zentraler Registrierungsdienst birgt nunmal einige Schwierigkeiten und für den durchschnittlich paranoiden Netzuser auch genug Anlass für Mißtrauen. Mir gefiel (nebenbei erwähnt) damals der Vorschlag einer konzertierten Aktion aller bzw. mehrere Bloganbieter im deutschsprachigen Raum am sinnvollsten. Man hätte sich bei einem beliebigen dieser Dienste anmelden müssen, um in “OBKA-geschützten” Weblogs kommentieren zu können. Auch Vorschläge, PGP\-Keys zu verwenden klangen nicht schlecht, die Benutzung von PGP ist allerdings leider immer noch nur in Geek-Kreisen verbreitet. Aber so wichtig war das Thema damals wohl auch wieder nicht, jedenfalls wurde es erstmal auf Eis gelegt, die Diskussionen verliefen im Sande.
+
+Nun steht das Thema “zentrale Kommentarregistrierung” wieder auf der Tagesordnung, denn SixApart schlägt nichts vor, diskutiert nichts, sondern handelt, ganz wie man es in der heutigen Zeit von einem Unternehmen in einer marktführenden Position erwartet. Riecht nach dem Gates-Prinzip, obwohl ich Ben und Mena Trott nicht die gleiche Ignoranz unterstellen möchte. Fakt jedoch ist: in der derzeitigen Verbreitung, die [MovableType](http://movabletype.org) besitzt, unter Annahme großer Akzeptanz des Dienstes in der (amerikanischen?) Blogosphäre, wird hier ein Quasi-Standard geschaffen. Wer demnächst in Weblogs kommentieren will, wird zumindest im anglo-amerikanischen Sprachraum kaum um einen TypeKey-Account herumkommen.
+
+Aber TypeKey ist keine konzertierte Aktion mehrerer Anbieter, Firmen oder einer Non-Profit-Organisation, sondern ein zentraler Anmeldedienst. Und das hat, wie wir schon diskutierten, seine Tücken. Zunächst einmal ganz einfache: was passiert, wenn die TypeKey einmal ausfallen? Ein Tag völlige Ruhe in der Blogoshäre. Und auch die Frage nach dem Vebleib der persönlichen Informationen der TypeKey-Nutzer ist durchaus berechtigt. Ich will gar nicht unterstellen, das man die Adressen verkaufen wolle, das wäre ziemlich widersinnig, aber wie sicher wären Server im Netz, die derartige Informationen bereithalten? Was passiert, wenn in ein zwei Jahren SixApart, phantasieren wir einmal, an Microsoft verkauft wird?
+
+Ich weiss nicht, ob man sich bei SixApart nicht ein dickes Eigentor schießt, denn einen Passport für’s Bloggen brauchen wir garantiert nicht. Vielleicht sollte man die Gelegenheit nutzen und sich über OBKA nocheinmal Gedanken machen, die Ideen die dort kamen waren allemal besser, als daß was und uns die Trotts nun auf den Tisch legen. Erste Maßnahme sollte dabei ein anderer Arbeitstitel für da Projekt sein, OBKA klingt einfach schei….
+
+Update: weitere kritische Betrachtungen bei [Burningbird](http://weblog.burningbird.net/fires/technology/typekey_the_patriot_act_of_weblogging.htm "TypeKey: The Patriot Act of Weblogging").

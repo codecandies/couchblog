@@ -1,0 +1,8 @@
+---
+title: "Roundup"
+date: "2003-04-08"
+tags:
+  - "Gebloggt"
+---
+
+Dass die hässliche CDU-Cheffeuse jetzt ein Praktikum im Weissen Haus macht habe ich auch nicht gewusst, aber Andreas [hat Beweise](http://www.ap-project.com/comments.php?id=P111_0_1_0 "AP Project: Praktikantin"). [Robert](http://rw.fuq-u.org/?action=see&id=1003 "Robert Weiler Online: Russisch Roulete gefällig?") schickte mich heute zum [russischem Roulette](http://members.aon.at/rialskaedda.html/gimproulette.swf "Russian Roulette (flash)"), was ich allerdings nochmal geradeso überlebt habe. Makaber? Nein, makaber ist die SARS\-Mode, die ich bei [Astrid](http://www.astrid-paprotta.de/weblog.php?id=P157 "Astrid Paprotta - Ferner liefen") gesehen habe. Doch kommen wir nun zu etwas völlig anderem: [Moe fragt](http://weblog.plasticthinking.org/index.php?itemid=227 "Plastic Thinking: RSS Debakel"), warum so viele Blogger ihren RSS\-Feed verstecken. Wer weiss? Aber: Sonst kann mein Blog ja gar nicht sein volles Aroma entfalten, den find’ ich echt gut (Quote of the day, sozusagen). MT\-Nutzer finden bei [etc.](http://www.fortysomething.ca/mt/etc/archives/002174.php "etc: Full Post & Comment RSS") ein Template für einen RSS-Feed, welcher die kompletten Artikel plus Kommentare ausspuckt (obwohl mir persönlich wäre so ein Feed zu »heavy«). Ach übrigens: [Jens »Baumi« Baumeister](http://www.jensbaumeister.de/archives/2003_04_08.html#000277 "Baumis Betrachtungen") hat meine [Karmavotingidee](http://www.couchblog.de/couchblog/archives/2003/04/karmavoting_fuer_movable_type_endlich.php "Karmavoting für Movable Type") umgesetzt, gutes Gefühl, aber vielleicht sollte ich jetzt langsam mit etwas wiklich selbst geschriebenen ‘rüberkommen. Bis dahin klopfe ich mir noch ein wenig auf die Schulter…

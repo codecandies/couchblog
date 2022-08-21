@@ -1,0 +1,30 @@
+---
+permalink: /stichworte/stichwort/{{ keyword | slugify }}/
+layout: themen.njk
+eleventyComputed:
+  title: Blogeinträge über {{ keyword }}
+pagination:
+  data: collections.postsByKeywords
+  size: 1
+  alias: keyword
+  reverse: true
+  addAllPagesToCollections: true
+---
+
+{% set postlist = collections.postsByKeywords[keyword] %}
+<nav aria-labelledby="main-nav">
+<h3 id="main-nav" class="section-headline">Einträge zum Stichwort „{{ keyword }}“</h3>
+<ul>
+{% for post in postlist | reverse %}
+    <li>
+      <a href="{{ post.url }}">
+        <h2>{{ post.data.title }}</h2>
+        {% if post.data.date %}
+        <time>{{ post.data.date | mediumDate }}</time>
+        {% endif %}
+      </a>
+    </li>
+{% endfor %}
+</ul>
+</nav>
+

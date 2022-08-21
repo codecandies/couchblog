@@ -1,0 +1,31 @@
+{% extends 'layouts/default.njk' %}
+
+
+{% block headline -%}
+  <h1 class="page-header__headline"><a href="/">{{ metadata.title }}</a></h1>
+  <h2 class="page-header__subheadline">{{ metadata.subtitle }}</h2>
+{% endblock -%}
+
+{% block articleheader %}{% endblock %}
+
+{% block articlefooter -%}
+  {% if pagination.href.next or pagination.href.previous %}
+    <footer class="mainfooter">
+      <nav aria-labelledby="pages-nav">
+        <h3 id="pages-nav" class="visually-hidden">Links zu vorigen oder späteren Einträgen</h3>
+        <ul>
+          <li class="previous-page">
+          {% if pagination.href.previous %}
+            <a href="{{ pagination.href.previous  }}">neuere Einträge</a>
+          {% endif %}
+          </li>
+          <li class="next-page">
+          {% if pagination.href.next %}
+            <a href="{{ pagination.href.next }}">ältere Einträge</a>
+          {% endif %}
+          </li>
+        </ul>
+      </nav>
+    </footer>
+  {% endif %}
+{% endblock %}

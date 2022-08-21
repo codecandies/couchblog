@@ -1,0 +1,30 @@
+---
+permalink: /personen/person/{{ person | slugify }}/
+layout: themen.njk
+eleventyComputed:
+  title: Blogeinträge über {{ person }}
+pagination:
+  data: collections.postsByPersons
+  size: 1
+  alias: person
+  reverse: true
+  addAllPagesToCollections: true
+---
+
+{% set postlist = collections.postsByPersons[person] %}
+<nav aria-labelledby="main-nav">
+<h3 id="main-nav" class="section-headline">Einträge zum Stichwort „{{ person }}“</h3>
+<ul>
+{% for post in postlist | reverse %}
+    <li>
+      <a href="{{ post.url }}">
+        <h2>{{ post.data.title }}</h2>
+        {% if post.data.date %}
+        <time>{{ post.data.date | mediumDate }}</time>
+        {% endif %}
+      </a>
+    </li>
+{% endfor %}
+</ul>
+</nav>
+

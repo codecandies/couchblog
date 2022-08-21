@@ -1,0 +1,36 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - post
+    - posts
+    - tagList
+    - blog
+  addAllPagesToCollections: true
+layout: themen.njk
+eleventyComputed:
+  title: Blogeinträge in {{ tag }} | {{ pageTitle }} – {{ pageSubTitle }}
+permalink: /themen/thema/{{ tag | slugify }}/
+---
+
+{% set postlist = collections[ tag ] %}
+<nav aria-labelledby="main-nav">
+<h3 id="main-nav" class="section-headline">Einträge zum Thema „{{ tag }}“</h3>
+<ul>
+{% for post in postlist | reverse %}
+    <li>
+      <a href="{{ post.url }}">
+        <h2>{{ post.data.title }}</h2>
+        {% if post.data.date %}
+        <time>{{ post.data.date | mediumDate }}</time>
+        {% endif %}
+      </a>
+    </li>
+{% endfor %}
+</ul>
+</nav>
+

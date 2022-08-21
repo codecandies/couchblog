@@ -1,0 +1,70 @@
+<!doctype html>
+<html class="no-js" lang="{{ language or metadata.language  }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
+    <script>
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, ' ') + ' js';
+    </script>
+    <title>{%- if title -%}{{ title }} | {% endif %}{{ metadata.title }} – {{ metadata.subtitle }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} &raquo; Feed" href="{{ metadata.url }}feed/" />
+    <meta name="color-scheme" content="dark light">
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    {% block additional_styles %}{% endblock %}
+  </head>
+  <body>
+    <a href="#main" class="skiplink">Zum Inhalt springen…</a>
+    <div class="wrapper">
+      {% block header -%}
+      <header class="page-header">
+        <div class="page-header__headlines">
+        {% block headline -%}
+          <div class="page-header__headline"><a href="/">{{ metadata.title }}</a></div>
+          <div class="page-header__subheadline">{{ metadata.subtitle }}</div>
+        {% endblock -%}
+        </div>
+        {% block navigation -%}
+        <nav aria-labelledby="sidebar-nav" class="page-header__nav header-nav">
+          <input id="sidebar-nav-toggle" type="checkbox">
+          <label for="sidebar-nav-toggle" class="header-nav__icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <title>Menü</title>
+              <rect class="bar" x="2" y="5" width="20" height="2" />
+              <rect x="2" y="11" width="20" height="2" />
+              <rect x="2" y="11" width="20" height="2" />
+              <rect class="bar" x="2" y="17" width="20" height="2" />
+            </svg>
+          </label>
+          <h3 id="sidebar-nav" class="header-nav__headline">Links zu Seiten im Blog</h3>
+          <ul class="header-nav__nav-list">
+            {%- for entry in collections.all | eleventyNavigation('main') %}
+            <li class="header-nav__nav-item{% if entry.url == page.url %} header-nav__nav-item--active{% endif %}">
+              <a href="{{ entry.url | url }}" title="{{ entry.title | e }}">
+                {{ entry.title }}
+              </a>
+            </li>
+            {%- endfor %}
+          </ul>
+        </nav>
+        {% endblock -%}
+      </header>
+      {% endblock -%}
+
+      <main class="main" id="main">
+        {% block main -%}
+          {% block featureimage -%}{% endblock -%}
+          {%- block articleheader %}{%- endblock -%}
+          {%- block content %}
+          {{ content | safe }}
+          {% endblock -%}
+          {% block articlefooter -%}
+          {% endblock -%}
+        {% endblock -%}
+      </main>
+      {% block footer -%}{% endblock -%}
+    </div>
+    <!--script type="module" src="/js/index.js"></script-->
+  </body>
+</html>

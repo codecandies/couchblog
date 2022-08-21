@@ -1,0 +1,23 @@
+---
+permalink: /stichworte/
+layout: home.njk
+eleventyNavigation:
+  parent: main
+  emoji: 📖
+  key: Stichworte
+  order: 5
+---
+
+<nav aria-labelledby="main-nav">
+  <h3 id="main-nav" class="section-headline">Stichwortverzeichnis</h3>
+  <ul>
+{% for keyword in collections.keywordList | sort %}
+    {% set keywordUrl %}/stichworte/stichwort/{{ keyword | slugify }}/{% endset %}
+    <li>
+      <a href="{{ keywordUrl | url }}" class="post-tag">
+      <h2>{{ keyword }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</nav>

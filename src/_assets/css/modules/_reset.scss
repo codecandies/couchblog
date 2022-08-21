@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: 100%;
+}
+
+address,
+blockquote,
+button,
+caption,
+cite,
+code,
+del,
+em,
+fieldset,
+figure,
+form,
+h1,
+h2,
+h3,
+h4,
+img,
+label,
+legend,
+li,
+p,
+small,
+sub,
+sup,
+table,
+td,
+th,
+tr {
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+  text-align: inherit;
+}
+
+ul, ol {
+  font-size: inherit;
+  line-height: inherit;
+  text-align: inherit;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+blockquote:before,
+blockquote:after {
+  content: "";
+}

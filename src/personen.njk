@@ -1,0 +1,23 @@
+---
+permalink: /personen/
+layout: home.njk
+eleventyNavigation:
+  parent: main
+  emoji: 📖
+  key: Personen
+  order: 5
+---
+
+<nav aria-labelledby="main-nav">
+  <h3 id="main-nav" class="section-headline">Personenverzeichnis</h3>
+  <ul>
+{% for person in collections.personList | sort %}
+    {% set personUrl %}/personen/person/{{ person | slugify }}/{% endset %}
+    <li>
+      <a href="{{ personUrl | url }}" class="post-tag">
+      <h2>{{ person }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</nav>

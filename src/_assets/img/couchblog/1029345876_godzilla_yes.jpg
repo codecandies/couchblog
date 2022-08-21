@@ -1,0 +1,52 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Access forbidden!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rev="made" href="mailto:root@localhost" />
+<style type="text/css">
+<!--
+body { color: #000000; background-color: #FFFFFF; }
+a:link { color: #0000CC; }
+-->
+</style>
+</head>
+
+<body>
+<h1>Access forbidden!</h1>
+<dl>
+<dd>
+
+
+  
+
+    You don't have permission to access the requested object.
+    It is either read-protected or not readable by the server.
+
+  
+
+</dd></dl><dl><dd>
+If you think this is a server error, please contact
+the <a href="mailto:root@localhost">webmaster</a>
+
+</dd></dl>
+
+<h2>Error (none)</h2>
+<dl>
+<dd>
+<address>
+  <a href="/">grex2.quizilla.com</a>
+  <br />
+  
+  <small>Sat 04 Dec 2004 10:08:34 AM MST</small>
+  <br />
+  <small>Apache/2.0.40 (Red Hat Linux)</small>
+</address>
+</dd>
+</dl>
+</body>
+</html>
+

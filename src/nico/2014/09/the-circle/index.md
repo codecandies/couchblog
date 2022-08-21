@@ -1,0 +1,16 @@
+---
+title: "The Circle"
+date: "2014-09-09"
+tags:
+  - "Getestet"
+  - "Generde"
+  - "Generde"
+---
+
+Vor kurzem habe ich _The Circle_ gelesen, ein unglaublich schlechtes Buch, und wie das mit schlechten Büchern so ist, stand es an der Spitze der Bestsellerliste. Der Inhalt des Buches: anfangs dumme Protagonisten bleibt bis zum Ende des Buches stockdumm, eine Socialmediafirma als Metapherchimäre für Facebook, Google und Apple in einem entwickelt die totale Überwachung aller Menschen, ohne das deren Führerschaft dabei eine Idee hätte, wozu das eigentlich alles gut sein soll. Der Spannungsbogen gleicht der Nulllinie auf einem Herzfrequenzmonitor. </rant>
+
+Gut, über das Thema könnte man diskutieren. Im Grunde ist _The Circle_ die Parabel vom Frosch, der langsam gekocht wird, ohne es zu merken. Diese Parabel ist, das wissen die meisten, eben eine Parabel, kein Frosch lässt sich ohne Gegenwehr kochen, wenn man das Wasser nur langsam genug erhitzt. Ausser [der von Philip Rösler](http://m.youtube.com/watch?v=RaJaocFrUmI) vielleicht. Und so wenig wie die Parabel mit der Realität zu tun hat, so wenig sind die Figuren in _The Circle_ echt genug, als dass sie zur Identifikation dienen könnten. Der eine zieht einen totalitären Überwachungsstaat hoch, nur so aus Langeweile, die Hauptfigur hingegen tappt von einer Falle in die nächste, nur um beim nächsten Mal noch dämlicher der Maschinerie auf den Leim zu gehen.
+
+Gut, mithin verhalten sich Menschen so. Ich zum Beispiel: Im April letzten Jahres [habe ich lang und breit dargelegt](http://nicobruenjes.de/2013/04/app-net/), warum man besser [ADN](http://app.net) statt Twitter nutzen solle, heute tweete ich immer noch. Auch [im August 2012 habe ich mich schon über Twitter ereifert](/codecandies/2012/08/17/twitter-angst/). Ich kann mich kaum noch erinnern, was mich damals auf die Palme gebracht hat, wahrscheinlich die Verwässerung der Entwickler-API. Ich twittere immer noch. Nun hat Twitter angekündigt, die Timeline automatisch für mich zu kuratieren, so wie bei Facebook, wo ich dieses _Feature_ täglich neu umgehen muss, weil ich es so hasse. Tja, aber was soll's, ich twittere weiter. Und dann gibt's ja schon das nächste Feature: den [Kaufen-Button](http://www.wired.com/2014/09/twitter-roles-out-buy-button-transforms-tweets-into-retail-engines/). Das Zukunftsszenario sieht also _circlemäßig_ so aus: Twitter nutzt die [Forschungsergebnisse von Facebook](http://nicobruenjes.de/2014/06/das-facebookexperiment/), um die Menschen mit einer kuratierten Timeline zu manipulieren und zwar um auf Twitter Produkte zu kaufen! Ich twittere weiter. Aber hey, Google hat RSS und den Feedreader gekillt, Twitter ist derzeit meine wichtigste Besucherquelle für dieses Blog, ich twittere weiter. Und weiter. Und irgendwie wird das Wasser immer wärmer. Naja, noch ist es angenehm.
+
+OK, _The Circle_ ist ein mieser Schinken über einen blöden Vergleich, der von und hinten hinkt, aber trotzdem kann man mal darüber nachdenken, wohin uns das alles mal führen wird, auch wenn's nicht der blöde Circle sein wird. Ist ja auch Quatsch, die NSA war ja längst da, das Wasser kocht also eigentlich schon. Vielleicht sollten wir uns ein Beispiel nehmen an [jenen, die den Ausstieg wagen](http://www.zehe-edv.de/2014/09/07/ich-werde-google-frei/), anstatt sie ungläubig zu beäugen.

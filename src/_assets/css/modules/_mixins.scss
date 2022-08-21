@@ -1,0 +1,63 @@
+$p-margin: 1.5625rem;
+$main-margin: 18.75rem;
+
+@mixin custom-properties {
+  --background-page: rgb(255, 255, 255);
+  --background-header: rgb(247, 246, 243);
+  --color-primary: rgb(18, 18, 18);
+  --color-primary-rgb: 18, 18, 18;
+  --color-light-on-dark: var(--background-header);
+  --color-link: rgb(32, 78, 138);
+  --color-link-hover: rgb(255, 174, 0);
+}
+
+@mixin small-breakpoint {
+  // 640px
+  @media screen and (min-width: 40em) {
+    @content;
+  }
+}
+
+@mixin medium-breakpoint {
+  // > 810px
+  @media screen and (min-width: 50.625em) {
+    @content;
+  }
+}
+
+@mixin medium-max-breakpoint {
+  // < 811px
+  @media screen and (max-width: 50.6875em) {
+    @content;
+  }
+}
+
+@mixin large-breakpoint {
+  // 1100px
+  @media screen and (min-width: 68.75em) {
+    @content;
+  }
+}
+
+@mixin headline {
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: -.45px;
+  line-height: 1.25;
+  word-break: break-word;
+}
+
+@mixin quotation {
+  background-color: var(--background-header);
+  border-left: 10px solid rgba(var(--color-primary-rgb), 0.25);
+  margin-bottom: $p-margin;
+  padding: .9375rem;
+}
+
+@mixin visually-hidden {
+  clip: rect( 1px, 1px, 1px, 1px );
+	height: 1px;
+	overflow: hidden;
+  position: absolute;
+  width: 1px;
+}

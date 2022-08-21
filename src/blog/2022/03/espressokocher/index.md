@@ -1,0 +1,16 @@
+---
+title: "Espressokocher?"
+date: "2022-03-05"
+tags:
+  - "Getestet"
+keywords:
+  - "Kaffee"
+---
+
+Für den täglichen Gebrauch steht mir ein Kaffeevollautomat zur Verfügung, der mir in Zeiten des fortgesetzten Homeoffice, an manchen Tagen das Leben rettet, und mir den Morgenkaffee Crema zubereitet. Dabei ist die Maschine allerdings geeignet genug Krach zu machen, um das Haus zum Einsturz zu bringen, die Nachbarn freuen sich. Und bei dieser Dauerbenutzung muss die Maschine ja auch unablässig und sehr akribisch gereinigt werden, sonst fängt sofort in irgendeiner Ritze der Kaffeesatz das Schimmeln an. Und kein Wasser ist so hart, wie das Lübecker, entkalkt werden muss als auch im Monatsrhythmus.
+
+Auftritt des Espressokochers. Dem ein langer Schatten der Namensverwirrung voraus eilt. Erfinder Bialetti nannte die Kanne „Moka“, aber dann denken wir alle gleich an türkischen Mokka, womit das leckere Gebräu das sie herstellt nur wenig gemein hat. Österreicher hingegen nennen allen Kaffee „Mokka“ und deswegen die Kanne auch „Mokkamaschine“, kleiner geht es dort oft nicht. Espressokanne -oder Kocher ist aber auch Quatsch, weil hier wird ja nun ganz offensichtlich kein Espresso hergestellt wird, dafür ist ja Druck viel zu niedrig. „Bialetti“ sagen einige, aber damit ist meist die originale achteckige Aluminiumversion gemeint und ich besitze ein rundes Kännchen aus Edelstahl. In Italien wird sie oft als _Caffeteria_ bezeichnet, was mich gleich an meine Lieblings-Geisteswissenschaften-Kaffeteria in der Uni erinnert, aber schlicht Kaffeekanne heißt. Trotzdem ist mir das sehr sympathisch, weil ich ja weiß, dass in Italien das Produkt der Kanne auch einfach Caffè genannt wird. Und hier wird es richtig italienisch: Caffè heisst nämlich auch der gewöhnlich an/in der Bar eigenommene Espresso. Das passt mir gut (und wir machen das ja auch gerne so mit dem Gattungsbegriff Kaffee), es heisst halt immer Caffè, und je nach Ort der Einnahme bedeutet es eben etwas anderes. Endlich Schluss mit den ganzen Spezialzubereitungen und überkandidelten Milchshakes!
+
+Aber da bin ich mal ordentlich abgeschwiffen. Meine Caffeteria also stellt, nachdem ich ein paar Übungsläufe gemacht habe und den passenden Kaffee gefunden habe, einen wunderbaren Caffè her. Und ganz anders als bei Kaffee aus dem Vollautomaten ist damit auch wieder eine gewisse Ritualität der Zubereitung verbunden, prädestiniert ist also der Einsatz am Wochenende. Hier scheint es mir besonders wichtig, ganz anders als man es von Barista im systemgastronomischen Gewerbe gewohnt ist, besonders ruhig und behutsam vorzugehen. Das Wasser vorerhitzen, vorsichtig den Kaffee in den Filter füllen, auf den Herd stellen und ungeduldig warten, bis die wie von Wunderhand Kaffee in die Kanne läuft und dann den richtigen Moment finden, sie vom Herd zu nehmen, da sonst alles nach verbranntem Kaffee riecht (und schmeckt). Geduld ist hier die Mutter des guten Caffègeschmacks.
+
+Und dann genießen. Tja und dann geht es auch schon bald wieder mit dem Reinigen los, den Kaffee wieder loswerden, die Kanne demontieren und gut reinigen, Moka-Kannen neigen geradezu zum Verdrecken an den vielen schwer zugänglichen Stellen und das dies zu einem besseren Caffè führen soll, ist leider ein urbane Legende.

@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Webpropaganda - Error 404</title>
+	
+	<style type="text/css">
+/*<![CDATA[*/
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%;
+    background: #000;
+    color: #ffea9a;
+}
+#container {
+    width: 300px;
+    margin: 15% auto;
+    padding: 0;
+    font-size: 1.1em;
+    line-height: 150%;
+}
+p {padding:0; margin:0 0 1em 0;}
+a:link, a:visited, a:hover, a.active {color: #fff;}
+/*]]>*/
+	</style>
+</head>
+
+<body>
+    <div id="container">
+        <p><img src="bank_klein.jpg" alt="bank" style="width:300px;height:110px;border:1px solid #ffea9a;" /></p>
+        <p><strong>404 Not Found:</strong> Die justament aufgerufene Seite existiert nicht mehr. Keine Ahnung wo die hin ist. Vielleicht liegt ganz einfach ein Tippfehler vor?</p>
+        <p><a href="http://couchblog.de/webpropaganda/">Webpropaganda Startseite</a></p>
+    </div>
+</body>
+</html>

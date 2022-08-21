@@ -1,0 +1,20 @@
+---
+title: "Sich in die Hose machen in der Aufmerksamkeitsdiktatur"
+date: "2010-08-11"
+tags:
+  - "Gerante"
+keywords:
+  - "considered harmful"
+  - "Google"
+  - "Weblogs"
+---
+
+Soeben habe ich [Kathrin Passig bei Buzz](http://www.google.com/profiles/kpassig) entfollowed, wegen zwei fürchterlichen Tiraden über das Sharen und Resharen in Google Reader und Buzz ([Teil 1](http://www.google.com/buzz/kpassig/cteE7RvWx4N/Schwarzfahren-in-der-Aufmerksamkeits%C3%B6konomie), [Teil 2](http://www.google.com/buzz/kpassig/ekL3WY8Jyhu/Schwarzfahren-in-der-Aufmerksamkeits%C3%B6konomie)), auf die ich durch [diesen Artikel](http://hackr.de/2010/08/11/schwarzfahren-in-der-aufmerksamkeitsoekonomie) aufmerksam geworden bin. Frau Pa*tz*ig ereifert sich darüber, dass ihre bei Google Reader geshareten Items oft ohne Quellenangabe weitergeshared werden, somit also ihr, die sie die entsprechenen Quellen ausgegraben hat kein Tribut gezollt wird. Sie bezeichnet zudem diesen völlig normalen Vorgang als _Schwarzfahren in der Aufmerksamkeitsökonomie_, was mich wirklich ein wenig ärgert. Hört sich für mich eher an, wie _Auffallen um jeden Preis_.
+
+Was Leute wie Frau Passig einfach nicht geregelt kriegen ist, dass es eine Abstufung im Wirtschaftsmodell der Webaufmerksamkeit gibt. Natürlich glauben diverse Menschen, dass sie auch noch an einem ihrer Darmwinde ein @xyz dranpappen können, der allgemeinen Schaffenshöhe wegen, begreifen aber nicht, dass man genau umgekehrt eben nicht überall den Stempel: »ich hab's *ge*funden« drankleben muss, ums mit den Schweizern zu sagen. Ich sehe im _sharen eines Blogartikels in Google Reader_, mglw. auch noch ohne weiteren Kommentar, selbst einfach nur durch das Anklicken eines Icons, keinerlei Schaffenshöhe. Punktum. Deswegen mag auch jeder von Euch Artikel, die ich im Google Reader resp. Buzz [share](http://www.google.com/profiles/102597365254519368295#buzz), unter seinem Namen weitersharen soviel er oder sie mag. Das _schert_ mich wenig und ficht mich auch nicht an. Ich habe dazu nämlich weiter nichts getan, als den Artikel selber gelesen und für gut befunden, nicht aber gut genug, ihn in meinem Blog zu featuren. Dort [sammle](/codecandies/ressort/bookmarks/) ich nämlich die _wirklich wichtigen_ Links.
+
+Wenn die Autorin oder der Autor aber selbst etwas dazugetan hat, bspw. in seinem eigenen Blog die Originalquelle in Beziehung zu anderen Quellen gesetzt hat, oder den eigenen Senf dazu getan hat, dann bin ich sofort bereit und willens eine Quelle anzugeben. Lustigerweise gibt es sie dann nämlich auch, die Quelle, mit Link und allem. In Zeiten der weiterverlinkten Links, die verlinkt werden, ist es IMHO müßig, wenn da eine Art Urverlinkungsrecht eingefordert wird. Nervt mich sogar geradezu, wenn beispielsweise auf Twitter hundertfach ge_retweetet_ wird. Es ist so langweilig, wenn jemand auf Twitter nichts weiter tut, als auf "Retweet" zu klicken. Nicht dass ich das nicht in Ausnahmefällen auch schon gemacht hätte, aber ich halte Twitter eher für eine Plattform der selbstgetätigten Äußerung, als der Weitergabe von Links. **Dafür** nutze ich Google Reader. Damit verbinde ich—und jetzt beginne ich mich zu wiederholen—aber noch keine besondere Schaffenshöhe, jedenfalls nicht, wenn ich Links weitershare oder Links von mir weitergeshared werden. Wenn ich jedoch einen Link aus Google Reader in meinem Blog verarbeite, also zu Schaffung eigenen Contents nutze, dann verschweige ich die Zwischenquelle auf keinen Fall. Ist das zu kompliziert? Oder unlogisch?
+
+Leute die das anders sehen, soll es geben, ich muss ihnen aber ja nicht followen. Plonk!
+
+P.S. Nachdem Herr Lobo noch vor kurzem Fileshare als Diebe bezeichnete und nun Frau Passig Linksharer sozusagen der Beförderungserschleichung bezichtigt, würde ich am liebsten aus Sicherheitsgründen alles was ich in deren gemeinsamen Buch »Dinge geregelt kriegen – etc. etc.« gelesen habe, wieder vergessen, es sozusagen _entlesen_, aber das funktioniert mit diesem altmodischen Kram natürlich wieder nicht…

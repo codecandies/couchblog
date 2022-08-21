@@ -1,0 +1,15 @@
+---
+title: "Mail an Robert Basic"
+date: "2009-01-07"
+tags:
+  - "Gebloggt"
+keywords:
+  - "considered harmful"
+  - "Spam"
+---
+
+HALLO BASIC!
+
+WIE [GEHOERT](http://www.basicthinking.de/blog/2009/01/06/zeit-dass-sich-was-dreht/) DU VERKAUFEN TEURES WEBLOG FUER HUNDERTTAUSEND. DA ICH HAB IDEE.
+
+ICH BIN OFFIZIELLER REPRAESTANT VON PRAESIDENTE DER BANK VON ABSURDISTAN/ELFENSCHWEINKUESTE UND ICH HABE EINE GROSSE SUMME GELDES ANZULEGEN IN DIE EUROPAUNION…

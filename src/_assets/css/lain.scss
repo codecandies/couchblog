@@ -1,0 +1,148 @@
+/* zilla-slab-highlight-regular - latin */
+@font-face {
+  font-family: 'Zilla Slab Highlight';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/css/fonts/zilla-slab-highlight-v17-latin-regular.woff2') format('woff2'),
+    url('/css/fonts/zilla-slab-highlight-v17-latin-regular.woff') format('woff');
+}
+
+/* zilla-slab-highlight-700 - latin */
+@font-face {
+  font-family: 'Zilla Slab Highlight';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('/css/fonts/zilla-slab-highlight-v17-latin-700.woff2') format('woff2'),
+    url('/css/fonts/zilla-slab-highlight-v17-latin-700.woff') format('woff');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ccc;
+  color: #1a1a1a;
+  font-family: Georgia, serif;
+  font-size: 100.01%;
+  line-height: 1.6;
+  text-shadow: 1px 1px 0px #eee;
+}
+
+h2,
+.typer {
+  font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+.typer {
+  color: #ff6600;
+  font-style: normal;
+}
+
+.visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+.headlink {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 200;
+  margin: 20px 0;
+  text-align: center;
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(1.5rem, 1fr) minmax(auto, 45rem) minmax(1.5rem, 1fr);
+  margin: 2rem auto 5rem;
+  * {
+    grid-column: 2;
+  }
+  h1 {
+    background-image: url('/img/codecandies/laintitle.png');
+    background-size: cover;
+    aspect-ratio: 446/285;
+    height: auto;
+    margin-bottom: 2rem;
+    text-indent: -5000em;
+    width: 100%;
+  }
+  p {
+    hypens: auto;
+    margin-bottom: 1rem;
+    a {
+      color: inherit;
+    }
+  }
+  section,
+  figure {
+    margin-top: 2rem;
+    img {
+      max-width: 100%;
+    }
+  }
+  .divided {
+    columns: 2 auto;
+    column-gap: 1rem;
+    @media screen and (max-width: 600px) {
+      columns: auto;
+    }
+    h2 {
+      column-span: all;
+    }
+  }
+  .quoted {
+    background-image: url('/img/codecandies/lain_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 10px;
+  }
+  img {
+    display: block;
+    float: left;
+    margin: 10px 24px 10px 0;
+    @media screen and (max-width: 600px) {
+      float: none;
+      margin: 20px auto;
+      width: fit-content;
+    }
+  }
+  footer {
+    padding-top: 2rem;
+    ul {
+      display: flex;
+      list-style: none;
+      padding: 0;
+      li {
+        flex: 1 0 48%;
+      }
+      li + li {
+        text-align: right;
+      }
+      .previous-post::before {
+        content: '←';
+        padding-right: 0.25em;
+      }
+      .next-post::after {
+        content: '→';
+        padding-left: 0.25em;
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+    }
+  }
+}

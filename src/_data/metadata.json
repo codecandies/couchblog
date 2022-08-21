@@ -1,0 +1,22 @@
+{
+  "title": "Couchblog",
+  "url": "https://couchblog.de/",
+  "subtitle": "No cookies reqired.",
+  "description": "Das Weblog von Nico Brünjes",
+  "language": "de-DE",
+  "feed": {
+    "subtitle": "Das Weblog von Nico Brünjes.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://couchblog.de/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://couchblog.de/feed/feed.json"
+  },
+  "author": {
+    "name": "Nico Brünjes",
+    "email": "nico@couchblog.de",
+    "url": "https://couchblog.de/seiten/about/"
+  }
+}

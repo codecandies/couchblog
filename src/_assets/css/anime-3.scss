@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-attachment: fixed;
+  background-color: #d6d5dc;
+  background-image: linear-gradient(#fff, #d6d5dc);
+  background-repeat: no-repeat;
+  color: #333;
+  text-shadow: 1px 1px 0px #eee;
+}
+
+.visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(1.5rem, 1fr) minmax(auto, 60ch) minmax(1.5rem, 1fr);
+  font-size: 1.25rem;
+  line-height: 1.44;
+  padding-bottom: 5rem;
+  * {
+    grid-column: 2;
+  }
+  & > header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    height: 100vh;
+    a {
+      color: inherit;
+      font-weight: 200;
+      margin: 1rem 0 2rem;
+      text-decoration: none;
+      &:hover {
+        text-decoration: none;
+        border-bottom: 1px dotted currentcolor;
+      }
+    }
+    figure {
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+      justify-content: end;
+    }
+    div {
+      text-align: center;
+      padding-bottom: 2rem;
+    }
+    h1 {
+      font-weight: 400;
+    }
+    time {
+      font-weight: 300;
+    }
+  }
+  .content {
+    p {
+      hyphens: auto;
+      margin-bottom: 1em;
+    }
+    a {
+      border-bottom: 1px dotted currentcolor;
+      color: #107fc9;
+      hyphens: none;
+      text-decoration: none;
+      &:hover {
+        color: #ff6600;
+      }
+    }
+  }
+  footer {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 300;
+    margin: 1rem auto 4rem;
+    max-width: 900px;
+    width: 100%;
+    ul {
+      display: flex;
+      list-style: none;
+      padding: 0;
+      li {
+        flex: 1 0 48%;
+      }
+      li + li {
+        text-align: right;
+      }
+      .previous-post::before {
+        content: '←';
+        padding-right: 0.25em;
+      }
+      .next-post::after {
+        content: '→';
+        padding-left: 0.25em;
+      }
+    }
+    a {
+      border-bottom: 1px dotted currentcolor;
+      color: #107fc9;
+      text-decoration: none;
+      &:hover {
+        color: #ff6600;
+      }
+    }
+  }
+}
