@@ -30,7 +30,7 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addCollection("tagList", require("./src/_11ty/collections/tagList.js"));
   eleventyConfig.addCollection("keywordList", require("./src/_11ty/collections/keywordList.js"));
   eleventyConfig.addCollection("personList", require("./src/_11ty/collections/personList.js"));
-  eleventyConfig.addCollection("postsByKeywords", require("./src/_11ty/collections/keyWordArticles.js"));
+  eleventyConfig.addCollection("postsByKeywords", require("./src/_11ty/collections/keywordArticles.js"));
   eleventyConfig.addCollection("postsByPersons", require("./src/_11ty/collections/personArticles.js"));
 
   // plugins

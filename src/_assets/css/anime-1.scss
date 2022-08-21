@@ -107,7 +107,7 @@ section {
   .left {
     grid-column: 2;
     grid-row: span 2;
-    justify-self: end;
+    justify-self: flex-end;
   }
   .right {
     grid-column: 4;
@@ -169,7 +169,7 @@ a:hover {
 .meta {
   display: flex;
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  justify-content: end;
+  justify-content: flex-end;
   margin-bottom: 10px;
   padding-top: 6px;
   @media screen and (max-width: 1040px) {
