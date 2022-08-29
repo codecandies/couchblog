@@ -69,6 +69,10 @@ module.exports = function( eleventyConfig ) {
     .use( markDownItImplicitFigures, {figcaption: true} );
 
   eleventyConfig.setLibrary('md', markdownLib);
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true,
+    excerpt_separator: "<!-- excerpt -->",
+  });
 
   return {
     templateFormats: ["html", "njk", "md"],
