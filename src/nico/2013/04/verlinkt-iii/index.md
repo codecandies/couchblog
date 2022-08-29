@@ -9,7 +9,7 @@ keywords:
 coverImage: "jbandthegmh.jpg"
 ---
 
-Der Guardian hat ein [Interview mit old-punk-man Jello Biafra](http://www.guardian.co.uk/music/2013/apr/25/jello-biafra-obama-occupy), der gerade mit seiner Band „Guantanamo School of Medicine“ das Album [The Audacity of Hype](http://www.amazon.de/gp/product/B002N5KVDG/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B002N5KVDG&linkCode=as2&tag=codecandies-21)![](http://www.assoc-amazon.de/e/ir?t=codecandies-21&l=as2&o=3&a=B002N5KVDG) (Amazon) herausgebracht hat. [via](http://boingboing.net/2013/04/26/jello-biafra-talks-occupy-mus.html)
+Der Guardian hat ein [Interview mit old-punk-man Jello Biafra](http://www.guardian.co.uk/music/2013/apr/25/jello-biafra-obama-occupy), der gerade mit seiner Band „Guantanamo School of Medicine“ das Album „The Audacity of Hype“ herausgebracht hat. [via](http://boingboing.net/2013/04/26/jello-biafra-talks-occupy-mus.html)
 
 > \[…\] "Why are Americans so fucking stupid?" Let's face it, the good side of that is that I'll never run out of things to write songs about, as long as I live.
 

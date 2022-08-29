@@ -71,7 +71,7 @@ $.get("action.php?dispoberechnung", { konto:"123456" }, function ( data ) {
 ```
 
 ### 6. DOM-Operationen auf ein Minimum beschränken!
-Nicolas Zakas formuliert es in [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.de/gp/product/059680279X?ie=UTF8&tag=couchblogorg-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=059680279X)![](http://www.assoc-amazon.de/e/ir?t=couchblogorg-21&l=as2&o=3&a=059680279X) so:
+Nicolas Zakas formuliert es in „High Performance JavaScript (Build Faster Web Application Interfaces)“ so:
 
 > An excellent analogy is to think of DOM as a piece of land and JavaScript (meaning ECMAScript) as another piece of land, both connected with a toll bridge (see John Hrvatin, Microsoft, MIX09, http://videos.visitmix.com/MIX09/T53F ). Every time your ECMAScript needs access to the DOM, you have to cross this bridge and pay the performance toll fee. The more you work with the DOM, the more you pay. So the general recommendation is to cross that bridge as few times as possible and strive to stay in ECMAScript land.
 
