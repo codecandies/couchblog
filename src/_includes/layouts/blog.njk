@@ -4,8 +4,32 @@
 <link rel="stylesheet" href="{{ '/css/vendor/prism.css' | url }}">
 {% endblock %}
 
+{% block metadata %}
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ title | e }} - Couchblog" />
+{% set meta_description = page.excerpt or description or metadata.description %}
+<meta property="og:description" content="{{ meta_description | trim | e }}" />
+<meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
+<meta property="og:site_name" content="Couchblog" />
+<meta name="last-modified" content="{{ page.date.toISOString() }}">
+<meta name="date" content="{{ page.date.toISOString() }}">
+<meta property="article:published_time" content="{{ page.date.toISOString() }}" />
+<meta name="author" content="{{ metadata.author.name }}" />
+<meta property="article:author" content="{{ metadata.url }}/about/">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="{{ metadata.author.twitter }}" />
+<meta name="twitter:site" content="{{ metadata.author.twitter }}" />
+{% if articleImage -%}
+<link rel="image_src" href="{{ metadata.url }}/img/{{ articleImage.src }}">
+<meta property="og:image" content="{{ metadata.url }}/img/{{ articleImage.src }}" />
+<meta property="og:image:width" content="{{ articleImage.width }}">
+<meta property="og:image:height" content="{{ articleImage.height }}">
+{% endif %}
+{% endblock %}
+
 {% block main -%}
-<article{% if language %} lang="{{ language }}"{%endif%} {% if coverImage and 'Geknipst' not in tags | filterTagList -%} class="featured"{%endif%}>
+<article{% if language %} lang="{{ language }}"{%endif%} {% if (coverImage or articleImage) and 'Geknipst' not in tags | filterTagList -%} class="featured"{%endif%}>
   {{ super() }}
 </article>
 {% endblock -%}
@@ -40,9 +64,10 @@
 {% endblock %}
 
 {% block featureimage -%}
-  {% if coverImage -%}
+  {% if coverImage or articleImage -%}
     <figure class="feature-image">
-      <img src="/img/{{ coverImage }}" alt="{{ title | e }}" />
+      {% set altText = articleImage.alt or title %}
+      <img src="/img/{{ coverImage or articleImage.src }}" alt="{{ altText | e }}" />
     </figure>
   {% endif -%}
 {% endblock -%}
