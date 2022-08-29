@@ -10,7 +10,7 @@
     </script>
     <title>{%- if title -%}{{ title }} | {% endif %}{{ metadata.title }} – {{ metadata.subtitle }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} &raquo; Feed" href="{{ metadata.url }}feed/" />
+    <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} &raquo; Feed" href="{{ metadata.url }}/feed/" />
     <meta name="color-scheme" content="dark light">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     {% block additional_styles %}{% endblock %}
