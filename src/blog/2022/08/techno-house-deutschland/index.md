@@ -7,7 +7,11 @@ tags:
 keywords:
   - "90er"
   - "Techno"
-coverImage: "img_0419.jpg"
+articleImage:
+  src: "img_0419.jpg"
+  width: 1024
+  height: 768
+  alt: "Tresor in Berlin"
 ---
 
 Eine ganze Nacht hat die ARD die Dokuserie „[Techno House Deutschland](https://www.ardmediathek.de/sendung/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RlY2huby1ob3VzZS1kZXV0c2NobGFuZA)“ gezeigt. Menschen meines Alters dürfen sie zum Glück in der Mediathek nachschauen. Zum Glück?
