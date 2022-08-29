@@ -9,7 +9,8 @@
       document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, ' ') + ' js';
     </script>
     <title>{%- if title -%}{{ title }} | {% endif %}{{ metadata.title }} – {{ metadata.subtitle }}</title>
-    <meta name="description" content="{{ description or metadata.description }}">
+    {% set meta_description = page.excerpt or description or metadata.description %}
+    <meta name="description" content="{{ meta_description | trim | e }}">
     <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} &raquo; Feed" href="{{ metadata.url }}/feed/" />
     <meta name="color-scheme" content="dark light">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
