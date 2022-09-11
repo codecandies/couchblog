@@ -4,7 +4,7 @@
   background-color: var(--background-header);
   display: flex;
   justify-content: space-between;
-  padding: 10px 20px;
+  padding: 20px;
   position: sticky;
   left: 0;
   line-height: 1.2;
@@ -35,13 +35,12 @@
     }
   }
   &__subheadline {
+    display: none;
     font-size: 1.125rem;
     font-weight: 300;
     opacity: .7;
-    @include m.medium-max-breakpoint {
-      display: none;
-    }
     @include m.large-breakpoint {
+      display: block;
       margin: 1.5625rem 0 3.75rem;
     }
   }
@@ -102,7 +101,7 @@
         margin-left: 0;
       }
     }
-    a {
+    a, button {
       color: var(--color-primary);
       display: block;
       letter-spacing: 0.12em;
@@ -118,6 +117,12 @@
         font-weight: 700;
         letter-spacing: 0.1em;
       }
+    }
+    button {
+      background: transparent;
+      border: none;
+      font-weight: inherit;
+      outline: none;
     }
   }
 }

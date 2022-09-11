@@ -33,15 +33,15 @@ $main-margin: 18.75rem;
 }
 
 @mixin medium-breakpoint {
-  // > 810px
-  @media screen and (min-width: 50.625em) {
+  // > 975px
+  @media screen and (min-width: 60.9375em) {
     @content;
   }
 }
 
 @mixin medium-max-breakpoint {
-  // < 811px
-  @media screen and (max-width: 50.6875em) {
+  // < 976px
+  @media screen and (max-width: 61em) {
     @content;
   }
 }
