@@ -13,4 +13,6 @@ Ich erinnere mich an die Diskussionen, die wir hatten, während wir das Grauen a
 
 Wir haben den Krieg live erlebt, das hat es vorher nicht gegeben. Vielleicht lebten wir in einer besseren Welt, hätte es Liveberichterstattungen aus Hiroshima und Nagasaki, aus Birkenau und Dachau, von der Bombardierung Hamburgs und Dresdens oder von den Schlachtfeldern des 1. Weltkrieges gegeben. Vielleicht aber auch nicht, denn während ein grosser Teil der Welt eins war in den Momenten der Liveübertragung, so teilte sie sich danach umso mehr.
 
-Related [Papa Scott: Remember the day](http://www.papascott.de/archives/2004/09/11/remember-the-day/) [Nico Lumma: 9/11](http://lumma.de/eintrag.php?id=631)
+## Related 
+- [Papa Scott: Remember the day](http://www.papascott.de/archives/2004/09/11/remember-the-day/)
+- [Nico Lumma: 9/11](http://lumma.de/eintrag.php?id=631)
