@@ -2,7 +2,7 @@
 title: "Vor drei Jahren"
 date: "2004-09-11"
 tags:
-  - "Gerante"
+  - "Gelebt"
 ---
 
 Es gibt nicht viele Tage, die unser Leben verändern. D.h. natürlich verändert jeder Tag irgendwie unser Leben, aber es gibt nicht viele Tage, bei denen wir es spüren, beobachten, an denen wir diese Veränderung sehen. Der Fall der Mauer in Berlin, das war so ein Tag, denn in dem Moment, als im Radio die ersten Berichte kamen, dass die Mauer “gefallen” sei und ich später die ersten Bilder im Fernsehen sah, an diesem Tag wusste ich, wie sich unsere Welt verändern und wie sich das auf mein Leben auswirken würde. Ähnlich war es am 11. September 2001, nur noch intensiver.
