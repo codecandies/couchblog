@@ -48,10 +48,10 @@
             </li>
             {%- endfor %}
             <li class="header-nav__nav-item">
-              <button>
-                <span>🔍</span>
-                <span>Suche</span>
-              </button>
+              <form method="get" action="https://duckduckgo.com">
+                <input name="q" placeholder="Suche" type="text">
+                <input name="sites" type="hidden" value="couchblog.de">
+              </form>
             </li>
           </ul>
 
