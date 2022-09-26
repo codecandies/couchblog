@@ -1,27 +1,19 @@
 @use "mixins" as m;
 
 .page-header {
+  align-self: start;
   background-color: var(--background-header);
   display: flex;
   justify-content: space-between;
-  padding: 10px 20px;
+  padding: 20px;
   position: sticky;
-  left: 0;
-  line-height: 1.2;
-  right: 0;
   top: 0;
   z-index: 10;
   @include m.large-breakpoint {
     background-color: var(--background-page);
     box-sizing: border-box;
     display: block;
-    height: 100%;
-    left: 0;
     padding: 5rem 50px;
-    position: fixed;
-    right: auto;
-    top: 0;
-    width: m.$main-margin;
   }
   &__headline {
     font-size: 1.5em;
@@ -35,13 +27,12 @@
     }
   }
   &__subheadline {
+    display: none;
     font-size: 1.125rem;
     font-weight: 300;
     opacity: .7;
-    @include m.medium-max-breakpoint {
-      display: none;
-    }
     @include m.large-breakpoint {
+      display: block;
       margin: 1.5625rem 0 3.75rem;
     }
   }
@@ -102,7 +93,7 @@
         margin-left: 0;
       }
     }
-    a {
+    a, button {
       color: var(--color-primary);
       display: block;
       letter-spacing: 0.12em;
@@ -118,6 +109,12 @@
         font-weight: 700;
         letter-spacing: 0.1em;
       }
+    }
+    button {
+      background: transparent;
+      border: none;
+      font-weight: inherit;
+      outline: none;
     }
   }
 }

@@ -1,9 +1,11 @@
 $p-margin: 1.5625rem;
 $main-margin: 18.75rem;
+$main-max-width: 87.5rem;
 
 @mixin color-scheme-light {
   --background-page: rgb(255, 255, 255);
   --background-header: rgb(247, 246, 243);
+  --background-input: rgb(255, 255, 255);
   --color-primary: rgb(18, 18, 18);
   --color-primary-rgb: 18, 18, 18;
   --color-light-on-dark: var(--background-header);
@@ -16,6 +18,7 @@ $main-margin: 18.75rem;
 @mixin color-scheme-dark {
   --background-page: rgb(18, 18, 18);
   --background-header: rgb(0, 0, 0);
+  --background-input: rgb(43, 42, 51);
   --color-primary: rgb(198, 198, 198);
   --color-primary-rgb: 198, 198, 198;
   --color-light-on-dark: var(--background-header);
@@ -33,15 +36,15 @@ $main-margin: 18.75rem;
 }
 
 @mixin medium-breakpoint {
-  // > 810px
-  @media screen and (min-width: 50.625em) {
+  // > 768px
+  @media screen and (min-width: 48.01em) {
     @content;
   }
 }
 
 @mixin medium-max-breakpoint {
-  // < 811px
-  @media screen and (max-width: 50.6875em) {
+  // < 768px
+  @media screen and (max-width: 48em) {
     @content;
   }
 }

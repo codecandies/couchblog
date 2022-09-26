@@ -27,7 +27,7 @@
   </head>
   <body>
     <a href="#main" class="skiplink">Zum Inhalt springen…</a>
-    <div class="wrapper">
+    <div class="page">
       {% block header -%}
       <header class="page-header">
         <div class="page-header__headlines">
@@ -74,8 +74,38 @@
           {% endblock -%}
         {% endblock -%}
       </main>
-      {% block footer -%}{% endblock -%}
     </div>
+    {% block footer -%}
+      <footer class="page-footer">
+        <!-- a11y search like in https://www.a11ymatters.com/pattern/accessible-search/ -->
+        <form method="get" action="https://duckduckgo.com" class="page-footer-search">
+          <div role="search" class="footer-search">
+            <label class="search-label" for="search" aria-labelledby="searchTitle">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48">
+                <title id="searchTitle">Suche</title>
+                <path d="M27 9C17.075 9 9 17.075 9 27s8.075 18 18 18c4.13 0 7.926-1.413 10.967-3.76l13.082 13.082a2.315 2.315 0 1 0 3.273-3.273L41.24 37.967C43.587 34.927 45 31.129 45 27c0-9.925-8.075-18-18-18zm0 4c7.719 0 14 6.281 14 14s-6.281 14-14 14-14-6.281-14-14 6.281-14 14-14z"/>
+              </svg>
+            </label>
+            <input id="search" name="q" type="text" placeholder="Suche via DuckDuckGo&nbsp;…" required>
+            <input name="sites" type="hidden" value="couchblog.de">
+            <button type="submit">Suchen</button>
+          </div>
+        </form>
+        <div class="page-footer-legals">
+          <nav aria-labelledby="legals-nav">
+            <h2 id="legals-nav" class="visually-hidden">Juristische relevante Links</h2>
+            <ul>
+              {%- for entry in collections.all | eleventyNavigation('legal') %}
+                <li>
+                  <span>{{ entry.emoji }}</span><a href="{{ entry.url | url }}" title="{{ entry.title | e }}">{{ entry.title }}</a>
+                </li>
+              {%- endfor %}
+            </ul>
+          </nav>
+          <small>&copy; {% year %} Couchblog</small>
+        </div>
+      </footer>
+    {% endblock -%}
     <!--script type="module" src="/js/index.js"></script-->
   </body>
 </html>

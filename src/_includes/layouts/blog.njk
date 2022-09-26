@@ -38,22 +38,21 @@
 <header class="articleheader">
   <h1>{{ title }}</h1>
   {% if date or tags -%}
-  <div class="meta">
-  {% if date %}
-  <time>{{ date | longDate }}</time>
-  {% endif %}
-  {% if tags -%}
-  {% set cue %}{% if tags | filterTagList | length > 1 %}Themen{% else %}Thema{% endif %}{% endset %}
-  <span>{{ cue }}:
-  {% for tag in tags | filterTagList -%}
-  {% set tagUrl %}/themen/thema/{{ tag | slugify }}/{% endset -%}
-  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>{% if not loop.last -%}
-  {% if loop.index == loop.length -1 %} und {% else -%}, {% endif %}
-  {% endif %}
-  {% endfor -%}
+    <div class="meta">
+      {% if date %}
+        <time>{{ date | longDate }}</time>
+      {% endif %}
+      {% if tags -%}
+        {% set cue %}{% if tags | filterTagList | length > 1 %}Themen{% else %}Thema{% endif %}{% endset %}
+        <span>{{ cue }}:
+        {% for tag in tags | filterTagList -%}
+          {% set tagUrl %}/themen/thema/{{ tag | slugify }}/{% endset -%}
+          <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>{% if not loop.last -%}
+          {% if loop.index == loop.length -1 %} und {% else -%}, {% endif %}{% endif %}
+        {% endfor -%}
+      {% endif -%}
+    </div>
   {% endif -%}
-  {% endif -%}
-  </div>
 </header>
 {%- endblock -%}
 
