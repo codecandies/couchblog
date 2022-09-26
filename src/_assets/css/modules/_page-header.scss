@@ -1,27 +1,19 @@
 @use "mixins" as m;
 
 .page-header {
+  align-self: start;
   background-color: var(--background-header);
   display: flex;
   justify-content: space-between;
   padding: 20px;
   position: sticky;
-  left: 0;
-  line-height: 1.2;
-  right: 0;
   top: 0;
   z-index: 10;
   @include m.large-breakpoint {
     background-color: var(--background-page);
     box-sizing: border-box;
     display: block;
-    height: 100%;
-    left: 0;
     padding: 5rem 50px;
-    position: fixed;
-    right: auto;
-    top: 0;
-    width: m.$main-margin;
   }
   &__headline {
     font-size: 1.5em;

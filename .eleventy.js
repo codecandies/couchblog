@@ -18,6 +18,9 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addPassthroughCopy({'src/_assets/img/': 'img'});
   eleventyConfig.addPassthroughCopy({'src/_assets/js/': 'js'});
 
+  // shortcodes
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
   // filters
   eleventyConfig.addFilter('shortDate', require("./src/_11ty/filters/shortDate.js"));
   eleventyConfig.addFilter('mediumDate', require("./src/_11ty/filters/mediumDate.js"));
