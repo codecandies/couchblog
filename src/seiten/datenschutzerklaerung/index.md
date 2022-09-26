@@ -11,10 +11,9 @@ eleventyNavigation:
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
 ## TL;DR
-- Auf dieser Website werden keine Cookies gespeichert.
-- Es werden keine 3rd-Party-Dienste eingebunden, keine Werbung oder Schriftarten von Google oder sonstwem eingebunden oder sonst irgendwelche Dinge getan, die automatisiert beim Aufruf dieser Seiten ihre Daten an andere Angebote übermitteln.
+- Von dieser Website werden keine Cookies auf ihrem Rechner gespeichert.
+- Es werden keine 3rd-Party-Dienste, keine Werbung oder Schriftarten von Google oder sonstwem eingebunden oder sonst irgendwelche Dinge getan, die automatisiert beim Aufruf dieser Seiten ihre Daten an andere Angebote übermitteln.
 - Es gibt keine Formulare in die sie ihre Daten eingeben können, insofern speichere ich sie auch nicht.
-- Mein Hostinganbieter speichert Daten über die Verbindung zu seinem Server, darüber dass er dabei die DSGVO beachtet habe ich mit ihm einen Vertrag geschlossen. Diese Daten werden nach sieben Tagen wieder gelöscht und ich kann sie nicht einsehen.
 
 ### Verantwortlicher
 <p id="ds-adresse"></p>
