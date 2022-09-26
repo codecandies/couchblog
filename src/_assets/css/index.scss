@@ -92,6 +92,7 @@ body {
 /* Main */
 .main {
   display: grid;
+  grid-auto-rows: min-content;
   grid-template-columns: minmax(1.5rem, 1fr) minmax(auto, 37.5rem) minmax(1.5rem, 1fr);
   margin: 0;
   padding-bottom: 5rem;
