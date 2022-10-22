@@ -3,9 +3,9 @@ layout: blog.njk
 title: Impressum
 eleventyNavigation:
   emoji: 🧑‍🎨
-  parent: legal
-  key: Impressum
-  order: 2
+  parent: main
+  key: "Impressum."
+  order: 4
 ---
 
 couchblog.de ist ein privates publizistisches Angebot von

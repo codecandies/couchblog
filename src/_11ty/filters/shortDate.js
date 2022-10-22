@@ -6,6 +6,6 @@
  */
 module.exports = ( dateStr, locale='de-DE' ) => {
   const date = new Date( dateStr );
-  const options = { month: 'short', day: 'numeric' };
+  const options = { year: '2-digit', month: 'short', day: 'numeric'};
   return new Intl.DateTimeFormat( 'de-DE', options ).format( date ).replaceAll( '.', '' );
 }

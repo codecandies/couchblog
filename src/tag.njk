@@ -1,5 +1,5 @@
 ---
-permalink: /stichworte/stichwort/{{ keyword | slugify }}/
+permalink: /tag/{{ keyword | slugify }}/
 layout: themen.njk
 eleventyComputed:
   title: Blogeinträge über {{ keyword }}
@@ -13,7 +13,7 @@ pagination:
 
 {% set postlist = collections.postsByKeywords[keyword] %}
 <nav aria-labelledby="main-nav">
-<h3 id="main-nav" class="section-headline">Einträge zum Stichwort „{{ keyword }}“</h3>
+<h3 id="main-nav" class="section-headline">Einträge zu „{{ keyword }}“</h3>
 <ul>
 {% for post in postlist | reverse %}
     <li>

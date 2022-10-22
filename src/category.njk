@@ -14,7 +14,7 @@ pagination:
 layout: themen.njk
 eleventyComputed:
   title: Blogeinträge in {{ tag }} | {{ pageTitle }} – {{ pageSubTitle }}
-permalink: /themen/thema/{{ tag | slugify }}/
+permalink: /category/{{ tag | slugify }}/
 ---
 
 {% set postlist = collections[ tag ] %}

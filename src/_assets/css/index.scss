@@ -2,6 +2,7 @@
 @use "modules/reset";
 @use "modules/fonts";
 @use "modules/page-header";
+@use "modules/page";
 
 :root {
   @include m.color-scheme-light;
@@ -50,42 +51,6 @@ body {
 	font-family: 'Overpass', 'Helvetica Neue', sans-serif;
 	font-size: 1.25rem;
   min-width: 360px;
-}
-
-/* page Grid */
-.page {
-  display: grid;
-  grid-template-areas:
-    "header header"
-    "main main"
-    "footer footer";
-  grid-template-columns: auto 1fr auto;
-  grid-template-rows: auto 1fr;
-  min-height: 100vh;
-}
-
-@media screen and (min-width: 68.75em) {
-  .page {
-    grid-template-areas:
-      "header main"
-      "footer footer";
-    grid-template-columns: m.$main-margin 1fr;
-    grid-template-rows: 1fr auto;
-    //max-width: m.$main-max-width;
-    margin: 0;
-  }
-}
-
-.page-header {
-  grid-area: header;
-}
-
-.main {
-  grid-area: main;
-}
-
-.page-footer {
-  grid-area: footer;
 }
 
 
@@ -146,6 +111,41 @@ body {
       }
     }
   }
+  .main-headline {
+    @include m.headline;
+    margin: 5rem 0 1.5625rem;
+  }
+  .tagcloud {
+    margin-top: 5rem;
+    .section-headline {
+      font-size: 1.5rem;
+      margin: 0 0 1.5rem;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li {
+        display: inline;
+      }
+      h2 {
+        border-bottom: 1px solid transparent;
+        transition: border-bottom 1s cubic-bezier(.86,0,.07,1);
+        font-weight: inherit;
+        margin: 0;
+      }
+      a {
+        color: inherit;
+        display: inline-block;
+        font-weight: 300;
+        margin: 1.5rem 1.5rem 0 0;
+        text-decoration: none;
+        &:hover h2 {
+          border-bottom: 1px solid currentColor;
+        }
+      }
+    }
+  }
   .mainfooter {
     ul {
       display: grid;
@@ -173,27 +173,21 @@ body {
 }
 
 .page-footer {
-  background: var(--background-header);
-  margin: 0;
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 37.5rem;
   padding: 1rem;
-  display: grid;
-  grid-template-areas:
-    "search"
-    "legals";
-  grid-template-rows: auto 1fr;
-}
-
-@media screen and (min-width: 68.75em) {
-  .page-footer {
-    grid-template-areas:
-      "legals search";
-    grid-template-columns: m.$main-margin 1fr;
-    padding: 1rem 0;
+  width: 100vw;
+  p {
+    font-size: 1.125rem;
+    font-weight: 300;
+    padding: 2.5rem 0;
+    text-align: center;
   }
 }
 
+
 .page-footer-search {
-  grid-area: search;
   .footer-search {
     background-color: var(--background-input);
     border: 1px solid rgba(var(--border-primary-rgb), 0.125);
@@ -237,51 +231,6 @@ body {
   }
 }
 
-.page-footer-legals {
-  grid-area: legals;
-  display: flex;
-  font-size: 0.875rem;
-  justify-content: space-between;
-  margin: 0 auto;
-  max-width: 37.5rem;
-  width: 100%;
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  li {
-    display: inline;
-  }
-  span {
-    padding-right: 4px;
-  }
-  a {
-    border-bottom: 1px solid transparent;
-    color: inherit;
-    text-decoration: none;
-    transition: border-bottom .35s cubic-bezier(.86,0,.07,1);
-    &:hover {
-      border-bottom: 1px solid currentColor;
-      text-decoration: none;
-    }
-  }
-}
-
-@media screen and (min-width: 68.75em) {
-  .page-footer-legals {
-    flex-direction: column;
-    max-width: none;
-    padding: 0 50px;
-    ul {
-      margin: 0 0 10px;
-    }
-    li {
-      display: block;
-    }
-  }
-}
-
 /* Artikel */
 article {
   display: contents;
@@ -319,15 +268,11 @@ article {
 
 
 .feature-image {
-  --head-space: 4.85rem;
-  @include m.large-breakpoint {
-    --head-space: 0rem;
-  }
+  --head-space: 4rem;
   height: calc(100vh - var(--head-space));
+  margin: 0 auto;
+  max-width: 1000px;
   width: 100vw;
-  @include m.large-breakpoint {
-    width: calc(100vw - m.$main-margin)
-  }
   z-index: -1;
   img {
     height: 100%;
@@ -498,8 +443,10 @@ article {
     color: #fff;
     //background-color: rgba(255, 255, 255, 0.85);
     grid-column: 1 / -1;
-    margin: 0;
+    max-width: calc(1000px - 3rem);
+    margin: 0 auto;
     padding: 1.5rem;
+    width: 100vw;
   }
   .content > *:first-child {
     margin-top: 3.25rem;

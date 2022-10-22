@@ -1,0 +1,54 @@
+---
+permalink: /archiv/
+layout: home.njk
+eleventyNavigation:
+  parent: main
+  emoji: 📓
+  key: "Archiv."
+  order: 2
+---
+
+
+<h3 class="main-headline">Archiv</h3>
+
+<nav aria-labelledby="themen-nav" class="tagcloud">
+  <h3 id="themen-nav" class="section-headline">Themen</h3>
+  <ul>
+  {% for tag in collections.tagList | sort %}
+    {% set tagUrl %}/category/{{ tag | slugify }}/{% endset %}
+    <li>
+      <a href="{{ tagUrl | url }}" class="post-tag">
+      <h2>{{ tag | title }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</nav>
+
+<nav aria-labelledby="tag-nav" class="tagcloud">
+  <h3 id="tag-nav" class="section-headline">Tags</h3>
+  <ul>
+  {% for keyword in collections.keywordList | sort %}
+    {% set keywordUrl %}/tag/{{ keyword | slugify }}/{% endset %}
+    <li>
+      <a href="{{ keywordUrl | url }}" class="post-tag">
+      <h2>{{ keyword }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</nav>
+
+<nav aria-labelledby="personen-nav" class="tagcloud">
+  <h3 id="personen-nav" class="section-headline">Personen</h3>
+  <ul>
+{% for person in collections.personList | sort %}
+    {% set personUrl %}/person/{{ person | slugify }}/{% endset %}
+    <li>
+      <a href="{{ personUrl | url }}" class="post-tag">
+      <h2>{{ person }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</nav>

@@ -30,36 +30,38 @@
     <div class="page">
       {% block header -%}
       <header class="page-header">
-        <div class="page-header__headlines">
-        {% block headline -%}
-          <div class="page-header__headline"><a href="/">{{ metadata.title }}</a></div>
-          <div class="page-header__subheadline">{{ metadata.subtitle }}</div>
-        {% endblock -%}
+        <div class="page-header__grid">
+          <div class="page-header__headlines">
+          {% block headline -%}
+            <div class="page-header__headline"><a href="/">{{ metadata.title }}</a></div>
+            <div class="page-header__subheadline">{{ metadata.subtitle }}</div>
+          {% endblock -%}
+          </div>
+          {% block navigation -%}
+          <nav aria-labelledby="sidebar-nav" class="page-header__nav header-nav">
+            <input id="sidebar-nav-toggle" type="checkbox">
+            <label for="sidebar-nav-toggle" class="header-nav__icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <title>Menü</title>
+                <rect class="bar" x="2" y="5" width="20" height="2" />
+                <rect x="2" y="11" width="20" height="2" />
+                <rect x="2" y="11" width="20" height="2" />
+                <rect class="bar" x="2" y="17" width="20" height="2" />
+              </svg>
+            </label>
+            <h2 id="sidebar-nav" class="header-nav__headline">Links zu Seiten im Blog</h2>
+            <ul class="header-nav__nav-list">
+              {%- for entry in collections.all | eleventyNavigation('main') %}
+              <li class="header-nav__nav-item{% if entry.url == page.url %} header-nav__nav-item--active{% endif %}">
+                <a href="{{ entry.url | url }}" title="{{ entry.title | e }}">
+                  {{ entry.title }}
+                </a>
+              </li>
+              {%- endfor %}
+            </ul>
+          </nav>
+          {% endblock -%}
         </div>
-        {% block navigation -%}
-        <nav aria-labelledby="sidebar-nav" class="page-header__nav header-nav">
-          <input id="sidebar-nav-toggle" type="checkbox">
-          <label for="sidebar-nav-toggle" class="header-nav__icon">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <title>Menü</title>
-              <rect class="bar" x="2" y="5" width="20" height="2" />
-              <rect x="2" y="11" width="20" height="2" />
-              <rect x="2" y="11" width="20" height="2" />
-              <rect class="bar" x="2" y="17" width="20" height="2" />
-            </svg>
-          </label>
-          <h2 id="sidebar-nav" class="header-nav__headline">Links zu Seiten im Blog</h2>
-          <ul class="header-nav__nav-list">
-            {%- for entry in collections.all | eleventyNavigation('main') %}
-            <li class="header-nav__nav-item{% if entry.url == page.url %} header-nav__nav-item--active{% endif %}">
-              <a href="{{ entry.url | url }}" title="{{ entry.title | e }}">
-                {{ entry.title }}
-              </a>
-            </li>
-            {%- endfor %}
-          </ul>
-        </nav>
-        {% endblock -%}
       </header>
       {% endblock -%}
 
@@ -91,22 +93,9 @@
             <button type="submit">Suchen</button>
           </div>
         </form>
-        <div class="page-footer-legals">
-          <nav aria-labelledby="legals-nav">
-            <h2 id="legals-nav" class="visually-hidden">Juristische relevante Links</h2>
-            <ul>
-              {%- for entry in collections.all | eleventyNavigation('legal') %}
-                <li>
-                  <span>{{ entry.emoji }}</span><a href="{{ entry.url | url }}" title="{{ entry.title | e }}">{{ entry.title }}</a>
-                </li>
-              {%- endfor %}
-            </ul>
-          </nav>
-          <small>&copy; {% year %} Couchblog</small>
-        </div>
+        <p><small>&copy; {% year %} Couchblog</small></p>
       </footer>
     {% endblock -%}
     </div>
-    <!--script type="module" src="/js/index.js"></script-->
   </body>
 </html>

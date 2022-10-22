@@ -1,0 +1,18 @@
+/* page Grid */
+.page {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+  grid-template-rows: auto 1fr;
+  min-height: 100vh;
+}
+
+.main {
+  grid-area: main;
+}
+
+.page-footer {
+  grid-area: footer;
+}
