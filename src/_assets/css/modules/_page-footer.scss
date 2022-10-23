@@ -1,20 +1,21 @@
 @use "mixins" as *;
 
 .page-footer {
-  box-sizing: border-box;
-  margin: 0 auto;
-  max-width: 37.5rem;
-  padding: 1rem;
-  width: 100vw;
+  display: grid;
+  grid-auto-rows: min-content;
+  grid-template-columns: minmax(1.5rem, 1fr) minmax(auto, 37.5rem) minmax(1.5rem, 1fr);
+  margin: 0;
+  padding-bottom: 2.5rem;
   p {
-    font-size: 1.125rem;
-    font-weight: 300;
-    padding: 2.5rem 0;
+    font-size: 0.75rem;
+    grid-column: 2;
+    opacity: 0.55;
     text-align: center;
   }
 }
 
 .page-footer-search {
+  grid-column: 2;
   .footer-search {
     background-color: var(--background-input);
     border: 1px solid rgba(var(--border-primary-rgb), 0.125);
