@@ -40,6 +40,9 @@
     font-weight: 300;
     opacity: .7;
     padding-left: 0.5em;
+    @include m.nav-mobile-max-breakpoint {
+      display: none;
+    }
   }
 }
 

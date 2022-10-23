@@ -1,0 +1,36 @@
+@use "mixins" as *;
+
+:root {
+  @include color-scheme-light;
+}
+
+@media(prefers-color-scheme: dark) {
+  html:not(.color-scheme-light) {
+    @include color-scheme-dark;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    .feature-image img,
+    .content figure img {
+      filter: grayscale(100) brightness(0.8);
+    }
+  }
+}
+
+html.color-scheme-dark {
+  @include color-scheme-dark;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  .feature-image img,
+  .content figure img {
+    filter: grayscale(100) brightness(0.8);
+  }
+}
+
+@media ( prefers-reduced-motion: reduce ) {
+	* {
+		animation-duration: 0s !important;
+		transition-duration: 0s !important;
+	}
+}

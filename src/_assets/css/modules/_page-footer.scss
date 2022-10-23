@@ -1,0 +1,59 @@
+@use "mixins" as *;
+
+.page-footer {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 37.5rem;
+  padding: 1rem;
+  width: 100vw;
+  p {
+    font-size: 1.125rem;
+    font-weight: 300;
+    padding: 2.5rem 0;
+    text-align: center;
+  }
+}
+
+.page-footer-search {
+  .footer-search {
+    background-color: var(--background-input);
+    border: 1px solid rgba(var(--border-primary-rgb), 0.125);
+    color: var(--color-primary);
+    display: flex;
+    margin: 0 auto 1rem;
+    max-width: 37.5rem;
+    padding: 7px;
+    &:focus-within {
+      // setting "default" focus styles
+      // @see: https://css-tricks.com/copy-the-browsers-native-focus-styles/
+      outline: 5px auto Highlight;
+      outline: 5px auto -webkit-focus-ring-color;
+    }
+    label {
+      height: 1.875rem;
+      width: 1.875rem;
+      svg {
+        height: 1.875rem;
+        width: 1.875rem;
+        path {
+          fill: currentColor;
+        }
+      }
+    }
+    input[name=q] {
+      background-color: var(--background-input);
+      border: none;
+      flex-grow: 1;
+      font-size: 1rem;
+      margin: 0 0.625rem;
+      // outline is set on parent
+      outline: none;
+      &::placeholder {
+        color: rgba(var(--color-primary-rgb), .75);
+      }
+    }
+    button {
+      @include visually-hidden;
+    }
+  }
+}
