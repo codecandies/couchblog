@@ -46,7 +46,7 @@
         {% set cue %}{% if tags | filterTagList | length > 1 %}Themen{% else %}Thema{% endif %}{% endset %}
         <span>{{ cue }}:
         {% for tag in tags | filterTagList -%}
-          {% set tagUrl %}/themen/thema/{{ tag | slugify }}/{% endset -%}
+          {% set tagUrl %}/category/{{ tag | slugify }}/{% endset -%}
           <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>{% if not loop.last -%}
           {% if loop.index == loop.length -1 %} und {% else -%}, {% endif %}{% endif %}
         {% endfor -%}
@@ -82,10 +82,10 @@
   <h2 id="tags-nav" class="visually-hidden">Links zu Stichworten dieses Artikels</h2>
   <ul>
     {% for person in persons %}
-    <li><a href="/personen/person/{{ person | slugify }}/">#{{ person }}</a></li>
+    <li><a href="/person/{{ person | slugify }}/">#{{ person }}</a></li>
     {% endfor %}
     {% for keyword in keywords %}
-    <li><a href="/stichworte/stichwort/{{ keyword | slugify }}/">#{{ keyword }}</a></li>
+    <li><a href="/tag/{{ keyword | slugify }}/">#{{ keyword }}</a></li>
     {% endfor %}
   </ul>
 </nav>
