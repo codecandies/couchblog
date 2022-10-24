@@ -79,6 +79,7 @@
 
     {% block footer -%}
       <footer class="page-footer">
+        {% block webring %}{% endblock %}
         <!-- a11y search like in https://www.a11ymatters.com/pattern/accessible-search/ -->
         <form method="get" action="https://duckduckgo.com" class="page-footer-search">
           <div role="search" class="footer-search">

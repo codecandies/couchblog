@@ -29,3 +29,14 @@
     </footer>
   {% endif %}
 {% endblock %}
+
+{% block webring -%}
+<nav aria-labelledby="webring-nav" class="footer-webring">
+  <h2 id="webring-nav" class="header-nav__headline">UberBlogr Webring Links</h2>
+  <ul>
+    <li><a href="https://uberblogr.de/prev/couchblog" title="Zurück im Ring">⇦</a></li>
+    <li class="footer-webring-center"><a href="https://uberblogr.de/home/couchblog" title="Mitglied im UberBlogr Webring">UberBlogr Webring</a></li>
+    <li><a href="https://uberblogr.de/next/couchblog" title="Vor im Ring">⇨</a></li>
+  </ul>
+</nav>
+{% endblock %}
