@@ -15,7 +15,7 @@ Wir packen gerade unsere sieben Sachen und ziehen vom Dorf zurück in die Stadt.
 1. [Bremen](https://couchblog.de/blog/2020/02/27/bremen/)
 2. [Delmenhorst](https://couchblog.de/blog/2020/03/03/delmenhorst/)
 3. [Wardenburg/Benthullen](https://couchblog.de/blog/2020/10/21/der-maeusemord-von-benthullen/)
-4. Oldenburg (Oldenb.) (Haarentor)
+4. [Oldenburg (Oldenb.)](https://couchblog.de/blog/2022/10/26/oldenburg-in-oldenburg/) (Haarentor)
 5. Oldenburg (Bürgerfelde)
 6. Oldenburg (Donnerschwee, beschte WG ever)
 7. Oldenburg (Innenstadt)
