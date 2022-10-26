@@ -25,19 +25,22 @@
 }
 
 .copyright, %copyright {
-  @extend %elevated-box;
   font-size: 80%;
+  position: relative;
+  p:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .cc-copyright {
   @extend %copyright;
-  padding-left: 5rem;
+  padding-left: 3.5rem;
   &::before {
-    background-color: rgba(var(--border-primary-rgb), 0.4);
+    background-color: rgba(var(--color-primary-rgb), .6);
     content: '';
     font-size: 2rem;
     height: 40px;
-    left: 1.25rem;
+    left: 0;
     mask: url("/img/cc.svg") 0 0 / contain;
     position: absolute;
     top: 50%;
