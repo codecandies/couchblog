@@ -1,0 +1,47 @@
+@use "mixins" as *;
+
+%elevated-box {
+  background-color: var(--background-elevated);
+  border: 1px solid rgba(var(--border-primary-rgb), 0.2);
+  margin-bottom: $p-margin;
+  padding: 1.25rem;
+  position: relative;
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.tip {
+  @extend %elevated-box;
+  padding-left: 3.75rem;
+  &::before {
+    content: '💡';
+    font-size: 2rem;
+    left: 1.25rem;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+.copyright, %copyright {
+  @extend %elevated-box;
+  font-size: 80%;
+}
+
+.cc-copyright {
+  @extend %copyright;
+  padding-left: 5rem;
+  &::before {
+    background-color: rgba(var(--border-primary-rgb), 0.4);
+    content: '';
+    font-size: 2rem;
+    height: 40px;
+    left: 1.25rem;
+    mask: url("/img/cc.svg") 0 0 / contain;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+  }
+}
