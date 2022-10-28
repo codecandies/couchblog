@@ -3,7 +3,7 @@ title: "Gaspreisbremsstreifen"
 date: "2022-10-11T07:33:00+02:00"
 tags:
   - "Gesellschaft"
-  - "Geranted"
+  - "Gerante"
 keywords:
   - "Energiekrise"
   - "Klimawandel"
