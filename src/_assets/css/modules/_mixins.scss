@@ -95,6 +95,10 @@ $main-max-width: 87.5rem;
   width: 1px;
 }
 
+.visually-hidden {
+  @include visually-hidden();
+}
+
 @mixin internal-link {
   border-bottom: 1px solid transparent;
   text-decoration: none;
