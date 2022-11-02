@@ -17,7 +17,7 @@ Mein Name ist Nico und ich schreibe [seit über 20 Jahren](/blog/2022/05/12/20-j
 
 Dieses Blog läuft mit [11ty](https://www.11ty.dev/), der Content liegt [in diesem Repository](https://github.com/codecandies/couchblog), gerendert und serviert von netlify. Früher™️ habe ich mal sehr lange Wordpress benutzt, davor Textpattern, davor Movable Type und davor… ach, das hab ich vergessen.
 
-Wenn dir dieses Blog gefällt, oder auch wenn nicht, schreibe mir ein paar Zeilen per Mail an <span id="ds-email"></span>, oder folge mir auf Twitter: @nicobruenjes.
+Wenn dir dieses Blog gefällt, oder auch wenn nicht, schreibe mir ein paar Zeilen per Mail an <span id="ds-email"></span>, oder folge mir im Fediverse: [@nicobruenjes@digitalcourage.social](https://digitalcourage.social/@nicobruenjes).
 
 <script type="text/javascript">
   (function(d) {
