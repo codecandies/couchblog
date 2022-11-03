@@ -3,7 +3,7 @@ title: "Wochenschau 13/2022"
 date: "2022-03-30"
 tags:
   - "Gesellschaft"
-keywords:
+series:
   - "Wochenschau"
 ---
 

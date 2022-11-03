@@ -5,6 +5,7 @@ tags:
   - "Gesellschaft"
 keywords:
   - "Medien"
+series:
   - "Wochenschau"
 ---
 

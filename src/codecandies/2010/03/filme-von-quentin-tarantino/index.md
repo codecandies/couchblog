@@ -8,8 +8,6 @@ keywords:
   - "Webdesign"
 persons:
   - "Quentin Tarantino"
-series:
-  - "Art Directed Blogging"
 ---
 
 ![](/img/codecandies/tarantinoshot.jpg "tarantinoshot")

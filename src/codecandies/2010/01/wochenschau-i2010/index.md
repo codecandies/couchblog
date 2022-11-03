@@ -5,6 +5,8 @@ tags:
   - "Gerante"
 keywords:
   - "Medien"
+series:
+  - "Wochenschau"
 ---
 
 ![Auftrag: Qualitätsjournalismus](/img/codecandies/klasse7b.jpg)

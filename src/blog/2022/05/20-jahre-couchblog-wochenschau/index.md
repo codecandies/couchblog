@@ -6,6 +6,7 @@ tags:
   - "Gebloggt"
 keywords:
   - "Couchblog"
+series:
   - "Wochenschau"
 coverImage: "machine-1024x636.jpg"
 ---

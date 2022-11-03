@@ -5,6 +5,7 @@ tags:
   - "Gerante"
 keywords:
   - "considered harmful"
+series:
   - "Wochenschau"
 ---
 

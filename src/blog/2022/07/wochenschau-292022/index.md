@@ -6,6 +6,8 @@ tags:
 keywords:
   - "Klimawandel"
   - "Medien"
+series:
+  - "Wochenschau"
 ---
 
 ![](/img/wochenschau-2022-29.jpg)

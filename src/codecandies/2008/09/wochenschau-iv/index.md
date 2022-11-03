@@ -5,6 +5,7 @@ tags:
   - "Gerante"
 keywords:
   - "Medien"
+series:
   - "Wochenschau"
 ---
 

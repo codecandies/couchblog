@@ -5,6 +5,8 @@ tags:
   - "Gesellschaft"
 keywords:
   - "UK"
+series:
+  - "Wochenschau"
 ---
 
 [![„Dogshit!“](/img/jonathanpie.jpg)](https://youtu.be/aIh7XJVxCAY)

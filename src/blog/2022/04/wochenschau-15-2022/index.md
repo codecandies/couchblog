@@ -6,6 +6,7 @@ tags:
 keywords:
   - "Social Media"
   - "Twitter"
+series:
   - "Wochenschau"
 persons:
   - "Elon Musk"

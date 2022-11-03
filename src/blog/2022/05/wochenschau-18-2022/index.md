@@ -8,6 +8,8 @@ keywords:
   - "CDU"
 persons:
   - "Friedrich Merz"
+series:
+  - "Wochenschau"
 ---
 
 [![](/img/wochenschau-2022-18.jpg)](https://couchblog.de/wp-content/uploads/2022/05/wochenschau-2022-18.jpg)

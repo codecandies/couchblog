@@ -2,9 +2,11 @@
 title: "Wochenschau V"
 date: "2009-02-11"
 tags:
-
+  - "Gesellschaft"
 keywords:
   - "Medien"
+series:
+  - "Wochenschau"
 ---
 
 ![](/img/codecandies/577959154_121e3b49ba_o.png)

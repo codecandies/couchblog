@@ -5,6 +5,8 @@ tags:
   - "Gerante"
 keywords:
   - "Medien"
+series:
+  - "Wochenschau"
 ---
 
 ![](/img/codecandies/ZZ518C7DED.jpg)

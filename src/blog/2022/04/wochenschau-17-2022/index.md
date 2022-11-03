@@ -5,6 +5,8 @@ tags:
   - "Gesellschaft"
 keywords:
   - "Gerhard Schröder"
+series:
+  - "Wochenschau"
 ---
 
 ![](/img/wochenschau-2022-17-755x1024.jpg)

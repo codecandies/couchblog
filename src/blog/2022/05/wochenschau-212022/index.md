@@ -7,6 +7,7 @@ keywords:
   - "Medien"
   - "Affenpocken"
   - "Coronakrise"
+series:
   - "Wochenschau"
 ---
 

@@ -52,3 +52,17 @@ eleventyNavigation:
   {% endfor %}
   </ul>
 </nav>
+
+<nav aria-labelledby="serien-nav" class="tagcloud">
+  <h3 id="serien-nav" class="section-headline">Serien</h3>
+  <ul>
+{% for serie in collections.seriesList | sort %}
+    {% set seriesUrl %}/serie/{{ serie | slugify }}/{% endset %}
+    <li>
+      <a href="{{ seriesUrl | url }}" class="post-tag">
+      <h2>{{ serie }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</nav>

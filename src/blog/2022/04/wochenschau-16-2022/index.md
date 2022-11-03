@@ -3,7 +3,7 @@ title: "Wochenschau 16/2022"
 date: "2022-04-20"
 tags:
   - "Gesellschaft"
-keywords:
+series:
   - "Wochenschau"
 ---
 

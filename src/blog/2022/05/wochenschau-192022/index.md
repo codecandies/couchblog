@@ -4,8 +4,9 @@ date: "2022-05-11"
 tags:
   - "Gesellschaft"
 keywords:
-  - "Wochenschau"
   - "Chatkontrolle"
+series:
+  - "Wochenschau"
 persons:
   - "Ursula von der Leyen"
 ---

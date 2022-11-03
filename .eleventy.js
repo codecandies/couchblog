@@ -32,9 +32,11 @@ module.exports = function( eleventyConfig ) {
   // collections
   eleventyConfig.addCollection("tagList", require("./src/_11ty/collections/tagList.js"));
   eleventyConfig.addCollection("keywordList", require("./src/_11ty/collections/keywordList.js"));
+  eleventyConfig.addCollection("seriesList", require("./src/_11ty/collections/seriesList.js"));
   eleventyConfig.addCollection("personList", require("./src/_11ty/collections/personList.js"));
   eleventyConfig.addCollection("postsByKeywords", require("./src/_11ty/collections/keywordArticles.js"));
   eleventyConfig.addCollection("postsByPersons", require("./src/_11ty/collections/personArticles.js"));
+  eleventyConfig.addCollection("postsBySeries", require("./src/_11ty/collections/seriesArticles.js"));
 
   // plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);

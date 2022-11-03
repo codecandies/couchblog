@@ -3,7 +3,7 @@ title: "Wochenschau 14/2022"
 date: "2022-04-06"
 tags:
   - "Gesellschaft"
-keywords:
+series:
   - "Wochenschau"
 persons:
   - "Karl Lauterbach"
