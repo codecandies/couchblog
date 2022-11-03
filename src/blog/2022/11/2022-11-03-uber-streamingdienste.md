@@ -1,0 +1,16 @@
+---
+title: "Über Streamingdienste"
+date: "2022-11-03T22:52:53+02:00"
+tags:
+  - "Gesehen"
+keywords:
+  - "Apple TV"
+  - "Amazon Prime"
+  - "Netflix"
+---
+
+Mir flattert gerade die aktuelle Preiserhöhung für Apple TV ins Postfach, Apple erhöht den Monatsbeitrag von (günstigen) €4,99 auf (immer noch erträgliche, aber in der Erhöhung doch etwas freche) €6,99/Monat. Netflix hat wesentlich mehr im Programm als Apple, deswegen auch höhere Preise, vor allem aber ein mehrschichtiges Abomodell, sortiert nach Qualität und der Anzahl gleichzeitig bespielter Geräte. In einigen Ländern erprobt der Streamingdienst außerdem ganz seltsame Modelle: [Profile sollen zusätzlich berechnet werden](https://www.golem.de/news/konkurrenz-zu-disney-und-prime-video-netflix-intensiviert-massnahmen-gegen-konten-sharing-2207-166974.html), wenn ein Account über Haushaltsgrenzen geteilt wird. Daher auch die freundliche Ankündigung für ein gerade neues Feature, dass ich jetzt Profile kopieren und migrieren kann. Amazon hingegen hat ein frei empfangbaren Kanal eingerichtet, finanziert durch Werbung! Als wäre nicht ohnehin die ganze Prime-Plattform mit Werbung zugeballert. Was Prime allerdings kostet, weiß niemand wirklich, möglicherweise acht Euro im Monat, aber die verschwinden zwischen den ganzen Bestellungen, die wir sonst so bei Amazon tätigen. Alle anderen Dienste versuche ich zu ignorieren so gut es geht … wow Sky heißt jetzt wie?!
+
+Aber was ist denn mit dem Angebot? Ich schaue gerne Apple TV, in letzter Zeit bspw. „[See – Reich der Blinden](https://couchblog.de/blog/2022/10/19/see-reich-der-blinden/)“ und „[Shantaram](https://de.wikipedia.org/wiki/Shantaram_(Fernsehserie))“. Was mich allerdings nervt, ist der Fetisch, den Apple mit seinem Logo und  dem_signature sound_ betreibt, die zwingend auch zwischen Serienfolgen angeschaut/-hört werden müssen. Inhaltlich geht das aber genau in meine Richtung, ich meine allein [Ted Lasso](https://de.wikipedia.org/wiki/Ted_Lasso) oder [Severance](https://couchblog.de/blog/2022/02/26/severance/)! Meine Frau hingegen findet auf der Plattform gar nichts und beschimpft mich immer, dass das ein Sender für alte weiße Männer wäre. Hmmm. 
+
+Was _mich_ wiederum kolossal nervt, ist das Strecken von Serien mit wöchentlichen Sendetagen. Als wären wir beim guten alten Dampffernsehen! Wobei, bei Apple kann ich wenigstens noch herausfinden, wann eine neue Folge erscheint. Letztens bin ich hingegen bei Prime in eine solche Serie gelaufen („[Peripherie](https://de.wikipedia.org/wiki/Peripherie_(Fernsehserie))“), nach drei Folgen war diese aber einfach zu Ende und es fand sich in der ganzen Prime-Oberfläche kein Wort darüber, wann es dort weiter geht oder ob überhaupt. In der Wikipedia musste ich das nachschlagen! Komplette Ignoranz! Eigentlich versuche ich so etwas zu meiden und erst zu schauen, wenn eine Staffel vollständig ist. Klappt aber nicht immer, vor allem, weil überall Spoiler drohen: „Ach, die Folge hast du noch nicht gesehen? Sorry.“ Halte ich jedenfalls für eine schlechte Angewohnheit, letztlich für echten Heuschreckenkapitalsmus und sehr ekelhaft. Wenn dann noch Werbepausen (s. o.) hinzukommen, dann sind wir ja wieder dort, wo ich vor 110 Jahren angefangen habe: Ich habe nur drei Programme und [sie baden gerade ihre Hände darin](https://www.youtube.com/watch?v=iBonuLH2gS0).
