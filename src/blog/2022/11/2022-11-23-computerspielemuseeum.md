@@ -1,6 +1,7 @@
 ---
-title: "Das Computerspielemuseeum und ich"
+title: "Computerspiele und ich"
 date: "2022-11-23T18:18:33+01:00"
+permalink: "/blog/2022/11/23/das-computerspielemuseeum-und-ich/"
 tags:
   - "Gelebt"
 keywords:
