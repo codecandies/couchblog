@@ -41,10 +41,11 @@
     font-size: 2rem;
     height: 40px;
     left: 0;
-    mask: url("/img/cc.svg") 0 0 / contain;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     width: 40px;
+    -webkit-mask: url("/img/cc.svg") 0 0 / contain;
+    mask: url("/img/cc.svg") 0 0 / contain;
   }
 }
