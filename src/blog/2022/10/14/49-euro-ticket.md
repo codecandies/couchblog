@@ -3,7 +3,7 @@ title: "49-Euro-Ticket"
 date: "2022-10-14T08:10:00+02:00"
 tags:
   - "Gesellschaft"
-  - "Gereisr"
+  - "Gereist"
 keywords:
   - "Bahn"
   - "Hamburg"
