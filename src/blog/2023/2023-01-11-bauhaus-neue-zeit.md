@@ -1,6 +1,6 @@
 ---
 title: "Bauhaus – Die neue Zeit"
-date: "2023-01-11T09:55:16+02:00"
+date: "2023-01-11T09:55:16+01:00"
 tags:
   - "Gesehen"
 keywords:
