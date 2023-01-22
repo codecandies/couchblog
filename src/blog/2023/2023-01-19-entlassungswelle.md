@@ -13,6 +13,8 @@ Im Silicon Valley und  den angeschlossenen Techstandorten weltweit [kreiste 2022
 
 Durchgedrehter Technokapitalismus drei Punkt null.
 
+Update: [Google entlässt 12.000 Mitarbeiter\*innen](https://blog.google/inside-google/message-ceo/january-update/), sechs Prozent der Belegschaft. 
+
 [^1]:	Bei Amazon wurden hauptsächlich Leute aus nicht technischen Berufen entlassen, allerdings auch das komplette Alexa-Team.
 
 [^2]:	Bei Tesla werden nur Leute aus dem Handelsbereich entlassen.
