@@ -1,6 +1,6 @@
 ---
 title: "Singularität in Sicht!"
-date: "2023-01-22T11:08:32+01:00"
+date: "2023-01-29T14:08:32+01:00"
 tags:
   - "Generde"
   - "Gerante"
