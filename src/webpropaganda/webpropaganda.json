@@ -1,5 +1,0 @@
-{
-  "tags": ["blog"],
-  "layout": "blog.njk",
-  "permalink": "webpropaganda/{{ date | pathDate }}/{{ title | slugify }}/index.html"
-}

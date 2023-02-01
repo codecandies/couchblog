@@ -1,0 +1,30 @@
+---
+permalink: /serie/{{ serie | slugify }}/
+layout: layouts/themen.njk
+eleventyComputed:
+  title: Blogeinträge über {{ serie }}
+pagination:
+  data: collections.postsBySeries
+  size: 1
+  alias: serie
+  reverse: true
+  addAllPagesToCollections: true
+---
+
+{% set postlist = collections.postsBySeries[serie] %}
+<nav aria-labelledby="main-nav">
+<h3 id="main-nav" class="section-headline">Einträge in der Serie „{{ serie }}“</h3>
+<ul>
+{% for post in postlist | reverse %}
+    <li>
+      <a href="{{ post.url }}">
+        <h2>{{ post.data.title }}</h2>
+        {% if post.data.date %}
+        <time>{{ post.data.date | mediumDate }}</time>
+        {% endif %}
+      </a>
+    </li>
+{% endfor %}
+</ul>
+</nav>
+
