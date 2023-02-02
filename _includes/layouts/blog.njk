@@ -1,7 +1,7 @@
 {% extends 'layouts/default.njk' %}
 
 {% block additional_styles %}
-<link rel="stylesheet" href="{{ '/css/vendor/prism.css' | url }}">
+<link rel="stylesheet" href="/css/prism-okaidia.css">
 {% endblock %}
 
 {% block metadata %}
@@ -47,7 +47,7 @@
         <span>{{ cue }}:
         {% for tag in tags | filterTagList -%}
           {% set tagUrl %}/category/{{ tag | slugify }}/{% endset -%}
-          <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>{% if not loop.last -%}
+          <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{% if not loop.last -%}
           {% if loop.index == loop.length -1 %} und {% else -%}, {% endif %}{% endif %}
         {% endfor -%}
       {% endif -%}
@@ -98,10 +98,10 @@
   <h2 id="pages-nav" class="visually-hidden">Links zu vorigen oder späteren Einträgen</h2>
   <ul>
   {%- if previousPost %}
-    <li class="previous-post"><a href="{{ previousPost.url | url }}"><span class="visually-hidden">Voriger Eintrag: </span>{{ previousPost.data.title }}</a></li>
+    <li class="previous-post"><a href="{{ previousPost.url }}"><span class="visually-hidden">Voriger Eintrag: </span>{{ previousPost.data.title }}</a></li>
   {% endif %}
   {%- if nextPost %}
-    <li class="next-post"><a href="{{ nextPost.url | url }}"><span class="visually-hidden">Nächster Eintrag: </span>{{ nextPost.data.title }}</a></li>
+    <li class="next-post"><a href="{{ nextPost.url }}"><span class="visually-hidden">Nächster Eintrag: </span>{{ nextPost.data.title }}</a></li>
   {% endif %}
   </ul>
 </footer>

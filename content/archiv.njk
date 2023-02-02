@@ -17,7 +17,7 @@ eleventyNavigation:
   {% for tag in collections.tagList | sort %}
     {% set tagUrl %}/category/{{ tag | slugify }}/{% endset %}
     <li>
-      <a href="{{ tagUrl | url }}" class="post-tag">
+      <a href="{{ tagUrl }}" class="post-tag">
       <h2>{{ tag | title }}</h2>
       </a>
     </li>
@@ -31,7 +31,7 @@ eleventyNavigation:
   {% for keyword in collections.keywordList | sort %}
     {% set keywordUrl %}/tag/{{ keyword | slugify }}/{% endset %}
     <li>
-      <a href="{{ keywordUrl | url }}" class="post-tag">
+      <a href="{{ keywordUrl }}" class="post-tag">
       <h2>{{ keyword }}</h2>
       </a>
     </li>
@@ -45,7 +45,7 @@ eleventyNavigation:
 {% for person in collections.personList | sort %}
     {% set personUrl %}/person/{{ person | slugify }}/{% endset %}
     <li>
-      <a href="{{ personUrl | url }}" class="post-tag">
+      <a href="{{ personUrl }}" class="post-tag">
       <h2>{{ person }}</h2>
       </a>
     </li>
@@ -59,7 +59,7 @@ eleventyNavigation:
 {% for serie in collections.seriesList | sort %}
     {% set seriesUrl %}/serie/{{ serie | slugify }}/{% endset %}
     <li>
-      <a href="{{ seriesUrl | url }}" class="post-tag">
+      <a href="{{ seriesUrl }}" class="post-tag">
       <h2>{{ serie }}</h2>
       </a>
     </li>
