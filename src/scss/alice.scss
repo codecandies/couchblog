@@ -32,8 +32,8 @@
   font-family: 'Fredericka the Great';
   font-style: normal;
   font-weight: 400;
-  src: local(''), url('/css/fonts/fredericka-the-great-v10-latin-regular.woff2') format('woff2'),
-    url('/css/fonts/fredericka-the-great-v10-latin-regular.woff') format('woff');
+  src: local(''), url('/fonts/fredericka-the-great-v10-latin-regular.woff2') format('woff2'),
+    url('/fonts/fredericka-the-great-v10-latin-regular.woff') format('woff');
 }
 
 /* bitter-300 - latin */
@@ -42,8 +42,8 @@
   font-family: 'Bitter';
   font-style: normal;
   font-weight: 300;
-  src: local(''), url('/css/fonts/bitter-v19-latin-300.woff2') format('woff2'),
-    url('/css/fonts/bitter-v19-latin-300.woff') format('woff');
+  src: local(''), url('/fonts/bitter-v19-latin-300.woff2') format('woff2'),
+    url('/fonts/bitter-v19-latin-300.woff') format('woff');
 }
 /* bitter-regular - latin */
 @font-face {
@@ -51,8 +51,8 @@
   font-family: 'Bitter';
   font-style: normal;
   font-weight: 400;
-  src: local(''), url('/css/fonts/bitter-v19-latin-regular.woff2') format('woff2'),
-    url('/css/fonts/bitter-v19-latin-regular.woff') format('woff');
+  src: local(''), url('/fonts/bitter-v19-latin-regular.woff2') format('woff2'),
+    url('/fonts/bitter-v19-latin-regular.woff') format('woff');
 }
 
 .visually-hidden {
