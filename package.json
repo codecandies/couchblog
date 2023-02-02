@@ -8,8 +8,8 @@
     "watch:eleventy": "eleventy --serve",
     "eleventy:build": "eleventy",
     "css:build": "postcss ./_site/css/*.css --replace -u autoprefixer",
-    "watch:sass": "sass ./_assets/scss/:_site/css --watch --update --color",
-    "sass:build": "sass ./_assets/scss/:_site/css --no-source-map --style=compressed",
+    "watch:sass": "sass ./src/scss/:_site/css --watch --update --color",
+    "sass:build": "sass ./src/scss/:_site/css --no-source-map --style=compressed",
     "start": "npm-run-all -l clean sass:build --parallel watch:*",
     "build": "run-s -l eleventy:build sass:build css:build",
     "test": "echo \"Error: no test specified\" && exit 1"
