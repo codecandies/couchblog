@@ -12,14 +12,15 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function( eleventyConfig ) {
   eleventyConfig.setQuietMode(true);
-  eleventyConfig.setBrowserSyncConfig({
-		files: './_site/css/**/*.css'
-	});
+  eleventyConfig.setServerOptions({
+    watch: ['_site/css/**/*.css'],
+    showAllHosts: true,
+  });
 
   eleventyConfig.addPassthroughCopy({
-		"./public/": "/",
-		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
-	});
+    "./public/": "/",
+    "./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
+  });
 
   eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
 
