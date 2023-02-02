@@ -35,6 +35,9 @@
     opacity: 0.55;
     text-align: center;
   }
+  small {
+    color: var(--color-small-text);
+  }
 }
 
 .page-footer-search {
