@@ -7,10 +7,8 @@ keywords:
   - "Bauhaus"
   - "Architektur"
   - "Arte"
-articleImage:
+headerImage:
   src: "bauhaus.png"
-  width: 1083
-  height: 1017
   alt: "Das Bauhaus-Logo, 1922 entworfen von Oskar Schlemmer"
 ---
 

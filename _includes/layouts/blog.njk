@@ -29,7 +29,7 @@
 {% endblock %}
 
 {% block main -%}
-<article{% if language %} lang="{{ language }}"{%endif%} {% if (coverImage or articleImage) and 'Geknipst' not in tags | filterTagList -%} class="featured"{%endif%}>
+<article{% if language %} lang="{{ language }}"{%endif%} {% if (coverImage or articleImage or headerImage) and 'Geknipst' not in tags | filterTagList -%} class="featured"{%endif%}>
   {{ super() }}
 </article>
 {% endblock -%}
@@ -63,10 +63,14 @@
 {% endblock %}
 
 {% block featureimage -%}
-  {% if coverImage or articleImage -%}
+  {% if coverImage or articleImage or headerImage -%}
     <figure class="feature-image">
-      {% set altText = articleImage.alt or title %}
-      <img src="/img/{{ coverImage or articleImage.src }}" alt="{{ altText | e }}" />
+      {% if coverImage or articleImage -%}
+        {% set altText = articleImage.alt or title %}
+        <img src="/images/{{ coverImage or articleImage.src }}" alt="{{ altText | e }}" />
+      {% else -%}
+        {% image headerImage.src, headerImage.alt, null, "100vw", "eager" %}
+      {% endif -%}
     </figure>
   {% endif -%}
 {% endblock -%}
