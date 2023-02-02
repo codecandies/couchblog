@@ -8,7 +8,7 @@ keywords:
   - "Hamburg"
 ---
 
-![](/img/IMG_0160.jpg)
+![](/images/IMG_0160.jpg)
 
 Natürlich habe ich aus dem Urlaub heraus die Ereignisse um den G20-Gipfel verfolgt und bei jeder neuen Meldung die Entscheidung in den Urlaub zu fahren ausgiebig bejubelt. Nun da ich seit Sonntag zurück bin, muss ich feststellen, dass es kein anderes Thema zu geben scheint in Hamburg.
 

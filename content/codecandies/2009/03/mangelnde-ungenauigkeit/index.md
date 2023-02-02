@@ -8,4 +8,4 @@ keywords:
   - "Apple"
 ---
 
-![Fehlende Ungenauigkeit](/img/codecandies/fehlendeungenauigkeit.png)
+![Fehlende Ungenauigkeit](/images/codecandies/fehlendeungenauigkeit.png)

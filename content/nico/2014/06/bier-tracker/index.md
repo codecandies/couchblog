@@ -6,7 +6,7 @@ tags:
 coverImage: "IMG_20140606_203012.jpg"
 ---
 
-![Bierdose](/img/IMG_20140606_203012-1024x768.jpg)
+![Bierdose](/images/IMG_20140606_203012-1024x768.jpg)
 
 Ein Kollege nutzt [diese App](https://play.google.com/store/apps/details?id=com.joe1327.watertrackerpayversion) um seinen Wasserkonsum _in den Griff_ zu bekommen. Basierend auf der wunderbare Beschreibung dort, kam mir die Idee zu einer neuen App, die ich dann demnächst bei Kickstarter einstellen werde, mit dieser Beschreibung:
 

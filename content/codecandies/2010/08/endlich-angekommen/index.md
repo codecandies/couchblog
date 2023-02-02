@@ -7,6 +7,6 @@ keywords:
   - "Musik"
 ---
 
-![Hotze, der Starschnitt](/img/codecandies/hotzewand.jpg)
+![Hotze, der Starschnitt](/images/codecandies/hotzewand.jpg)
 
 Nach über einem Jahr mein Zimmer endlich fertig eingerichtet.

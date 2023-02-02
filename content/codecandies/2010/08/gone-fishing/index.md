@@ -7,6 +7,6 @@ keywords:
   - "Urlaub"
 ---
 
-![Gone fishing…](/img/codecandies/drachensteigenlassen.jpg)
+![Gone fishing…](/images/codecandies/drachensteigenlassen.jpg)
 
 Obwohl ich hier Internet habe, lasse ich lieber Drachen steigen. Habe schon ein Buch durchgelesen. Bin entspannt.

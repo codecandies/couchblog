@@ -7,4 +7,4 @@ keywords:
   - "Urlaub"
 ---
 
-![Bin kurz weg.](/img/codecandies/moewe.jpg)
+![Bin kurz weg.](/images/codecandies/moewe.jpg)

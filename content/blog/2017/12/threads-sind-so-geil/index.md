@@ -32,7 +32,7 @@ Wenn der Thread lang genug ist, vergessen die Leser komplett, worum es eigentlic
 
 RT [@unbekannt](http://twitter.com) "Hallo Nico, total geiler Thread. Ich hab komplett vergessen worum es ging, deswegen bims i mal 1 Bild vong meiner Katze her."
 
-![1 Cat](/img/cat.webp)
+![1 Cat](/images/cat.webp)
 
 Ich habe tatsächlich schon ein paar Threads gelesen, in denen sehr interessante Ideen und Gedanken über die Klippe gestossen wurden, eigentlich schade darum.
 

@@ -7,4 +7,4 @@ keywords:
   - "Hamburg"
 ---
 
-![Leider kein Scherz.](/img/codecandies/img_0180.jpg)
+![Leider kein Scherz.](/images/codecandies/img_0180.jpg)

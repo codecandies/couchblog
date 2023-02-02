@@ -10,7 +10,7 @@ keywords:
 
 Das erste Codecandies Mixtape zum Anhören! 45 Minuten technotisch minimalistisch housiger Elektronik, von mir selbst zusammengestöpselt, vulgo gemixt.
 
-[![Exit From Planet Earth](/img/codecandies/cover_exitplanetearth.png)](https://www.mixcloud.com/OgeeTheOldie/exit-from-planet-earth/)
+[![Exit From Planet Earth](/images/codecandies/cover_exitplanetearth.png)](https://www.mixcloud.com/OgeeTheOldie/exit-from-planet-earth/)
 
 Alles streng Netlabel und lizensiert unter [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/3.0/). K_n_öchelverzeichnis:
 

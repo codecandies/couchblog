@@ -5,7 +5,7 @@ tags:
   - "Gehört"
 ---
 
-![Kate Bush: Lionheart](/img/couchblog/lionheart.jpg)
+![Kate Bush: Lionheart](/images/couchblog/lionheart.jpg)
 
 Elton John soll einmal über Kate Bush gewitzelt haben, wenn sie mit ihrer Piepsstimme die Hitparade erobern würde, würde er ihr seinen geliebten Konzertflügel schenken. Zwei Wochen später stand derselbe Flügel in Kates Wohnung. Wegen dieser Platte.
 

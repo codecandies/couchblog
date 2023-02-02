@@ -11,7 +11,7 @@ keywords:
 
 [Magical Girl Lyrical Nanoha A’s](http://www.nanoha.com/archive2/index.html)… das ist die Serie, die ich aktuell gerade konsumiere. Das hier, das Nanoha, ein 13 jähriges Mädchen mit magischen Kräften…
 
-![Nanoha](/img/codecandies/vlcsnap-2708883.jpg)
+![Nanoha](/images/codecandies/vlcsnap-2708883.jpg)
 
 Wie jedes magical girl mit guter Kinderstube trägt auch Nanoha natürlich die Schuluniform
 
@@ -21,7 +21,7 @@ Zeichnung und Hintergründe sind aber geradezu fantastisch und die Kampfszenen s
 
 _Magical Girl Lyrical Nanoha A's_ ist übrigens schon die zweite Staffel, aus dem Jahr 2005, des Spin-Offs von [Triangle Heart](http://en.wikipedia.org/wiki/Triangle_Heart). Es gibt auch schon einen dritten Teil, alle drei liefen sehr erfolgreich im japanischen Fernsehen, die Übersetzung ins Deutsche lässt leider auf sich warten. Das _A's_, mit dem Deppenapostroph ist die japanoenglische Form des engl. _ace_. Nanoha wurde in der ersten Staffel zum _magical girl_, weil sie ein (sprechendes) Frettchen rettet, das in Wirklichkeit ein Junge von einem weit entfernten Planeten ist… ja, ich liebe solche Stories.
 
-![](/img/codecandies/ZZ7F3AA87B.jpg)
+![](/images/codecandies/ZZ7F3AA87B.jpg)
 
 Kampfszenen, wie man sie bei Card Captor Sakura eher nicht findet…
 

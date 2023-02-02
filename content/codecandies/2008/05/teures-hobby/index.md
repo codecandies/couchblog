@@ -8,7 +8,7 @@ keywords:
   - "Anime"
 ---
 
-![full metal panic](/img/codecandies/ZZ2A4F6B3A.jpg)
+![full metal panic](/images/codecandies/ZZ2A4F6B3A.jpg)
 
 Ich habe eine nicht ganz geheime Leidenschaft, die offensichtlich schwer zu erklären ist. Zumindest für die Auswirkungen hat nun mal jemand die richtigen Worte gefunden:
 

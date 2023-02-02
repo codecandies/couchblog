@@ -10,7 +10,7 @@ persons:
   - "Ben"
 ---
 
-![Darf ich vorstellen: Techno und House](/img/codecandies/3854723457_ecd9a5ff74_b.jpeg)
+![Darf ich vorstellen: Techno und House](/images/codecandies/3854723457_ecd9a5ff74_b.jpeg)
 
 Techno und House werden immer wieder mit Thunfisch und Mettbrötchen verwechselt. Das muss aufhören.
 
@@ -24,7 +24,7 @@ Lieber Benjamin: Marusha, Chemical Brothers, Fatboy Slim, Phil Fuldner, Music In
 
 Nur eins stimmt: das Netz **ist** die Fortsetzung von [House](http://phlow.de/netlabels/index.php/Category:House) und [Techno](http://phlow.de/netlabels/index.php/Category:Techno), ja sogar [Drum And Bass](http://www.phlow.de/netlabels/index.php/Category:Drum_and_Bass), allerdings genau mit den [richtigen Mitteln](http://creativecommons.org/).
 
-![Time to say goodbye.](/img/codecandies/3753394946_ccf125bc60_b.jpeg)
+![Time to say goodbye.](/images/codecandies/3753394946_ccf125bc60_b.jpeg)
 
 Natürlich soll ich mich nicht aufregen. Was soll's, Alter, geh' zurück an Deine Plattensammlung, steh allein an Deinen Tellern und mixe für Dich selbst, Techno und House sind tot, Marusha und Daft Punk haben es verkauft. Die Menschheit hat fünf Minuten zugehört und dann ausgeblendet und das zwei Jahrzehnte lang. Ich merk' auch schon gar nichts mehr von dem Teilchen…
 

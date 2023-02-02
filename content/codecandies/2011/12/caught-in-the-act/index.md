@@ -9,7 +9,7 @@ tags:
   - "Gebloggt"
 ---
 
-![](/img/codecandies/pengi.jpg "pengi")
+![](/images/codecandies/pengi.jpg "pengi")
 
 > Je seltener man schreibt, umso größer wird der Akt.
 

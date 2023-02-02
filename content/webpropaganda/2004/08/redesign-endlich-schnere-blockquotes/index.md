@@ -18,10 +18,10 @@ blockquote p {
 }
 /* extension MOSe, nicht zu sehen im IE */
 blockquote p:first-child {
-  background: transparent url(/img/webpropaganda/quotes.png) no-repeat;
+  background: transparent url(/images/webpropaganda/quotes.png) no-repeat;
 }
 /* Hack!: dann auch das zweite Bild nicht im IE anzeigen */html>body blockquote {
-  background: transparent url(/img/webpropaganda/quotes.png) no-repeat bottom right;
+  background: transparent url(/images/webpropaganda/quotes.png) no-repeat bottom right;
 }
 blockquote cite {
   display: block;

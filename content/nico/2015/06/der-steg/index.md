@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Der Steg](/img/IMG_20150405_184826.jpg)
+![Der Steg](/images/IMG_20150405_184826.jpg)

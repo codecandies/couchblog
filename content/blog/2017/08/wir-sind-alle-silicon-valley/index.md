@@ -5,7 +5,7 @@ tags:
   - "Gefunden"
 ---
 
-![](/img/fkalryo4dui-1024x683.jpg)
+![](/images/fkalryo4dui-1024x683.jpg)
 
 Das Silicon Valley und anliegende Dörfer sind derzeit auf dem Trichter, Gleichberechtigung von Frauen im Beruf, insbesondere in der Softwareentwicklung, zu diskutieren. Nicht ganz freiwillig allerdings, sondern weil ein (inzwischen) Ex-Google-Entwickler seine persönliche Montagsdemo in Googles Intranet abgehalten hat. Und dies in Form eines Manifests von Dummheiten, die man ja wohl noch sagen dürfe heutzutage. Dazu gab es viele zu lesen. [Jeremy Keith hat das alles gut zusammengefasst](https://adactio.com/journal/12658).
 

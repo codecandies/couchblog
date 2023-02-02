@@ -8,7 +8,7 @@ keywords:
   - "Weblog"
 ---
 
-![Happy Holidays!](/img/codecandies/happyholidays.jpg)
+![Happy Holidays!](/images/codecandies/happyholidays.jpg)
 
 Liebe Leserinnen und Leser, Kolleginnen und Kollegen, liebe Kunden!<br>
 Ich verabschiede mich für dieses Jahr von der Bloggerei, es warten die ersten und letzten Weihnachtseinkäufe, die Feiertage, meine eigene Hochzeit und Silvester auf mich, man kann also mit Fug und Recht behaupten: der Kalender ist auch zum Jahresende gut gefüllt.

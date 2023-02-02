@@ -22,7 +22,7 @@ Koblentz' Ansatz ist dabei sicherlich, mit Core Support und Plain old Semantic H
 
 Zu behaupten, _responsive webdesign_ sei reiner Technologietrend und man würde zwangsweise den User dabei aus dem Auge verlieren, ist schon starker Tobak. Das soll aber natürlich gerade nicht passieren, da hat er schon Recht. Wie wir ja auch schon unfreiwillig festgestellt haben, landet man ganz schnell beim User-Agent-Sniffing. Schon _graceful degradation_ ist schwer umsetzbar, _progressive enhancement_ ist da schon zur Tür raus.
 
-![Webworker bereitet sich auf Operation am offenen Herzen vor](/img/codecandies/webworker_hehe.jpg)
+![Webworker bereitet sich auf Operation am offenen Herzen vor](/images/codecandies/webworker_hehe.jpg)
 
 Ein anderes Beispiel. [Chris Mücke vertritt die Position des konservativen Gestalters](http://www.coldheat.de/2012/02/subjektive-responsivitat), der zunächst mal komplett in Frage stellt, dass responsives Design überhaupt schon funktioniert:
 

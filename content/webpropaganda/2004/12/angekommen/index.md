@@ -7,9 +7,9 @@ tags:
 
 Nach fast 6 Monaten habe ich endgültig meine Zelte in Oldenburg abgebrochen und bin jetzt ein echtes Lübecker Marzipanbrot. Mein wichtigstes Gut hat nun auch endlich meine Wohnung erreicht (am Ende war dann doch [mehr](https://couchblog.de/webpropaganda/personal/563/nachtrag-umzug-mit-dem-cinquecento) als ein [Fiat](https://couchblog.de/webpropaganda/personal/595/nochmal-wieviele-platten-im-fiat-teil-2) nötig, wir mussten auf einen LKW zurückgreifen).
 
-![Main stage](/img/webpropaganda/204.jpg)
+![Main stage](/images/webpropaganda/204.jpg)
 
-![Lagerraum](/img/webpropaganda/205.jpg)
+![Lagerraum](/images/webpropaganda/205.jpg)
 
 So sieht das immer gar nicht soviel aus. BTW: Ich könnte noch mind. 10 von diesen LP-Boxen gebrauchen, falls noch jemand welche rumstehen hat, anbieten! Dann wären auch die letzten Klappkisten geleert.
 

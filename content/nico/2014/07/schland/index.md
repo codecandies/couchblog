@@ -5,6 +5,6 @@ tags:
   - "Geknipst"
 ---
 
-![Schland!](/img/IMG_20140705_213109.jpg)
+![Schland!](/images/IMG_20140705_213109.jpg)
 
 

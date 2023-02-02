@@ -7,7 +7,7 @@ keywords:
   - "Überwachung"
 ---
 
-![](/img/codecandies/Tombstone_Konrad_Wolf.jpg){:.inline-image} [Hohe Hürden für Online-Durchsuchung](http://www.zeit.de/online/2008/09/online-durchsuchung-urteil) titelt man hier im Hause, bei SPON heisst es: [Karlsruhe erlaubt heimliche Online-Durchsuchungen nur unter strengen Auflagen](http://www.spiegel.de/politik/deutschland/0,1518,538061,00.html). Faktisch ist jedoch da: die erlaubnis für die Online-Durchsuchung.
+![](/images/codecandies/Tombstone_Konrad_Wolf.jpg){:.inline-image} [Hohe Hürden für Online-Durchsuchung](http://www.zeit.de/online/2008/09/online-durchsuchung-urteil) titelt man hier im Hause, bei SPON heisst es: [Karlsruhe erlaubt heimliche Online-Durchsuchungen nur unter strengen Auflagen](http://www.spiegel.de/politik/deutschland/0,1518,538061,00.html). Faktisch ist jedoch da: die erlaubnis für die Online-Durchsuchung.
 
 > Das Bundesverfassungsgericht hält Online-Durchsuchungen unter Auflagen für zulässig. Das Ausspähen von Computern sei grundsätzlich nur dann verfassungsgemäß, wenn es tatsächliche Anhaltspunkte für eine konkrete Gefahr für ein überragend wichtiges Rechtsgut gebe, urteilte das oberste deutsche Gericht am Mittwoch in Karlsruhe.
 

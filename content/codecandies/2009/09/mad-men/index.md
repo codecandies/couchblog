@@ -7,7 +7,7 @@ keywords:
   - "Mad Men"
 ---
 
-![Mad Men](/img/codecandies/mad_men.jpg)
+![Mad Men](/images/codecandies/mad_men.jpg)
 
 > _Mad Men:_ A term coined in the late 1950’s to describe the advertising executives of Madison Avenue. They coined it.
 

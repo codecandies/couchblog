@@ -7,7 +7,7 @@ keywords:
   - "Musik"
 ---
 
-![Regen](/img/codecandies/IMG_0267.jpg)
+![Regen](/images/codecandies/IMG_0267.jpg)
 
 > When we passed the subway we tried to ignore our fate there
 > Of written threats on endless walls

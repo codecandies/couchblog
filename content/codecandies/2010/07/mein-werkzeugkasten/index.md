@@ -33,7 +33,7 @@ Zur _graphischen Analyse_ von Webseiten (und damit ich mir die Standardpixelwert
 
 Im Beruf brauche ich noch zusätzlich Helfer für die Visualisierung von Seiten, Abläufen, etc., bspw. bei der Konzeption. Standardmäßig nutzen wir [Omni Graffle](http://www.omnigroup.com/products/omnigraffle/), was ich auch sehr mag. Trotzdem habe ich mich schon an [Balsamiq](http://www.balsamiq.com/products/mockups) versucht, da ich Mockups, die aussehen wie Mockups für pädagogisch sinnvoll halte. Zumal wir dann sehr schnell zu HTML-Prototypen übergehen, da muss man Grenzen ziehen. In Omni Graffle nutze ich deswegen das [Web Sketch Interface](http://graffletopia.com/stencils/459) Stencil.
 
-![Firefox ist immer noch die Nummer 1.](/img/codecandies/screen1.jpg)
+![Firefox ist immer noch die Nummer 1.](/images/codecandies/screen1.jpg)
 
 ## Browser, Virtualisierung
 

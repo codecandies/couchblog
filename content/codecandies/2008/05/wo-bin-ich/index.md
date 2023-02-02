@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Typisches Foto vom Strand in…](/img/codecandies/20080504-151956-1.jpg)
+![Typisches Foto vom Strand in…](/images/codecandies/20080504-151956-1.jpg)

@@ -9,7 +9,7 @@ keywords:
   - "Vinyl"
 ---
 
-![](/img/img_0156.jpg)
+![](/images/img_0156.jpg)
 
 Nach gefühlten hundert Jahren fange ich wieder an Platten für ein Set zusammen zu suchen. Da werden doch wirklich viele Erinnerungen wach. Auch schön. Bin mal gespannt was das wird, angeblich verlernt man das Radfahren ja nicht.
 

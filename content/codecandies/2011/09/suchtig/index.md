@@ -7,7 +7,7 @@ keywords:
   - "Internet"
 ---
 
-![Medikamentenkapsel](/img/codecandies/suechtig.jpg "Süchtig")
+![Medikamentenkapsel](/images/codecandies/suechtig.jpg "Süchtig")
 
 Das Bundesgesundheitsministerium hat eine [Studie](http://drogenbeauftragte.de/presse/pressemitteilungen/2011-03/pm-pinta-studie.html) in Auftrag gegeben, die feststellt, dass 560.000 Deutsche, jetzt kommt's, internetsüchtig sind.
 

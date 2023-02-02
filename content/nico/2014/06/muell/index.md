@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Müll](/img/wpid-wp-1403562599109.jpeg)
+![Müll](/images/wpid-wp-1403562599109.jpeg)

@@ -7,6 +7,6 @@ keywords:
   - "considered harmful"
 ---
 
-![Farbintelligenz](/img/codecandies/hue_iq.png)
+![Farbintelligenz](/images/codecandies/hue_iq.png)
 
 [Test your color IQ](http://www.xrite.com/custom_page.aspx?PageID=77).

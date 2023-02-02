@@ -7,6 +7,6 @@ keywords:
   - "considered harmful"
 ---
 
-![Speisekarte](/img/codecandies/4448096622_c7ea0fb2d0_o.jpeg)
+![Speisekarte](/images/codecandies/4448096622_c7ea0fb2d0_o.jpeg)
 
 Und Du hast gedacht Du gehörst zu denen, denen die Dänen alles durchgehen lassen?

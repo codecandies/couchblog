@@ -9,7 +9,7 @@ keywords:
   - "UI"
 ---
 
-![Browser UI](/img/codecandies/ZZ04ED0546.png)
+![Browser UI](/images/codecandies/ZZ04ED0546.png)
 
 Ist schon ein wenig her, da hab ich mich über das Aussehen von Firefox 3 unter OS X [beschwert](/codecandies/2008/03/02/geht-das-denn-wirklich-nicht-besser/), inzwischen hat man an der GUI aber noch ein wenig gearbeitet. Trotzdem, ich bin nicht komplett zufrieden. Natürlich nicht.
 

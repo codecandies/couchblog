@@ -9,7 +9,7 @@ keywords:
 
 [Teil 1](/codecandies/2008/05/21/css-coding-guidelines-i/) wurde ja schon ausgiebig diskutiert, daraus habe ich schon einiges mitgenommen. Machen wir also fröhlich weiter mit meinen Ideen, wie man CSS am besten notiert…
 
-![»It's not everything that bad…« © BBC](/img/codecandies/ZZ46E36474.jpg)
+![»It's not everything that bad…« © BBC](/images/codecandies/ZZ46E36474.jpg)
 
 #### Kommentare
 

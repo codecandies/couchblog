@@ -11,4 +11,4 @@ keywords:
 
 [Quenn & David Bowie – Under Pressure](https://www.youtube.com/watch?v=xtrEN-YKLBM)
 
-![Die Rote Schleife](/img/codecandies/schleife-logo-wat_234x60.gif)
+![Die Rote Schleife](/images/codecandies/schleife-logo-wat_234x60.gif)

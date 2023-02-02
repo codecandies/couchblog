@@ -7,7 +7,7 @@ persons:
   - "Sean Connery"
 ---
 
-![Sean Connery, \*1930 †2020](/img/img_0322-1024x750.jpg)
+![Sean Connery, \*1930 †2020](/images/img_0322-1024x750.jpg)
 
 Natürlich James Bond. Daran kommt man nicht vorbei, auch wenn es für einen Schauspieler sicherlich fürchterlich ist, den Rest seines Lebens auf eine Rolle festgelegt zu sein. Vielleicht wäre es einfacher gewesen, wenn nicht bis heute immer wieder andere sich als Bond versuchen mussten und das nicht ein ums andere Mal so lächerlich ausgefallen wäre?
 

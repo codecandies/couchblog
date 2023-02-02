@@ -9,6 +9,6 @@ keywords:
   - "Star Trek"
 ---
 
-![Gesehen in Bad Segeberg.](/img/segeberg-960.jpg)
+![Gesehen in Bad Segeberg.](/images/segeberg-960.jpg)
 
 Na, wer hätte das gedacht.

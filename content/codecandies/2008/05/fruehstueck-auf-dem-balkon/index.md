@@ -5,6 +5,6 @@ tags:
   - "Geknipst"
 ---
 
-![Frühstück auf dem Balkon](/img/codecandies/img_6875_r.jpg)
+![Frühstück auf dem Balkon](/images/codecandies/img_6875_r.jpg)
 
 Ist ja schon mittag, aber das Frühstück auf dem Balkon hat auch irgendwie Tradition…

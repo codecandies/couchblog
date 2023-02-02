@@ -7,6 +7,6 @@ keywords:
   - "Webdesign"
 ---
 
-![Beispiel](/img/codecandies/ZZ36B04F17.jpg)
+![Beispiel](/images/codecandies/ZZ36B04F17.jpg)
 
 Nur ein Beispiel.

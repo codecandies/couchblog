@@ -12,7 +12,7 @@ Die 3. Antwort auf die Frage, ob man [HTML5 bereits jetzt produktiv einsetzen so
 
 Mir reicht's aber auch irgendwie: über drei Einträge hab ich nun Gründe gefunden, warum man HTML5 nicht einsetzen sollte – das wurmt mich ein wenig. Denn möglicherweise gibt es Gründe, warum man es einsetzen **will**. Zum Beispiel aus politischen, oder, weil man vorrausschauend arbeiten will; oder es gibt doch Features, die man jetzt schon nutzen will.
 
-![It's our future?](/img/codecandies/2178405451_8be5bdde76_o.jpg)
+![It's our future?](/images/codecandies/2178405451_8be5bdde76_o.jpg)
 
 Machen wir es also mal umgekehrt und sagen **JA!** zu HTML5, auch im produktiven Einsatz! Was geht dann?
 

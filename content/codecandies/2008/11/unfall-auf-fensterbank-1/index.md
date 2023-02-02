@@ -7,4 +7,4 @@ keywords:
   - "SEO"
 ---
 
-![Optimized!](/img/codecandies/dsc00212.jpg)
+![Optimized!](/images/codecandies/dsc00212.jpg)

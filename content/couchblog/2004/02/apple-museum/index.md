@@ -5,7 +5,7 @@ tags:
   - "Gebloggt"
 ---
 
-![Imac-g3_model](/img/couchblog/Imac-g3_model.jpg)
+![Imac-g3_model](/images/couchblog/Imac-g3_model.jpg)
 
 Wir freuen uns bekannt geben zu dürfen, dass das private “Couchblog Apple Macintosh Museum” wieder ein neues Exemplar in seinen Fundus aufnehmen wird.
 

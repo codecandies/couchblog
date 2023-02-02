@@ -8,7 +8,7 @@ keywords:
   - "Rivva"
 ---
 
-![Reisende soll man nicht…](/img/codecandies/rivva-ist-weg-rant.jpg)
+![Reisende soll man nicht…](/images/codecandies/rivva-ist-weg-rant.jpg)
 
 Jetzt wo es endgültig dicht ist, kann ich es ja sagen: I didn't get it. Ich habe zwar [Rivva](http://rivva.de/) als Technik durchaus verstanden, aber nie, warum alle [so dermaßen besessen davon sind](http://blog.rivva.de/archives/2011/2/6/walking_and_falling/#comments) oder waren, dort nun die _meistbesprochenen Themen der Blogosphäre_ zu finden. Ich will Rivva da nichts anlasten, aber ist das nicht irgendwie das _Bildzeitungslesen_ des kleinen Mannes. Die einen sonnen sich im Glück der Verlinkten, das Fußvolk läuft der durchs Dorf getriebenen Sau hinterher. Das fand ich als Konzept immer ein wenig _igitt_. Wohlgemerkt, das war nicht Rivvas Konzept, aber es war eins der Mittel dazu.
 

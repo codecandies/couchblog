@@ -7,6 +7,6 @@ tags:
 
 Taschen für Druckvorlagenherstellerinnen.
 
-![](/img/codecandies/ZZ2DA8BF08.jpg)
+![](/images/codecandies/ZZ2DA8BF08.jpg)
 
 Gesehen bei Mango.

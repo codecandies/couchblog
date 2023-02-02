@@ -8,7 +8,7 @@ tags:
   - "Gecodet"
 ---
 
-![](/img/codecandies/built_with_aptana.jpg)Wohl sehr demnächst erscheint eine neue Version meines Lieblings-[Eclipse](http://www.eclipse.org)\-Plugins [Aptana](http://www.aptana.com/), eine [Preview-Version ist jedenfalls schon erschienen](http://www.aptana.com/blog/?p=86). Der _Knüller_: Aptana bringt fortan eine integrierte Version eines meiner Lieblings-Firefox-Plugins mit: [Firebug](http://getfirebug.com/).
+![](/images/codecandies/built_with_aptana.jpg)Wohl sehr demnächst erscheint eine neue Version meines Lieblings-[Eclipse](http://www.eclipse.org)\-Plugins [Aptana](http://www.aptana.com/), eine [Preview-Version ist jedenfalls schon erschienen](http://www.aptana.com/blog/?p=86). Der _Knüller_: Aptana bringt fortan eine integrierte Version eines meiner Lieblings-Firefox-Plugins mit: [Firebug](http://getfirebug.com/).
 
 Und dann wird's wohl auch ein Buch über Aptana geben, man [sucht](http://www.aptana.com/blog/?p=85) allerdings noch nach deutschsprachigen Autoren:
 

@@ -7,6 +7,6 @@ keywords:
   - "Wetter"
 ---
 
-![schnee](/img/schnee-1024x768.jpg)
+![schnee](/images/schnee-1024x768.jpg)
 
 Auch bei [Ben](http://anmutunddemut.de/2016/11/07/erster-schnee.html).

@@ -16,7 +16,7 @@ Zunächst mal die Gretchenfrage: braucht man überhaupt einen echten iPhone-Clie
 
 #### Twitterific
 
-![](/img/codecandies/ZZ7F9188E5.jpg)
+![](/images/codecandies/ZZ7F9188E5.jpg)
 
 Die [Iconfactory](http://iconfactory.com/) bietet schon länger [Twitterific für den großen Mac](http://iconfactory.com/software/twitterrific) an, hat also schon einige Erfahrung. So dürfte [Twitterific \[AppStore-Link\]](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284540316&mt=8 "AppStore-Link") auch die erste Twitter-App sein, die es in den Store geschafft hat. Dort gibt es sie in zwei Ausführungen: als »Kostenlos«-Variante mit Werbeinblendungen und als werbefreie, aber €7,99 teure Premium-Variante.
 
@@ -28,7 +28,7 @@ Einfach die Friends-Timeline zu verfolgen ist für Twitterific-Nutzer kein Probl
 
 #### Twinkle
 
-![](/img/codecandies/ZZ3CE9118C.jpg)
+![](/images/codecandies/ZZ3CE9118C.jpg)
 
 [Twinkle \[AppStore\]](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284967867&mt=8 "AppStore-Link") ist nur einerseits ein Twitter-Client, andererseits findet er aber auch Twinkle-User in einem einstellbaren Umkreis. Wenn man sich nicht zu schnelle bewegt, findet man damit tatsächlich Twitterer bspw. am Hamburger Hauptbahnhof, die vor marodierenden Rentnergruppen warnen. Dafür widerum muss man sich zusätzlich nochmal für Twinkle registrieren, leider ohne das man genauer aufgeklärt würde, wozu dieses Login ist.
 
@@ -42,7 +42,7 @@ Will man selbst einen Tweet absetzen, bekommt man dafür ein opulentes Postingsf
 
 #### TwitterFon
 
-![](/img/codecandies/ZZ60A583B0.jpg)
+![](/images/codecandies/ZZ60A583B0.jpg)
 
 [TwitterFon \[AppStore\]](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=286756410&mt=8 "AppStore-Link") kommt ein wenig unauffälliger als die beide vorher besprochenen Apps daher. Darstellung und Aufmachung sind deutlich funktionaler, weniger designed. Ebenso gibt's zumindest auf den ersten Blick weniger Features.
 
@@ -56,7 +56,7 @@ So simple wie sich TwitterFon gibt, ist es auch zu bedienen, bei den Einstellung
 
 #### Twitterlator
 
-![](/img/codecandies/ZZ22855713.jpg)
+![](/images/codecandies/ZZ22855713.jpg)
 
 Der [Twitterlator \[AppStore\]](http://tinyurl.com/twittelator "AppStore-Link") klingt ein wenig martialisch und ist es vielleicht auch. Hinter dem unauffäligen bis häßlichen Icon verbirgt sich ein wahres Twitterfeaturefeuerwerk. Twitterlator kennt nicht nur die Freundesliste, sondern hat außerdem seprate Auflistungen für: die eigenen Tweets (_übrigens fälschlicherweise als »Twitters« bezeichnet_), @-Replies und _direct messages_ (in einer Liste), die _public timeline_, speziell _gefeature_te Twitterer, selbst zusammenstellbare Favoriten, Bookmarks, kürzlich besuchte Profile und Suchen.
 

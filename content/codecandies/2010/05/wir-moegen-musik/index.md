@@ -7,7 +7,7 @@ keywords:
   - "Song des Tages"
 ---
 
-[![Gir singt den Song des Tages](/img/codecandies/5471965_2cbe398de9_o-620x465.jpg)](http://songdestages.de "Song des Tages")
+[![Gir singt den Song des Tages](/images/codecandies/5471965_2cbe398de9_o-620x465.jpg)](http://songdestages.de "Song des Tages")
 
 Zusammen mit [Ben](http://anmutunddemut.de) und [Johannes](http://www.kopfzeiler.org/) mache ich seit heute an einer Art _sideproject_ zu den Codecandies mit, nämlich bei [songdestages.de](http://songdestages.de/).
 

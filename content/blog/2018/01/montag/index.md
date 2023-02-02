@@ -6,4 +6,4 @@ tags:
   - "Geknipst"
 ---
 
-![Montag: Gnnpff!](/img/gnnpff.jpg)
+![Montag: Gnnpff!](/images/gnnpff.jpg)

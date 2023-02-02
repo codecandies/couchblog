@@ -9,6 +9,6 @@ persons:
   - "Ridley Scott"
 ---
 
-![Alien](/img/codecandies/alien.jpg)
+![Alien](/images/codecandies/alien.jpg)
 
 ['Alien' prequel takes off](http://www.variety.com/article/VR1118006722.html) Ridley Scott attached to return as director.

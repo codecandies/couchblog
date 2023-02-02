@@ -7,6 +7,6 @@ tags:
   - "Gesehen"
 ---
 
-![free earl](/img/codecandies/ZZ30AB84B4.jpg)
+![free earl](/images/codecandies/ZZ30AB84B4.jpg)
 
 […das bitte in Größe »XL«.](http://yque.com/freawht.html)

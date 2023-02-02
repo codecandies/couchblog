@@ -8,4 +8,4 @@ keywords:
   - "Alster"
 ---
 
-![Eiszeit](/img/codecandies/20120211-151500.jpg)
+![Eiszeit](/images/codecandies/20120211-151500.jpg)

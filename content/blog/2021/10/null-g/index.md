@@ -22,7 +22,7 @@ Ich war gestern in unserer Kantine zum Essen. An meinem Bürotisch darf ich ohne
 
 ### Wo Regeln nicht eingehalten werden
 
-![QR-Code: Hiermit kommst du in jedes Restaurant?](/img/8C47A211-23E1-4B10-810E-2F4E02CFEA56_4_5005_c.jpeg)
+![QR-Code: Hiermit kommst du in jedes Restaurant?](/images/8C47A211-23E1-4B10-810E-2F4E02CFEA56_4_5005_c.jpeg)
 
 Ich kann gerne wieder mit einem Beispiel aus Dänemark anfangen. Mit einem Riesenbrimborium hat Dänemark 2015 Grenzkontrollen wieder eingeführt. An den Übergängen, beispielsweise an der A7 bei Flensburg, oder in Kruså oder in Padborg, stehen seitdem junge Soldat:innen, die allein _racial profiling_ durch die Autoscheibe machen und praktisch jeden durchwinken. Zur Pandemie nun, hat Dänemark knallharte Einreiseregeln entworfen, niemand durfte ins Land. Also außer Dän:innen. Und Pendler:innen. Und Bewohner:innen von Schleswig-Holstein. Und später dann Leute, die ein Ferienhaus oder einen Campingplatz gebucht hatten. Dann nur Geimpfte, Genesene und Getestete. Und das alles wurde auf die gleiche Weise kontrolliert: nämlich, von einer kurzen Phase im Frühjahr 2020, gar nicht. Weil man das auch nicht _profilen_ kann. Es werden weder Impfpässe kontrolliert, noch QR-Codes gescannt, außer bei denen, die man sowieso aus dem Verkehr gefischt hätte, weil sie wie eine syrische Auswandererfamilie oder Drogendealer aussehen.
 

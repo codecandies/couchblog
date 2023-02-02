@@ -7,4 +7,4 @@ keywords:
   - "Comic"
 ---
 
-![Rocketeer](/img/codecandies/rocketeer.jpg)
+![Rocketeer](/images/codecandies/rocketeer.jpg)

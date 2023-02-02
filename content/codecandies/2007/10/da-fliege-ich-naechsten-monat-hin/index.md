@@ -8,6 +8,6 @@ keywords:
   - "Toronto"
 ---
 
-![](/img/codecandies/ZZ2809FD96.jpg "cold")
+![](/images/codecandies/ZZ2809FD96.jpg "cold")
 
 Könnte kalt werden in…

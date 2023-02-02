@@ -12,7 +12,7 @@ persons:
 
 Das amerikanische Filmmagazin Cinefantastique widmete 1977 eine ganze Ausgabe diesem Film und nannte ihn im Zuge dessen „Citizen Kane des Horrorfilms“, was sicherlich eine echte Hausnummer ist. Derlei Dinge erfahre ich natürlich ausschließlich und nachträglich aus der [Wikipedia](https://de.wikipedia.org/wiki/The_Wicker_Man_(1973)), bei uns sagt jedenfalls niemand: „Hey Schatz, lass uns mal den Citizen Kane des Horrorfilms ansehen!“.
 
-![The Wicker Man](/img/wickerman.jpg)
+![The Wicker Man](/images/wickerman.jpg)
 
 Stattdessen war die Figur des „Wicker Man“ in einer Diskussion Thema gewesen und so stießen wir auf den Film. Ein „Wicker Man“ also ist eine überlebensgroße Figur, hergestellt aus Korbgeflecht, in der laut Julius Caesar (und nur laut eben jenem) die Kelten Tier- und vor allem Menschenopfer darbrachten, indem sie diese darin einsperrten und die Figur dann anzündeten. Burning Man, anyone?
 

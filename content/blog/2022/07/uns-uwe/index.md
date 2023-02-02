@@ -7,6 +7,6 @@ persons:
   - "Uwe Seeler"
 ---
 
-![](/img/uweseeler.jpg)
+![](/images/uweseeler.jpg)
 
 Uwe Seeler ist tot.

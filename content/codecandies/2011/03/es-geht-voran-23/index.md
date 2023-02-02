@@ -7,6 +7,6 @@ keywords:
   - "Hamburg"
 ---
 
-![Treppe](/img/codecandies/treppe1.jpg)
+![Treppe](/images/codecandies/treppe1.jpg)
 
 Keine Atempause, Geschichte wird gemacht, es geht voran.

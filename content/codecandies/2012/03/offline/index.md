@@ -9,7 +9,7 @@ keywords:
   - "Apps"
 ---
 
-![Apps!!!](/img/codecandies/folien_boot.png)
+![Apps!!!](/images/codecandies/folien_boot.png)
 
 Als Alternative zur _Apptisierung_ des mobilen Internets wird immer wieder die Webapp genannt. Ebenso oft wird betont, dass native Apps den Webapps in UI und Features überlegen sind. Die Browser holen jedoch langsam auf, z.B. mit der Möglichkeit Geodaten zu lesen, oder auch Zugriff auf eine im Smartphone integrierte Kamera zu erhalten. Und dann ist das noch das Feature der _offlinefähigkeit_. Im folgenden will ich einige Techniken dazu kurz anreissen, zum einen um (mir) einen Überblick zu verschaffen, zum anderen um feststellen zu können, wie weit wir denn technologisch heute sind, in Sachen _offline_. Zum über den Onlinezustand hinaus gehenden Speichern von Daten stehen im wesentlichen drei Techniken zur Verfügung.
 

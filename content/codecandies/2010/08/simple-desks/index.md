@@ -5,7 +5,7 @@ tags:
   - "Gearbeitet"
 ---
 
-![Simple Desk](/img/codecandies/IMG_1727.jpg)
+![Simple Desk](/images/codecandies/IMG_1727.jpg)
 
 »This is how I choose to work these days…«
 

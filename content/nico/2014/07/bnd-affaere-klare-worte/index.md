@@ -12,7 +12,7 @@ persons:
   - "Edward Snowden"
 ---
 
-![Im Bild: Bundespräsident Gauck in Rage](/img/1200px-MSC_2014_Gauck_Kleinschmidt_MSC2014.jpg)
+![Im Bild: Bundespräsident Gauck in Rage](/images/1200px-MSC_2014_Gauck_Kleinschmidt_MSC2014.jpg)
 
 Nun, nachdem man den ersten US-Spion in den Reihen des BND enttarnt hat: große Aufregung. Die Medienberichte überschlagen sich und die Bundesregierung…
 

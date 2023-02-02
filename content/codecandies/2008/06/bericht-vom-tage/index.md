@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Heute, im Westen nichts neues…](/img/codecandies/ZZ4A47ECC3.jpg)
+![Heute, im Westen nichts neues…](/images/codecandies/ZZ4A47ECC3.jpg)

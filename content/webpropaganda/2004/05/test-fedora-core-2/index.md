@@ -5,7 +5,7 @@ tags:
   - "Generde"
 ---
 
-![75](/img/webpropaganda/75.jpg)
+![75](/images/webpropaganda/75.jpg)
 
 Einen kurzen Testbericht gibt’s auch bei [LinuxLookUp](http://www.linuxlookup.com/modules.php?op=modload&name=Reviews&file=index&req=showcontent&id=59). Und da kann ich mich zum Teil nur anschliessen. Wenn man davon ausgeht, Fedora sei ein weiterer Schritt in der Konkurrenz zu Windows, dann muss man das wohl verneinen. Zwar läßt es sich einfach installieren, so wie es dann jedoch auf der Platte liegt, ist es für den Anfänger schlichterdings unbrauchbar. Alles sieht schön aus, allerdings kommt man ohne einen kräftigen Griff unter die Haube, also auf der Kommandozeile nicht zu einem System, dass mit Windows konkurrenzfähig ist. Da ist zunächst mal das Problem, dass Fedora aufgrund von Lizenzproblemen (die andere Distros nicht haben), weder MP3s abspielen kann, noch DVDs erkennt. Das kannte man ja schon von Redaht und Fedora 1. Um an die benötigten Pakete zu kommen (die zur Zeit noch wirklich schwierig zu bekommen sind) muss man zunächst zur “yum”-Paketverwaltung einige Server hinzufügen (`/etc/yum.conf`) oder besser gleich apt für rpm installieren. Nichts für Anfänger.
 

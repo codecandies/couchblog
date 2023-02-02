@@ -7,7 +7,7 @@ keywords:
   - "Wikipedia"
 ---
 
-![Popocatépetl 19.12.2000](/img/codecandies/popocatepetl_19122000.jpg)
+![Popocatépetl 19.12.2000](/images/codecandies/popocatepetl_19122000.jpg)
 
 Einer aztekischen Sage zufolge war Popocatépetl Söldner des Königs und verliebt in die Prinzessin Iztaccíhuatl.
 

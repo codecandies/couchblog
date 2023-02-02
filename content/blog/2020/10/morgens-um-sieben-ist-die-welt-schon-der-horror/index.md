@@ -8,4 +8,4 @@ keywords:
   - "Mond"
 ---
 
-![Happy Halloween](/img/img_0283-768x1024.jpg)
+![Happy Halloween](/images/img_0283-768x1024.jpg)

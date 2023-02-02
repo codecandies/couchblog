@@ -7,7 +7,7 @@ persons:
   - "Diana Rigg"
 ---
 
-![Diana Rigg, \*1938 †2020](/img/5DFA86BD-5EDE-4F89-B355-DB974A7A66DA-799x1024.jpeg)
+![Diana Rigg, \*1938 †2020](/images/5DFA86BD-5EDE-4F89-B355-DB974A7A66DA-799x1024.jpeg)
 
 „Mit Schirm, Charme und Giftbecher“ könnte der Titel einer Biographie über Diana Rigg sein. Dieser ließe zwar aus, dass sie vor und nach ihren großen TV- und Kinorollen immer auch rennomierte Theaterschauspielerin war, markierte aber ihren ersten großen Auftritt, wie auch ihren letzten.
 

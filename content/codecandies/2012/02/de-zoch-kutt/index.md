@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Karneval in Hamburg.](/img/codecandies/20120216-175456.jpg)
+![Karneval in Hamburg.](/images/codecandies/20120216-175456.jpg)

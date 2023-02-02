@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Löwenzahn](/img/img_1344-1024x768.jpg)
+![Löwenzahn](/images/img_1344-1024x768.jpg)

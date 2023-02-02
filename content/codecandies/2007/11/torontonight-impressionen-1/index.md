@@ -7,10 +7,10 @@ tags:
   - "Gereist"
 ---
 
-![Skyline…](/img/codecandies/ZZ5BA912B6.jpg)
+![Skyline…](/images/codecandies/ZZ5BA912B6.jpg)
 
-![Biggest Blue Screen of Death ever seen…](/img/codecandies/DSC00258.jpg)
+![Biggest Blue Screen of Death ever seen…](/images/codecandies/DSC00258.jpg)
 
-![Abendessen am…](/img/codecandies/ZZ10087920.jpg)
+![Abendessen am…](/images/codecandies/ZZ10087920.jpg)
 
-![… Eaton Centre.](/img/codecandies/DSC00260.jpg)
+![… Eaton Centre.](/images/codecandies/DSC00260.jpg)

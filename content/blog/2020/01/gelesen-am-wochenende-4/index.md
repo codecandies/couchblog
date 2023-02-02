@@ -5,7 +5,7 @@ tags:
   - "Gelesen"
 ---
 
-![](/img/ev0iwjzqje8.jpg)
+![](/images/ev0iwjzqje8.jpg)
 
 - journalist.de: [Wir dürfen Twitter und Facebook nicht dem Mob überlassen!](https://www.journalist.de/startseite/meldungen/detail/?tx_ttnews%5Btt_news%5D=14641) Nicole Diekmann über weihnachtliche Shitstorms.
 - Dr. Thomas Schwenke: [Was ist 2020 noch erlaubt?](https://datenschutz-generator.de/rechtsupdate-2020-onlinemarketing-social-media-cookies-corporate-influencer-dsgvo/) Rechtsupdate zu Onlinemarketing, Social Media, Cookies, Corporate Imfluencern und DSGVO.

@@ -8,7 +8,7 @@ keywords:
   - "Mobile"
 ---
 
-![mein Handy](/img/codecandies/ZZ0AF4DE6E.jpg)
+![mein Handy](/images/codecandies/ZZ0AF4DE6E.jpg)
 
 Mein Lieblingshandybrowser [Opera Mini](http://www.operamini.com/) liegt schon wieder in einer neuen Beta vor, und zwar [Version 4.1](http://www.operamini.com/beta/). Was man sich sofort runterlädt und installiert, jawoll.
 

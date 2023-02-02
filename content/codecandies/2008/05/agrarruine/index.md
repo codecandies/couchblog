@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Reinfeld „Hauptbahnhof“](/img/codecandies/20080515-083239-1.jpg)
+![Reinfeld „Hauptbahnhof“](/images/codecandies/20080515-083239-1.jpg)

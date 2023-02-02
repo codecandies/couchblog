@@ -8,7 +8,7 @@ keywords:
   - "jQuery"
 ---
 
-![Javascript schöner und schneller machen](/img/codecandies/aintbroke.jpg)
+![Javascript schöner und schneller machen](/images/codecandies/aintbroke.jpg)
 
 Javascript ist, angesichts seiner [etwas holprigen Entstehungsgeschichte](http://en.wikipedia.org/wiki/JavaScript#History) eine eigentlich recht elegante Scriptsprache. Es krankt jedoch daran, dass in Javascript im Grunde alles geht und alles gemacht wird und jedesmal anders. Will man mit Kollegen zusammen an einem Javascriptprojekt arbeiten, ist der eigene Dialekt ebenso hinderlich, wie mangelnde Sauberkeit beim Codeschreiben. Beachtet man aber neben einem guten Stil in Javascript einige elementare Regeln, kann man seine Scripte dadurch auch noch merklich schneller und kompakter machen.
 

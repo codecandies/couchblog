@@ -5,7 +5,7 @@ tags:
   - "Gesellschaft"
 ---
 
-![Die Antifa Berlin bittet um Hilfe](/img/couchblog/antifasuch.jpg)
+![Die Antifa Berlin bittet um Hilfe](/images/couchblog/antifasuch.jpg)
 
 [Der Schockwellenreiter:](https://web.archive.org/web/20040803044038/http://www.schockwellenreiter.de/2002/10/18.html#a8578)
 

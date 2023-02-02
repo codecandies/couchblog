@@ -7,6 +7,6 @@ keywords:
   - "Meme"
 ---
 
-![T-Shirt](/img/IMG_0272-768x1024.jpg)
+![T-Shirt](/images/IMG_0272-768x1024.jpg)
 
 Grumpy cat gibt's übrigens auch bei C&A.

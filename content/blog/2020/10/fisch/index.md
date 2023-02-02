@@ -7,7 +7,7 @@ keywords:
   - "Cismar"
 ---
 
-![](/img/IMG_0239-1024x768.jpeg)
+![](/images/IMG_0239-1024x768.jpeg)
 
 Ich will deine dreihundert Mark nicht
 Ich will tausend Mark

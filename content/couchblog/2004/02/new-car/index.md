@@ -5,6 +5,6 @@ tags:
   - "Gelebt"
 ---
 
-![Elefantenrollschuh](/img/couchblog/caric.gif)
+![Elefantenrollschuh](/images/couchblog/caric.gif)
 
 Bilder folgen demnächst.

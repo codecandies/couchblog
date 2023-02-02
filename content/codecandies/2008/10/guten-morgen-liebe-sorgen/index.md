@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Lübeck, früh](/img/codecandies/img_0133.jpg)
+![Lübeck, früh](/images/codecandies/img_0133.jpg)

@@ -8,7 +8,7 @@ keywords:
   - "HTML"
 ---
 
-![Diphterie aka. Corynnbacterium Diphtheria (Foto: CDC)](/img/codecandies/2653983350_a8762e7391_o.jpg)
+![Diphterie aka. Corynnbacterium Diphtheria (Foto: CDC)](/images/codecandies/2653983350_a8762e7391_o.jpg)
 
 
 Wir wissen ja schon lange, dass _valides_ HTML noch kein _gutes_ HTML ist. [Kalter Kaffee](http://webstandard.kulando.de/post/2009/05/05/valider-code-ist-nicht-gleich-guter-code). Sehen wir dabei einmal vom durchaus validem Tabellenlayout ab, sind die _größten Feinde_ mangelnde semantische Auszeichnung und in deren Schlepptau immer wieder _`DIV`terie_, soll heissen: übermäßige Benutzung von `DIV`\-Containern, wo andere Elemente angebrachter wären. Bekannte Nebenwirkung dieser Krankheit sind übrigens _Klassizismus_, _`ID`ologie_ und natürlich _Ver`SPAN`nung_.

@@ -7,4 +7,4 @@ keywords:
   - "Twitter"
 ---
 
-![Die gibt es noch???](/img/codecandies/ZZ72D43956.jpg)
+![Die gibt es noch???](/images/codecandies/ZZ72D43956.jpg)

@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Sowas gibt's auch nur in…](/img/codecandies/20120212-184116.jpg)
+![Sowas gibt's auch nur in…](/images/codecandies/20120212-184116.jpg)

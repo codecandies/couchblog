@@ -6,4 +6,4 @@ tags:
   - "Geknipst"
 ---
 
-![](/img/too-many-secrets.jpg)
+![](/images/too-many-secrets.jpg)

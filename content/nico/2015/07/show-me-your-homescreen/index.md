@@ -7,4 +7,4 @@ tags:
 
 Bin seit gestern stolz auf meine wunderschöne Hintergrundbild-Widget-Kombination auf meinem Nexus 5. Muss ich mal zeigen…
 
-![Nexus5 Homescreen](/img/nexus5.png)
+![Nexus5 Homescreen](/images/nexus5.png)

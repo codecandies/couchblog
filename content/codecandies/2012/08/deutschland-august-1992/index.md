@@ -7,7 +7,7 @@ keywords:
   - "Rostock"
 ---
 
-![Rostock, Lichtenhagen](/img/codecandies/Rostock-Lichtenhagen_Sonnenblumenhaus.jpeg)
+![Rostock, Lichtenhagen](/images/codecandies/Rostock-Lichtenhagen_Sonnenblumenhaus.jpeg)
 
 Vor ein paar Wochen war ich zum ersten Mal in meinem Leben in Rostock, in Warnemünde um genau zu sein. Auf dem Weg in das Ostseebad, kommt man am „Sonnenblumenhaus” vorbei, dem Gebäude, in dem vor 20 Jahren die zentrale Aufnahmestelle für Asylbewerber untergebracht war und vor dem vier Tage lang, ohne sinnvolles Eingreifen von Polizei und Politik, [die Krawalle von Rostock stattfanden](http://de.wikipedia.org/wiki/Ausschreitungen_von_Rostock-Lichtenhagen). Ganz ehrlich gesagt, ist mir heute noch mulmig, wenn ich am Ort des Pogroms vorbeifahren soll. Die [Bilder](http://www.youtube.com/watch?v=3JrZop1sAMY) gehen mir auch nach 20 Jahren nur schwer aus dem Kopf.
 

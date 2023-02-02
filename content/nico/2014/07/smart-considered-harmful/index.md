@@ -6,7 +6,7 @@ tags:
 coverImage: "DonAdams.jpg"
 ---
 
-![DonAdams](/img/DonAdams-245x300.jpg)
+![DonAdams](/images/DonAdams-245x300.jpg)
 
 Ich schwöre, wenn ich jemals ein Produkt, eine (Web-)App, oder irgendwas entwickeln werden, das ich selbst vermarkten muss, ich werde den Begriff »smart« im Titel unterbringen.
 

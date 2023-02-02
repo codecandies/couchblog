@@ -9,7 +9,7 @@ persons:
   - "Jean-Jacques Sempé"
 ---
 
-![](/img/5A8599CE-3668-4E97-898F-49FBAF791E6B.jpeg)
+![](/images/5A8599CE-3668-4E97-898F-49FBAF791E6B.jpeg)
 
 Jean-Jacques Sempé ist tot.
 

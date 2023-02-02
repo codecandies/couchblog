@@ -10,7 +10,7 @@ keywords:
 coverImage: "starwarscupcakes.jpg"
 ---
 
-![Star Wars Day Cupcakes](/img/starwarscupcakes-300x225.jpg) Für alle Webdesigner zum hinter die Ohren schreiben, [alles über infinite scrolling](http://uxdesign.smashingmagazine.com/2013/05/03/infinite-scrolling-get-bottom/):
+![Star Wars Day Cupcakes](/images/starwarscupcakes-300x225.jpg) Für alle Webdesigner zum hinter die Ohren schreiben, [alles über infinite scrolling](http://uxdesign.smashingmagazine.com/2013/05/03/infinite-scrolling-get-bottom/):
 
 > Infinite scrolling promises a better experience for users. However, the good is often accompanied by the bad and the ugly. Once we understand the strengths and weaknesses of infinite scrolling, we can begin to use it to enhance our interfaces.
 

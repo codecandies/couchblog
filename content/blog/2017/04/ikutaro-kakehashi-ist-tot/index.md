@@ -8,7 +8,7 @@ keywords:
   - "Roland"
 ---
 
-![Ikutarō Kakehashi *1930 †2017](/img/Roland_TR-909.jpg)
+![Ikutarō Kakehashi *1930 †2017](/images/Roland_TR-909.jpg)
 
 Ikutarō Kakehashi gründete 1972 Roland und machte die Firma zu einem Marktführer für elektronische Musikinstrumente. In der 80er Jahren entstanden unter seiner Leitung die Drumcomputer [TR-808](https://de.wikipedia.org/wiki/Roland_TR-808) und [TR-909](https://de.wikipedia.org/wiki/Roland_TR-909), sowie der Synthesizer [TB-303](https://de.wikipedia.org/wiki/Roland_TB-303). Er [starb im Alter von 87 Jahren](https://www.heise.de/newsticker/meldung/Erfinder-des-Drum-Computers-TR-909-Ikutaro-Kakehashi-gestorben-3673130.html).
 

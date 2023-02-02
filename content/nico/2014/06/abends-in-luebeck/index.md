@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Abends in Lübeck](/img/wpid-img_20140624_213406.jpg "IMG_20140624_213406.jpg")
+![Abends in Lübeck](/images/wpid-img_20140624_213406.jpg "IMG_20140624_213406.jpg")

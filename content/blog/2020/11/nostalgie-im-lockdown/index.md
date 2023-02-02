@@ -7,7 +7,7 @@ keywords:
   - "Xbox"
 ---
 
-![X-Box 360 Spiele](/img/887C391C-DF87-4BEE-828E-29865CC6204D-1024x375.jpeg)
+![X-Box 360 Spiele](/images/887C391C-DF87-4BEE-828E-29865CC6204D-1024x375.jpeg)
 
 Ich bin mit der alten XBox noch nicht fertig…
 

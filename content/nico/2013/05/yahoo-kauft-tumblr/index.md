@@ -31,7 +31,7 @@ Das gibt tumblr übrigens eine gute Überlebenschance, ist Yahoo doch bisher mit
 
 ### David Karp: jung wie Zuckerberg, visionär wie Jobs?
 
-![davekarp](/img/davekarp-300x198.jpg)Und David Karp, der Erfinder von tumblr? [Marco Arment setzt ihm vorzeitig ein Denkmal](http://www.marco.org/2013/05/20/one-person-product), als dem neuen Steve Jobs und bescheinigt ihm, dass er dermaßen hinter dem Produkt stünde, dass der Deal keine negativen Auswirkungen haben werde.
+![davekarp](/images/davekarp-300x198.jpg)Und David Karp, der Erfinder von tumblr? [Marco Arment setzt ihm vorzeitig ein Denkmal](http://www.marco.org/2013/05/20/one-person-product), als dem neuen Steve Jobs und bescheinigt ihm, dass er dermaßen hinter dem Produkt stünde, dass der Deal keine negativen Auswirkungen haben werde.
 
 > This is clearly what David believes is best for his product. On such big decisions, he hasn’t been wrong yet. This time, though, I don’t have any doubts. Acquisitions on this scale usually work well — YouTube, for example, has gotten much better, faster, more stable, and more sustainable since Google bought it.
 

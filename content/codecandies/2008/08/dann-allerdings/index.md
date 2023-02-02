@@ -7,6 +7,6 @@ keywords:
   - "Apple"
 ---
 
-![screenshot](/img/codecandies/ZZ7041B475.jpg)
+![screenshot](/images/codecandies/ZZ7041B475.jpg)
 
 … hilft nichts mehr.

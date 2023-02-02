@@ -8,5 +8,5 @@ keywords:
   - "Ålborg"
 ---
 
-![»China Restaurant« (nicht zu übersehen in Ålborg).](/img/codecandies/img_8242.jpg)
+![»China Restaurant« (nicht zu übersehen in Ålborg).](/images/codecandies/img_8242.jpg)
 

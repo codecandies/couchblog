@@ -8,6 +8,6 @@ keywords:
   - "Lübeck"
 ---
 
-![Super by Super Crew.](/img/11B01466-B7FC-4CBC-B248-1234BA05461D-1024x768.jpeg)
+![Super by Super Crew.](/images/11B01466-B7FC-4CBC-B248-1234BA05461D-1024x768.jpeg)
 
 

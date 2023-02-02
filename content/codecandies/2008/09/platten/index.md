@@ -12,7 +12,7 @@ persons:
 
 Der Ben philosophiert über seine [tragbare Plattensammlung](http://anmutunddemut.de/node/6696), alles schön als MPirgendwas auf dem iPod touch zum mitnehmen. No problem. **No way!**
 
-![](/img/codecandies/ZZ5D7B7098.jpg)
+![](/images/codecandies/ZZ5D7B7098.jpg)
 
 Nennt mich altmodisch, schüttelt mit dem Kopf, hallo lieber Kinder, es gab etwas vor der CD und das hieß Schallplatte! Und das ist mein Musikdatenträger. Mal ein paar Songs mitschleppen für die Zugfahrt, schön und gut, da langen mir ein paar _automatische_ Songlisten. Auf die Dauer hören kann man dieses seelenlose, matschige Gedudel nicht: und ich habe fette Ohrstöpsel mit dicken Bässen.
 

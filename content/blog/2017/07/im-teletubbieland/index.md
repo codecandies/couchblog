@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Im Teletubbiland](/img/teletubbiland.jpg)
+![Im Teletubbiland](/images/teletubbiland.jpg)

@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Kartenautomat am Lübecker Hauptbahnhof.](/img/codecandies/ZZ7485397D.jpg "Kartenautomat ohne Kernel")
+![Kartenautomat am Lübecker Hauptbahnhof.](/images/codecandies/ZZ7485397D.jpg "Kartenautomat ohne Kernel")

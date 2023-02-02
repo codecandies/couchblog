@@ -21,7 +21,7 @@ Eine einzelne Quelle allein weiss zu berichten, dass das neue Design auch _flat_
 
 Aber irgendeine Auswirkung wird er schon haben, der Wechsel von Scott Forstall (Apple Senior Vice President of Industrial Design a.D., ich liebe diesen Titel) zu Jony Ive. Es ist weithin bekannt, kann aber nicht oft genug wiederholt werden, weil es so schön ist (und überall immer und immer wiederholt wird): Ive ist keine Freund des Skeumorphimus, der sich bisher wie ein roter Faden durch das iOS Interface Design zog. Zudem sind bereits viele App oder zumindest deren Homescreenicons zum _flat design_ übergegangen, à la mode sozusagen.
 
-![Logo der WWDC](/img/wwdc.jpg)
+![Logo der WWDC](/images/wwdc.jpg)
 
 Noch mehr Grund zum Spekulieren gibt freilich das Logo der WWDC, das viele übereinandergeschichtete _flat_ Icons zeigen könnte. Ich find's ja häßlich, also das Logo, aber das ist letztlich nicht ganz von der Hand zu weisen. Also das gibt den Ausschlag für mich und ich lege mich fest: iOS 7 wird _flat_ und zwar überall dort, wo heute der Skeumorphimus sein Unwesen treibt. Wie Windows wird es danach natürlich nicht aussehen, aber man muss wohl neidlos anerkennen, dass Microsoft hier das erste Mal designerisch richtig gelegen haben könnte. Womit Ive endgültig das Gestaltungserbe des, in seinem Grab wohl permanent rotierenden, Steve Jobs endlich über Bord werfen können wird. Herzlichen Glückwunsch.
 

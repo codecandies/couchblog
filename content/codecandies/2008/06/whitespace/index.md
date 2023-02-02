@@ -9,7 +9,7 @@ keywords:
 
 _Whitespace_. Oder _Weissraum_.
 
-![Whitespace?](/img/codecandies/ZZ6244F6C1.jpg)
+![Whitespace?](/images/codecandies/ZZ6244F6C1.jpg)
 
 Das Hinzufügen von **Abstand**, Leere, Raum zwischen zwei UI-Elementen, das bezeichne ich als Whitespace. Eine Webseite braucht viel davon, denn jedes Element braucht seinen _space_, Raum, _Weissraum_. Das heisst gleichzeitig: je mehr Elemente in einer UI, einer Website versammelt sind, je mehr _whitespace_ braucht man. Doppelt soviele Elemente: doppelt soviel _Weissraum_ (philosphisch betrachtet, nicht mathematisch). Das heisst auch: **die Anzahl der Elemente auf einer Webseite ist durch deren Raum begrenzt**, heisst: auf, x Pixeln lässt sich nur eine beschränkte Anzahl Elemente und deren _whitespace_ unterbringen. Und: _Weissraum_ ist **kaum variabel**, und wird nicht durch die Größe des Elements bestimmt, das er umgibt.
 

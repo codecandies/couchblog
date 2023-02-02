@@ -7,7 +7,7 @@ keywords:
   - "Medien"
 ---
 
-![Verhältnisse sind das in der Schweiz, kopfschüttel…](/img/codecandies/chinesians1.jpg)
+![Verhältnisse sind das in der Schweiz, kopfschüttel…](/images/codecandies/chinesians1.jpg)
 
 Obwohl die [informationarchitects.ch](http://informationarchitects.ch) wie .jp ja durchaus auf Verlage als Kunden angewiesen scheinen, nehmen sie sich eher selten in ihrer Kritik am Gebahren der Verlage zurück. Find' ich super.
 

@@ -9,7 +9,7 @@ keywords:
   - "ZEIT ONLINE"
 ---
 
-![](/img/35D84138-6F36-4408-8B5A-CC5F57E77942-1024x985.jpeg)
+![](/images/35D84138-6F36-4408-8B5A-CC5F57E77942-1024x985.jpeg)
 
 Nachts, null Uhr einhalb, Großbritannien tritt völlig überraschend aus der EU aus
 

@@ -7,7 +7,7 @@ series:
   - "Wochenschau"
 ---
 
-![](/img/wochenschau-2022-16-1003x1024.jpg)
+![](/images/wochenschau-2022-16-1003x1024.jpg)
 
 Hier sehen wir den Autoren dieses Blogs höchstselbst, bei der Rettung des gedruckten Wortes. Seit Wochen nun versucht er eine innere, befriedigende Position zum Thema Krieg und Frieden zu finden, obwohl er sich ausdrücklich nur in sehr schlimmen Momenten für einen Tolstoi hält, diesen permanent mit Dostojevski verwechselt, Fjodor Michailowitsch kaum schreiben kann und im Moment ja sowieso jede\*r Russ\*in per se mehr oder weniger verdächtig ist. Nicht dass wir unseren Autoren für einen ausgesprochenen Pazifisten halten, er war bei der Bundeswehr und hat dort, einen ob des Geburtsjahrgangs dramatisch langen Grundwehrdienst abgeleistet, fiel andererseits schon während desselben unangenehm auf und konnte danach, im Zuge des ersten Irak-Krieges den Wehrdienst nachträglich verweigern, auch dank der Zeugenaussagen einiger seiner Vorgesetzten.
 

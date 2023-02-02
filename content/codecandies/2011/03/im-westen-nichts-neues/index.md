@@ -9,7 +9,7 @@ persons:
   - "Cory Doctorow"
 ---
 
-![Die Paywall der New York Times](/img/codecandies/wall.jpg)
+![Die Paywall der New York Times](/images/codecandies/wall.jpg)
 
 Zum zweiten Mal will die NYT wetten, dass ihre Leser auch im Netz die Brieftasche locker sitzen haben…
 

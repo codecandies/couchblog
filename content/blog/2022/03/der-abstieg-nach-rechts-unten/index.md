@@ -7,7 +7,7 @@ tags:
   - "Gesellschaft"
 ---
 
-![„Echoes“](/img/echoes.gif)
+![„Echoes“](/images/echoes.gif)
 
 Journalist\*in darf sich ja im Grunde jede\*r nennen. Und Journalismus darf auch jede\*r machen, ist eine reine Definitionsfrage (ist dieses Blog Journalismus?) und meist durch die Meinungs- oft durch die Pressefreiheit gedeckt. So ist die Dunkelziffer hoch und es gibt Journalismus in den seltsamsten Ecken, beispielsweise in den Verschwörer\*innenkreisen der ehemaligen sogenannten Querdenker\*innenbewegung und natürlich auch noch viel weiter rechts.
 

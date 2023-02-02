@@ -7,7 +7,7 @@ persons:
   - "Frank Zappa"
 ---
 
-![Sheik Yerbouti](/img/codecandies/ZZ695F5291.jpg){:.inline-image} Gerade singt ein Kollege irgendetwas mit »Asshole…« vor sich hin und ich muss sofort an die gute alte Zappa-Scheibe »Sheik Yerbouti« denken.
+![Sheik Yerbouti](/images/codecandies/ZZ695F5291.jpg){:.inline-image} Gerade singt ein Kollege irgendetwas mit »Asshole…« vor sich hin und ich muss sofort an die gute alte Zappa-Scheibe »Sheik Yerbouti« denken.
 
 > They live in a ho-ho-hole<br>
 > (tiny hole)<br>

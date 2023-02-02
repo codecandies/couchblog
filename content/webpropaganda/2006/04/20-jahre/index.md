@@ -5,7 +5,7 @@ tags:
   - "Gesellschaft"
 ---
 
-![tagesschau](/img/webpropaganda/tagesschau-300x225.jpg){:.inline-image} 20 Jahre ist das nun her. Zunächst vage und dann immer hysterischer prasselten die Nachrichten damals auf uns ein: in der Sowjetunion hat es einen Reaktorunfall, einen Super-GAU gegeben. Es folgten immer weitere Schreckensmeldungen über die radioaktive Wolke, die sich ausbreitete, die mutmaßliche Verseuchung von Lebensmitteln, radiokativer Regen und so fort. Neue Worte gerieten in den Sprachgebrauch, Bequerel, Sievent, Rad, Gray, die Maßeinheiten von Radioaktivität bzw. Aufnahme radioaktiver Teilchen. Einige besorgten sich Jodtabletten.
+![tagesschau](/images/webpropaganda/tagesschau-300x225.jpg){:.inline-image} 20 Jahre ist das nun her. Zunächst vage und dann immer hysterischer prasselten die Nachrichten damals auf uns ein: in der Sowjetunion hat es einen Reaktorunfall, einen Super-GAU gegeben. Es folgten immer weitere Schreckensmeldungen über die radioaktive Wolke, die sich ausbreitete, die mutmaßliche Verseuchung von Lebensmitteln, radiokativer Regen und so fort. Neue Worte gerieten in den Sprachgebrauch, Bequerel, Sievent, Rad, Gray, die Maßeinheiten von Radioaktivität bzw. Aufnahme radioaktiver Teilchen. Einige besorgten sich Jodtabletten.
 
 Ich war damals 17 und habe fleißig an Mahnwachen und Demonstrationen teilgenommen.
 

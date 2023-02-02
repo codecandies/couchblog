@@ -6,7 +6,7 @@ tags:
 coverImage: "supermarkt.jpg"
 ---
 
-![Photo by NeONBRAND on Unsplash](/img/supermarkt.jpg)
+![Photo by NeONBRAND on Unsplash](/images/supermarkt.jpg)
 
 Jetzt, so kurz vor Weihnachten, sollten wir noch einmal kurz in uns gehen und über unser Konsumverhalten nachdenken. Wir alle werden dazu viel Zeit finden, wenn wir uns am Samstag _vor_ Heiligabend in die kilometerlangen Schlangen in den Supermärkten dieses Landes anstellen. Ein stressige Situation sowieso und damit genau der richtige Moment, um einmal ordentlich abzuranten.
 

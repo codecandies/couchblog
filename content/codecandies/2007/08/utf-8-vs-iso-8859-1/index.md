@@ -7,6 +7,6 @@ keywords:
   - "Stripgenerator"
 ---
 
-![](/img/codecandies/utf8man.png)
+![](/images/codecandies/utf8man.png)
 
 Wie heisst es noch? Ach ja: Ümlaute. [UTF-8-Man](http://codecandies.stripgenerator.com/2007/08/27/ist-es-ein-flugzeug-ein-vogel-nein.html).

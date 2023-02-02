@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Neulich im Lübecker Stadtpark.](/img/codecandies/img_0135.jpg)
+![Neulich im Lübecker Stadtpark.](/images/codecandies/img_0135.jpg)

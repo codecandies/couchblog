@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Das blendet!](/img/codecandies/20080513-183642-1.jpg)
+![Das blendet!](/images/codecandies/20080513-183642-1.jpg)

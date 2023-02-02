@@ -10,13 +10,13 @@ persons:
   - "Quentin Tarantino"
 ---
 
-![](/img/codecandies/tarantinoshot.jpg "tarantinoshot")
+![](/images/codecandies/tarantinoshot.jpg "tarantinoshot")
 
 ## Reservoir Dogs
 
 Mit [dieser Diskussion](http://www.youtube.com/v/GyR4RK0LA_E "Reservoir Dogs – Opening Scene") darüber, welcher tiefere Sinn nun in Madonnas Hit »[Like A Virgin«](http://www.youtube.com/v/xSumRwlOD68 "Madonna – Like A Virgin") zu finden ist, beginnt der erfolgreiche Teil von Quentin Tarantinos Filmkarriere und einer seiner besten Filme. Das dialoglastige Drama um einen Überfall wurde von Tarantino noch mit relative einfachen Mitteln erstellt und ist gerade deswegen besonders hervorzuheben.
 
-![trunk shot](/img/codecandies/Blonde_white_pink_trunk-shot.jpg "trunk shot")Noch dazu enthält bereits _Reservoir Dogs_ alle Eigen- und Besonderheiten, die man später mit dem filmischen Werk Tarantinos verbinden wird. Es gibt schon _trunk shots_ (siehe Foto), den [mexican standoff](http://www.youtube.com/v/FQ3ujsh_xC4 "mexican standoff scene") und hunderte Anspielungen und Zitate, die das Herz des Filmliebhabers höher schlagen lässt. Überhaupt: Tarantino macht Kino von einem Cineasten für Cineasten und für Musikliebhaber: die Auswahl halbvergessener 70er-Jahre Songs ergibt einen einmaligen Soundtrack.
+![trunk shot](/images/codecandies/Blonde_white_pink_trunk-shot.jpg "trunk shot")Noch dazu enthält bereits _Reservoir Dogs_ alle Eigen- und Besonderheiten, die man später mit dem filmischen Werk Tarantinos verbinden wird. Es gibt schon _trunk shots_ (siehe Foto), den [mexican standoff](http://www.youtube.com/v/FQ3ujsh_xC4 "mexican standoff scene") und hunderte Anspielungen und Zitate, die das Herz des Filmliebhabers höher schlagen lässt. Überhaupt: Tarantino macht Kino von einem Cineasten für Cineasten und für Musikliebhaber: die Auswahl halbvergessener 70er-Jahre Songs ergibt einen einmaligen Soundtrack.
 
 ## Pulp Fiction
 
@@ -60,6 +60,6 @@ Es wird weder Tarantino, noch Robert Rodriges stören, aber auch _Planet Terror_
 
 Der letzte ist zugleich Tarantinos (finanziell) erfolgreichster Film und bei acht Oskar Nominierungen – bester Film, bester Nebendarsteller (Christoph Waltz), beste Regie, bestes Originaldrehbuch, beste Kamera (Robert Richardson), bester Schnitt (Sally Menke), bester Tonschnitt (Wylie Stateman), bester Ton (Michael Minkler, Tony Lamberti and Mark Ulano) – sicherlich auch der Höchstausgezeichnete.
 
-![Screenshot](/img/codecandies/waltz.jpg)
+![Screenshot](/images/codecandies/waltz.jpg)
 
 Die lockere Art, mit der sich Tarantino seine eigene Geschichte des 2. Weltkriegs geschrieben hat, kam dabei lange nicht bei jedem an, vor allem in Deutschland zog er einen dicken Graben durch das Feuilleton. Dafür drehte Tarantino in Deutschland und castete viele deutsche Schauspieler: Daniel Brühl, Diane Kruger, Gedeon Burkhard oder Til Schweiger beispielsweise. Der **Österreicher** Christoph Waltz wird sogar als die Entdeckung des Films gefeiert. [Waltz über Tarantino](http://www.zeit.de/online/2009/34/interview-christoph-waltz?page=all "ZEIT ONLINE: Dieser Film ist ein Schweineparadies"): \[Er\] ist eine unerschöpfliche Quelle an Inspiration. Es hat etwas mit dem Energielevel zu tun, auf dem er agiert.

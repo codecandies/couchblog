@@ -8,6 +8,6 @@ keywords:
   - "Projektmanagement"
 ---
 
-[![Stripgenerator](/img/codecandies/ZZ2B338451.jpg)](http://codecandies.stripgenerator.com/2008/03/20/qualitymanagement.html "Stripgenerator Blog von Codecandies")
+[![Stripgenerator](/images/codecandies/ZZ2B338451.jpg)](http://codecandies.stripgenerator.com/2008/03/20/qualitymanagement.html "Stripgenerator Blog von Codecandies")
 
 Selten so gelacht.

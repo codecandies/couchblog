@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Der wäre doch ganz im Sinne der Bild, oder nicht?!](/img/codecandies/20120105-210418-500x666.jpg "20120105-210418.jpg")
+![Der wäre doch ganz im Sinne der Bild, oder nicht?!](/images/codecandies/20120105-210418-500x666.jpg "20120105-210418.jpg")

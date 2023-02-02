@@ -8,7 +8,7 @@ keywords:
   - "Google Plus"
 ---
 
-![Google+' Zukunft?](/img/codecandies/ghosttown.jpg "Geisterstadt")
+![Google+' Zukunft?](/images/codecandies/ghosttown.jpg "Geisterstadt")
 
 [Tatsächlich](http://www.stoweboyd.com/post/10437754444/google-is-worse-than-a-ghost-town-its-not-even)?
 

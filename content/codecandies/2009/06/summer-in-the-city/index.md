@@ -7,6 +7,6 @@ keywords:
   - "Mittagspause"
 ---
 
-![Middach!!!](/img/codecandies/middach.jpg)
+![Middach!!!](/images/codecandies/middach.jpg)
 
 Sommer in Hamburg doch kein [Oxymoron](http://de.wikipedia.org/wiki/Oxymoron).

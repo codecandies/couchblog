@@ -7,7 +7,7 @@ persons:
   - "Leonard Cohen"
 ---
 
-![Leonard Cohen *1934 †2016](/img/95D2AE3B-194E-401F-BA84-53A2406ABD44-693x1024.jpeg)
+![Leonard Cohen *1934 †2016](/images/95D2AE3B-194E-401F-BA84-53A2406ABD44-693x1024.jpeg)
 
 Leonard Cohen ist tot.
 

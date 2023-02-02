@@ -7,7 +7,7 @@ keywords:
   - "Social Media"
 ---
 
-![Map Ausschnitt](/img/codecandies/akoha1.png)
+![Map Ausschnitt](/images/codecandies/akoha1.png)
 
 Read and Feed a Blogger ???
 

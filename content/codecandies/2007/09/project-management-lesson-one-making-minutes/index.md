@@ -7,4 +7,4 @@ keywords:
   - "Projektmanagement"
 ---
 
-![Strip](/img/codecandies/ZZ6FBE90B8.jpg)
+![Strip](/images/codecandies/ZZ6FBE90B8.jpg)

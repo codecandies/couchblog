@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Klingeln](/img/wpid-wp-1404485714649.jpeg)
+![Klingeln](/images/wpid-wp-1404485714649.jpeg)

@@ -7,6 +7,6 @@ keywords:
   - "Hamburg"
 ---
 
-![](/img/abendstimmmung-1024x768.jpg)
+![](/images/abendstimmmung-1024x768.jpg)
 
 Tata tatataaa, tata tatataaa, tatatadaaaa…

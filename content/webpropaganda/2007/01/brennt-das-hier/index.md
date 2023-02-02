@@ -7,6 +7,6 @@ tags:
 
 Just vor der Tür…
 
-![ZZ3113295A](/img/webpropaganda/ZZ3113295A.jpg)
+![ZZ3113295A](/images/webpropaganda/ZZ3113295A.jpg)
 
 …macht nix, hier wird erst aufgehört zu arbeiten, wenn die Flammen durch die Tür schlagen!

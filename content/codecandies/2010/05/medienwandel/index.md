@@ -8,4 +8,4 @@ keywords:
   - "iPad"
 ---
 
-![Medienwandel](/img/codecandies/medienwandel.jpg)
+![Medienwandel](/images/codecandies/medienwandel.jpg)

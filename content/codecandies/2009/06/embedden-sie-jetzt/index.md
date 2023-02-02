@@ -11,7 +11,7 @@ keywords:
   - "Typographie"
 ---
 
-![Embedded Font im Firefox 3.5rc3](/img/codecandies/fontatfirefox.jpg)
+![Embedded Font im Firefox 3.5rc3](/images/codecandies/fontatfirefox.jpg)
 
 Mit `@font-face` lassen sich Schriften in Webseiten einbetten. Machen Sie das!
 
@@ -89,7 +89,7 @@ Nochmal zurück zur Fettung: Safari kann einige Fettungsstufen mehr anzeigen als
 
 Das geht sicherlich auch mit _keywords_ wie „light” oder „bolder” etc.
 
-![schriftenvergleich](/img/codecandies/schriftenvergleich.gif)
+![schriftenvergleich](/images/codecandies/schriftenvergleich.gif)
 
 Das Fontrendering unterscheidet sich mitunter, links Firefox, rechts Safari 4 (Mac).
 

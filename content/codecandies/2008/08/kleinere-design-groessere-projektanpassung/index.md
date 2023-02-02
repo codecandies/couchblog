@@ -7,7 +7,7 @@ keywords:
   - "Wordpress"
 ---
 
-![](/img/codecandies/ZZ1ED3CE18.jpg)
+![](/images/codecandies/ZZ1ED3CE18.jpg)
 
 Mensch, zum Glück bin ich keine Zeitung. Im Boden versinken täten deren Macher nämlich, hätten sie festzustellen, was ich festzustellen habe: nach nur zwei Ausgaben ist das Thema »[Thema](/codecandies/ressort/themen/)« schon wieder Geschichte, eine nette Idee, aber a) zu kompliziert und b) zu aufwendig. Zuviel Arbeit. Schon das zweite Thema habe ich nicht mehr mit Leben gefüllt, im Gegenteil, es dümpelte so vor sich hin.
 

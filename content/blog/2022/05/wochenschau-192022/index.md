@@ -11,7 +11,7 @@ persons:
   - "Ursula von der Leyen"
 ---
 
-![](/img/wochenschau-2022-19.jpg)
+![](/images/wochenschau-2022-19.jpg)
 
 Hier sehen wir EU-Kommission-Präsidentin Ursula von der Leyen bei der Rettung des gedruckten Wortes. Ursula, bekannt auch unter den Namen „Flintenuschi“ und „Zensursula“ übt hier die Darstellung ihrer empörten Pose, die sie politisch bis heute so weit gebracht hat. Als Tochter des ehemaligen niedersächsischen Ministerpräsidenten Ernst Albrecht, brachte sie es in der Politik quasi von der Tellerwäscherin zu wichtigsten deutschen Politikerin in Europa, in dem sie sich regelmäßig in dieser Pose produziert.
 

@@ -5,7 +5,7 @@ tags:
   - "Gelebt"
 ---
 
-![Raucherzone](/img/codecandies/ZZ37CDF545.jpg)
+![Raucherzone](/images/codecandies/ZZ37CDF545.jpg)
 
 So sieht die neueste Innovation der Bahn auf dem Hamburger Hauptbahnhof aus. Dieser gelb markierte Bereich dort, das ist der Raucherbereich auf einem Bahnsteig, außerhalb der Bahnhofshalle. Die Farbe ist noch frisch.
 

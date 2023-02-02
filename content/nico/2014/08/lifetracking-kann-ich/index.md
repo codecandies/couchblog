@@ -20,7 +20,7 @@ Anders als viele [total hippe Trackingsarmbänder](http://www.nerdizm.de/2014/03
 
 Kernfunktion des Pulse ist sicherlich das Schritte zählen. Außerdem kann man zurückgelegte Kilometer, überwundene Höhenmeter und daraus jeweils folgend, verbrauchte Kalorien ablesen. Zusammen mit der aktuellen Uhrzeit kann man all diese Werte vom Display des Pulse ablesen, nacheinander versteht sich, so groß ist das Gerät ja nicht. Das gut lesbare Display reagiert sogar auf Touchgesten, mit einem Swipe kann man in der History zurückgehen. Das ist unterwegs schon sexy. Hat man den Pulse nachts am Arm, kann man damit auch seinen Schlaf überwachen, anhand der nächtlichen Bewegungen, zeichnet das gerät auf, ob tief, flach oder gar nicht schläft. Hat man den Tracker in der Hand, kann man auch seinen Pulse messen, indem man einen Finger auf den Sensor auf der Rückseite legt. D.h. also, man muss die Pulsmessung aktiv veranlassen und es wird nicht automatisch am Arm gemessen. Mehr Sensoren hat der Pulse jetzt nicht, für weitere Lifedaten gibt es bei Withings noch weitere Produkte, bspw. ein Blutdruckmessgerät oder eine Waage. Diese Daten kann man aber auch händisch in der App eingeben.
 
-![withings_app_screens](/img/withings_app_screens.jpg)
+![withings_app_screens](/images/withings_app_screens.jpg)
 
 ## Die App
 

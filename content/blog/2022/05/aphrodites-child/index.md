@@ -11,7 +11,7 @@ persons:
   - "Kostas Ferris"
 ---
 
-![](/img/VangelisElGrecopremiere.jpg)
+![](/images/VangelisElGrecopremiere.jpg)
 
 Evangelos Odysseas Papathanassiou aka. [Vangelis](https://de.wikipedia.org/wiki/Vangelis) ist tot. Der griechischen Musiker und Komponist muss wohl zu den Pionieren der elektronischen Musik gezählt werden, der mit seinen Synthie-Soundtracks, wie zu „[Die Stunde des Siegers](https://www.youtube.com/watch?v=8a-HfNE3EIo)“ manchmal erfolgreicher war, als die Filme selbst. Unvergessen allerdings sein grandioses [Theme zu Blade Runner](https://www.youtube.com/watch?v=ccJJ0uxigVA), das einen gewichtigen Anteil an der [Athmosphäre](https://www.youtube.com/watch?v=8FeFBvL94eQ) des Streifens ausmachte.
 

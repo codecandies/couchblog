@@ -7,7 +7,7 @@ persons:
   - "Ben"
 ---
 
-![Lumis Verpackung](/img/IMG_0049.jpg "Lumis")
+![Lumis Verpackung](/images/IMG_0049.jpg "Lumis")
 
 Bei Ben gibt's einen Spieletest über [Die Arena von Tash Kalar](http://anmutunddemut.de/2015/06/02/die-arena-von-tash-kalar.html), einem, ich will jetzt nichts falsches sagen, Fantasybrettspiel. Ein guter Tipp, wie mir scheint, auch wenn Fantasyspiele, im Gegensatz zu allem anderen mit dem Prefix Fantasy-, nicht so mein Ding sind. Ich mag es eher strategisch.
 

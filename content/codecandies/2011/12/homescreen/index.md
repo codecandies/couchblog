@@ -8,6 +8,6 @@ keywords:
   - "iPhone"
 ---
 
-![Homescreens auf meinem iPhone](/img/codecandies/homescreen_686.jpg)
+![Homescreens auf meinem iPhone](/images/codecandies/homescreen_686.jpg)
 
 Was ich Euch schon lange einmal zeigen wollte: ich habe die Icons auf meinem iPhone intuitiv angeordnet. So finde ich immer alles relativ fix… allerdings kann ich derzeit keine Apps mit blauen Icons laden.

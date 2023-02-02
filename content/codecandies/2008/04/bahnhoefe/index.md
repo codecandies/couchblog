@@ -10,7 +10,7 @@ persons:
   - "Ben"
 ---
 
-![Luebeck Hbf](/img/codecandies/ZZ7E885F29.jpg)
+![Luebeck Hbf](/images/codecandies/ZZ7E885F29.jpg)
 
 Obwohl er nur höchstens einmal pro Woche unterwegs ist, also sozusagen noch Amateurstatus genießt, hat Ben über das Bahnfahren lustiges zu sagen bzw. schreiben: Hannover ist _bei kaltem Regen den Müll runterbringen müssen, während der Film Film läuft._
 

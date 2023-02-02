@@ -7,7 +7,7 @@ keywords:
   - "Musik"
 ---
 
-![2000platten](/img/codecandies/2000platten.jpg)
+![2000platten](/images/codecandies/2000platten.jpg)
 
 Meine Musikbilanz dieses Jahrzehnts anhand meiner [last.fm Albumcharts](http://www.lastfm.de/user/couchblog/charts?subtype=albums). Darin finden sich in dieser Reihenfolge folgende Alben aus dem 1. Jahrzehnt des 21. Jahrhunderts:
 

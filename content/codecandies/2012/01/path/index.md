@@ -12,7 +12,7 @@ keywords:
 
 > The smart journal that helps you share life with the ones you love.
 
-![Path für iPhone](/img/codecandies/path2.jpg)
+![Path für iPhone](/images/codecandies/path2.jpg)
 
 Das im November 2010 gegründete _soziale Netzwerk_ [Path](http://www.path.com) ist der wohl der gegenwärtige Liebling der Silicon-Valley-Kreise und hat auch schon in D/A/CH [ein wenig Aufmerksamkeit](http://netzwertig.com/2012/01/04/wunsch-nach-intimitat-path-entzuckt-von-facebook-mudigkeit-gezeichnete-geeks/ "Path entzückt von Facebook-Müdigkeit gezeichnete Geeks") auf sich gezogen. Es unterscheidet sich von anderen sozialen Netzwerken an zwei grundlegenden Punkten, das macht es überhaupt erst interessant:
 

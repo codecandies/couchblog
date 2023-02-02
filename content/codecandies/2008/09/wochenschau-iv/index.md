@@ -9,7 +9,7 @@ series:
   - "Wochenschau"
 ---
 
-[![](/img/codecandies/ZZ7E0F5F7C.jpg)](http://www.flickr.com/photos/35144704@N00/88083020/)
+[![](/images/codecandies/ZZ7E0F5F7C.jpg)](http://www.flickr.com/photos/35144704@N00/88083020/)
 
 Hier sehen sie den süddeutschen Qualitätsjournalisten Alois Kannegieser bei der pflichtgemäßen Rettung des gedruckten Wortes. Eben ist er dabei in das »Google-ist-schuld-am-Leiden-dieser-Welt«-Horn zu stossen. [Wir](http://anmutunddemut.de/taxonomy/term/3889) sind beeindruckt.
 

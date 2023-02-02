@@ -7,4 +7,4 @@ keywords:
   - "Hamburg"
 ---
 
-![Alle sprechen über das Wetter.](/img/codecandies/20120807-075443-1024x767.jpg)
+![Alle sprechen über das Wetter.](/images/codecandies/20120807-075443-1024x767.jpg)

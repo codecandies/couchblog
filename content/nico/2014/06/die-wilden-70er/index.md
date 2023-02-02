@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Rutsche](/img/wpid-img_20140621_200540.jpg)
+![Rutsche](/images/wpid-img_20140621_200540.jpg)

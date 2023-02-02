@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Regentropfen, die an mein Fentser klopfen](/img/codecandies/l-640-480-41855875-2f6c-48d5-8e67-c26fe027ccfb.jpeg)
+![Regentropfen, die an mein Fentser klopfen](/images/codecandies/l-640-480-41855875-2f6c-48d5-8e67-c26fe027ccfb.jpeg)

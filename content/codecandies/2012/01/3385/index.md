@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Wir sind alle Individuen…](/img/codecandies/mandarinen.jpg)
+![Wir sind alle Individuen…](/images/codecandies/mandarinen.jpg)

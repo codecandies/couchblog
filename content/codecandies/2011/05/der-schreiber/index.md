@@ -8,7 +8,7 @@ keywords:
   - "Editoren"
 ---
 
-![Die gute alte Schreibmaschine?](/img/codecandies/typewriter.jpg)
+![Die gute alte Schreibmaschine?](/images/codecandies/typewriter.jpg)
 
 [Distraction free writing](http://www.lifehack.org/articles/productivity/tips-and-tricks-for-distraction-free-writing.html) wurde mir versprochen, doch _distraction_, Ablenkung ist vielleicht gar nicht mein Problem. Nun liegt eine komplett weiße Seite vor mir, oben links blinkt ein blauer Cursor. Ein himmelblauer Cursor. Ist ja wie früher bei der Schreibmaschine: ein neues Blatt einspannen und… Schreibblockade. Die Angst des Autoren vor der leeren Seite, da ist sie wieder. Wie hatte ich Dich doch vermisst.
 

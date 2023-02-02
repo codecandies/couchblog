@@ -8,8 +8,8 @@ keywords:
   - "Dänemark"
 ---
 
-![The Royal Café.](/img/codecandies/smushi.jpg)
+![The Royal Café.](/images/codecandies/smushi.jpg)
 
-![Ausblick vom runden Turm](/img/codecandies/runderturm.jpg)
+![Ausblick vom runden Turm](/images/codecandies/runderturm.jpg)
 
-![Cupcakes bei Agnes.](/img/codecandies/cupcakes.jpg)
+![Cupcakes bei Agnes.](/images/codecandies/cupcakes.jpg)

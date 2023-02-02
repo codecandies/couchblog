@@ -7,4 +7,4 @@ keywords:
   - "Bremen"
 ---
 
-![Alte Heimat.](/img/codecandies/20120301-151752.jpg)
+![Alte Heimat.](/images/codecandies/20120301-151752.jpg)

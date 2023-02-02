@@ -7,4 +7,4 @@ keywords:
   - "Amsterdam"
 ---
 
-![](/img/image_540456677468119.jpg)
+![](/images/image_540456677468119.jpg)

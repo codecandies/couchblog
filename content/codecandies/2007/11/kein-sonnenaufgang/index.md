@@ -9,6 +9,6 @@ tags:
 
 … den habe ich verpasst, aber dafür ein früher Blick aus dem Hotelfenster:
 
-![](/img/codecandies/hotelfenster.jpg)
+![](/images/codecandies/hotelfenster.jpg)
 
 Siehe dazu auch [Anmut und Demut: Sonnenaufgang](http://anmutunddemut.de/2007/11/03/sonnenaufgang-125/).

@@ -12,7 +12,7 @@ Wer hat uns verraten? Sozialdemokraten! Der Sponti-Spruch wird nun endgültig zu
 
 Was sich in Wirklichkeit ahnen lässt ist etwas anderes, nämlich dass die Zusammenarbeit nie beendet wurde. Etwas anderes anzunehmen halte ich für extrem naiv. Die **NSA hat Deutschland angezapft** und zwar über dessen eigenen Geheimdienst. Es gibt keinen Grund, eine derartige Zusammenarbeit zu beenden, ausser Entdeckung und inzwischen muss man wohl galuben, dass nicht mal das ein Problem für Geheimdienstler und ihre Auftraggeber darstellt.
 
-![nas-man 1](/img/full-1.png)
+![nas-man 1](/images/full-1.png)
 
 Noch mehr Sozialdemokratie? Gerne.
 

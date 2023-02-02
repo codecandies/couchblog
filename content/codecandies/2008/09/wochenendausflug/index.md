@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Heiligenhafen](/img/codecandies/ZZ444A4613.jpg)
+![Heiligenhafen](/images/codecandies/ZZ444A4613.jpg)

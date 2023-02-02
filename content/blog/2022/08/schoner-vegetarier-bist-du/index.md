@@ -7,4 +7,4 @@ keywords:
   - "Essen"
 ---
 
-![Leider geil.](/img/226561EC-67FC-4470-973D-F0A5DE3DA61C-scaled.jpeg)
+![Leider geil.](/images/226561EC-67FC-4470-973D-F0A5DE3DA61C-scaled.jpeg)

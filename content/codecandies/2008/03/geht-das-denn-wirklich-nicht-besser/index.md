@@ -9,4 +9,4 @@ keywords:
   - "UI"
 ---
 
-![Vergleich UI Firefox3 und Safari3](/img/codecandies/ff3safari3.png)
+![Vergleich UI Firefox3 und Safari3](/images/codecandies/ff3safari3.png)

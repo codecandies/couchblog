@@ -17,7 +17,7 @@ Vor ein paar Tagen haben unsere Backend-Kollegen einen starken Anstieg an Downlo
 
 Meiner Meinung nach haben wir es mit einem Bug in Safari zu tun. Und seit nun schon ein paar Tagen bin ich auf der Suche nach diesem Bug. Ich habe [einen Testcase gebaut](http://phpscripts.zeit.de/svg-use-testcase/) (um Knnfigurations- und Serverfehler zu vermeiden auf einem anderen Server), mit dem man das Problem nachvollziehen kann. Und nachdem ich nach langer langer Recherche sprichwörtlich nichts darüber im Netz finden konnte, habe ich einen Bug bei Apple eingetütet und ein Issue bei [svg4everybody](https://github.com/jonathantneal/svg4everybody/issues/110) erstellt, dort wird die betroffene Technik ausgiebig genutzt, die sollten sich dafür interessieren. Bisher gab es keine Reaktionen.
 
-![svguse](/img/svguse-1024x606.jpg)
+![svguse](/images/svguse-1024x606.jpg)
 
 ## Was ist denn das Problem?
 

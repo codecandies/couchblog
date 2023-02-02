@@ -8,7 +8,7 @@ keywords:
   - "Firefox"
 ---
 
-![](/img/codecandies/ZZ0AF090ED.jpg){:.inline-image} So, endlich dreht sich das Rad ein wenig weiter: Firefox 3 Beta 4 is [now available for download](http://www.mozilla.com/firefox/all-beta.html). Es sind noch ein paar Neuigkeiten dabei:
+![](/images/codecandies/ZZ0AF090ED.jpg){:.inline-image} So, endlich dreht sich das Rad ein wenig weiter: Firefox 3 Beta 4 is [now available for download](http://www.mozilla.com/firefox/all-beta.html). Es sind noch ein paar Neuigkeiten dabei:
 
 - das UI wurde weiter verbessert: mit einer verbesserten Suche im Download Manager, Änderungen an der Zooming-Funktion (wählbar zwischen Text- und Pagezoom), sowie allgemeine Änderungen am Look-And-Feel unter allen OS.
 - das _Sitehinting_ in der Location Bar soll verbessert worden sein, durch einen Mechanismus, der “frecency” (recency and frequency) genannt wird: anhand des Zeitpunkts des letzten Besuchs und der Häufigkeit schlägt die Location Bar Destinationen vor. Da bin ich gespannt, das funktionierte in den vorigen Versionen nicht so gut.

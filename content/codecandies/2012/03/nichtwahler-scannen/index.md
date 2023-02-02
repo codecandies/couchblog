@@ -8,4 +8,4 @@ keywords:
   - "Piratenpartei"
 ---
 
-![Toll, jetzt mit QR Code.](/img/codecandies/20120327-081815.jpg)
+![Toll, jetzt mit QR Code.](/images/codecandies/20120327-081815.jpg)

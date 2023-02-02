@@ -7,4 +7,4 @@ keywords:
   - "considered harmful"
 ---
 
-![](/img/codecandies/20120107-1807111.jpg)
+![](/images/codecandies/20120107-1807111.jpg)

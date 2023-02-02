@@ -8,7 +8,7 @@ keywords:
   - "Video"
 ---
 
-[![Screenshot](/img/codecandies/ZZ66C0A413.jpg)](http://de.nicovideo.jp/)
+[![Screenshot](/images/codecandies/ZZ66C0A413.jpg)](http://de.nicovideo.jp/)
 
 …naja, so halb.
 

@@ -7,6 +7,6 @@ keywords:
   - "Cismar"
 ---
 
-![](/img/img_0241-1024x768.jpg)
+![](/images/img_0241-1024x768.jpg)
 
 Abendspaziergänge, die Leben retten

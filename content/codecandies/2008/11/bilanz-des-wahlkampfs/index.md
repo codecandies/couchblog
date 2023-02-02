@@ -7,4 +7,4 @@ keywords:
   - "USA"
 ---
 
-![CNN](/img/codecandies/vlcsnap-10915997.png)
+![CNN](/images/codecandies/vlcsnap-10915997.png)

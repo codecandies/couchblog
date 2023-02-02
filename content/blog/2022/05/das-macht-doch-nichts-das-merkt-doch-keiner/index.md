@@ -10,7 +10,7 @@ persons:
   - "Hans Scheibner"
 ---
 
-![](/img/hans_scheibner.jpg)
+![](/images/hans_scheibner.jpg)
 
 Hans Scheibner ist tot. Der Satiriker, Kabarettist und Liedermacher aus Hamburg war stets umstritten, den Konservativen war er zu links, den Linken zu konservativ, dabei war Hans Scheibner primär eins: konsequent. Selten bis nie ruderte er nach einem der von ihm zahlreich verursachten „Eklats“ wieder zurück und sorgte so für mehr als einen Knick in seiner langen Karriere. Ich finde das bewundernswert.
 

@@ -8,4 +8,4 @@ keywords:
   - "Video"
 ---
 
-[![](/img/codecandies/letterman-500x271.png "letterman")](https://www.youtube.com/watch?v=rJ214Md00vs)
+[![](/images/codecandies/letterman-500x271.png "letterman")](https://www.youtube.com/watch?v=rJ214Md00vs)

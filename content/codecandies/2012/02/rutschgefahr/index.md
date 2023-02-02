@@ -7,4 +7,4 @@ keywords:
   - "Hamburg"
 ---
 
-![Eisgang](/img/codecandies/20120213-231227.jpg)
+![Eisgang](/images/codecandies/20120213-231227.jpg)

@@ -7,7 +7,7 @@ keywords:
   - "Mobile"
 ---
 
-![](/img/codecandies/ZZ03364E1A.jpg)
+![](/images/codecandies/ZZ03364E1A.jpg)
 
 Es ist manchmal erschreckend, wie gleichgültig man den kleinen Dingen des Lebens gegenüber steht und ist man gezwungen auf sie zu achten, wie blöd man dastehen kann.
 

@@ -9,7 +9,7 @@ keywords:
   - "HTML"
 ---
 
-![Feiner Button](/img/codecandies/ZZ644563B1.jpg){:.inline-image} In [Feine Formulare I](/codecandies/2008/05/13/feine-formulare/) hatte ich meine Methode von `<input />`s vorgestellt, damit aus einem Formular aber ein _feines_ Formular wird, brauchen wir noch mind. ein weiteres Element: den (Absende-)Button. Darum kümmern wir uns also heute.
+![Feiner Button](/images/codecandies/ZZ644563B1.jpg){:.inline-image} In [Feine Formulare I](/codecandies/2008/05/13/feine-formulare/) hatte ich meine Methode von `<input />`s vorgestellt, damit aus einem Formular aber ein _feines_ Formular wird, brauchen wir noch mind. ein weiteres Element: den (Absende-)Button. Darum kümmern wir uns also heute.
 
 Vorne weg: am Anfang sollte die Frage stehen, ob man überhaupt einen _gestylten_ Button braucht. Das Problem ist so alt wie Adam und Eva und an diesem Thema werden wohl immer Designer und Entwickler aneinander geraten. Fakt ist: verschiedene Browser unter verschiedenen Betriebssystemen stellen (Submit-)Buttons unterschiedlich dar. Allerdings: sie tun dies jeweils konsistent. Nimmt man also an den Buttons kein wie auch imme geartetes Styling vor, sehen die Buttons **in einem** Browser immer gleich aus. Nur eben halt nicht über mehrere Browser. Und bevorzugt der Entwickler das, was der Browser anbietet, will der Designer meist **den immer gleichen Button auf der gesamten Site**.
 

@@ -7,7 +7,7 @@ tags:
 
 Es ist einfacher jene US-Bundesstaaten aufzuzählen, in denen die [Todesstrafe](http://de.wikipedia.org/wiki/Todesstrafe_in_den_Vereinigten_Staaten) abgeschafft ist, als umgekehrt: Alaska, Connecticut, Hawaii, Illinois, Iowa, Maine, Massachusetts, Michigan, Minnesota, North Dakota, New Mexico, Rhode Island, Vermont, West Virginia, Wisconsin, District of Columbia, Puerto Rico, New Jersey und New York. Oregon hat die Todesstrafe auf unbestimmte Zeit ausgesetzt. In New Mexico und Maryland warten noch Kandidaten auf ihre Hinrichtung, die vor Abschaffung der Strafe verurteilt wurden. In allen anderen Staaten wird die Todesstrafe vollzogen.
 
-![Execution tonight](/img/2927451699_84129f79d7_b.jpg)
+![Execution tonight](/images/2927451699_84129f79d7_b.jpg)
 
 Seit 1976, nach einer vom Obersten Bundesgericht verordneten knapp acht jährigen Pause, wieder Exekutionen in den USA stattfinden, sind mehr als 1300 Menschen hingerichtet worden. Die meisten davon, üver 500, in Texas. Über 3000 warten derzeit auf ihre Hinrichtung. Die Wartenzeit in der sogenannten Todeszelle [dauert im Schnitt 13 Jahre](http://www.wienerzeitung.at/nachrichten/archiv/58896_Quaelendes-Warten-auf-die-Exekution.html). Hingerichtet wird/wurde in den USA seit 1976 durch Erschießen, Erhängen, mit der Gaskammer, dem elektrischen Stuhl, in der Mehrzahl aber durch die Giftspritze.
 

@@ -8,4 +8,4 @@ keywords:
   - "Scrum"
 ---
 
-![](/img/scrum-plan.jpg)
+![](/images/scrum-plan.jpg)

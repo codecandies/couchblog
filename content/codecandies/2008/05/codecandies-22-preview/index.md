@@ -9,7 +9,7 @@ keywords:
 
 So, die erste Woche ist fast rum, Zeit für eine kurze Bilanz. Viele Kleinigkeiten, wie die zu unscheinbaren Submitbuttons, die fehlende Verlinkung des Logos und ein paar Anzeigebugs habe ich direkt beseitigt. Zusätzlich habe ich die Anzeige von Links in den Linktipps (meist via) repeariert, und da auch die Linktipps kommentiert werden (sehr schön), dort eine Kommentarzählung hinzugefügt.
 
-![Nutzerdaten](/img/codecandies/ZZ59A02F05.png)
+![Nutzerdaten](/images/codecandies/ZZ59A02F05.png)
 
 Die letzten Tage: Relaunch hoch, Pfingsten runter…
 

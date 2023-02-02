@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![So. Fertig. Feierabend.](/img/codecandies/3081916267_1782229778_b.jpg)
+![So. Fertig. Feierabend.](/images/codecandies/3081916267_1782229778_b.jpg)

@@ -9,4 +9,4 @@ keywords:
   - "Webinale"
 ---
 
-![Auf geht's…](/img/codecandies/ZZ7725C477.jpg)
+![Auf geht's…](/images/codecandies/ZZ7725C477.jpg)

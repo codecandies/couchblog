@@ -9,6 +9,6 @@ keywords:
   - "Nordsee"
 ---
 
-![heimat-eins](/img/IMG_0618-1024x768.jpg)
+![heimat-eins](/images/IMG_0618-1024x768.jpg)
 
 Mein Heimat ist die Nordsee.

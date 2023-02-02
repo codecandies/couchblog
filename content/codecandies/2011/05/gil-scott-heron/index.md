@@ -7,7 +7,7 @@ persons:
   - "Gil Scott-Heron"
 ---
 
-![Gil Scott-Heron](/img/codecandies/gsh.jpg)
+![Gil Scott-Heron](/images/codecandies/gsh.jpg)
 
 … ist tot.
 

@@ -7,6 +7,6 @@ tags:
 
 Sven sagt, das war schon überall, aber egal:
 
-![](/img/couchblog/nemo.jpg)
+![](/images/couchblog/nemo.jpg)
 
 Via [orangemedia.de](http://www.orangemedia.de/) Mail-Fun-Ordner.

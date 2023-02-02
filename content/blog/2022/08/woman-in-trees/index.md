@@ -7,7 +7,7 @@ keywords:
   - "Anne Heche"
 ---
 
-![](/img/06E292FB-F15A-4FEF-873C-5AEBDF28BA6F.jpeg)
+![](/images/06E292FB-F15A-4FEF-873C-5AEBDF28BA6F.jpeg)
 
 Anne Heche ist tot.
 

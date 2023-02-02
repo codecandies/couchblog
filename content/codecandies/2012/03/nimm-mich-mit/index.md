@@ -7,4 +7,4 @@ keywords:
   - "Bahn"
 ---
 
-![Ausgesetzt.](/img/codecandies/20120304-170150.jpg)
+![Ausgesetzt.](/images/codecandies/20120304-170150.jpg)

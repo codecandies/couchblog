@@ -8,6 +8,6 @@ keywords:
   - "Software"
 ---
 
-![Espresso](/img/codecandies/espressoshot.png "espressoshot")
+![Espresso](/images/codecandies/espressoshot.png "espressoshot")
 
 Ich teste gerade [Espresso](http://macrabbit.com/espresso/), ein Webdevelopment-Editor aus dem Hause [MacRabbit](http://macrabbit.com/), die auch CSSEdit gemacht haben. Sehr vielversprechend!

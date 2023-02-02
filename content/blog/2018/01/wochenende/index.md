@@ -6,4 +6,4 @@ tags:
   - "Geknipst"
 ---
 
-![#nogroko](/img/nogroko.jpg)
+![#nogroko](/images/nogroko.jpg)

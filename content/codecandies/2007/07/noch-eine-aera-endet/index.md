@@ -9,7 +9,7 @@ keywords:
   - "DJing"
 ---
 
-![Smac First](/img/codecandies/smacfirst.jpg)
+![Smac First](/images/codecandies/smacfirst.jpg)
 
 Nach roundabout 20 Jahren und 5,3 Milliarden Betriebsstunden musste ich mich heute von meinem Ecler SMAC First verabschieden, der soeben irreparabel über den Jordan gegangen ist, schnüff. Hat mir (und vielleicht auch ein paar anderen) viele Stunden versüsst. Zum einen, weil es sich um einen sehr robusten Battlemixer handelte, zum anderen, weil er so handlich ist und prima zwischen zwei Decks auch noch auf Muttis Küchentisch Platz fand, habe ich ihn in den ganz harten Zeiten ziemlich oft mit mir herumgeschleppt. Ich erinnere mich da an so einige lustige Afterhours…
 

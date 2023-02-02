@@ -10,7 +10,7 @@ persons:
   - "Dave Winer"
 ---
 
-![The Facebook Angst](/img/codecandies/facebookangst.jpg)
+![The Facebook Angst](/images/codecandies/facebookangst.jpg)
 
 Gleich vor dem Papst rangierte letzte Woche die Diskussion um die neuen Facebookfunktionen auf Platz 1 meiner Feedlisten. Grund genug, meinen Senf dazu beizusteuern.
 

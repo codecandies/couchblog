@@ -7,6 +7,6 @@ keywords:
   - "Mobile"
 ---
 
-![Neulich beim Edeka…](/img/codecandies/IMG_0541-e1268174563309.jpg)
+![Neulich beim Edeka…](/images/codecandies/IMG_0541-e1268174563309.jpg)
 
 Wirklich albern.

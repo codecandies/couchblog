@@ -8,7 +8,7 @@ keywords:
   - "Umweltprämie"
 ---
 
-![](/img/codecandies/umweltpraemie.jpg "umweltpraemie")
+![](/images/codecandies/umweltpraemie.jpg "umweltpraemie")
 
 Michael Schumacher kehrt in den Formel-1-Sport zurück, man hört mit einer Gage von 7 Millionen Euro jährlich.
 

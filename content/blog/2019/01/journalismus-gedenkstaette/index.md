@@ -6,4 +6,4 @@ tags:
   - "Gesehen"
 ---
 
-![Der Spiegel, Hamburg](/img/7FDB32F7-E9BF-4888-9EF5-0B1BE3DE5127-1024x768.jpeg)
+![Der Spiegel, Hamburg](/images/7FDB32F7-E9BF-4888-9EF5-0B1BE3DE5127-1024x768.jpeg)

@@ -5,6 +5,6 @@ tags:
   - "Geknipst"
 ---
 
-![](/img/marmot.jpg)
+![](/images/marmot.jpg)
 
 Fotoartist: Jan Paul Bauer (weil ich in Berlin versauer… hust, hust).

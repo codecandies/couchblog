@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Wakenitz, zugefroren](/img/codecandies/20120212-184026.jpg)
+![Wakenitz, zugefroren](/images/codecandies/20120212-184026.jpg)

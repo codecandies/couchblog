@@ -11,7 +11,7 @@ persons:
   - "Julian Assange"
 ---
 
-![](/img/free-assange-1000x670-1.jpg)
+![](/images/free-assange-1000x670-1.jpg)
 
 „Freedom of Speech“, ist ein, neben dem Recht auf das Tragen von Waffen, bis zu seiner Verkehrung ausgewalztes Supergrundrecht in den USA. Super ist daran vor allem, dass es nur für US-Amerikaner gilt. Und offenbar nur, solange niemand die illegalen, undemokratischen und kriegsverbrecherischen Tätigkeiten von US-Regierungen und ihrer Behörden aufdeckt. Dann fegt der Racheengel USA alle Grundrechte beiseite.
 

@@ -13,7 +13,7 @@ persons:
 
 Dass der (Wahl-) Berliner Zeichner Flix nach „[Spirou in Berlin](https://www.carlsen.de/softcover/spirou-und-fantasio-spezial-31-spirou-berlin/978-3-551-72119-8)“ zum zweiten Mal für den Carlsen Verlag eine Geschichte aus dem [Spirou & Fantasio](https://de.wikipedia.org/wiki/Spirou_und_Fantasio) Universum erzählen darf, wäre für sich allein gestellt schon eine wunderbare Sache. Was er in „[Das Humboldt-Tier](https://www.carlsen.de/hardcover/das-humboldt-tier-ein-marsupilami-abenteuer/978-3-551-78168-0)“ daraus macht, übertrifft allerdings jede Erwartung.
 
-![](/img/marsu-scaled.jpeg)
+![](/images/marsu-scaled.jpeg)
 
 Flix zeichnet der bekannten [Marsupilami](https://de.wikipedia.org/wiki/Marsupilami)\-Geschichte ein Prequel an den Leib, das mit allen Wassern gewaschen ist. Nicht nur, dass das Marsupilami schon lange, bevor es Spirou und Fantasio im palumbischen Urwald entdecken, längst von zwei anderen Europäern entdeckt wurde. Es sind ausgerechnet [Alexander von Humboldt](https://de.wikipedia.org/wiki/Alexander_von_Humboldt) und sein Begleiter [Aimé Bonpland](https://de.wikipedia.org/wiki/Aim%C3%A9_Bonpland), dem das fleckige Urwaldmonster in den Schoß fällt sozusagen. Und wie alles packt Humboldt es einfach ein, versehentlich eingeschläfert … damit es dann im Berlin 1931 wieder aufwacht, um dort für reichlich lustigen Aufruhr zu sorgen.
 

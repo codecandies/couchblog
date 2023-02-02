@@ -13,7 +13,7 @@ Nach einigen turbolenten Wochen ist seit gestern die _neue_ Kommentarcommunity d
 
 Wir haben mit Drupal (deutschspr. Seite: [drupalcenter.de](http://drupalcenter.de)) inzwischen sehr gute Erfahrungen gesammelt und es mit Hilfe von _open-source_ Modulen aus der Drupalcommunity und Selbstgeschriebenem (hauptsächlich gebaut von unseren Partnern bei [Erdfisch](http://erdfisch.de/)) die nächste Ausbaustufe unserer Community umgesetzt und die Basis für eine modulare Weiterentwicklung gelegt. Dabei handelt es sich diesmal weniger um die berühmt berüchtigte Betaversion einer Community, sondern eher um Phase 1.
 
-![Screenshot](/img/codecandies/ZZ028A9217.jpg)
+![Screenshot](/images/codecandies/ZZ028A9217.jpg)
 
 Die Kommentarcommunity hat sich dabei vom reinen Kommentarsystem für ZEIT-Artikel zu einer PLattform für lesende, nachrichteninteressierte und schreibende Besucher entwickelt. Mitglieder der Community können – wie gehabt – ZEIT-Artikel kommentieren, aber auch selbst Beiträge verfassen. Jedes Mitglied hat ein – je nach Wunsch mehr oder weniger – ausführliches Profil, mit _Avatar_, sprich Nutzerbild, das an jedem Artikel und Kommentar angezeigt wird. Über das interne Nachrichtensystem können die Mitglieder Nachrichten aneinander verschicken.
 

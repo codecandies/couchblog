@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Wenn bei Capri die rote Sonne und so weiter](/img/capri.jpg)
+![Wenn bei Capri die rote Sonne und so weiter](/images/capri.jpg)

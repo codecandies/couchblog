@@ -8,4 +8,4 @@ keywords:
   - "Comic"
 ---
 
-![Optimismus kann ich mir nicht leisten.](/img/happy_new_year.png)
+![Optimismus kann ich mir nicht leisten.](/images/happy_new_year.png)

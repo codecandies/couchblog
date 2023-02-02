@@ -8,6 +8,6 @@ keywords:
   - "Hamburg"
 ---
 
-![Fertsch.](/img/heimat-drei-1024x768.jpg)
+![Fertsch.](/images/heimat-drei-1024x768.jpg)
 
 Fertsch.

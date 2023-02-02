@@ -7,4 +7,4 @@ tags:
   - "Geknipst"
 ---
 
-![Suppe.](/img/codecandies/20120229-084932.jpg)
+![Suppe.](/images/codecandies/20120229-084932.jpg)

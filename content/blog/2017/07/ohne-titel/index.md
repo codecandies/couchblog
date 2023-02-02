@@ -5,4 +5,4 @@ tags:
   - "Gestorben"
 ---
 
-![](/img/monkey.png)
+![](/images/monkey.png)

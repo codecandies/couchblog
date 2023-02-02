@@ -5,5 +5,5 @@ tags:
   - "Geknipst"
 ---
 
-![Pressehaus, Hamburg.](/img/codecandies/img_0173.jpg)
+![Pressehaus, Hamburg.](/images/codecandies/img_0173.jpg)
 

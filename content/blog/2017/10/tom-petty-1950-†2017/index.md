@@ -11,7 +11,7 @@ persons:
   - "Tom Petty"
 ---
 
-![Tom Petty *1950 †2017](/img/DC8DAB35-A708-4324-9220-A4685638CCE4-1024x683.jpeg)
+![Tom Petty *1950 †2017](/images/DC8DAB35-A708-4324-9220-A4685638CCE4-1024x683.jpeg)
 
 Ich halte im Grunde wenig vom Südstaatensound, ungefähr soviel wie von Bob Dylan. In diesem Sinne ist heute schwer zu sagen, was mich an Tom Petty eigentlich ansprach, aber trotz seiner Beziehung zu Dylan (man denke nur an die fürchterlichen Travelling Wilburys), war er der amerikanische Musiker in der Rockfolkcountryecke, den ich noch am ehesten mochte.
 

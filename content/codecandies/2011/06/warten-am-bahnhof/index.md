@@ -7,4 +7,4 @@ keywords:
   - "Deutsche Bahn"
 ---
 
-![Und i warte auffen Zug, aber er kommt nit](/img/codecandies/tilt_shift_station.jpg)
+![Und i warte auffen Zug, aber er kommt nit](/images/codecandies/tilt_shift_station.jpg)

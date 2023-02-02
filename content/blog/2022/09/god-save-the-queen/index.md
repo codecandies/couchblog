@@ -8,7 +8,7 @@ keywords:
   - "UK"
 ---
 
-![](/img/godsavethequeen.jpeg)
+![](/images/godsavethequeen.jpeg)
 
 > God save the queen  
 > she's not a human being  

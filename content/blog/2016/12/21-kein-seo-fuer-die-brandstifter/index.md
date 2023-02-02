@@ -20,7 +20,7 @@ Stattdessen sollten wir endlich deren Themen in der Diskussion positiv besetzen,
 
 Macht kein SEO für Nazis, sondern gegen sie.
 
-![Zitat Jens Stoltenberg](/img/norway_q-1024x633.jpg)
+![Zitat Jens Stoltenberg](/images/norway_q-1024x633.jpg)
 
 
 

@@ -7,7 +7,7 @@ keywords:
   - "Medien"
 ---
 
-![Es ist das Ende…](/img/codecandies/19189771_665aec9004.jpg)
+![Es ist das Ende…](/images/codecandies/19189771_665aec9004.jpg)
 
 Im dritten Jahr nörgle ich nun am Page-Impression-System herum, z.B. [hier](/codecandies/2008/08/13/die-pi-an-sich-ist-unverkaeuflich/), [hier](/codecandies/2007/03/16/pi-considered-harmful/) und [hier](/codecandies/2007/02/10/zur-hoelle-mit-den-pis-please/). Um es kurz zu machen: **ich wurde erhört.**
 

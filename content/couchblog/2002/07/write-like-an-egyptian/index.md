@@ -5,5 +5,5 @@ tags:
   - "Gefunden"
 ---
 
-[![Nico](/img/couchblog/hyroname.png)](https://www.penn.museum/cgi/hieroglyphsreal.php "Dein Name in Hyroglyphen?")
+[![Nico](/images/couchblog/hyroname.png)](https://www.penn.museum/cgi/hieroglyphsreal.php "Dein Name in Hyroglyphen?")
 

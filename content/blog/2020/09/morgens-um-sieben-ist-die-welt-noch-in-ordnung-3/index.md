@@ -7,6 +7,6 @@ keywords:
   - "Strand"
 ---
 
-![Strand von Ahrendshoop auf dem Darß](/img/A82F569B-7DF5-4AEC-BCEA-5FB1C6F8FC56-1024x768.jpeg)
+![Strand von Ahrendshoop auf dem Darß](/images/A82F569B-7DF5-4AEC-BCEA-5FB1C6F8FC56-1024x768.jpeg)
 
 Arbeiten, wo andere Urlaub machen.

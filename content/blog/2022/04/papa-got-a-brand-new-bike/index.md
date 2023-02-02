@@ -8,6 +8,6 @@ keywords:
   - "Lübeck"
 ---
 
-![](/img/img_1298.jpg)
+![](/images/img_1298.jpg)
 
 Elektrofahrrad elektrisiert.

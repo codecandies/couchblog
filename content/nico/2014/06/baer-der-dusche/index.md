@@ -11,6 +11,6 @@ Was der Bär macht ist, dass er nachts unser Bad benutzt, genauer gesagt die Dus
 
 Falls ich ihn mal treffe, erkenne ich ihn sofort. Er hat die gleiche Haarfarbe wie meine Frau.
 
-![Duschbär](/img/duschbaer.png)
+![Duschbär](/images/duschbaer.png)
 
 (Hinweis: Heute diese Zeichnung gemacht, sollte eigentlich ein _elephant in the room_ werden, aber irgendwie ist ein Bär in der Dusche dabei herausgekommen.)

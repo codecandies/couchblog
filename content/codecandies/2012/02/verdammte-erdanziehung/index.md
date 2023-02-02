@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Schaum.](/img/codecandies/20120224-073123.jpg)
+![Schaum.](/images/codecandies/20120224-073123.jpg)

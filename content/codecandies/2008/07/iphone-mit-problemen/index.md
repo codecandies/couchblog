@@ -9,7 +9,7 @@ persons:
   - "Steve Jobs"
 ---
 
-![](/img/codecandies/ZZ364A2EFC.jpg)
+![](/images/codecandies/ZZ364A2EFC.jpg)
 
 Es war so klar. Endlich, als ich ein iPhone in den Händen halte, stellt sich postwendend heraus, dass die tolle neue Welt – iphone OS 2.0, AppStore und die Apps darin – [nicht so toll sind, wie man sich das vorgestellt hat](http://arstechnica.com/journals/apple.ars/2008/07/28/iphone-app-store-problems-causing-more-than-just-headaches).
 

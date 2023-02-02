@@ -7,6 +7,6 @@ keywords:
   - "considered harmful"
 ---
 
-![telco](/img/codecandies/telco.jpg)
+![telco](/images/codecandies/telco.jpg)
 
 Vollbeschäftigt.

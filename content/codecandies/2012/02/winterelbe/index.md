@@ -8,6 +8,6 @@ keywords:
 ---
 
 
-[![Video: Eis auf der Elbe. Letztes Wochenende.](/img/codecandies/winterelbe.png)](https://www.youtube.com/watch?v=RaPEngHb90s)
+[![Video: Eis auf der Elbe. Letztes Wochenende.](/images/codecandies/winterelbe.png)](https://www.youtube.com/watch?v=RaPEngHb90s)
 
 Ich mag Hamburg.

@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Kann mich bitte mal jemand wecken, bin ja schon fast am Bahnhof.](/img/codecandies/4187216096_37e6c7436d_b.jpg)
+![Kann mich bitte mal jemand wecken, bin ja schon fast am Bahnhof.](/images/codecandies/4187216096_37e6c7436d_b.jpg)

@@ -9,7 +9,7 @@ series:
   - "Wochenschau"
 ---
 
-![](/img/codecandies/577959154_121e3b49ba_o.png)
+![](/images/codecandies/577959154_121e3b49ba_o.png)
 
 Unser Bild zeigt die Qualitätsjournalistinanwärterinnen Luisa, Martha, Juniper und Henna _Hesketh-Fortescue_ (v.l.n.r.) auf einem Ausbildungsseminar in der Nähe von _North Cothelstone Hall_, bei der Rettung des gedruckten Wortes. Während Martha, Juniper und Henna sich entschlossen haben, der aktuellen Weltwirschaftsfinanzbankenkrise mit einem Lächeln entgegenzutreten – weil man ja eh' nicht erklären kann, warum plötzlich alles wertlos geworden ist – zeigt Luisa der Nachrichtenlage ihr ablehnenstes Gesicht um selbige endgültig zu verschrecken.
 

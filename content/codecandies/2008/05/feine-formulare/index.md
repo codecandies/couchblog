@@ -9,7 +9,7 @@ keywords:
   - "CSS"
 ---
 
-![Feines Formular](/img/codecandies/ZZ44E2CD5C.jpg){:.inline-image} Man hat schon viel versucht, aber im Grunde sehen Formulare immer gleich aus, nämlich wie der Meldebogen beim Einwohnermeldeamt. Gewiß, das hat etwas gutes, denn duch die Konformität entsteht eine Zugänglichkeit auf Basis der Gewohnheit.
+![Feines Formular](/images/codecandies/ZZ44E2CD5C.jpg){:.inline-image} Man hat schon viel versucht, aber im Grunde sehen Formulare immer gleich aus, nämlich wie der Meldebogen beim Einwohnermeldeamt. Gewiß, das hat etwas gutes, denn duch die Konformität entsteht eine Zugänglichkeit auf Basis der Gewohnheit.
 
 Trotzdem gibt es Gelegenheiten, da könnte ein Formular mal ein wenig anders gestalt sein, als Label – Umbruch – Formularfeld. Vielleicht mit einem Icon für das Wort _Name_ und einem für das Wort _Email_? Bei Formularen, die wir täglich hundertfach ausfüllen, bspw. ein Login o.ä. kann man das mal ausprobieren. Und vielleicht gewint man sogar etwas dazu, bspw. eine deutlichere Zuordung zwischen Label und Formularfeld. [So soll es am Ende aussehen.](http://projektkrematorium.de/codecandies/formular1/)
 

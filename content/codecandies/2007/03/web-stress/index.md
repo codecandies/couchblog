@@ -7,7 +7,7 @@ keywords:
   - "Webentwicklung"
 ---
 
-![440?](/img/codecandies/ZZ4B969520.jpg){:.inline-image} Wer seine Webanwendung mal so richtig unter Dampf setzen möchte, der kann dazu 1000 Beta-Tester heranziehen, die in düsteren Kellerräumen eingepfercht, stundenlang auf der neuen Site herumklicken. _Das haben wir früher so gemacht._ Bis uns ein paar nette Jungs von der Firma [Zend](http://www.zend.com/de/) heute gezeigt haben, dass es für solche Sachen natürlich auch Tools gibt (… eh, das war ein Scherz).
+![440?](/images/codecandies/ZZ4B969520.jpg){:.inline-image} Wer seine Webanwendung mal so richtig unter Dampf setzen möchte, der kann dazu 1000 Beta-Tester heranziehen, die in düsteren Kellerräumen eingepfercht, stundenlang auf der neuen Site herumklicken. _Das haben wir früher so gemacht._ Bis uns ein paar nette Jungs von der Firma [Zend](http://www.zend.com/de/) heute gezeigt haben, dass es für solche Sachen natürlich auch Tools gibt (… eh, das war ein Scherz).
 
 Microsoft bietet das [Web Application Stress Tool](http://www.microsoft.com/downloads/details.aspx?FamilyID=E2C0585A-062A-439E-A67D-75A89AA36495&displaylang=en) für lau, bei der Firma Paessler gibt's das wesentlich umfangreichere [Webserver Stress Tool](http://www.paessler.com/webstress) ab $249.95. Die kostenlose Demo lässt vermuten, dass sich die Investition wohl lohnen wird.
 

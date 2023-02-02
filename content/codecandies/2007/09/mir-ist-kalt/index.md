@@ -7,4 +7,4 @@ tags:
 
 Ein wunderschöner Wintermorgen ist das…
 
-![Wetter: kalt](/img/codecandies/ZZ7B81EC4E.jpg)
+![Wetter: kalt](/images/codecandies/ZZ7B81EC4E.jpg)

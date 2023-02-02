@@ -9,7 +9,7 @@ persons:
   - "Hans-Christian Ströbele"
 ---
 
-![](/img/stroebele.jpg)
+![](/images/stroebele.jpg)
 
 Hans-Christian Ströbele ist tot.
 

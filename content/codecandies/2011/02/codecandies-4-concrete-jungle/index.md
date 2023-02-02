@@ -9,7 +9,7 @@ keywords:
   - "HTML"
 ---
 
-![Codecandies 4, Congete Jungle](/img/codecandies/3736412583.jpg)
+![Codecandies 4, Congete Jungle](/images/codecandies/3736412583.jpg)
 
 Zuletzt hatte ich mir ja vor ungefähr einem halben Jahr [laut gedacht](/codecandies.de/2010/07/26/candies-relaunch/), dass man nicht dauernd an seinem Blog herumwerkeln könne, solle oder müsse. Tatsächlich bewundere ich Kollegen (hüstel), die seit Jahren mit dem immer gleichen Template daher kommen, geheiligt sei der hohe Wiedererkennunswert! Doch das ist meine Sache nicht. Und manchmal bedarf es nur einer Kleinigkeit, wie das Artikelbild von [Jon Díez](http://www.flickr.com/photos/maskedmalayan/), das ich für den [letzten Aufmacher](/codecandies.de/2011/01/20/hinter-dem-mobilen-proxy/) ausgewählt hatte, mir das Gefühl zu geben, mein verdammtes Blog müsse mal dringend neu angemalt werden.
 

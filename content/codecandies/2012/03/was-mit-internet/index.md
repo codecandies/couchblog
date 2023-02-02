@@ -7,4 +7,4 @@ keywords:
   - "Work"
 ---
 
-![Machen sie mal eine typische Handbewegung…](/img/codecandies/20120316-132622.jpg)
+![Machen sie mal eine typische Handbewegung…](/images/codecandies/20120316-132622.jpg)

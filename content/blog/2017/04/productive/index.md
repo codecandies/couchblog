@@ -12,7 +12,7 @@ coverImage: "4qbofr-z3bq.jpg"
 
 Viele Menschen nutzen ja To-do-Listen, um sich zu organisieren Dinge zu tun. Meine To-do-Listen sind mehr Zettelsammlungen, oft reicht es mir nämlich, eine Sache _aufgeschrieben_ zu haben, um sie dann auch zu tun. Das hat bei den To-do-Listen-Apps nie so gut geklappt, hier sammle ich eher Themen für eine wesentliche spätere Abarbeitung. Schwierig fällt es mir eher, in meinem täglichen kreativen Chaos die _regelmäßigen_ Dinge zu tun, die lästigen wiederkehrenden Aufgaben. Für dieses Problem gibt es natürlich eine iPhone-App: [Productive](http://productiveapp.io/).
 
-![](/img/productive-1-169x300.jpg)
+![](/images/productive-1-169x300.jpg)
 
 Mit einer Mischung aus regelmäßiger To-do-Liste, Erinnerungsfunktion und etwas Gamification will der _habits & daily goals tracker_ einem die täglichen Routinen beibiegen, die man leider allzu oft vergisst. Das kann Zähneputzen, Medikamente einnehmen, Wasser trinken, Spazieren gehen, Wäsche waschen, die Wohnung putzen, Meditieren, ein Hobby ausüben, oder Sport machen sein, um nur ein paar Beispiele aus den vorbereiteten Tasks zu nennen. Natürlich kann man auch selbst Aufgaben hinzufügen. Eine Aufgabe enthält, neben ihrer Beschreibung, einen Zeitplan wann und wie oft sie auszuführen ist. Und so zeigt und erinnert einen Productive dann für dahin an die kleinen lästigen Dinge, die man immer vergisst.
 

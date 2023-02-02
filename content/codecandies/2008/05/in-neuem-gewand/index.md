@@ -12,7 +12,7 @@ Kollege [ben_](http://anmutunddemut.de) drängt seit Tagen darauf, ich möge die
 
 Für mich das schönste am neuen Codecandies ist die Rückbesinnung auf das alte. Im Logo taucht wieder der gute alte »sports guy« auf, den ganz treue Leserinnen und Leser nach aus der frühen [Couchblog](http://web.archive.org/web/20020926075602/http://www.couchblog.de/)\-Zeit kennen. \[Ja, wir hatten ja nichts damals, ausser Movable Type, den Schockwellenreiter und ein FTP-Programm.\] Die Figur entstammt einem [freien TrueType-Font](http://www.1001fonts.com/font_details.html?font_id=381), den ich schon hundert Jahre auf meiner Platte habe und ist dort das einzig brauchbare Zeichen. Rückkehr zum alten Logo bedeutet aber natürlich auch: Rückbesinnung auf die alten Tugenden… blah… fasel…
 
-![Animation](/img/codecandies/anim1.gif)
+![Animation](/images/codecandies/anim1.gif)
 
 Damit ist es mit der Rückbesinnung aber auch schon vorbei, mit dem neuen Theme startet Codecandies nun wieder voll durch. Will sagen: die Zeiten in denen ich nur so nebenbei mein Blog mit RSS-Meldungen gefüttert habe, sind erstmal vorbei. Ich will mal versuchen, eine Schippe drauf zu legen…
 

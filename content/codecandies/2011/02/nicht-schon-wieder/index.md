@@ -8,6 +8,6 @@ keywords:
   - "Lübeck"
 ---
 
-![](/img/codecandies/tumblr_lgncmvjGBT1qexz9fo1_500.jpg "Winterbild")
+![](/images/codecandies/tumblr_lgncmvjGBT1qexz9fo1_500.jpg "Winterbild")
 
 Ich hab an sich genug Winter gehabt!

@@ -5,7 +5,7 @@ tags:
   - "Gesehen"
 ---
 
-![](/img/02E35434-B8E4-4333-A185-4B3232F67DA3.jpeg)
+![](/images/02E35434-B8E4-4333-A185-4B3232F67DA3.jpeg)
 
 Patrick Stewart
 

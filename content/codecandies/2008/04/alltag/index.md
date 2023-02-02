@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Lübeck Hbf](/img/codecandies/20080418-075838-1.jpg)
+![Lübeck Hbf](/images/codecandies/20080418-075838-1.jpg)

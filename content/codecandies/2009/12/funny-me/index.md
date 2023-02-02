@@ -7,6 +7,6 @@ keywords:
   - "Dänemark"
 ---
 
-![Funny me. Kleiner Schelm.](/img/codecandies/funnyme.jpg)
+![Funny me. Kleiner Schelm.](/images/codecandies/funnyme.jpg)
 
 © 2009 by abraxandria.{:.copyright}

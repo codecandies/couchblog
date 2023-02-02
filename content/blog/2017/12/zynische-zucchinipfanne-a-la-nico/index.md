@@ -6,7 +6,7 @@ tags:
 coverImage: "knoblauch.jpg"
 ---
 
-![Knoblauch, nur ein Symbolbild](/img/knoblauch.jpg) Knoblauch, nur ein Symbolbild
+![Knoblauch, nur ein Symbolbild](/images/knoblauch.jpg) Knoblauch, nur ein Symbolbild
 
 _Drei bis vier kleine Zucchini waschen, längs halbieren und in dünne Scheiben schneiden._ Seit die beste Ehefrau auf Erden in so etwas wie ein hauswirtschaftliches Sabbatical von mehreren Jahren eingetreten ist, bin ich für die Speisezubereitung im Allgemeinen und am Abend im Speziellen zuständig. _Dazu zwei mittelgroße, saftige Auberginen in Würfel schneiden_ Einen vollschlanken (fett? ich bin nicht fett!) Laktoseintoleranten und eine diabetische Künstlerin auf Urlaub zu bekochen ist zusammengenommen auch nicht wirklich ein Spaß. _Zwiebeln in ausreichender Menge in Würfel schneiden, da gibt es so eine Technik, ist aber egal, die findet später eh niemand wieder._ Vor allem da ich zum Kochen soviel Talent habe wie Günther Oettinger Ahnung vom Internet hat. _200g Tofu in mittelgroße Würfel schneiden._ Nix. Null. Nada. Niente. Rien. Und ein Lerneffekt scheint sich auch nicht einstellen zu wollen.
 

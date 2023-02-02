@@ -6,7 +6,7 @@ tags:
 coverImage: "secondlife-e1514367928956.jpg"
 ---
 
-![Virtuelle Realität, so sieht sie aus. Ja, oder auch nicht.](/img/sl.jpg)
+![Virtuelle Realität, so sieht sie aus. Ja, oder auch nicht.](/images/sl.jpg)
 
 Laut [The Atlantic](https://www.theatlantic.com/magazine/archive/2017/12/second-life-leslie-jamison/544149/- "The Digital Ruins of a Forgotten Future") gibt es noch rund 600.000 Leute, die heute bei Second Life _aktiv_ sind. Von wegen die Welt ist auf Facebook, nicht die ganze Welt, denn irgendwo gibt es ein kleines virtuelles Dorf… ok, wir kennen den Rest. Ich nehme an, die finden den Ausgang nicht. So wie die Leute, die VI nutzen, weil sie nicht wissen, wie man den Editor verlässt. Das ist mal wirklich eine UI-Hölle, wenn man es geschafft hat, über eine halbe Million Menschen dort einzusperren, Verweildauer: eine Ewigkeit. Respekt.
 

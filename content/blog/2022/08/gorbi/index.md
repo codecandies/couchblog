@@ -7,6 +7,6 @@ persons:
   - "Michail Gorbatschow"
 ---
 
-![](/img/gorbi.jpeg)
+![](/images/gorbi.jpeg)
 
 Michail Sergejewitsch Gorbatschow ist tot.

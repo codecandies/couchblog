@@ -9,7 +9,7 @@ series:
   - "Wochenschau"
 ---
 
-![Auftrag: Qualitätsjournalismus](/img/codecandies/klasse7b.jpg)
+![Auftrag: Qualitätsjournalismus](/images/codecandies/klasse7b.jpg)
 
 Hier sehen wir die Klasse 7b der »'Einrich 'Eine Highschool« in Paradox, Colorado (»Hinter Bedrock rechts ab!«), bei der Rettung des gedruckten Wortes.
 

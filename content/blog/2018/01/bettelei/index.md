@@ -6,4 +6,4 @@ tags:
   - "Geknipst"
 ---
 
-![Bitte klicken Sie hier.](/img/klicken.jpg)
+![Bitte klicken Sie hier.](/images/klicken.jpg)

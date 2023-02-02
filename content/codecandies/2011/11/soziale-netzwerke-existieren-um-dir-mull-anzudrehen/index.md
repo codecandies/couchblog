@@ -8,7 +8,7 @@ keywords:
   - "Social Media"
 ---
 
-![Soziale Netzwerke existieren um Dir Müll anzudrehen](/img/codecandies/fakebook.jpg)
+![Soziale Netzwerke existieren um Dir Müll anzudrehen](/images/codecandies/fakebook.jpg)
 
 Während die digitale Welt von Facebook beherrscht wird und auf Google+ [bereits der Abgesang angestimmt wird](http://www.slate.com/articles/technology/technology/2011/11/google_had_a_chance_to_compete_with_facebook_not_anymore_.html) gibt es glücklicherweise immer noch Autoren, die bereit sind, hinter die Fassade zu schauen, offen anti-social zu sein, di Gegenposition einzunehmen, die längst einen scheinbar verlorenen Posten darstellt. Maciej Ceglowski, Gründer des _antisozialen_ Bookmarking-Dienstes [Pinboard](http://pinboard.in), hat seine Sicht auf die sozialen Netzwerke vorgelegt und macht so manchen Punkt: [The Social Graph is Neither](http://blog.pinboard.in/2011/11/the_social_graph_is_neither/). Er soll mir fürdahin als Vorbild gereichen.
 

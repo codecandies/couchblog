@@ -13,7 +13,7 @@ keywords:
 
 Je nach Aufgabe und Formular scheint es verschiedene passende Lösungen zu geben. Das `label` über das Formularfeld zu schreiben, hilft dem Benutzer am besten beim Ausfüllen des Formulars, benötigt aber viel vertikalen Raum, ist also bei langen Formularen eher anstrengend. Links ausgerichtete, links stehende `label` scheinen hier die Lösung zu sein, während die links stehenden, aber rechts ausgerichten eher für kurze, oft genutzte Formulare (bspw. Username/Passwort) passend sind.
 
-[![screenshot](/img/codecandies/ZZ198385EF.jpg)](/codecandies/wp-content/uploads/beispiele/formular_hilfen.html)
+[![screenshot](/images/codecandies/ZZ198385EF.jpg)](/codecandies/wp-content/uploads/beispiele/formular_hilfen.html)
 
 Auffällig gut gelöst finde ich allerdings [in den Beispielen](http://css-tricks.com/wp-content/csstricks-uploads/top-aligned.png), die Platzierung der Hilfetexte (»first«, »MM/DD/YY«) an Formularteilen mit mehr als einem Feld, kleiner und grau, aber eben direkt am Input-Feld. Das sieht super aus, hat maximalen Hilfseffekt und braucht kein Javascript etc. um aufzupoppen. Allerdings kommt man hier ein wenig durcheiander, was `label` ist, denn ein Label kann ja immer nur für ein Formularfeld stehen[1](#anm1). Damit wäre **Name** hier also eher ein `fieldset`, vielmehr die `legend` dazu, dann würde aber bei **Email** bspw. das `label` fehlen oder eben genauso aussehen. Andererseits, wenn man das konsequent macht und immer eine Legend-Label-Kombination findet…
 

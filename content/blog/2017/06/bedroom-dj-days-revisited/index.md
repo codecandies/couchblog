@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Bedroom dj days revisited](/img/technics.jpg)
+![Bedroom dj days revisited](/images/technics.jpg)

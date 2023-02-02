@@ -26,7 +26,7 @@ Das ist heute leider nicht mehr so. Und auch das Internet hat (am Scheideweg) di
 
 Das schöne an dem Text: in ihm ist das Ende der Zeitungen und Onlinemedien noch nicht beschlossene Sache.
 
-![Trio: Krawinkel, Behrens, Remmler](/img/Trio19-1024x747.jpg)
+![Trio: Krawinkel, Behrens, Remmler](/images/Trio19-1024x747.jpg)
 
 Zum Schluss noch eine Verbeugung vor dem großen Mann von [Großenkneten](https://couchblog.de/wp-content/uploads/2016/10/trio_herz_lp.jpg "LP Cover"), also vor Stephan Remmler, [dem das FAZ Feuilleton ausdrücklich freundlich zum 70ten gratuliert](http://www.faz.net/aktuell/feuilleton/trio-saenger-stephan-remmler-wird-70-mit-da-da-da-zum-erfolg-14495907.html). Da, da, da, das war eine Revolution für uns seinerzeit, das Rhythmus-Preset "Rock-1" des [Casio VL-1](https://de.wikipedia.org/wiki/Casio_VL-1) hat ein Stück weit unser Leben verändert, wir hatten ja nichts damals, so sehr, dass wir sogar später _Keine Sterne in Athen_ aushalten konnten. Also _happy börsday_ Stephan und schöne Grüße von _Sabine_.
 

@@ -9,6 +9,6 @@ keywords:
   - "Beastie Boys"
 ---
 
-![Adam Yauch, \* 5. August 1964 † 4. Mai 2012](/img/codecandies/20120505-090822.jpg)
+![Adam Yauch, \* 5. August 1964 † 4. Mai 2012](/images/codecandies/20120505-090822.jpg)
 
 Foto: [daigovilla](http://www.flickr.com/photos/daigooliva/284134666/) unter [CC Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de). {:.copyright}

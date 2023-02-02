@@ -8,7 +8,7 @@ keywords:
   - "turntable.fm"
 ---
 
-![Clubathmo am Bildschirm: turntable.fm bietet Hör- und DJ-Erlebnis…](/img/codecandies/turntablefm.jpg)
+![Clubathmo am Bildschirm: turntable.fm bietet Hör- und DJ-Erlebnis…](/images/codecandies/turntablefm.jpg)
 
 Kein Webstartup hat mich in den Jahren seit Twitter so gefangen genommen wie [turntable.fm (ttfm)](http://turntable.fm). Anders als bei Twitter allerdings, man hat in den Jahren ja ein wenig Erfahrung hinzugewonnen, hat mich ttfm sofort komplett geflasht. Ehrlich gesagt, ich kann gar nicht aufhören, mich im [user generated club](http://de-bug.de/medien/archives/turntable-fm.html) herumzutreiben. Hier ein Insiderbericht.
 
@@ -26,4 +26,4 @@ Was die (bis zu) fünf DJs da machen, haben wir früher Ping-Pong genannt und es
 
 Wie es sich für eine echte Betaphase gehört, gibt es natürlich auch ein paar Bugs. Mal funktioniert die Suche nicht, mal dreht der Wechselprozess völlig aus dem Häuschen und jeder DJ kann genau einen Takt spielen, mal verschwinden DJs bzw. deren Avatare einfach. Das trübt den Spaß aber nur selten, ist vielmehr Anlass für weitere Chats. Wenn ttfm das auch noch in den Griff bekommt und **nicht von der Musikindustrie platt gemacht wird** (Update: eben geschrieben, schon passiert: **turntable.fm ist ab sofort nur noch in den USA zu erreichen!**), dann sollte sich ttfm mit genug Serverpower eindecken, denn dann wird der Post-Beta-Ansturm riesig werden. Mit Recht.
 
-![](/img/codecandies/ttfmtwitter.jpg "ttfmtwitter")
+![](/images/codecandies/ttfmtwitter.jpg "ttfmtwitter")

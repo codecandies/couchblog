@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Die Hafen-City sieht von hier ein wenig aus, wie der Potsdamer Platz vor kurzem noch. Im Mittelgrund die Mitbewerber.](/img/codecandies/3081317447_b5101a2c54_b.jpg)
+![Die Hafen-City sieht von hier ein wenig aus, wie der Potsdamer Platz vor kurzem noch. Im Mittelgrund die Mitbewerber.](/images/codecandies/3081317447_b5101a2c54_b.jpg)

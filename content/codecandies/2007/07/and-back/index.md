@@ -7,7 +7,7 @@ keywords:
   - "CSS"
 ---
 
-![](/img/codecandies/urlaubsbild.png)
+![](/images/codecandies/urlaubsbild.png)
 
 Der Urlaub geht zu Ende, das Wetter wird wieder besser, da nutze ich gerade die Nacht um mich durch meine Feeds zu wühlen. Ein paar Perlen, die **ich** zumindest sonst verpasst hätte, hier kurz zusammengestellt:
 

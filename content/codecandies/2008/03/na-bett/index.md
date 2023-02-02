@@ -7,4 +7,4 @@ keywords:
   - "Stripgenerator"
 ---
 
-![Scheiss Sommerzeit](/img/codecandies/ZZ66C2F201.jpg)
+![Scheiss Sommerzeit](/images/codecandies/ZZ66C2F201.jpg)

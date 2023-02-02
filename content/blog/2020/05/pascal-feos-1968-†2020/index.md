@@ -7,7 +7,7 @@ persons:
   - "Pascal Feos"
 ---
 
-![](/img/E0F25E33-7877-451E-A40D-E22FD760D572.jpeg)
+![](/images/E0F25E33-7877-451E-A40D-E22FD760D572.jpeg)
 
 **Pascal FEOS \*1968 †2020**
 

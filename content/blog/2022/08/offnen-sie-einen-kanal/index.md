@@ -7,6 +7,6 @@ keywords:
   - "Star Trek"
 ---
 
-![](/img/0B163826-0D6C-41DC-B7C8-7FF9F4CE1E31.jpeg)
+![](/images/0B163826-0D6C-41DC-B7C8-7FF9F4CE1E31.jpeg)
 
 Nichelle Nichols ist tot.

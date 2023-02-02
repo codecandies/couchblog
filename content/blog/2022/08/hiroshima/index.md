@@ -8,7 +8,7 @@ keywords:
   - "USA"
 ---
 
-![Blick auf das Zentrum von Hiroshima, 1945](/img/FA9824EF-C4E6-4890-A341-CE9A5C90F749.jpeg)
+![Blick auf das Zentrum von Hiroshima, 1945](/images/FA9824EF-C4E6-4890-A341-CE9A5C90F749.jpeg)
 
 Blick auf das Zentrum von Hiroshima, 1945
 

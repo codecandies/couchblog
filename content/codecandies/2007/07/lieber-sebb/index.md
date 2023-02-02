@@ -7,6 +7,6 @@ tags:
 
 Wenn [Du](http://www.verpixelt.de/) möchtest darfst Du mit auf meinen Server…
 
-![Völlig verpixelt](/img/codecandies/ZZ11A63400.jpg)
+![Völlig verpixelt](/images/codecandies/ZZ11A63400.jpg)
 
 Weniger feiern, vielleicht ?! ;)

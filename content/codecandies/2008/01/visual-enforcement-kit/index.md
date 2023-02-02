@@ -7,5 +7,5 @@ tags:
   - "Gefunden"
 ---
 
-![Design Police](/img/codecandies/new_logo.gif)
+![Design Police](/images/codecandies/new_logo.gif)
 \[[via](http://www.coolhunting.com/archives/2008/01/design_police_v.php)\]

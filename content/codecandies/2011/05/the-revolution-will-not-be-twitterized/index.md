@@ -8,7 +8,7 @@ keywords:
   - "Medien"
 ---
 
-![The Revolution will not be twitterized](/img/codecandies/kentuckyworker.jpg)
+![The Revolution will not be twitterized](/images/codecandies/kentuckyworker.jpg)
 
 In diesen Tagen liesst man wieder viel über Revolution, die von der Presse links liegen gelassen und ausschließlich über Twitter und Facebook organsiert werden. Diese sogenannten Twitter- oder Facbookrevolutionen bewiesen außerdem, also außer dass es in einigen Ländern viele unzufriedene Menschen gibt, [dass social media nun die Informationshoheit übernommen habe](http://www.netz-reputation.de/2011/05/social-media-revolution-in-spanien/).
 

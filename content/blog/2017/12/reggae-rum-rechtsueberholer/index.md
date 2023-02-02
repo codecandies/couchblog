@@ -11,7 +11,7 @@ coverImage: "lindner.jpg"
 
 Tja, das hat ja mal wieder hervorragend geklappt, in meinem [Post-Wahltag-Rant](https://couchblog.de/blog/2017/09/26/schlechte-aussichten/ "Couchblog: Schlechte Aussichten") kamen Christian Lindner und seine Konsorten, die sogenannten freien Demokraten praktisch nicht vor, ich wollte mir das Filetstück sozusagen für den Rantventskalender vorbehalten und tatsächlich hat die FDP reichlich übererfüllt, ist über das Ziel hinausgeschossen und sich _postjamaika_ sozusagen für einen Rant qualifiziert.
 
-![](/img/lindner.jpg)
+![](/images/lindner.jpg)
 
 Bild:  [Olaf Kosinsky (wikiberatung.de)](https://wikiberatung.de/) Lizenz: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/legalcode) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017-05-14_NRW_Landtagswahl_by_Olaf_Kosinsky-150.jpg) {:.copyright}
 

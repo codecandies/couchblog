@@ -5,7 +5,7 @@ tags:
   - "Gehört"
 ---
 
-![Marillion: Misplaced Childhood](/img/couchblog/marillion.jpg)
+![Marillion: Misplaced Childhood](/images/couchblog/marillion.jpg)
 
 Wenn eine Platte mehrmals, oder in verschiedenen Formaten, in meiner Sammlung vorkommt, dann ist das ein deutliches Zeichen dafür, dass mir die Scheibe ziemlich wichtig ist. [Marillion](https://web.archive.org/web/20030706111947/http://www.marillion.com/ "Marillion Homepage [en-uk]")s ‘[Misplaced Childhood](https://web.archive.org/web/20030706111947/http://www.marillion.com/discog/misplaced/ "Marillion Homepage: Misplaced Childhood Album [en-uk]")’ besitze ich zweimal auf Vinyl und einmal als CD (plus zwei 12”). Eine wirklich wichtige Platte also, für mich jedenfalls.
 

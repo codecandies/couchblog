@@ -9,7 +9,7 @@ keywords:
 
 Für [Marc](http://marctv.de) unsere kurze [Erklärung, wie es zur Finanzkrise kam](http://www.zeit.de/online/2008/44/bg-finanzkrise). Aus Sicht eines Programmierers hat sich hier leider ein kleiner Fehler eingeschlichen, hier das passende Suchbild:
 
-![Screenshot](/img/codecandies/img007.png)
+![Screenshot](/images/codecandies/img007.png)
 
 Und hier nun der glamouröse Codeschnipsel XSL/T:
 

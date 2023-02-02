@@ -12,7 +12,7 @@ keywords:
 
 Oh ja, der Jubel war groß am Sonntagabend, als alle noch glaubten, man habe die AfD aus der Bürgerschaft gewählt. Ein schönes Zeichen wäre das gewesen, wenn auch nur mit viel Augenwischerei. Es reichte aber, dass sich eine Zeitung wie die Taz verschätzte und am Montag mit _falschem_ Titel erschien.
 
-![](/img/05D11B6A-0F3D-433D-A9E1-A47ABC863BB8-1024x705.jpeg)
+![](/images/05D11B6A-0F3D-433D-A9E1-A47ABC863BB8-1024x705.jpeg)
 
 Screenshot: Aufmacher der taz 24.02.2020 (Ausschnitt)
 

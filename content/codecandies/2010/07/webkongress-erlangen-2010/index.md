@@ -7,7 +7,7 @@ keywords:
   - "Konferenz"
 ---
 
-![](/img/codecandies/logo-screen-02-200x64.jpg "logo-screen-02-200x64")
+![](/images/codecandies/logo-screen-02-200x64.jpg "logo-screen-02-200x64")
 
 Eine mittlere Premiere gibt es für den 7. und 8. Oktober in diesem Jahr zu verkünden. Der [Webkongress Erlangen](http://www.webkongress.uni-erlangen.de/index.shtml) findet zu diesem Termin zwar schon zum dritten Mal statt, ich werde dort aber zum erste Male zu hören sein. Unter dem Titel »[Relaunching ZEIT ONLINE](http://www.webkongress.uni-erlangen.de/vortraege/#WKE2010-54)« werde ich ein wenig über den Relaunch von [zeit.de](http://www.zeit.de) im September 2009, den Weg dorthin und den Erlebnissen seitdem berichten. Dabei geht es natürlich in der Hauptsache um den Fachbereich Frontendentwicklung und -technologie, sowie meine immerwehrenden Freunde: Usabilty und Accessibilty.
 

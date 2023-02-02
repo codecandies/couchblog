@@ -5,7 +5,7 @@ tags:
   - "Gesellschaft"
 ---
 
-![Schlechte Aussichten](/img/joy-stamp-21279-1024x576.jpg "Schlechte Aussichten")
+![Schlechte Aussichten](/images/joy-stamp-21279-1024x576.jpg "Schlechte Aussichten")
 
 Natürlich, man kann auch noch [_dieses_](https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse/bund-99.html "Bundestagswahl 2017") Wahlergebnis schön reden. Eine Hundertschaft Nazis im Bundestag, eine sich abzeichnende Koalition der Willfährigen, erdrutschartige Verluste bei der SPD, alles nicht so schlimm. Mutti macht weiter, die Reichen sind endlich wieder in der Regierung vertreten, endlich haben die Bayern mal einen Dämpfer bekommen, hurra die Grünen, und alle zusammen gegen Rechts. Wer… bitte… glaubt… denn… daran?!
 

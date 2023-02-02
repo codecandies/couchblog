@@ -7,6 +7,6 @@ keywords:
   - "Videospiele"
 ---
 
-![Wii Fit](/img/codecandies/ZZ09347E39.jpg)
+![Wii Fit](/images/codecandies/ZZ09347E39.jpg)
 
 OK, es ist Wochenende. Aber nächste Woche testen wir in mit der Redaktion obiges Gerät, [das wird bestimmt lustig…](https://youtube.com/watch?v=_iYBmAVuBns)

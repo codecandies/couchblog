@@ -7,6 +7,6 @@ keywords:
   - "Amazon"
 ---
 
-![Werbefoto mit Test: LoKann wiederholt verwendet werden rem ipsum](/img/img_0224.jpg)
+![Werbefoto mit Test: LoKann wiederholt verwendet werden rem ipsum](/images/img_0224.jpg)
 
 Gesehen auf Amazon.

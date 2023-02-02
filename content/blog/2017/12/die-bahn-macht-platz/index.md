@@ -12,7 +12,7 @@ Einigermaßen heimlich ist die Bahn in meiner Region gerade dabei, eine Art Rese
 
 Soweit zur Erklärung. Wer sich ein wenig mit Pendlerverkehr bei der Bahn im Allgemeinen und jenem im Hamburger Umland im Besonderen auskennt, wird eingestehen, dass es eine Vielzahl von Problemen in diesem Bereich gibt. Viele Ärgernisse, Dinge die Menschen sprichwörtlich in den Wahnsinn treiben und die Bahn letztlich Kundschaft kostet.
 
-![Defekte Zuganzeigetafel: Es klappt aber auch nichts… © 2017 couchblog.de](/img/re80-1024x538.jpg)
+![Defekte Zuganzeigetafel: Es klappt aber auch nichts… © 2017 couchblog.de](/images/re80-1024x538.jpg)
 
 ### Statt Pünktlichkeit und WLAN
 

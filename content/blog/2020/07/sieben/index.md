@@ -5,6 +5,6 @@ tags:
   - "Geknipst"
 ---
 
-![](/img/277CCB41-3691-4292-AEA5-065EDC7016E4-768x1024.jpeg)
+![](/images/277CCB41-3691-4292-AEA5-065EDC7016E4-768x1024.jpeg)
 
 Sieben.

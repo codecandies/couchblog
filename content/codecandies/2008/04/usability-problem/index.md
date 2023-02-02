@@ -19,7 +19,7 @@ _Der Typ sieht mich entgeistert an._
 
 Überhaupt: sagen Sie mal, wo sind denn hier eigentlich die Videos und die Audios? Muss man das eigene Kopfhörer irgendwo anschliessen? Nicht sehr komfortabel.«
 
-![](/img/codecandies/ZZ1BBFC4DB.jpg)
+![](/images/codecandies/ZZ1BBFC4DB.jpg)
 
 »Ja, nee, Videos gibt's nicht. Ist halt eine Zeitung.«
 

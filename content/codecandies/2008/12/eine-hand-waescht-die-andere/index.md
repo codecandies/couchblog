@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Entdeckt in einem Sonderpostenmarkt. Trotzdem.](/img/codecandies/img_0011.jpg)
+![Entdeckt in einem Sonderpostenmarkt. Trotzdem.](/images/codecandies/img_0011.jpg)

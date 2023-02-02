@@ -11,7 +11,7 @@ persons:
   - "Helmut Kohl"
 ---
 
-![Sensationeller Erfolg der Piratenpartei in Berlin. Und jetzt?](/img/codecandies/piratenpartei.jpg)
+![Sensationeller Erfolg der Piratenpartei in Berlin. Und jetzt?](/images/codecandies/piratenpartei.jpg)
 
 Zunächst mal einen herzlichen Glückwunsch an die Berliner Piratenpartei, also ich habe jedenfalls nicht damit gerechnet, dass so relativ frühzeitig der Sprung in ein Landesparlament gelingt. Natürlich nimmt »Arm-aber-sexy«-Berlin eine gewisse Sonderstellung gegenüber den Flächenbundesländern ein, dafür ist es aber auch ein hervorragender Präsentierteller in Sachen Bundespolitik, vielleicht reicht die Welle der Begeisterung ja bis zur nächsten Bundestagswahl.
 

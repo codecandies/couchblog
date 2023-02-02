@@ -7,6 +7,6 @@ tags:
   - "Geknipst"
 ---
 
-![](/img/codecandies/handvergroesserung.jpg)
+![](/images/codecandies/handvergroesserung.jpg)
 
-![](/img/codecandies/fussball.jpg)
+![](/images/codecandies/fussball.jpg)

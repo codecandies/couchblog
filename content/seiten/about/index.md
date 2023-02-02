@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Hallo.
 
-![](/img/nico_thorsminde.jpg)
+![](/images/nico_thorsminde.jpg)
 
 Mein Name ist Nico und ich schreibe [seit über 20 Jahren](/blog/2022/05/12/20-jahre-couchblog/) Dinge in dieses Internet. Beruflich mache ich etwas ganz ähnliches: ich bin leitender Webentwickler bei einem großen Hamburger Verlagshaus. Nebenbei bin ich [DJ](https://www.mixcloud.com/OgeeTheOldie/), schaue gerne Filme und/oder Serien und lese gerne Comics.
 

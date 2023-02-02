@@ -7,4 +7,4 @@ tags:
   - "Gesammelt"
 ---
 
-![](/img/codecandies/ZZ6EE2A35A.jpg)
+![](/images/codecandies/ZZ6EE2A35A.jpg)

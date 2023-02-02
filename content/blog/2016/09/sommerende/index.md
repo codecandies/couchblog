@@ -8,4 +8,4 @@ keywords:
   - "Travemünde"
 ---
 
-![Priwall, Travemünde](/img/img_0603.jpg)
+![Priwall, Travemünde](/images/img_0603.jpg)

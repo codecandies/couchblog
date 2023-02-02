@@ -5,4 +5,4 @@ tags:
   - "Gestaltet"
 ---
 
-![252](/img/webpropaganda/252.jpg)
+![252](/images/webpropaganda/252.jpg)

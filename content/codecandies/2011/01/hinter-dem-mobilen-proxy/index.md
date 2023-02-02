@@ -8,7 +8,7 @@ keywords:
   - "Mobile"
 ---
 
-![](/img/codecandies/new_religions.jpg "Hinter dem mobilen Proxy")
+![](/images/codecandies/new_religions.jpg "Hinter dem mobilen Proxy")
 
 Ich hatte jüngst großen Spaß mit dem mobilen Proxy der Telekomiker und—würde es nicht immer eine besonders störungsanfällige Nutzerschar treffen—ich würde glatt darüber lachen. Denkt man allerdings die Gutsherrenartigkeit mit der alle Mobilprovider mit unseren Websites im mobilen Netz umgehen konsequent zu Ende, wird einem leider Angst und Bange.
 

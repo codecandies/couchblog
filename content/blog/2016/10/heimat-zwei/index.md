@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Bei Hamburger Shietwetter fühle ich mich wohl.](/img/IMG_0806-1024x768.jpg)
+![Bei Hamburger Shietwetter fühle ich mich wohl.](/images/IMG_0806-1024x768.jpg)

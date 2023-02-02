@@ -15,7 +15,7 @@ Am weitesten bei der Implementierung von [CSS 3D Transformationen](http://www.w3
 
 
 
-[![Demovideo](/img/codecandies/vlcsnap-00009.png)](https://www.youtube.com/watch?v=M8i15iEFJaY)
+[![Demovideo](/images/codecandies/vlcsnap-00009.png)](https://www.youtube.com/watch?v=M8i15iEFJaY)
 
 Nebenbei, die Bilder sind übrigens aus _Clerks II_, ein von mir dringend empfohlener Streifen über die soziale Lage in den USA. Hier jedoch zunächst als Beweis sozusagen der HTML-Code auf dem der Trick beruht:
 

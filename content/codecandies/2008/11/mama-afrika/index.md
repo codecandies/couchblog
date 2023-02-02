@@ -7,4 +7,4 @@ persons:
   - "Miriam Makeba"
 ---
 
-![Miriam Makeba, \*4.3.1932 †9.11.2008](/img/codecandies/miriam_makeba.jpg)
+![Miriam Makeba, \*4.3.1932 †9.11.2008](/images/codecandies/miriam_makeba.jpg)

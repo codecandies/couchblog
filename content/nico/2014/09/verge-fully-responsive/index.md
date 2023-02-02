@@ -5,7 +5,7 @@ tags:
   - "Gesellschaft"
 ---
 
-![The Verge](/img/thevergescreen.png)
+![The Verge](/images/thevergescreen.png)
 
 Obwohl ich kein Fan des Designs von [The Verge](http://www.theverge.com/) bin (wohl aber deren Inhalte), muss ich doch neidlos anerkennen, dass die zu [Vox Media](http://en.wikipedia.org/wiki/Vox_Media) gehörige Magazinseite es geschafft hat, wirklich und in echt, mit Werbung anzeigen und allem und tatsächlich [_fully responsive_ zu gehen](http://www.theverge.com/2014/9/2/6096609/welcome-to-verge-2-0). Obwohl wir nun schon seit spätestens 2010 darüber sprechen, gibt es ja noch nicht so viele große Websites, die es auch wirklich tun. Und The Verge wäre eben nicht The Verge, wenn sie es dann nicht auch konsequent durchziehen würden, und die alten Zöpfe auch wirklich abschnitten:
 

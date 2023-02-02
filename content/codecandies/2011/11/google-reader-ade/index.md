@@ -12,7 +12,7 @@ Seit gestern hat Google nun tatsächlich begonnen, das neue Design auszuspielen 
 
 Das scheint mir tatsächlich ein Problem zu sein: der Standalone-Feedreadermarkt ist nicht gerade ein umkämpftes Terrain, viel mehr eine Wüste samt Tumbleweed. Google Reader hat so ziemlich alles ausgetrocknet und wenn es noch gute Produkte gibt… dann synchronisieren sie die Feeds mit… genau: dem Google Reader.
 
-![Reeder sieht zumindest ansprechend aus.](/img/codecandies/reeder.jpg "Reeder für OS X")
+![Reeder sieht zumindest ansprechend aus.](/images/codecandies/reeder.jpg "Reeder für OS X")
 
 Auf dem Mac ist der Platzhirsch in Sachen RSS-Reading noch recht jung und nebenbei das Kind einer iPad-App: [Reeder für OS X](http://itunes.apple.com/de/app/reeder/id439845554?mt=12) bietet definitiv das schlickste Erscheinungsbild und die besten Funktionalitäten. Hier gilt allerdings auch: ohne Synchronisation mit dem Google Reader funktioniert das Programm nicht. Die Datenbank von Feeds lässt sich weder unabhängig nutzen, noch lassen sich neue Feeds per OPML importieren. Um mit Versionen auf dem iPhone oder iPad sychron zu sein, geht es natürlich auch nur mit einer zentralen Instanz, solange Reeder keine andere als die von Google bietet, stellt er keine echte Alternative dar. Hier kann man Google höchsten demonstrieren, dass man auf das Backend nie angewiesen war.
 

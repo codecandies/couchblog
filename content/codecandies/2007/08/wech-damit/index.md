@@ -7,6 +7,6 @@ tags:
   - "Gefunden"
 ---
 
-![](/img/codecandies/ZZ246AAA39.jpg "WebDesignerWall")
+![](/images/codecandies/ZZ246AAA39.jpg "WebDesignerWall")
 
 [WebDesignerWall: Trash All IE Hacks](http://www.webdesignerwall.com/general/trash-all-ie-hacks/).

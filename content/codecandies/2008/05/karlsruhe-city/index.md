@@ -7,7 +7,7 @@ keywords:
   - "Karlsruhe"
 ---
 
-![Bürgersteige hochgeklappt… Karlsruhe Marktplatz.](/img/codecandies/ZZ6A4E5AF9.jpg)
+![Bürgersteige hochgeklappt… Karlsruhe Marktplatz.](/images/codecandies/ZZ6A4E5AF9.jpg)
 
 Der Marktplatz liegt ziemlich ruhig da. Unten im Gasthaus Kaiserhof brennt noch Licht, draussen sitzen Leute vor dem Lokal und trinken Bier… Wie bitte? Draussen? Um diese Uhrzeit?
 

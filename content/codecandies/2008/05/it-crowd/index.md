@@ -9,6 +9,6 @@ keywords:
 
 Ein Bild sagt mehr als Tausend Lire…
 
-![IT Crowd](/img/codecandies/ZZ74D88072.jpg)
+![IT Crowd](/images/codecandies/ZZ74D88072.jpg)
 
 You better don't mess with the IT(aly) Crowd…

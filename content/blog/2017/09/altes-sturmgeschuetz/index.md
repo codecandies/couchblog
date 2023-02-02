@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Ruine](/img/spiegel-1024x768.jpg)
+![Ruine](/images/spiegel-1024x768.jpg)

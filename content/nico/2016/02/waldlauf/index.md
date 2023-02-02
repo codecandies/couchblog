@@ -6,6 +6,6 @@ tags:
 coverImage: "wald.jpg"
 ---
 
-![wald](/img/wald-1024x768.jpg)
+![wald](/images/wald-1024x768.jpg)
 
 An meinem neuen Wohnort gibt es viel Wald und viel Wasser. Ich erkunde das noch.

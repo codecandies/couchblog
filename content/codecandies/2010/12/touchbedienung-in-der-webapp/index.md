@@ -9,7 +9,7 @@ keywords:
   - "jQuery"
 ---
 
-![Bildergalerie, iPad Version](/img/codecandies/bildergalerie.jpg)
+![Bildergalerie, iPad Version](/images/codecandies/bildergalerie.jpg)
 
 Die Touchbedienung ist einer der großen Unterschied zwischen Tablet- und Desktopcomputer. Dieses Bedienkonzept, wie es der Nutzer inzwischen auch schon aus den sog. _nativen_ Apps gelernt hat, so sinnvoll wie möglich umzusetzen und zu nutzen, sollte auf jeden Fall Teilaufgabe einer _HTML5-App_ sein. Leider stehen der App im Browser nicht alle Schnitsstellen und Fähigkeiten zur Verfügung, die bei der Programmierung einer nativen App genutzt werden können. Darauf kommt es aber allein auch nicht an, wie gesagt, es geht eben auch und vordringlich um das Bedienkonzepte.
 

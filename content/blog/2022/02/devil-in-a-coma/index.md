@@ -10,7 +10,7 @@ persons:
   - "Mark Lanegan"
 ---
 
-![Mark Lanegan 2009 in San Diego.](/img/Mark-Lanegan-1024x680.jpeg "Tristan Loper, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Mark Lanegan 2009 in San Diego.](/images/Mark-Lanegan-1024x680.jpeg "Tristan Loper, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 Der Sänger der „Screaming Trees“ war einer der Motoren des Grunge, später wandte er sich dem Blues zu. Seine Produktionen und Kooperation mit Kurt Cobain, Krist Novoselić, Greg Dulli, Alain Johannes oder Isobel Campbell haben seine, aber auch _die Musik_ bis heute beeinflusst. Und er lieh „Queens of the Stone Age“ in ihrer besten Phase zwischen 2001 und 2005 seine Stimme.
 

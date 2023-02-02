@@ -7,4 +7,4 @@ tags:
 
 Von [Ralle](http://www.das-netzbuch.de/index.php?id=P1647) angeregt:
 
-![86](/img/webpropaganda/86.gif)
+![86](/images/webpropaganda/86.gif)

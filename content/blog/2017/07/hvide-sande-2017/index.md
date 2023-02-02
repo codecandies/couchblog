@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Hvide Sande 2017](/img/hvidesande2017.jpg)
+![Hvide Sande 2017](/images/hvidesande2017.jpg)

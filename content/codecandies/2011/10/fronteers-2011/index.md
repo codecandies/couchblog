@@ -10,7 +10,7 @@ persons:
   - "John Resig"
 ---
 
-![Aral Balkan bei seinem Eröffnungstalk.](/img/codecandies/aralbalkan.jpg "Fronteers 2011")
+![Aral Balkan bei seinem Eröffnungstalk.](/images/codecandies/aralbalkan.jpg "Fronteers 2011")
 
 Freitagnacht bin ich von der [fronteers](http://fronteers.nl/congres/2011) zurückgekommen, es ist jetzt Montagmorgen und ich bin immer noch ein Stück weit _geflashed_. Ich gehe ja schon ein paar Jahre auf Konferenzen, aber ich bereue ernsthaft, es vorher noch nie nach Amsterdam geschafft zu haben.
 

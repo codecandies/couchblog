@@ -7,4 +7,4 @@ keywords:
   - "Deko"
 ---
 
-![Giftig.](/img/codecandies/20120306-132259.jpg)
+![Giftig.](/images/codecandies/20120306-132259.jpg)

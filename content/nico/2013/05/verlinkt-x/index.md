@@ -10,7 +10,7 @@ keywords:
 coverImage: "4048134886_0741fd1a8a_b.jpg"
 ---
 
-![Hafencity](/img/4048134886_0741fd1a8a_b-300x225.jpg) Es ist Brückenwoche sozusagen. Wer keinen Urlaub hat, oder bei der Re:publica ist, der ist blöd. Wie ich. Also ich habe jedenfalls ein wenig Arbeit zwischen die Brückentag gesetzt. Zur Ablenkung (und für alle Berlin-Besucher) das hier: [Soweit die Füße tragen](http://kurzundknap.blogspot.de/2013/05/soweit-die-fue-tragen.html). So schön kann Hamburg sein.
+![Hafencity](/images/4048134886_0741fd1a8a_b-300x225.jpg) Es ist Brückenwoche sozusagen. Wer keinen Urlaub hat, oder bei der Re:publica ist, der ist blöd. Wie ich. Also ich habe jedenfalls ein wenig Arbeit zwischen die Brückentag gesetzt. Zur Ablenkung (und für alle Berlin-Besucher) das hier: [Soweit die Füße tragen](http://kurzundknap.blogspot.de/2013/05/soweit-die-fue-tragen.html). So schön kann Hamburg sein.
 
 Also ich habe Schwierigkeiten im Zug zu arbeiten, vielleicht mal einen Blogartikel schreiben, eine Präse oder ein paar Mails abarbeiten, aber Programmieren klappt regelmäßig nicht. Und tatsächlich: [Arbeiten im Zug vernichtet Kreativität](http://www.zeit.de/karriere/beruf/2013-02/dienstreisen-inspiration/komplettansicht).
 

@@ -5,6 +5,6 @@ tags:
   - "Gelebt"
 ---
 
-![](/img/postkarte.jpg)
+![](/images/postkarte.jpg)
 
 Photo by [Nico Brünjes](https://unsplash.com/photos/XAtstBW7CSs) on [Unsplash](https://unsplash.com/).

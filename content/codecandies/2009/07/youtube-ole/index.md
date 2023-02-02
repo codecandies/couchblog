@@ -8,7 +8,7 @@ keywords:
   - "Internet Explorer"
 ---
 
-![Youtube Screenshot](/img/codecandies/youtube.png)
+![Youtube Screenshot](/images/codecandies/youtube.png)
 
 Youtube _droppt_ den IE6. Coole Schau.
 

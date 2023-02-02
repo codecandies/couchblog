@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![Ich mag's hier.](/img/codecandies/20120207-191618.jpg)
+![Ich mag's hier.](/images/codecandies/20120207-191618.jpg)

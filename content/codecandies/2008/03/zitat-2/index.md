@@ -8,7 +8,7 @@ keywords:
   - "jPod"
 ---
 
-![John Doe](/img/codecandies/vlcsnap-16412110.jpg)
+![John Doe](/images/codecandies/vlcsnap-16412110.jpg)
 
 > Game Development is like pregnancy, you can't throw money on it to speed things up – it happens at it's own pace…
 >

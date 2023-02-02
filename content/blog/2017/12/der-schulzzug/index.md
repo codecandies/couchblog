@@ -10,7 +10,7 @@ persons:
 
 Herrjeh, was war das eine Party Anfang des Jahres, die der immer kleiner werdende sozialdemokratische Teil meiner Timeline da abfeierte. Der Schulzzug, Martin Schulz, der Erneuerer, gefeiert, passend zum Lutherjahr als jener, der erst der SPD und dann dem ganzen Land, die Thesen an die Haustür nageln werde, demnächst, ganz bestimmt.
 
-![ Wie erkläre ich es nur den Genossen? Foto: Olaf Kosinsky/Skillshare.eu\](/img/schulz.jpg)
+![ Wie erkläre ich es nur den Genossen? Foto: Olaf Kosinsky/Skillshare.eu\](/images/schulz.jpg)
 
 Ich lachte laut.
 

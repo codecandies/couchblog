@@ -14,7 +14,7 @@ persons:
 - [Luca-App: CCC fordert Bundesnotbremse](https://www.ccc.de/de/updates/2021/luca-app-ccc-fordert-bundesnotbremse): CCC fordert sofortigen Stopp und lückenlose Aufklärung
 - Sicherheitslücke [LucaTrack](http://lucatrack.de) – Mangelhafte Software für Millionen ([PDF](http://lucatrack.de/LucaTrack%20Pressebeschreibung.pdf)): Alle Schlüsselanhänger, die von der Sicherheitslücke betroffen sind, sind fachgerecht zu entsorgen.
 
-![Facepalm](/img/tenor.gif)
+![Facepalm](/images/tenor.gif)
 
 - [Drosten: "Schnelltests sind wohl weniger zuverlässig als gedacht"](https://www.ndr.de/nachrichten/info/Drosten-Schnelltests-sind-wohl-weniger-zuverlaessig-als-gedacht,coronavirusupdate178.html). Das ist jetzt aber blöd… die schönen Modellversuche.
 - [Angebotsgebot](https://taz.de/Massnahmen-gegen-dritte-Coronawelle/!5760962/): In der Beschlussvorlage zum Notbremse-Gesetz ist von der Testpflicht am Arbeitsplatz nur noch die Verpflichtung mindestens einmal pro Woche einen Coronatest anzubieten übrig geblieben. Zwei mal die Woche ist schon ein Glücksspiel, aber einmal die Woche ist glatte WISSENSCHAFTSLEUGNUNG!

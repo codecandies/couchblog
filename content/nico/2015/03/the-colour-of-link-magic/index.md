@@ -37,7 +37,7 @@ coverImage: "Terry_Pratchett_September_2009_1.jpg"
 - [Google to close Google Code open source project hosting](http://arstechnica.com/information-technology/2015/03/google-to-close-google-code-open-source-project-hosting/)
 - [Google is done selling the Nexus 5](http://www.theverge.com/2015/3/12/8198535/google-nexus-5-stop-sales)
 
-![terrypratchett](/img/terrypratchett.jpg)
+![terrypratchett](/images/terrypratchett.jpg)
 
 ## /cite
 

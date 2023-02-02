@@ -5,7 +5,7 @@ tags:
   - "Gebloggt"
 ---
 
-![»Whoever said that dogs shouldn’t take acid, was certainly not a dog on acid.«](/img/codecandies/codecandies21_632x300.jpg)
+![»Whoever said that dogs shouldn’t take acid, was certainly not a dog on acid.«](/images/codecandies/codecandies21_632x300.jpg)
 
 **Endlich: mein eigenes Theme! Selbst gebaut und handgestrickt. Mein eigener _Relaunch_!**
 

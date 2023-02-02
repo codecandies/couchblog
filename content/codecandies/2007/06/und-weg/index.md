@@ -7,6 +7,6 @@ keywords:
   - "Stripgenerator"
 ---
 
-![Gone Fisching](/img/codecandies/fishing.png "Gone Fisching")
+![Gone Fisching](/images/codecandies/fishing.png "Gone Fisching")
 
 [Stripgenerator](http://stripgenerator.com) via [Anmut und Demut](http://anmutunddemut.de)…

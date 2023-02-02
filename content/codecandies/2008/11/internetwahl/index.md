@@ -7,7 +7,7 @@ keywords:
   - "Medien"
 ---
 
-![Election Day](/img/codecandies/election_day.jpg)
+![Election Day](/images/codecandies/election_day.jpg)
 
 Die US-Wahl hat es wieder mal an den Tag gebracht: die Welt hat sich geändert, die durchschnittliche Tageszeitung [kann mit der Nachrichtenlage nicht mehr Schritt halten](http://www.werbeblogger.de/2008/11/05/abendblatt-oder-fruehpost/ "Werbeblogger: Abendblatt oder Frühpost?"). Und das Publikum ist [endgültig ins Internet abgewandert](http://www.techcrunch.com/2008/11/05/news-sites-attract-record-audience-on-election-night/ "Techcrunch: News Sites Attract Record Audience on Election Night").
 

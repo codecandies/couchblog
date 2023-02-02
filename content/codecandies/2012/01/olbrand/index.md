@@ -8,7 +8,7 @@ keywords:
   - "Kopenhagen"
 ---
 
-![Café Sommersko](/img/codecandies/cafesommersko.jpg)
+![Café Sommersko](/images/codecandies/cafesommersko.jpg)
 
 Hab gerade wahnsinnige Lust auf ein schönes Øl im [Café Sommersko](http://www.cafesommersko.dk/). Obwohl das Wetter ja gerade mehr nach Chai Latte ist. Egal, ich will zurück nach København.
 

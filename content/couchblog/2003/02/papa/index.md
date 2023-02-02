@@ -5,7 +5,7 @@ tags:
   - "Gelebt"
 ---
 
-![Papa](/img/couchblog/koehlbrand.jpg)
+![Papa](/images/couchblog/koehlbrand.jpg)
 
 Heute hat mein Papa Geburtstag. Und mal wieder trennen uns hunderte Kilometer. Hat eigentlich nicht soviel gebracht, dass Du nicht mehr zur See fährst, Dad! Zur Feier des Tages verlinke ich einfach mal Deine ganz und gar selbstgemachte [Homepage](http://www.couchblog.de/claus/), die hier auf der Couch seit kurzem Asyl gefunden hat. _Trotzdem: wir müssen da mal was dran machen. ;-)_
 

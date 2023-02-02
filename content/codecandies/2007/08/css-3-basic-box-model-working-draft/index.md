@@ -7,7 +7,7 @@ tags:
   - "Gestaltet"
 ---
 
-![](/img/codecandies/ZZ554B6DB6.jpg)
+![](/images/codecandies/ZZ554B6DB6.jpg)
 
 Das aktuelle CSS3 _Working Draft_: [CSS basic box model](http://www.w3.org/TR/2007/WD-css3-box-20070809/) (via [Maxdesign](http://www.maxdesign.com.au/2007/08/22/some-links-138/)) liest sich ja ganz interessant. Habe gerade ein wenig Zeit (Zugfahrt as usual) um mal ein wenig hineinzudiggen. Da versammelt sich doch inzwischen einiges, das einem recht Wohl klingt:
 

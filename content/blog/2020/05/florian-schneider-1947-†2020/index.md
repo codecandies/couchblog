@@ -9,7 +9,7 @@ persons:
   - "Florian Schneider"
 ---
 
-![Florian Schneider](/img/07544064-E569-4044-B9BB-C4E602B21CF2-1024x768.jpeg)
+![Florian Schneider](/images/07544064-E569-4044-B9BB-C4E602B21CF2-1024x768.jpeg)
 
 Alles was mich seit Mitte der neunziger Jahre musikalisch irgendwie bewegt hat, beruht auf die eine oder andere Weise auf dem Werk von Kraftwerk, und damit auf dem Wirken von Florian Schneider-Esleben.
 

@@ -7,4 +7,4 @@ keywords:
   - "considered harmful"
 ---
 
-![Weder Kaffeereste aus der French-Press, noch Tomatenkerne in den Überlauf kippen. Und schon gar nicht beides.](/img/codecandies/spuelbecken.jpg)
+![Weder Kaffeereste aus der French-Press, noch Tomatenkerne in den Überlauf kippen. Und schon gar nicht beides.](/images/codecandies/spuelbecken.jpg)

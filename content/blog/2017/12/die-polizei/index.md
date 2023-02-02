@@ -6,7 +6,7 @@ tags:
 coverImage: "307544699_a38783f365_o.jpg"
 ---
 
-![](/img/307544699_a38783f365_o.jpg)
+![](/images/307544699_a38783f365_o.jpg)
 
 Foto: [Bestimmte Rechte vorbehalten](https://creativecommons.org/licenses/by-sa/2.0/) von [m.a.r.c.](https://www.flickr.com/photos/mabi/307544699) {:.copyright}
 

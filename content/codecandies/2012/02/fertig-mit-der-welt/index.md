@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Wer macht sowas?](/img/codecandies/20120211-185754.jpg)
+![Wer macht sowas?](/images/codecandies/20120211-185754.jpg)

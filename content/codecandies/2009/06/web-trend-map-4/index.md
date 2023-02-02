@@ -7,7 +7,7 @@ keywords:
   - "Marketing"
 ---
 
-![Trendmap4, Ausschnitte](/img/codecandies/trendmap4.png)
+![Trendmap4, Ausschnitte](/images/codecandies/trendmap4.png)
 
 Voll drauf. [Web Trend Map4](http://informationarchitects.jp/wtm4) by [Information Architects Japan](http://informationarchitects.jp/).
 

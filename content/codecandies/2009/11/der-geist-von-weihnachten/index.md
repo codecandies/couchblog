@@ -8,7 +8,7 @@ keywords:
   - "Mittagspause"
 ---
 
-![Schaufenster in der Mönckebergstrasse, Hamburg](/img/codecandies/IMG_0432.JPG)
+![Schaufenster in der Mönckebergstrasse, Hamburg](/images/codecandies/IMG_0432.JPG)
 
 Das kann doch wohl kaum euer Ernst sein?
 

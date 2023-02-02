@@ -8,7 +8,7 @@ keywords:
   - "Browser"
 ---
 
-![Schlichte Oberfläche auf QT-Basis](/img/codecandies/arora.png)
+![Schlichte Oberfläche auf QT-Basis](/images/codecandies/arora.png)
 
 Der neue Standardbrowser in Kubuntu basiert auf QT und Webkit, heisst Arora und ist schon für alle Plattformen verfügbar.
 

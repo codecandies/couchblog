@@ -7,7 +7,7 @@ keywords:
   - "Desktop"
 ---
 
-![Desktop](/img/codecandies/img_0118.jpg)
+![Desktop](/images/codecandies/img_0118.jpg)
 
 Das Foto gammelte noch in der Sammlung rum. Ach, so ein schönes Bild vom Bild.
 

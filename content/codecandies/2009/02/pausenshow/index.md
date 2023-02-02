@@ -7,7 +7,7 @@ keywords:
   - "considered harmful"
 ---
 
-![Maler](/img/codecandies/img_0087.jpg)
+![Maler](/images/codecandies/img_0087.jpg)
 
 Ich hab mich ja schon oft zum Deppen gemacht, aber diesmal…
 

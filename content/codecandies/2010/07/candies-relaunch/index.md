@@ -25,9 +25,9 @@ Eine neue Brotschrift gibt's nun auch, hier geht [Droid Serif](http://www.fontsq
 
 Man konnte ja schon vorher lesen, dass ich mich in der Vorbereitung auf das iPad schon ausgiebig mit den praktischen Media-Queries auseinanderhesetzt habe. Nun habe ich auch hier im Blog eine entsprechende Regeln implementiert. Ab sofort bekommen das iPhone im Portraitformat und Browser deren Fensterbreite unter **920px** liegt, eine verschmälerte Version der Seite angezeigt. Das kann ja jeder, der mit einem modernen Browser hier vorbeischaut leicht nachvollziehen, sonst hier auch mal ein Beispiel:
 
-![So sieht es in breit aus…](/img/codecandies/relaunch_940.jpg)
+![So sieht es in breit aus…](/images/codecandies/relaunch_940.jpg)
 
-![Hier die eher schmale Version.](/img/codecandies/relaunch_620.jpg)
+![Hier die eher schmale Version.](/images/codecandies/relaunch_620.jpg)
 
 Und so die schmale Version, 620px-einspaltig. Eigentlich hatte ich die schmale Version im _normalen_ Browser nur zum Testen genutzt, bis mir am Netbook auffiel, dass das natürlich auch für den Firefox durchaus Sinn machen kann.
 

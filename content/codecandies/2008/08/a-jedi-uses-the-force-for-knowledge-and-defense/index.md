@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Maus](/img/codecandies/p-640-480-f70cec8c-ceca-4b16-80ca-718b00582520.jpeg)
+![Maus](/images/codecandies/p-640-480-f70cec8c-ceca-4b16-80ca-718b00582520.jpeg)

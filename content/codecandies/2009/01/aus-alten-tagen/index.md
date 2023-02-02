@@ -6,6 +6,6 @@ tags:
 
 ---
 
-[„Elektronische Nächte“](/img/codecandies/img_0046.jpg)
+[„Elektronische Nächte“](/images/codecandies/img_0046.jpg)
 
 Wir hatten ja nichts damals, ausser unsere 2.400kbps ;)

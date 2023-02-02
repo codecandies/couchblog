@@ -7,6 +7,6 @@ tags:
   - "Gestaltet"
 ---
 
-![Palette](/img/codecandies/palette.gif)
+![Palette](/images/codecandies/palette.gif)
 
 _Not my cup of tea_, ehrlich gesagt, aber man dient ja einer höheren Sache…

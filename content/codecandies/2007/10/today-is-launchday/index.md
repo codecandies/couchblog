@@ -5,4 +5,4 @@ tags:
   - "Gearbeitet"
 ---
 
-![Launchday](/img/codecandies/ZZ70EF0C97.jpg)
+![Launchday](/images/codecandies/ZZ70EF0C97.jpg)

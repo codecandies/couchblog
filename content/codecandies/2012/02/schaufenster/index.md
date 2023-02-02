@@ -7,4 +7,4 @@ keywords:
   - "Hamburg"
 ---
 
-![Schaufenster](/img/codecandies/20120216-133340.jpg)
+![Schaufenster](/images/codecandies/20120216-133340.jpg)

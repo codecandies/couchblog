@@ -8,7 +8,7 @@ keywords:
   - "Firefox"
 ---
 
-![screenshot](/img/codecandies/ZZ6294E763.jpg)
+![screenshot](/images/codecandies/ZZ6294E763.jpg)
 
 Das [Google Online Security Blog berichtet](http://googleonlinesecurity.blogspot.com/2008/07/are-you-using-latest-web-browser.html) über die Update-Faulheit der Browsernutzer: man hat dazu auch Zahlen:
 

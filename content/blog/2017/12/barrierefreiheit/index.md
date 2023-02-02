@@ -28,7 +28,7 @@ Denn die beiden Fahrstühle sind andauernd kaputt. Sie sollten die Garanten der 
 
 In dieser Zeit gehen die Rollstuhlfahrer wieder leer aus. Die anderen, die sich nun wieder mit Treppen zufrieden geben müssen, haben es nun noch schwerer. Der einfache Grund: eine Überführung _über_ die Gleise, so hübsch und modern sie auch sei, ist viel höher, als die Unterführung tief gewesen ist. Schätzungsweise sind doppelt so viele Stufen pro Treppe zu überwinden.
 
-![In der App DB Streckenagent wird regelmäßig gewarnt (aber leider nicht entwarnt).](/img/58F8D4D7-9C59-42D7-AFAD-50BD189F80A3.jpeg)
+![In der App DB Streckenagent wird regelmäßig gewarnt (aber leider nicht entwarnt).](/images/58F8D4D7-9C59-42D7-AFAD-50BD189F80A3.jpeg)
 
 ### Das Gleichnis
 

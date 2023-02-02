@@ -5,7 +5,7 @@ tags:
   - "Gehört"
 ---
 
-> ![brickbybrick](/img/webpropaganda/brickbybrick-150x150.jpg)It’s a rainy afternoon In 1990 The big city geez it’s been 20 years- Candy-you were so fine
+> ![brickbybrick](/images/webpropaganda/brickbybrick-150x150.jpg)It’s a rainy afternoon In 1990 The big city geez it’s been 20 years- Candy-you were so fine
 >
 > Beautiful beautiful Girl from the north You burned my heart With a flickering torch I had a dream that no one else could see You gave me love for free
 >

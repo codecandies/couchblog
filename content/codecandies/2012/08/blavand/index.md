@@ -7,4 +7,4 @@ keywords:
   - "Dänemark"
 ---
 
-![Sand](/img/codecandies/Foto-1024x768.jpg)
+![Sand](/images/codecandies/Foto-1024x768.jpg)

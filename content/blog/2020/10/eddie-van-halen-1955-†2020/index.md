@@ -7,7 +7,7 @@ persons:
   - "Eddie van Halen"
 ---
 
-![Eddie Van Halen, \*1955 †2020](/img/img_0251-1024x768.jpg)
+![Eddie Van Halen, \*1955 †2020](/images/img_0251-1024x768.jpg)
 
 Eddie Van Halen war ein unfassbar guter Gitarrist und eine Ikone seiner Zeit. Seine Band habe ich aber immer gehasst.
 

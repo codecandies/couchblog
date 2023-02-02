@@ -9,6 +9,6 @@ keywords:
   - "Strand"
 ---
 
-![Kaputter Fernseher am Strand](/img/IMG_0348-1024x768.jpg)
+![Kaputter Fernseher am Strand](/images/IMG_0348-1024x768.jpg)
 
 Alles kapott.

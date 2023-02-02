@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Müll](/img/codecandies/20120108-144123-e1326030299319.jpg)
+![Müll](/images/codecandies/20120108-144123-e1326030299319.jpg)

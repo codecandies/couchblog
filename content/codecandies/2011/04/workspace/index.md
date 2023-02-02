@@ -6,6 +6,6 @@ tags:
   - "Gearbeitet"
 ---
 
-![See my desktop](/img/codecandies/desktop_2011.jpg)
+![See my desktop](/images/codecandies/desktop_2011.jpg)
 
 Von wegen Fanboy, die Maus ist von Microsoft.

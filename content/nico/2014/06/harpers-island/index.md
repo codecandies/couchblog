@@ -6,7 +6,7 @@ tags:
 coverImage: "Harper-s-Island-The-DVD-Edition-Cover-harpers-island-7057353-600-846.jpg"
 ---
 
-![dvd cover](/img/51y0TKLRKiL._SL250_.jpg)Seit _Scary Movie_ hat Horror für mich immer etwas mit Komödie zu tun, was manchem unangenehm aufstösst, wenn ich in den grausigsten Momenten anfange zu lachen, weil wieder mal die schlimmst denkbaren Filmclichees über den Screen laufen. Aus genau diesem Grunde fand ich _Harper's Island_ unglaublich komisch.
+![dvd cover](/images/51y0TKLRKiL._SL250_.jpg)Seit _Scary Movie_ hat Horror für mich immer etwas mit Komödie zu tun, was manchem unangenehm aufstösst, wenn ich in den grausigsten Momenten anfange zu lachen, weil wieder mal die schlimmst denkbaren Filmclichees über den Screen laufen. Aus genau diesem Grunde fand ich _Harper's Island_ unglaublich komisch.
 
 Natürlich sehen die Macher das anders: sie haben eine Horror-Serie vorgelegt, etwas, ich muss schon jetzt lachen, völlig Neues. Horror-Serie bedeutet in diesem Fall natürlich, dass zu den bekannten horroresken Stilmitteln: einer wird von der Gruppe getrennt, verirrt sich allein im Wald und wird dort dann in kleinste Teile gehackt, noch so grandiose Errungenschaften wie im Sande verlaufende Nebenstories, Ablenkungsaktionen und natürlich Cliffhanger vorkommen, also einer wird von der Gruppe getrennt, verirrt sich allein im Wald und wird dort dann in der nächsten Folge verhackstückt. Alles in allem macht _Harper's Island_ das aber amüsant und streckenweise dann doch spannend genug, dass man sich die komplette Serie antut. Immerhin.
 

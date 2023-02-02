@@ -7,6 +7,6 @@ tags:
 
 … den Schreibtisch aufräumen.
 
-![](/img/couchblog/kippenkeyboard.jpg)
+![](/images/couchblog/kippenkeyboard.jpg)
 
 Quelle: [Sven](http://wiesel.h-blog.org/) per Mail.

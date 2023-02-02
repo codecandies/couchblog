@@ -9,7 +9,7 @@ keywords:
   - "Trave"
 ---
 
-![](/img/img_1314-768x1024.jpg)
+![](/images/img_1314-768x1024.jpg)
 
 Show me the way
 

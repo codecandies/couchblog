@@ -5,7 +5,7 @@ tags:
   - "Generde"
 ---
 
-![Apple Powerbook](/img/webpropaganda/290064993_3c2e37c555_o.jpg)
+![Apple Powerbook](/images/webpropaganda/290064993_3c2e37c555_o.jpg)
 
 Es ist da, es ist da. Das Powerbook. Ich schmelze dahin. So schön. So elegant. So, mir zittern regelrecht die Hände, Fotos sind auch gleich nichts geworden... aber man weiss ja wie so etwas aussieht. Sonst schaut halt [hier](http://www.apple.com/de/powerbook/index15.html). Genauso siehts aus, noch jedenfalls. Damit es so bleibt strickt mir Mamma 'nen Powerbooksocken... ach nee, näht eine einmalige Hülle, nur richtig fiesen 70er Gardinenstoff muss ich dafür noch auftun.
 

@@ -7,4 +7,4 @@ keywords:
   - "Berlin"
 ---
 
-![Verrostete Fahrräder am Spreeufer](/img/31262D1F-EB1C-4DA3-9D6C-98E8F5A39044-768x1024.jpeg)
+![Verrostete Fahrräder am Spreeufer](/images/31262D1F-EB1C-4DA3-9D6C-98E8F5A39044-768x1024.jpeg)

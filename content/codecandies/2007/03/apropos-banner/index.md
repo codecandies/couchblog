@@ -7,6 +7,6 @@ keywords:
   - "Werbung"
 ---
 
-![](/img/codecandies/ZZ12D972D0.jpg)
+![](/images/codecandies/ZZ12D972D0.jpg)
 
 Das ist schon hart, oder?

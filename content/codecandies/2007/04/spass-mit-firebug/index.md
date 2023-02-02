@@ -9,7 +9,7 @@ tags:
 
 [Firebug](http://getfirebug.com) gehört wirklich, wirklich zu den nützlichen Tools, die man beim Entwickeln verwenden kann. Ein kleines Beispiel, mal so aus dem praktischen Geschäft heraus…
 
-![](/img/codecandies/ZZ0A209C6E.jpg)
+![](/images/codecandies/ZZ0A209C6E.jpg)
 
 Beim Schreiben angepasster Stylesheets für den IE benutze ich ausgiebig Firebug. Und zwar lade ich mir im Firefox die Seite und identifiziere parallel die Anzeigefehler im IE. Mit dem Firebug lasse ich mir dann die Styles des in Frage kommenden Elements anzeigen (siehe oben).
 

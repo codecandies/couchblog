@@ -8,7 +8,7 @@ keywords:
   - "iPhone"
 ---
 
-![screenie](/img/codecandies/ZZ1A26AB24.jpg)
+![screenie](/images/codecandies/ZZ1A26AB24.jpg)
 
 Es häufen sich die Beschwerden über das iPhone. Vor allem der 3G-Quickfix den Apple mit OS 2.0.2 so überraschend lieferte, treibt den einen oder anderen in den Wahnsinn:
 

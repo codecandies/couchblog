@@ -14,7 +14,7 @@ _Ich habe Auschwitz und Birkenau vor rund 25 Jahren als Leiter einer Jugendgrupp
 
 Auschwitz stellt man sich als das Vernichtungslager vor, so wie wir es aus den Filmen kennen. Aber [Auschwitz I](http://de.wikipedia.org/wiki/KZ_Auschwitz-Birkenau#Auschwitz_I) selbst sieht man in Filmen eher selten. Das Hauptlager Auschwitz ist nicht so groß, wie man es sich vorstellt. Und gleicht auch eher einem Gefängnis. Keine Baracken, sondern Steinbauten, ein- und zweistöckig. Keine gigantischen Exerzierplätze, man hat sich das irgendwie anders vorgestellt.
 
-![Kofferberg](/img/gyoqiejbhba-683x1024.jpg)
+![Kofferberg](/images/gyoqiejbhba-683x1024.jpg)
 
 Koffer von Opfern in Auschwitz I (Foto von [Jean Carlo Emer](https://unsplash.com/@jeancarloemer))
 
@@ -22,7 +22,7 @@ Die Führung hat den Charakter eines Museeumsbesuches, man sieht Gefängniszelle
 
 Beendete man an dieser Stelle seinen Besuch in Auschwitz, wäre es nichts mehr als ein Besuch im Museeum des Grauens. Im Grunde viel zu erträglich, und dabei meine ich nicht eine Gier nach Sensation oder ähnliches. Beinahe fragt man sich, wie abgebrüht man ist, einen solchen Besuch ohne tieferes Entsetzen zu überstehen.
 
-![Einfahrtstor und Wachturm, Konzentrationslager Auschwitz II, Birkenau](/img/dq6cp4jg9qi-683x1024.jpg)
+![Einfahrtstor und Wachturm, Konzentrationslager Auschwitz II, Birkenau](/images/dq6cp4jg9qi-683x1024.jpg)
 
 Das Tor von Birkenau (Foto von [Severinus Dewantara](https://unsplash.com/@dwntara))
 

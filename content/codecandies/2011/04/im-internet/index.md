@@ -7,7 +7,7 @@ keywords:
   - "Medien"
 ---
 
-![Im Internet](/img/codecandies/ininternet.jpg)
+![Im Internet](/images/codecandies/ininternet.jpg)
 
 Eben habe ich **im Radio** einen Beitrag gehört. Es ging um Plagiate berühmter Marken, die man _im Internet_ zu Spottpreisen kaufen kann. Würde man – oder der entsprechende Händler – bei diesem Verstoss jedoch erwischt, müsse man ggf. Schadenersatz an die Rechteinhaber zahlen und mglw. sogar noch die Vernichtung der Ware bezahlen. Der Rat der Kollegen vom Radio: man hole sich vor einem Kauf _im Internet_ ggf. den Rat eines Rechtsanwalts ein.
 

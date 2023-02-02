@@ -5,4 +5,4 @@ tags:
   - "Geknipst"
 ---
 
-![Hurra, es mobloggt.](/img/codecandies/20080402-164905-1.jpg)
+![Hurra, es mobloggt.](/images/codecandies/20080402-164905-1.jpg)

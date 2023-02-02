@@ -7,4 +7,4 @@ keywords:
   - "Kaffee"
 ---
 
-![](/img/img_0610.jpg)
+![](/images/img_0610.jpg)

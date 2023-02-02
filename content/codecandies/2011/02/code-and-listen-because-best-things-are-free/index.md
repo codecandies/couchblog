@@ -8,7 +8,7 @@ keywords:
   - "Techno"
 ---
 
-![id.eology ID.064](/img/codecandies/id064_frontcover_mittel.jpg)
+![id.eology ID.064](/images/codecandies/id064_frontcover_mittel.jpg)
 
 Vor drei Jahren habe ich meine Musiktipps für den Programmierer-Reihe [mit einem Release von Ideology begonnen](/codecandies.de/2007/01/25/code-and-listen-id028/) und ich habe gerade große Lust, die Serie _Code and Listen_ wieder ein wenig aufleben zu lassen. Auslöser auch drei Jahre später wieder: ein Release meine Lieblingsnetlabels.
 

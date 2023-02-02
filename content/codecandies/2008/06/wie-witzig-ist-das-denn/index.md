@@ -7,6 +7,6 @@ keywords:
   - "Apple"
 ---
 
-![](/img/codecandies/ZZ5B2FAEE0.jpg)
+![](/images/codecandies/ZZ5B2FAEE0.jpg)
 
 Das [TapeDeck](http://tapedeckapp.com/) für den Mac. Grins.

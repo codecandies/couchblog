@@ -7,7 +7,7 @@ persons:
   - "Reinhard Mey"
 ---
 
-![Reinhard Mey, 1971 in Kiel](/img/reinhard_mey.jpg)
+![Reinhard Mey, 1971 in Kiel](/images/reinhard_mey.jpg)
 
 Seinem Zeitgenossen Hannes Wader habe ich schon, mehr aus Versehen, zwei Geburtstagsartikel[^1] gewidmet, da ist es nur recht und billig, dem guten Reinhard Mey ebenso zu gratulieren. Und diese Zeilen zeigen schon etwas, was das Problem ist mit Reinhard Mey: Ich habe immer das Gefühl, ich müsste mich entschuldigen dafür, dass ich ihn durchaus mag. Denn Reinhard Mey passt mehr oder weniger nirgendwo rein: für die Linken war er als „Säuselbarde“ nie links genug, für den Rest der Gesellschaft meist zu kritisch. Und seine großen Erfolge waren natürlich eher die romantischen und lustigen Lieder. Er trat viel mit Hannes Wader auf, in deren gemeinsamer Anfangszeit und zusammen mit Konstantin Wecker anlässlich Waders Geburtstag („[Bella Ciao](https://www.youtube.com/watch?v=NUe-O9iWQMk)“!), aber hatte trotzdem eher den Ruf eines Schlagersängers mit _vernünftigen_ Texten, und konkurrierte seinerzeit dort eher mit Udo Jürgens. Trotzdem traf und trifft, seinen Kampf gegen die Eigenheim-Rasenmäherarmee (inkl. Laubbläserbatallione) unterstütze ich auf Schärfste, er für mich oft genug den richtigen Ton, dass ich sagen muss: Den Mey, den mag ich. Trotz alledem.
 

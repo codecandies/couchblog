@@ -5,7 +5,7 @@ tags:
   - "Gestorben"
 ---
 
-![](/img/terryjones-1024x768.jpg)
+![](/images/terryjones-1024x768.jpg)
 
 Foto: [Eduardo Unda-Sanzana](https://www.flickr.com/people/9596483@N04) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 

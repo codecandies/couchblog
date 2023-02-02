@@ -9,7 +9,7 @@ keywords:
   - "Hale-Bopp"
 ---
 
-[Der Dritte Raum: Hale-Bopp](/img/E67B25FC-E922-40BA-9881-277ED11C93AA.jpeg)
+[Der Dritte Raum: Hale-Bopp](/images/E67B25FC-E922-40BA-9881-277ED11C93AA.jpeg)
 
 Am 22.03.1997 passierte der Komet C/1995 O1, nach seinen Entdecker Alan Hale und Thomas Bopp „[Hale-Bopp](https://de.m.wikipedia.org/wiki/C/1995_O1_(Hale-Bopp))“ genannt, die Erde. Er ist der größte uns bekannte Komet und wohl auch der hellste, sein Erscheinungsbild am Himmel war zu jener Zeit gut 18 Monate von der Erde mit bloßem Auge zu sehen. „Hale-Bopp“ löste eine große Komenten-Euphorie aus zu jener Zeit, wir hatten ja nichts, was wir aber hatten war das aufkommende Internet und „Hale-Bopp“ war womöglich sein erster Hype.
 

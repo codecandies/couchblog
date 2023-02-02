@@ -7,7 +7,7 @@ persons:
   - "Michael Jackson"
 ---
 
-![MJ 2003 bei den Filmfestspielen in Cannes](/img/codecandies/mjcannes.jpg)
+![MJ 2003 bei den Filmfestspielen in Cannes](/images/codecandies/mjcannes.jpg)
 
 Nach einer knapp 43 Jahre währenden Leidenszeit, starb der _King of Pop_ gestern in Los Angeles.
 

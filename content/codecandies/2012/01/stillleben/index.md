@@ -7,7 +7,7 @@ keywords:
   - "Wir nennen es Arbeit"
 ---
 
-![Stillleben](/img/codecandies/stillleben.jpg)
+![Stillleben](/images/codecandies/stillleben.jpg)
 
 > Stillleben bezeichnet in der Geschichte der europäischen Kunsttradition die Darstellung toter bzw. regloser Gegenstände (Blumen, Früchte, tote Tiere, Gläser, Instrumente o.a.).
 

@@ -7,4 +7,4 @@ keywords:
   - "Medien"
 ---
 
-![Thomas Knüwer nimmt die Redaktion ins Gebet… oder so.](/img/codecandies/img_0003.jpg)
+![Thomas Knüwer nimmt die Redaktion ins Gebet… oder so.](/images/codecandies/img_0003.jpg)

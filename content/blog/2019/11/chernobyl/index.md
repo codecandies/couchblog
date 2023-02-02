@@ -8,7 +8,7 @@ tags:
 
 Ich habe eine Reihe katastrophaler Ereignisse der Weltgeschichte im Kopf, die ohne Zweifel einen mehr oder minder starken Einfluss auf mein Leben hatten. 9-11 natürlich, Fukushima, das Attentat auf Uttøya und noch einige andere. Die [Nuklearkatastrophe von Tschernobyl](https://de.wikipedia.org/wiki/Nuklearkatastrophe_von_Tschernobyl) wird wohl das erste Ereignis auf dieser Liste sein und ich muss zugeben, ich hatte es beinahe schon verdrängt.
 
-![](/img/DB55ABA7-0602-407D-A38E-4010171EBDB0.jpeg)
+![](/images/DB55ABA7-0602-407D-A38E-4010171EBDB0.jpeg)
 
 Photo by Hugh Mitton on Unsplash
 

@@ -8,7 +8,7 @@ keywords:
   - "Weblogs"
 ---
 
-![Notizen](/img/codecandies/img_0001.jpg)
+![Notizen](/images/codecandies/img_0001.jpg)
 
 Eigentlich wollte ich nur ein Plugin zur Spamabwehr installieren…
 

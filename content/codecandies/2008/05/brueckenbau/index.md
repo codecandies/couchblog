@@ -7,6 +7,6 @@ keywords:
   - "Lübeck"
 ---
 
-![Meierbrücke](/img/codecandies/ZZ1FD1556C.jpg)
+![Meierbrücke](/images/codecandies/ZZ1FD1556C.jpg)
 
-![St Lorenzbrücke](/img/codecandies/ZZ47B1BD6A.jpg)
+![St Lorenzbrücke](/images/codecandies/ZZ47B1BD6A.jpg)

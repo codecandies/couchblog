@@ -14,7 +14,7 @@ Endlich ist es soweit, morgen ist es da. Das iPad kommt. Die Verlage werden gere
 
 Oder eben nicht. Vielleicht beginnt aber morgen auch der größte _Realitycheck_ aller Zeiten, vielleicht erleben wir morgen, die kurzfristige Neuauflage der letzen Folge von Lost, das große Erwachen, der Kater danach. Vielleicht merken wir morgen, dass das iPad der teuerste digitale Bilderrahmen aller Zeiten ist.
 
-![Im Bild: der Weisheit letzter Schluss?](/img/codecandies/4565380612_a523d53d45_b.jpg)
+![Im Bild: der Weisheit letzter Schluss?](/images/codecandies/4565380612_a523d53d45_b.jpg)
 
 Wie auch immer, die grandiose – zum Großteil _viral_ verlaufene – Kampagne der Firma Apple erreicht morgen ihren Höhepunkt, da die ersten Geräte an die Verbraucher ausgeliefert werden. Und dann werden wir, wenn das erste Herzklopfen abgeklungen ist und die Nutzer sich nicht mehr wie frisch defloriert vorkommen, sehen, ob das iPad für uns hält, was Steve Jobs versprochen hat.
 

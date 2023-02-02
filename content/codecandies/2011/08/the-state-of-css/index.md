@@ -8,7 +8,7 @@ keywords:
   - "HTML"
 ---
 
-![Da ist ein Eisbär im Raum?](/img/codecandies/bestpracticeicebear.jpg)
+![Da ist ein Eisbär im Raum?](/images/codecandies/bestpracticeicebear.jpg)
 
 Im Moment gibt es wieder viel zu lernen, in Sachen CSS. Da sind zunächst die vielen neuen Dinge, die CSS3 bringt. Durch die derzeit rasante Browserentwicklung, Polyfills oder einfache Fallbacklösungen kann man vieles davon schon heute oder wenigstens morgen gebrauchen. Dazu kommen die _Learnings_ aus einigen Jahren intensiven Einsatzes von CSS, seit der internationalen Ächtung des Tabellenlayout ist viel passiert.
 

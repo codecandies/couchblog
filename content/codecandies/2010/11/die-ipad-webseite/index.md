@@ -11,7 +11,7 @@ keywords:
   - "iPad"
 ---
 
-![Screenshot ZEIT ONLINE, Wissen Centerpage, iPad Version, Design: Information Architects](/img/codecandies/zon-001.jpg)
+![Screenshot ZEIT ONLINE, Wissen Centerpage, iPad Version, Design: Information Architects](/images/codecandies/zon-001.jpg)
 
 Liest man die gängigen Webdesign-Sites findet man eine Fülle von Tipps, wie man seine Website anpassen kann, damit sie auch auf dem iPad _funktioniert_. Der Tenor: mit _css media queries_ ein paar zusätzliche Stylesheets für das iPad liefern, im Scriptteil ein wenig die Touch- und Gestureevents einsetzen, Flashvideos raus, Buttons größer: fertig! Das war nicht ganz das, was uns vorschwebte…
 
@@ -31,7 +31,7 @@ Stehen zusätzlich Anforderungen im Raum, dass auch ein Schalter zur Rückkehr z
 
 Diese Lösung ist allerdings noch nicht das Endstadium, allein weil wir nach und nach die Site für weitere Tablets fit machen wollen. Im Laufe dieser Zeit werden wir auch das UA-switching wieder entfernen und durch bessere Methoden ersetzen.
 
-![Screenshot ZEIT ONLINE, Navigation, iPad Version, Design: Information Architects](/img/codecandies/zon-002.jpg)
+![Screenshot ZEIT ONLINE, Navigation, iPad Version, Design: Information Architects](/images/codecandies/zon-002.jpg)
 
 ## Der Spass an der Entwicklung
 

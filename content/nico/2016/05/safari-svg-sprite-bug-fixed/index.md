@@ -13,7 +13,7 @@ coverImage: "3941701730_d8cf9fe222_b.jpg"
 
 Der [Safari SVG Sprite Bug](http://nicobruenjes.de/2016/04/safari-svg-sprite-bug/), der mich nun ein paar Wochen verfolgt hat, ist gefixt. Schnell nach bekannt werden des Bugs hatte sich [Antti Koivisto](https://twitter.com/anttikoivisto) der Sache angenommen und einen Fix gebaut, der in den aktuellen Updates von iOS (9.3.2) und Safari für OS X 9.1.1 (11601.6.17) landete, beide Updates sind seit Montag erhältlich. Besucht man mit leerem Cache nun eine Seite mit SVG-Sprite, wird dieses gecached und **nicht so oft geladen**, wie Icons aus dem Sprite auf der Seite verwendet werden.
 
-![safari-svg-sprite-bug-fixed](/img/safari-svg-sprite-bug-fixed-1024x684.png)
+![safari-svg-sprite-bug-fixed](/images/safari-svg-sprite-bug-fixed-1024x684.png)
 
 ### Notlösung zurückbauen
 

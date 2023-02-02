@@ -7,4 +7,4 @@ tags:
 
 Kürzlich sind wir mal wieder innerhalb des Hauses umgezogen, nur den Gang runter ein paar Büros weiter, aber man muss sich ja auch erst mal wieder einrichten. Die Wände sind noch kahl, aber der Arbeitsplatz steht soweit wieder:
 
-![Nicos Arbeitsplatz](/img/codecandies/img_0117.jpg)
+![Nicos Arbeitsplatz](/images/codecandies/img_0117.jpg)

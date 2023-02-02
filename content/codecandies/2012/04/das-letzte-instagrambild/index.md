@@ -7,4 +7,4 @@ keywords:
   - "Kiel"
 ---
 
-![Turm.](/img/codecandies/20120411-194044.jpg)
+![Turm.](/images/codecandies/20120411-194044.jpg)

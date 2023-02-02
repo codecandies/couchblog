@@ -7,7 +7,7 @@ keywords:
   - "CSS"
 ---
 
-![Keine Haftung](/img/codecandies/keineHaftung.jpg)
+![Keine Haftung](/images/codecandies/keineHaftung.jpg)
 
 [Hier](http://userstyles.org/styles/browse/all/http:%2F%2Fwww.zeit.de) habe ich einige Nutzer gefunden, die sich die Mühe gemacht haben, das Webdesign von [zeit.de](http://zeit.de) nach ihrem gutdünken zu verändern und die Styles zur Verfügung zu stellen (zugegeben, mit teilweise etwas haarsträubenden Ergebnissen, aber am Ende zählt ja der Wille, positiv wie negativ).
 

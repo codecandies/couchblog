@@ -5,7 +5,7 @@ tags:
   - "Gefunden"
 ---
 
-[![Mittach...](/img/webpropaganda/135011643_11726c21a2_m.jpg)](http://flickr.com/photos/couchblog/135011643/ "Photo Sharing")Hurra, Hamburg ist sicher. Behauptet jedenfalls der Verfassungsschutz... und der muss es ja wissen. _Hinweise auf eine konkrete Gefährdungssituation durch extremistische Gewalttäter liegen derzeit für Hamburg nicht vor._ Nun ja, man will natürlich keine Panik machen, oder gar Untätigkeit der Behörden [wittern](http://www.taz.de/pt/2006/04/25/a0280.1/text).
+[![Mittach...](/images/webpropaganda/135011643_11726c21a2_m.jpg)](http://flickr.com/photos/couchblog/135011643/ "Photo Sharing")Hurra, Hamburg ist sicher. Behauptet jedenfalls der Verfassungsschutz... und der muss es ja wissen. _Hinweise auf eine konkrete Gefährdungssituation durch extremistische Gewalttäter liegen derzeit für Hamburg nicht vor._ Nun ja, man will natürlich keine Panik machen, oder gar Untätigkeit der Behörden [wittern](http://www.taz.de/pt/2006/04/25/a0280.1/text).
 
 Die dpa schreibt allerdings:
 

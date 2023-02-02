@@ -5,7 +5,7 @@ tags:
   - "Gehört"
 ---
 
-![wax](/img/webpropaganda/wax-150x150.jpg)Tom Wax – Mix Trax Vol.2 Phuture Wax 1997
+![wax](/images/webpropaganda/wax-150x150.jpg)Tom Wax – Mix Trax Vol.2 Phuture Wax 1997
 
 Track 3: [Elektrochemie LK](http://www.laut.de/wortlaut/artists/s/schumacher_thomas/) – Schall und Rauch ([Confused](http://www.confused-recordings.de/))
 

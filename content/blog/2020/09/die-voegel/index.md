@@ -7,4 +7,4 @@ keywords:
   - "Travemünde"
 ---
 
-![](/img/img_0207-1024x768.jpg)
+![](/images/img_0207-1024x768.jpg)

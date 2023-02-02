@@ -11,4 +11,4 @@ keywords:
 
 Stattdessen…
 
-![](/img/codecandies/kingdomrush.jpg "kingdomrush")
+![](/images/codecandies/kingdomrush.jpg "kingdomrush")

@@ -7,4 +7,4 @@ keywords:
   - "Lübeck"
 ---
 
-![](/img/022B9DBE-12F5-4C64-A25E-4D26BB162ABE-1024x768.jpeg)
+![](/images/022B9DBE-12F5-4C64-A25E-4D26BB162ABE-1024x768.jpeg)

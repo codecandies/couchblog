@@ -7,6 +7,6 @@ tags:
   - "Gereist"
 ---
 
-![](/img/codecandies/ZZ34D6C315.jpg)
+![](/images/codecandies/ZZ34D6C315.jpg)
 
 Brrrrr… hier wird's langsam kalt.

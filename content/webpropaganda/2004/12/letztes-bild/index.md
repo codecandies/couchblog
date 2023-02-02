@@ -7,6 +7,6 @@ tags:
 
 Am Ende einer langen Weihnachtsfeier...
 
-![208](/img/webpropaganda/208.jpg)
+![208](/images/webpropaganda/208.jpg)
 
 Das letzte Bild von gestern. :D siehe [auch](http://lumma.de/eintrag.php?id=1025)...

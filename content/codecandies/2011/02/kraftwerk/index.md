@@ -15,7 +15,7 @@ persons:
   - "Brian Eno"
 ---
 
-![Nennen Sie die einflussreichste deutsche Band](/img/codecandies/kraftwerk_artikelbild.jpg "kraftwerk_artikelbild")
+![Nennen Sie die einflussreichste deutsche Band](/images/codecandies/kraftwerk_artikelbild.jpg "kraftwerk_artikelbild")
 
 
 1970 hörte man [Krautrock](http://en.wikipedia.org/wiki/Krautrock). Damals nannte man diese Musikrichtung noch nicht so und eigentlich war es auch keine Musikrichtung, eher so eine Art Lebens- und Kunstgefühl, dass Bands wie _Can_, _Amon Düül_, _Ash Ra Temple_ oder _Tangerine Dream_ miteinander verband. Aber die Musik war neu und sie unterschied sich von allen anderen populären Musiken in Deutschland dadurch, dass es die einzige war, die nicht versuchte Musik aus den USA oder UK zu imititeren. Nicht mehr ganz neu hingegen war die Idee elektronisch Musik zu erzeugen, Sythesizer waren zu jener Zeit jedoch groß wie Kleinlastwagen und ebenso teuer.

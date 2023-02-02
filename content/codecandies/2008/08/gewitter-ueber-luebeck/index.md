@@ -7,9 +7,9 @@ tags:
 
 Gestern abend.
 
-![Gewitter](/img/codecandies/gewitter1.jpg)
+![Gewitter](/images/codecandies/gewitter1.jpg)
 
-![Gewitter](/img/codecandies/gewitter2.jpg)
+![Gewitter](/images/codecandies/gewitter2.jpg)
 
-![Gewitter](/img/codecandies/gewitter3.jpg)
+![Gewitter](/images/codecandies/gewitter3.jpg)
 

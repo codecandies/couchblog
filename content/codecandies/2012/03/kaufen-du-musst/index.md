@@ -7,4 +7,4 @@ keywords:
   - "Star Wars"
 ---
 
-![Puppen.](/img/codecandies/20120316-205538.jpg)
+![Puppen.](/images/codecandies/20120316-205538.jpg)

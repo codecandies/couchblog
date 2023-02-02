@@ -48,10 +48,10 @@ CSS:
   list-style:none;
   margin:0;
   padding:0;
-  background: transparent url(/img/webpropaganda/brd7c6750bottom.png) repeat-x top;
+  background: transparent url(/images/webpropaganda/brd7c6750bottom.png) repeat-x top;
 }
 #navigation ul li {
-  background: transparent url(/img/webpropaganda/brd7c6750bottom.png) repeat-x bottom;
+  background: transparent url(/images/webpropaganda/brd7c6750bottom.png) repeat-x bottom;
   margin: 0;
   padding: 0;
 }

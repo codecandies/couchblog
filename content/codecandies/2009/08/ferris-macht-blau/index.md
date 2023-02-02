@@ -7,7 +7,7 @@ persons:
   - "John Hughes"
 ---
 
-![Ferris macht blau](/img/codecandies/ferrismachtblau-690x388.jpg "NRVOUS? ;)")
+![Ferris macht blau](/images/codecandies/ferrismachtblau-690x388.jpg "NRVOUS? ;)")
 
 > Life moves pretty fast. You don't stop and look around once in a while, you could miss it.
 > — Ferris Bueller

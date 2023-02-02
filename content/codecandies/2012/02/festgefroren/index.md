@@ -7,4 +7,4 @@ tags:
   - "Geknipst"
 ---
 
-![Eiszeit](/img/codecandies/20120213-132908.jpg)
+![Eiszeit](/images/codecandies/20120213-132908.jpg)

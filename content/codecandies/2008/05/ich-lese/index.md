@@ -9,7 +9,7 @@ Ein erschreckendes Bekenntnis: wenn ich nicht gerade die Webdeveloper dieser Wel
 
 [Lisa Katayama](http://www.blogger.com/profile/20377317) (hier bei pop[geeksugar](http://www.geeksugar.com/536570)) schreibt die [Mangobot](http://io9.com/387996/the-original-speed-racer)\-Kolumne im [io9](http://io9.com/)\-Blog (Gawker) und eines meiner derzeitigen Lieblingsblogs ausserhalb meiner beruflichen Interessen: [**Tokyomango**](http://www.tokyomango.com/tokyo_mango/).
 
-![](/img/codecandies/ZZ4878A145.png)
+![](/images/codecandies/ZZ4878A145.png)
 
 Bei Tokyomango geht es um Lisas Steckenpferd, und das sind Gadgets. Und zwar japanische Gadgets und Stories dazu. Und das ist ja ein ziemlich weites und interessantes Gebiet, ein wenig spooky mithin, wie aktuell gerade der [USB Brain Massager](http://www.tokyomango.com/tokyo_mango/2008/05/usb-brain-massa.html)); durchgedreht, wie die [iPod-Verpackung, die wie Fleisch aussieht](http://www.tokyomango.com/tokyo_mango/2008/04/ipod-case-looks.html) und informativ, wie der Hinweis, dass [Crocs Unfälle auf Rolltreppen verursachen](http://www.tokyomango.com/tokyo_mango/2008/04/crocs-blamed-fo.html) können. Ich steht total auf solchen Quatsch. Zudem ist Lisa noch ein wahre Expertin in Sachen Manga, Anime und vor allem und erneut: [Astroboy](http://en.wikipedia.org/wiki/Astroboy).
 

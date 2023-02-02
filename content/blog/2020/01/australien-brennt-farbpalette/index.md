@@ -8,7 +8,7 @@ keywords:
   - "Klimawandel"
 ---
 
-![Australien brennt, eine Farbpalette](/img/australien_palette.png)
+![Australien brennt, eine Farbpalette](/images/australien_palette.png)
 
 Feuer in Australien: eine Farbpalette
 

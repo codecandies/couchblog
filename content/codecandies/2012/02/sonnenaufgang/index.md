@@ -8,4 +8,4 @@ keywords:
   - "Work"
 ---
 
-![Büroausblick](/img/codecandies/20120215-085753.jpg)
+![Büroausblick](/images/codecandies/20120215-085753.jpg)

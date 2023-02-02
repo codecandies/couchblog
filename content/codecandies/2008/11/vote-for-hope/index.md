@@ -7,7 +7,7 @@ keywords:
   - "USA"
 ---
 
-![Hope!](/img/codecandies/barack240.jpg)
+![Hope!](/images/codecandies/barack240.jpg)
 
 Das letzte Mal in amerikanische Politik eingemischt habe ich mich, als Irakkrieg war. Damals habe ich viele Links auch aus amerikanischen Blogs geerntet und hatte mich noch Wochen später mit durchgeknallten, patroisierten Vollpfosten rumzuschlagen, die mich mit _french fries_ foltern wollten – und Schlimmeres.
 

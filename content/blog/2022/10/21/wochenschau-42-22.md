@@ -9,6 +9,6 @@ series:
   - "Wochenschau"
 ---
 
-[![„Dogshit!“](/img/jonathanpie.jpg)](https://youtu.be/aIh7XJVxCAY)
+[![„Dogshit!“](/images/jonathanpie.jpg)](https://youtu.be/aIh7XJVxCAY)
 
 [Die Woche im Video.](https://youtu.be/aIh7XJVxCAY)

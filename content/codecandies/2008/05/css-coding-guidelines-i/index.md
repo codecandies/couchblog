@@ -8,7 +8,7 @@ keywords:
   - "Webentwicklung"
 ---
 
-![The Doctor. © BBC](/img/codecandies/ZZ58D4E4B0.jpg)
+![The Doctor. © BBC](/images/codecandies/ZZ58D4E4B0.jpg)
 
 #### Begriffsklärung
 

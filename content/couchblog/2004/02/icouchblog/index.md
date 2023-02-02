@@ -5,7 +5,7 @@ tags:
   - "Gelebt"
 ---
 
-![Imac-g3_model](/img/couchblog/Imac-g3_model.jpg)
+![Imac-g3_model](/images/couchblog/Imac-g3_model.jpg)
 
 iMac G3, [CC Lizenz](https://commons.wikimedia.org/wiki/File:Imac-g3_model.jpg)
 

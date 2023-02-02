@@ -7,7 +7,7 @@ keywords:
   - "considered harmful"
 ---
 
-![Treppenhaus](/img/codecandies/IMG_0239.jpg)
+![Treppenhaus](/images/codecandies/IMG_0239.jpg)
 
 Mitunter rege ich mich während einer sinnfreien Arbeit so lange über die Sinnlosigkeit der Sache und die verschwendete Zeit auf, dass mir ganz übel wird. Irgendwann kommt dann der Punkt, an dem ich innerlich kapituliere, dann laufen Notprogramme, der Autopilot übernimmt. Wenn dann das Ende absehbar ist, ist die innere Euphorie plötzlich so groß, ich würde glatt von einem ausgesprochen gelungenem Projekt sprechen wollen…
 

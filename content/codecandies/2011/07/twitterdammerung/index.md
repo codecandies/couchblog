@@ -9,7 +9,7 @@ keywords:
   - "Google"
 ---
 
-![Feuer!](/img/codecandies/Twitterdaemmerung.jpg)
+![Feuer!](/images/codecandies/Twitterdaemmerung.jpg)
 
 Das mit Google+ (aka. G+, ich hätte ja G-dot lustiger gefunden) etwas kommt, das die Landschaft der _social networks_ verändern wird, ist nicht erst klar, seit man an allen Ecken davon lesen kann. Stellten die ersten Kommentatoren jedoch G+ noch als den möglichen Facebookkiller dar, scheint beim zweiten hinsehen viel eher Twitter in Gefahr zu sein, durch den Vorschusserfolg des Betastarts an Nutzerunterstützung zu verlieren.
 

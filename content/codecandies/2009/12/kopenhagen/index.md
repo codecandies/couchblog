@@ -8,7 +8,7 @@ keywords:
   - "Kopenhagen"
 ---
 
-![There is no Planet B](/img/codecandies/4181701530_c2c3fd2495_o.jpg)
+![There is no Planet B](/images/codecandies/4181701530_c2c3fd2495_o.jpg)
 
 Die Klimakonferenz in Kopenhagen [ist grandios gescheitert](http://www.kopfzeiler.org/?p=427). Die Konsequenz ist klar…
 

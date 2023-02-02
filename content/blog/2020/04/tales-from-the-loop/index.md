@@ -11,7 +11,7 @@ keywords:
 
 Der Loop ist eine von Menschen geschaffene wissenschaftliche Einrichtung, in der die Geheimnisse des Universums erforscht werden sollen. Gleichwohl werden eben diese Geheimnisse in der Kleinstadt über dem Loop erlebbar.
 
-![](/img/8D9871C1-31DB-438B-BDBF-8AB26D099CA6.jpeg)
+![](/images/8D9871C1-31DB-438B-BDBF-8AB26D099CA6.jpeg)
 
 Die Geschichte und die Achtziger-Ästhetik der Amazon-Produktion „Tales from the Loop“ erinnern ein wenig an „Stranger Things“ (Netflix), die Erzählstruktur abgeschlossener Folgen an „Black Mirror“ und mit Twin Peaks haben sich die Macher der Serie [selbst verglichen](https://www.thewrap.com/tales-from-the-loop-premiere-anti-black-mirror-amazon-prime-video-nathaniel-halpern/). All die Vergleichen scheinen jedoch ins Leere zu laufen, wenn man die Serie sieht. Denn am Ende scheint vor allem die Ästhetik im Vordergrund zu stehen und die Menschen, nicht um Horror oder einen 80er-Soundtrack.
 

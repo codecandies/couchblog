@@ -7,7 +7,7 @@ keywords:
   - "Wordpress"
 ---
 
-![](/img/codecandies/ZZ6386D983.jpg)
+![](/images/codecandies/ZZ6386D983.jpg)
 
 Gerade habe ich das [Tagaroo](http://tagaroo.opencalais.com/)\-Wordpress-[Plugin](http://tagaroo.opencalais.com/download/) mal für einen Testlauf installiert. Das Plugin schlägt einen nach einer Contentanalyse für Artikel passende Tags vor.
 

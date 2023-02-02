@@ -10,7 +10,7 @@ keywords:
 
 2012 soll das Jahr werden, in dem Microsoft die ersten Windows-8-Tablets auf den Markt bringen will. Das ist angesichts der Situation—Apple hat nicht nur technologisch, sondern auch markttechnisch einen Vorsprung von über zwei Jahren—ein sehr ambitioniertes Vorhaben. Android-Tablets sind derzeit ein Nischenprodukt, alle anderen Versuche in den Markt zu kommen sind bisher schief gegangen, siehe Blackberry und HP.
 
-![Microsoft CEO Steve Ballmer](/img/codecandies/6302995233_5d46d846ff.jpeg)
+![Microsoft CEO Steve Ballmer](/images/codecandies/6302995233_5d46d846ff.jpeg)
 
 Man muss sich schon fragen, [was Microsoft überhaupt bieten will](http://www.businessinsider.com/how-in-the-world-will-microsoft-convince-people-to-buy-a-windows-tablet-2012-1), um wenigstens ein paar Leute zum Kauf eines metro-style Tablets zu bewegen. Steve Ballmer hat zwar gerade einen Haufen Entwickler auf Metro eingeschworen, die wollen aber eher für die multimillionen Userbasis von Windows 7 entwickeln. Ob dabei dann wirklich Apps entstehen, die auch für die Touchsteuerung geeignet sind: eher fraglich. Zumal auch ein Win-8-Tablet kaum einen Intelprozessor haben wird, wenn es in Sachen Akkulaufzeit bspw. konkurrenzfähig sein soll. Falls ein M$-Vertragspartner nicht gerade noch etwas erfindet, wird das ein ARM-Prozesor sein. Womit keine Intel-Apps laufen werden, so einfach out-of-the-box. Also keine alten und auch nicht gleich massenweise neue Apps. Wieviele Apps der Apple Appstore zu diesem Zeitpunkt wohl anzubieten hat?
 

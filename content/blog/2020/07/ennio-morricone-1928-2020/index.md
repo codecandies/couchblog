@@ -10,7 +10,7 @@ persons:
   - "Sergio Leone"
 ---
 
-![Sad Hill Cementary, 2016, Spanien, Ennio Morricone \*1928 †2020](/img/C9618CC8-06E3-49D6-946D-359DC284CF0B-1024x768.jpeg)
+![Sad Hill Cementary, 2016, Spanien, Ennio Morricone \*1928 †2020](/images/C9618CC8-06E3-49D6-946D-359DC284CF0B-1024x768.jpeg)
 
 Spaghettiwestern haben wir Italowestern damals genannt und meinten damit in der Regel Filme von Sergio Leone mit der Musik von Ennio Morricone. Keine Filmmusik im üblichen Sinne, wo die Musik aus dem Hintergrund die Athmosphäre schafft, die ein Film braucht, sondern eher Teil der Handlung selbst. Ohne die Musik sind viele der Szenen komplett nutzlos, lächerlich mithin. Oft kopiert, aber nie erreicht. Meiner Meinung nach am besten als Gesamtwerk in „Zwei glorreiche Halunken“ umgesetzt, mit dem [besten _mexican standoff_ aller Zeiten](https://youtu.be/sXldafIl5DQ), auf dem extra für den Film (und heute rekonstruierten) Sad Hill Cementary.
 

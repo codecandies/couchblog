@@ -7,7 +7,7 @@ persons:
   - "Wolfgang Petersen"
 ---
 
-![](/img/petersen.jpg)
+![](/images/petersen.jpg)
 
 Wolfgang Petersen ist tot.
 
