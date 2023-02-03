@@ -29,28 +29,29 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
   // filters
-  eleventyConfig.addFilter('shortDate', require("./src/_11ty/filters/shortDate.js"));
-  eleventyConfig.addFilter('mediumDate', require("./src/_11ty/filters/mediumDate.js"));
-  eleventyConfig.addFilter('longDate', require("./src/_11ty/filters/longDate.js"));
-  eleventyConfig.addFilter('pathDate', require("./src/_11ty/filters/pathDate.js"));
-  eleventyConfig.addFilter('w3cDate', require("./src/_11ty/filters/w3cDate.js"));
-  eleventyConfig.addFilter("head", require("./src/_11ty/filters/head.js"));
-  eleventyConfig.addFilter("filterTagList", require("./src/_11ty/filters/filterTagList.js"));
+  eleventyConfig.addFilter('shortDate', require("./_includes/_11ty/filters/shortDate.js"));
+  eleventyConfig.addFilter('mediumDate', require("./_includes/_11ty/filters/mediumDate.js"));
+  eleventyConfig.addFilter('longDate', require("./_includes/_11ty/filters/longDate.js"));
+  eleventyConfig.addFilter('pathDate', require("./_includes/_11ty/filters/pathDate.js"));
+  eleventyConfig.addFilter('w3cDate', require("./_includes/_11ty/filters/w3cDate.js"));
+  eleventyConfig.addFilter("head", require("./_includes/_11ty/filters/head.js"));
+  eleventyConfig.addFilter("filterTagList", require("./_includes/_11ty/filters/filterTagList.js"));
 
   // collections
-  eleventyConfig.addCollection("tagList", require("./src/_11ty/collections/tagList.js"));
-  eleventyConfig.addCollection("keywordList", require("./src/_11ty/collections/keywordList.js"));
-  eleventyConfig.addCollection("seriesList", require("./src/_11ty/collections/seriesList.js"));
-  eleventyConfig.addCollection("personList", require("./src/_11ty/collections/personList.js"));
-  eleventyConfig.addCollection("postsByKeywords", require("./src/_11ty/collections/keywordArticles.js"));
-  eleventyConfig.addCollection("postsByPersons", require("./src/_11ty/collections/personArticles.js"));
-  eleventyConfig.addCollection("postsBySeries", require("./src/_11ty/collections/seriesArticles.js"));
+  eleventyConfig.addCollection("tagList", require("./_includes/_11ty/collections/tagList.js"));
+  eleventyConfig.addCollection("keywordList", require("./_includes/_11ty/collections/keywordList.js"));
+  eleventyConfig.addCollection("seriesList", require("./_includes/_11ty/collections/seriesList.js"));
+  eleventyConfig.addCollection("personList", require("./_includes/_11ty/collections/personList.js"));
+  eleventyConfig.addCollection("postsByKeywords", require("./_includes/_11ty/collections/keywordArticles.js"));
+  eleventyConfig.addCollection("postsByPersons", require("./_includes/_11ty/collections/personArticles.js"));
+  eleventyConfig.addCollection("postsBySeries", require("./_includes/_11ty/collections/seriesArticles.js"));
 
   // plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(require("./eleventy.config.images.js"));
+  eleventyConfig.addPlugin(bundlerPlugin);
 
   // markdown config
   let markdownItOptions = {
