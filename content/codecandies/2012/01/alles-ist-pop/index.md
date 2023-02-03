@@ -9,5 +9,5 @@ persons:
   - "René Marik"
 ---
 
-<figure><a href="//www.youtube.com/watch?v=Z30g8sX08xg" target="_blank"><img src="/img/codecandies/allesistpop.jpg" alt="Alles ist Pop"></a></figure>
+<figure><a href="//www.youtube.com/watch?v=Z30g8sX08xg" target="_blank"><img src="/images/codecandies/allesistpop.jpg" alt="Alles ist Pop"></a></figure>
 

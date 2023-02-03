@@ -9,7 +9,7 @@ tags:
 
 Für das nächste Jahr habe ich mir natürlich wieder viel vorgenommen. Diesmal auch wieder mehr zu bloggen beispielsweise. Ansonsten halte ich meine guen Vorsätze aber lieber geheim, dann merkt keiner, wenn man sie nicht erfüllt. ;) Ich wünsche Euch allen einen guten Rutsch ins neue Jahr und einen nicht zu großen Kater am Neujahrsmorgen. Am Zweiten ist schon wieder Arbeit angesagt, haut also nicht so auf die Kacke… Hier noch mein Silverster-Song für dieses Jahr (schon etwas älter): Spike Jones & The City Slickers!
 
-<figure><a href="https://www.youtube.com/watch?v=3_4BrQeTFKo" target="_blank"><img src="/img/codecandies/happynewyear.jpg" alt="Video"></a></figure>
+<figure><a href="https://www.youtube.com/watch?v=3_4BrQeTFKo" target="_blank"><img src="/images/codecandies/happynewyear.jpg" alt="Video"></a></figure>
 
 > This is my New Year's resolution:
 > When my mother-in-law begins to yell and shout
