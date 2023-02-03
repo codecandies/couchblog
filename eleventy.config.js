@@ -8,6 +8,7 @@ const markDownItImplicitFigures = require('markdown-it-implicit-figures');
 const markDownItFootnote = require('markdown-it-footnote');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function( eleventyConfig ) {

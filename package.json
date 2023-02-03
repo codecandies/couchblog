@@ -1,17 +1,12 @@
 {
   "name": "couchblog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Couchblog Weblog",
   "main": "index.js",
   "scripts": {
     "clean": "del _site",
-    "watch:eleventy": "eleventy --serve",
-    "eleventy:build": "eleventy",
-    "css:build": "postcss ./_site/css/*.css --replace -u autoprefixer",
-    "watch:sass": "sass ./src/scss/:_site/css --watch --update --color",
-    "sass:build": "sass ./src/scss/:_site/css --no-source-map --style=compressed",
-    "start": "npm-run-all -l clean sass:build --parallel watch:*",
-    "build": "run-s -l eleventy:build sass:build css:build",
+    "start": "del _site && eleventy --serve",
+    "build": "eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -29,13 +24,12 @@
   "homepage": "https://github.com/codecandies/couchblog#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-beta.3",
+    "@11ty/eleventy-img": "^3.0.0",
     "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-bundle": "^1.0.1",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
-    "autoprefixer": "^10.4.2",
     "del": "^6.0.0",
     "del-cli": "^4.0.1",
-    "eslint": "^8.10.0",
-    "eslint-plugin-compat": "^4.0.2",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.4.1",
     "markdown-it-attribution": "^0.1.4",
@@ -43,13 +37,6 @@
     "markdown-it-container": "^3.0.0",
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-implicit-figures": "^0.10.0",
-    "markdown-it-prism": "^2.2.3",
-    "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.7",
-    "postcss-cli": "^9.1.0",
-    "sass": "^1.49.9"
-  },
-  "dependencies": {
-    "@11ty/eleventy-img": "^3.0.0"
+    "markdown-it-prism": "^2.2.3"
   }
 }

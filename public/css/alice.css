@@ -1,0 +1,296 @@
+@charset "UTF-8";
+:root {
+  color-scheme: light dark;
+  --white: #fff;
+  --white-rgb: 255, 255, 255;
+  --darkish: #111;
+  --darkish-rgb: 17, 17, 17;
+  --blueish: #025d8c;
+  --turkish: #00b7cf;
+  --orange: #ff6600;
+  --goldish: #ffbd00;
+  --background-primary: var(--white);
+  --text-primary: var(--darkish);
+  --text-emphasized: var(--orange);
+  --link-primary: var(--blueish);
+  --link-hover: var(--orange);
+  --primary-transparent: rgba(var(--darkish-rgb), 0.5);
+}
+
+/* fredericka-the-great-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Fredericka the Great";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/fonts/fredericka-the-great-v10-latin-regular.woff2") format("woff2"), url("/fonts/fredericka-the-great-v10-latin-regular.woff") format("woff");
+}
+/* bitter-300 - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Bitter";
+  font-style: normal;
+  font-weight: 300;
+  src: local(""), url("/fonts/bitter-v19-latin-300.woff2") format("woff2"), url("/fonts/bitter-v19-latin-300.woff") format("woff");
+}
+/* bitter-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Bitter";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/fonts/bitter-v19-latin-regular.woff2") format("woff2"), url("/fonts/bitter-v19-latin-regular.woff") format("woff");
+}
+.visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--background-primary);
+  color: var(--text-primary);
+  font-family: "Bitter", serif; /* fix hyphen bug in blink */
+  min-width: 375px;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    --background-primary: var(--darkish);
+    --text-primary: var(--white);
+    --text-emphasized: var(--goldish);
+    --link-primary: var(--turkish);
+    --link-hover: var(--goldish);
+    --primary-transparent: rgba(var(--white-rgb), 0.5);
+  }
+}
+
+main > header {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 1.25rem;
+}
+main > header h1 {
+  box-shadow: 1px 1px 5px 0 var(--primary-transparent);
+  border-color: currentcolor;
+  border-style: solid;
+  border-width: 0 1px 1px;
+  color: var(--primary-transparent);
+  font-family: "Fredericka the Great", Helvetica, serif;
+  font-size: 1rem;
+  margin-top: -3px;
+  padding: 0.5rem;
+  transform: rotate(-1.2deg);
+}
+@media screen and (max-width: 599px) {
+  main > header h1 span {
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(50%);
+            clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+}
+main > header nav {
+  display: flex;
+  font-size: 12px;
+  flex-direction: row;
+  padding-top: 1rem;
+}
+main > header nav a {
+  color: var(--primary-transparent);
+  margin-left: 10px;
+  text-decoration: none;
+}
+main > header nav a:hover {
+  color: var(--primary-transparent);
+  text-decoration: underline;
+}
+
+article {
+  display: grid;
+  grid-template-columns: minmax(1.2rem, 1fr) minmax(375px, 80ch) minmax(1.2rem, 1fr);
+  position: relative;
+}
+@media screen and (min-width: 1025px) {
+  article::before {
+    border-top: 1px solid var(--text-primary);
+    content: "";
+    position: absolute;
+    top: 342px;
+    width: 100%;
+    z-index: -1;
+  }
+}
+article > div {
+  grid-column: 2;
+}
+@media screen and (min-width: 500px) {
+  article > div .columns {
+    -moz-columns: 2;
+         columns: 2;
+    -moz-column-gap: 1em;
+         column-gap: 1em;
+  }
+}
+article > div .columns::first-letter {
+  color: var(--text-emphasized);
+  float: left;
+  font-family: "Fredericka the Great", serif;
+  font-size: 3em;
+  line-height: 0.7;
+  padding-left: 3px;
+  padding-right: 9px;
+  padding-top: 6px;
+}
+@supports ((-webkit-hyphens: auto) or (hyphens: auto)) {
+  article > div .columns {
+    font-family: "Bitter", serif, Helvetica; /* fix hyphen bug in blink */
+    -webkit-hyphens: auto;
+            hyphens: auto;
+    text-align: justify;
+  }
+}
+article footer {
+  grid-column: 2;
+}
+article footer h3 {
+  font-family: "Fredericka the Great", serif;
+  margin-bottom: 0.5em;
+}
+article footer .copyright {
+  font-size: 0.8em;
+  padding-top: 40px;
+  text-align: center;
+}
+article footer ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+article footer ul li {
+  flex: 1 0 48%;
+}
+article footer ul li + li {
+  text-align: right;
+}
+article footer ul .previous-post::before {
+  content: "←";
+  padding-right: 0.25em;
+}
+article footer ul .next-post::after {
+  content: "→";
+  padding-left: 0.25em;
+}
+article footer ul a {
+  color: inherit;
+  text-decoration: none;
+}
+article p {
+  font-size: 1rem;
+  line-height: 1.75;
+  margin-bottom: 1em;
+}
+article p strong {
+  color: var(--text-emphasized);
+  font-family: "Fredericka the Great", Helvetica, serif;
+  font-size: 120%;
+  letter-spacing: 0.05em;
+}
+article a {
+  color: var(--link-primary);
+  text-decoration: underline;
+}
+article a[href^="#"] {
+  font-size: 82.7%;
+  padding: 0 2px;
+  text-decoration: none;
+  vertical-align: text-bottom;
+}
+article a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+article figure,
+article header {
+  grid-column: 1/4;
+  width: 100%;
+  max-width: 100ch;
+  justify-self: center;
+}
+article figure {
+  margin: 20px 0 40px;
+}
+article figure iframe {
+  aspect-ratio: 560/315;
+  height: auto;
+  width: 100%;
+}
+article figure figcaption {
+  padding-top: 0.6em;
+  text-align: center;
+}
+article > header {
+  background-color: var(--background-primary);
+}
+article > header div {
+  aspect-ratio: 940/397;
+  background-color: var(--text-primary);
+  height: auto;
+  -webkit-mask: url(/images/alice/header.svg) no-repeat center;
+          mask: url(/images/alice/header.svg) no-repeat center;
+  margin: 0 -6px;
+  width: calc(100% + 12px);
+  -webkit-mask: url(/images/alice/header.svg) no-repeat center;
+}
+article > header h2 {
+  font-family: "Fredericka the Great", serif;
+  font-size: 22px;
+  font-size: clamp(2rem, 8vw, 3.6rem);
+  margin: 20px 0;
+  text-align: center;
+}
+article .hr {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+article .hr::before, article .hr::after {
+  background-color: var(--text-primary);
+  content: "";
+  display: block;
+  height: 1px;
+  margin: auto;
+  width: 100%;
+}
+article .hr span {
+  background-color: var(--text-primary);
+  display: block;
+  flex-shrink: 0;
+  height: 60px;
+  margin: 0 10px;
+  -webkit-mask: url(/images/alice/cat.svg) no-repeat center;
+          mask: url(/images/alice/cat.svg) no-repeat center;
+  width: 40px;
+  -webkit-mask: url(/images/alice/cat.svg) no-repeat center;
+}
+article .hr span:nth-child(2) {
+  height: 75px;
+  width: 75px;
+}

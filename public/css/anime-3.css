@@ -1,0 +1,115 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-attachment: fixed;
+  background-color: #d6d5dc;
+  background-image: linear-gradient(#fff, #d6d5dc);
+  background-repeat: no-repeat;
+  color: #333;
+  text-shadow: 1px 1px 0px #eee;
+}
+
+.visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(1.5rem, 1fr) minmax(auto, 60ch) minmax(1.5rem, 1fr);
+  font-size: 1.25rem;
+  line-height: 1.44;
+  padding-bottom: 5rem;
+}
+main * {
+  grid-column: 2;
+}
+main > header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  height: 100vh;
+}
+main > header a {
+  color: inherit;
+  font-weight: 200;
+  margin: 1rem 0 2rem;
+  text-decoration: none;
+}
+main > header a:hover {
+  text-decoration: none;
+  border-bottom: 1px dotted currentcolor;
+}
+main > header figure {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: flex-end;
+}
+main > header div {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+main > header h1 {
+  font-weight: 400;
+}
+main > header time {
+  font-weight: 300;
+}
+main .content p {
+  -webkit-hyphens: auto;
+          hyphens: auto;
+  margin-bottom: 1em;
+}
+main .content a {
+  border-bottom: 1px dotted currentcolor;
+  color: #107fc9;
+  -webkit-hyphens: none;
+          hyphens: none;
+  text-decoration: none;
+}
+main .content a:hover {
+  color: #ff6600;
+}
+main footer {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  margin: 1rem auto 4rem;
+  max-width: 900px;
+  width: 100%;
+}
+main footer ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+main footer ul li {
+  flex: 1 0 48%;
+}
+main footer ul li + li {
+  text-align: right;
+}
+main footer ul .previous-post::before {
+  content: "←";
+  padding-right: 0.25em;
+}
+main footer ul .next-post::after {
+  content: "→";
+  padding-left: 0.25em;
+}
+main footer a {
+  border-bottom: 1px dotted currentcolor;
+  color: #107fc9;
+  text-decoration: none;
+}
+main footer a:hover {
+  color: #ff6600;
+}

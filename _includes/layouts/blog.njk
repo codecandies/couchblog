@@ -1,7 +1,9 @@
 {% extends 'layouts/default.njk' %}
 
 {% block additional_styles %}
-<link rel="stylesheet" href="/css/prism-okaidia.css">
+{%- css %}
+{% include "node_modules/prismjs/themes/prism-okaidia.css" %}
+{%- endcss %}
 {% endblock %}
 
 {% block metadata %}

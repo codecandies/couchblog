@@ -1,0 +1,285 @@
+:root {
+  --white: #fff;
+  --white-rgb: 255, 255, 255;
+  --black: #000;
+  --black-rgb: 0, 0, 0;
+  --orange: #ff6600;
+  --yellow: #fdfd02;
+  --green: #01ff00;
+  --pink: #ec008b;
+  --background-primary: var(--yellow);
+  --text-primary: var(--black);
+  --link-primary: var(--black);
+  --link-hover: var(--orange);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--background-primary);
+  color: var(--text-primary);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  min-width: 375px;
+}
+body.yellow {
+  --background-primary: var(--yellow);
+}
+body.green {
+  --background-primary: var(--green);
+}
+body.pink {
+  --background-primary: var(--pink);
+}
+
+main {
+  height: 100%;
+}
+main > header {
+  align-items: center;
+  background-color: var(--black);
+  color: var(--white);
+  display: flex;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.75rem;
+  height: 32px;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+main > header h1 {
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1;
+}
+@media screen and (max-width: 599px) {
+  main > header h1 span {
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(50%);
+            clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+}
+main > header nav {
+  display: flex;
+  font-size: 1em;
+  flex-direction: row;
+}
+main > header nav a {
+  color: var(--white);
+  margin-left: 10px;
+  text-decoration: none;
+}
+main > header nav a:hover {
+  color: var(--background-primary);
+  text-decoration: none;
+}
+main article {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 58.75rem;
+  width: 100%;
+}
+main article > header {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: calc(100vh - 72px);
+  justify-content: center;
+  max-width: 100%;
+}
+main article > header h1 {
+  aspect-ratio: 1;
+  background: transparent url("/images/superdiscount/superdiscount-filled.svg") no-repeat;
+  background-size: cover;
+  margin-left: -4%;
+  text-indent: -5000em;
+  width: 100%;
+}
+main article section {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+  padding: 40px 20px;
+}
+main article section p {
+  font-size: 16px;
+  -webkit-hyphens: auto;
+          hyphens: auto;
+  line-height: 1.4;
+}
+main article section p a {
+  color: inherit;
+  text-decoration: underline;
+}
+main article section p a:hover {
+  color: var(--link-hover);
+}
+main article section > h2 {
+  background-color: transparent;
+  font-size: 24px;
+  font-weight: 300;
+  height: 120px;
+  letter-spacing: 0.1em;
+  line-height: 120px;
+  margin-bottom: 20px;
+  text-align: center;
+  /*text-indent: -5000em;*/
+  text-transform: uppercase;
+}
+main article section > h2 span {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+main article section > h2 strong {
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+main article section > h2::after {
+  content: "";
+  left: calc(50% - 60px);
+  height: 120px;
+  position: absolute;
+  transition: opacity 0.5s ease-in-out;
+  width: 120px;
+}
+main article section > h2.franc::after {
+  background: transparent url("/images/superdiscount/franc.svg") no-repeat 50% 50%;
+}
+main article section > h2.pound::after {
+  background: transparent url("/images/superdiscount/pound.svg") no-repeat 50% 50%;
+}
+main article section > h2.yen::after {
+  background: transparent url("/images/superdiscount/yen.svg") no-repeat 50% 50%;
+}
+main article section > h2.dollar::after {
+  background: transparent url("/images/superdiscount/dollar.svg") no-repeat 50% 50%;
+}
+main article section > h2.is-intersecting span {
+  opacity: 1;
+}
+main article section > h2.is-intersecting::after {
+  opacity: 0;
+}
+main article section blockquote > p {
+  font-family: Georgia, serif, Helvetica; /* fix chrome hyphen bug */
+  font-size: 32px;
+  font-style: italic;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+main article section blockquote footer {
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+main article section blockquote footer a {
+  color: var(--black);
+  text-decoration: none;
+}
+main article section blockquote footer a:hover {
+  color: var(--orange);
+}
+main article section .videogrid {
+  display: block;
+}
+main article section .videogrid iframe {
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+@media screen and (min-width: 610px) {
+  main article section .videogrid {
+    display: flex;
+    gap: 20px;
+  }
+  main article section .videogrid iframe {
+    align-self: flex-start;
+    flex: 1 1 auto;
+  }
+}
+@media screen and (min-width: 950px) {
+  main article section .videogrid {
+    align-items: center;
+  }
+  main article section .videogrid iframe {
+    align-self: center;
+    flex: 1 0 560px;
+  }
+}
+main article section .double {
+  -moz-columns: 2;
+       columns: 2;
+  gap: 40px;
+}
+main article section .double p {
+  text-align: justify;
+  margin-bottom: 1em;
+}
+main article section .gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(200px, 1fr));
+  grid-template-rows: repeat(2, minmax(200px, 1fr));
+}
+main article section .gallery img {
+  height: 100%;
+  width: 100%;
+}
+main .sticky {
+  bottom: 0;
+  left: 1px;
+  position: sticky;
+}
+main .sticky div {
+  margin: 0 auto;
+  height: 32px;
+  text-align: center;
+  width: 100px;
+}
+main .sticky div button {
+  background: none;
+  border: 1px solid #000;
+  border-radius: 3px;
+  height: 20px;
+  padding: 0;
+  font-family: inherit;
+  font-size: 1em;
+  color: #000;
+  text-decoration: none;
+  text-indent: -5000em;
+  cursor: pointer;
+  width: 20px;
+}
+main .sticky div button:first-child {
+  background-color: var(--yellow);
+  margin-right: 10px;
+}
+main .sticky div button:nth-child(2) {
+  background-color: var(--green);
+}
+main .sticky div button:last-child {
+  background-color: var(--pink);
+  margin-left: 10px;
+}
+main > footer p {
+  background-color: var(--black);
+  color: var(--white);
+  font-size: 12px;
+  padding: 10px;
+  text-align: center;
+}
+main > footer p a {
+  color: var(--yellow);
+}
