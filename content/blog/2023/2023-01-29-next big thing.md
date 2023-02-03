@@ -11,10 +11,8 @@ keywords:
   - "Medien"
 persons:
   - "Ben"
-articleImage:
-  src: "dall-e_singularity.jpg"
-  width: 1024
-  height: 1024
+headerImage:
+  src: "dall-e_singularity.jpeg"
   alt: "atomic explosion above the ocean with birds in the sky and computers in the water comic style"
 ---
 
