@@ -1,6 +1,6 @@
 module.exports = function( collection ) {
   let postByKeyword = {};
-  let posts = collection.getFilteredByGlob(["./src/**/*.md","./src/**/*.html"]);
+  let posts = collection.getFilteredByGlob(["./content/**/*.md","./content/**/*.html"]);
   posts.forEach(function (post) {
     const keywords = post.data.keywords || [];
     keywords.forEach( keyword => {

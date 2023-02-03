@@ -1,6 +1,6 @@
 module.exports = function( collection ) {
   let postBySeries = {};
-  let posts = collection.getFilteredByGlob(["./src/**/*.md","./src/**/*.html"]);
+  let posts = collection.getFilteredByGlob(["./content/**/*.md","./content/**/*.html"]);
   posts.forEach(function (post) {
     const names = post.data.series || [];
     names.forEach( seriesname => {
