@@ -72,7 +72,7 @@
         {% set altText = articleImage.alt or title %}
         <img src="/images/{{ coverImage or articleImage.src }}" alt="{{ altText | e }}" />
       {% else -%}
-        {% image headerImage.src, headerImage.alt, null, "(min-width: 1000px) 1000px, 100vw", "eager" %}
+        {% image headerImage.src, headerImage.alt, [400, 700, 1000], "(min-width: 1000px) 1000px, 100vw", "eager" %}
       {% endif -%}
     </figure>
   {% endif -%}
