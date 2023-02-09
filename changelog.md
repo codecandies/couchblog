@@ -12,3 +12,7 @@
 - Fixes several a11y bugs
 - Adds sitemap.xml
 - Removes all superfluous npm dependencies
+
+## 1.1.1
+
+- Update 11ty to 2.0.0
