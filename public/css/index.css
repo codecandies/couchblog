@@ -886,6 +886,21 @@ article {
   transform: translateY(-50%);
 }
 
+.special {
+  font-size: 115%;
+  padding-left: 3.75rem;
+  padding-right: 3.75rem;
+}
+
+@supports (-webkit-initial-letter: 2) or (initial-letter: 2) {
+  .special::first-letter {
+    -webkit-initial-letter: 2;
+    initial-letter: 2;
+    font-weight: bold;
+    margin-right: .25em;
+  }
+}
+
 .copyright, .cc-copyright {
   font-size: 80%;
   position: relative;
