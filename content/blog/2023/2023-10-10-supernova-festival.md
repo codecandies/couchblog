@@ -1,5 +1,5 @@
 ---
-title: Supernova Festival Massacker
+title: Supernova Festival Massaker
 date: 2023-10-10T11:10:44+02:00
 tags:
   - Gesellschaft
@@ -8,7 +8,7 @@ keywords:
   - Terror
 headerImage:
   src: negev.jpg
-  alt: Screenshot aus Dronenvideo nach dem Supernova Festival Massacker
+  alt: Screenshot aus Dronenvideo nach dem Supernova Festival Massaker
 ---
 Der Angriff der Hamas auf Israel ist ein unerträglicher Akt des Terrorismus, der durch nichts zu rechtfertigen ist. Wie unmenschlich und über alle Maßen brutal die Hamas-Kämpfer dabei vorgingen und noch gehen, zeigt sich besonders durch den [Angriff auf das Supernova Festival](https://de.wikipedia.org/wiki/Massaker_von_Re%27im "Wikipedia: Massaker von Re'im") in der Nähe des Re'im Kibbutz, circa 5km vom Gaza-Streifen entfernt. Hier feierten im Morgengrauen des 7. Oktobers rund 3500 Raver\*innen.
 
