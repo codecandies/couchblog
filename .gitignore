@@ -24,3 +24,8 @@ node_modules/
 
 # 11ty site
 _site/
+
+# obsidian
+.obsidian/
+.obsidian-git/
+obsidian_templates/
