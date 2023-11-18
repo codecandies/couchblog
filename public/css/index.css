@@ -650,7 +650,7 @@ article {
 .feature-image {
   --head-space: 4rem;
   height: calc(100vh - var(--head-space) - env(safe-area-inset-bottom, 0) - env(safe-area-inset-top, 0));
-  height: -webkit-fill-available;
+  max-height: -webkit-fill-available;
   margin: 0 auto;
   max-width: 1000px;
   width: 100vw;
