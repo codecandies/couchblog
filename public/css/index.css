@@ -131,6 +131,7 @@ blockquote:after {
   --color-link-hover: rgb(255, 174, 0);
   --border-primary: rgb( 0, 0, 4);
   --border-primary-rgb: 0, 0, 4;
+  --head-space: 4rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -648,7 +649,6 @@ article {
 }
 
 .feature-image {
-  --head-space: 4rem;
   height: calc(100vh - var(--head-space) - env(safe-area-inset-bottom, 0) - env(safe-area-inset-top, 0));
   max-height: -webkit-fill-available;
   margin: 0 auto;
@@ -657,7 +657,7 @@ article {
   z-index: -1;
 }
 .feature-image img {
-  height: 100vh;
+  height: calc(100vh - var(--head-space) - env(safe-area-inset-bottom, 0) - env(safe-area-inset-top, 0));
   max-height: -webkit-fill-available;
   -o-object-fit: cover;
      object-fit: cover;
