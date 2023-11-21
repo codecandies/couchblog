@@ -79,12 +79,16 @@
           {% endblock -%}
           {% block articlefooter -%}
           {% endblock -%}
+          {% block comments -%}
+          {% endblock -%}
         {% endblock -%}
       </main>
 
     {% block footer -%}
       <footer class="page-footer">
         {% block webring %}{% endblock %}
+
+        {% block search -%}
         <!-- a11y search like in https://www.a11ymatters.com/pattern/accessible-search/ -->
         <form method="get" action="https://duckduckgo.com" class="page-footer-search">
           <div role="search" class="footer-search">
@@ -99,6 +103,7 @@
             <button type="submit">Suchen</button>
           </div>
         </form>
+        {% endblock search -%}
         <p><small>&copy; {% year %} Couchblog, All rights reserved unless otherwise stated.</small></p>
         <p class="visually-hidden">Couchblog auf <a rel="me" href="https://digitalcourage.social/@nicobruenjes">Mastodon</a>.</p>
       </footer>

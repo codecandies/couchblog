@@ -113,3 +113,10 @@
 {%- endif %}
 {%- endif %}
 {% endblock -%}
+
+{% block comments -%}
+{% set welcomments_config = {welcomments: welcomments, website_id: "u6qGszNBbQtMLVycDuAz39p0u"} %}
+{% renderFile "./_includes/welcomments/comments.liquid", welcomments_config %}
+{% endblock -%}
+
+{% block search %}{% endblock %}

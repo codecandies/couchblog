@@ -10,6 +10,7 @@ const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 module.exports = function( eleventyConfig ) {
   eleventyConfig.setQuietMode(true);
@@ -37,6 +38,26 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addFilter("head", require("./_includes/_11ty/filters/head.js"));
   eleventyConfig.addFilter("filterTagList", require("./_includes/_11ty/filters/filterTagList.js"));
 
+  // added for welcoments
+  const absoluteUrl = "https://couchblog.de";
+  eleventyConfig.addFilter("absoluteUrl", (path) => `${absoluteUrl}${path}`);
+  eleventyConfig.addFilter("objectValues", (object) =>
+    object ? Object.values(object) : []
+  );
+  eleventyConfig.addFilter("whereUnset", (array, key) =>
+    array.filter((item) => !item[key] || item[key] === "")
+  );
+  eleventyConfig.addFilter("where", (array, key, value) =>
+    array.filter((item) => item[key] === value)
+  );
+  eleventyConfig.addFilter("interpolate", (a, b) => `${a}${b}`);
+  eleventyConfig.addFilter("markdownify", (value) =>
+    markdownLibrary.render(value)
+  );
+  eleventyConfig.addFilter("sortBy", (array, key) =>
+    array.slice().sort((a, b) => a[key] - b[key])
+  );
+
   // collections
   eleventyConfig.addCollection("tagList", require("./_includes/_11ty/collections/tagList.js"));
   eleventyConfig.addCollection("keywordList", require("./_includes/_11ty/collections/keywordList.js"));
@@ -52,6 +73,7 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(require("./eleventy.config.images.js"));
   eleventyConfig.addPlugin(bundlerPlugin);
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   // markdown config
   let markdownItOptions = {
