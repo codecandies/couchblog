@@ -1,0 +1,26 @@
+{%- assign nesting_level_class = "" -%}
+
+{%- assign author_highlight = "" -%}
+{%- if comment.author.role == "owner" -%}
+  {% assign author_highlight = " comment-role-owner" %}
+{%- endif -%}
+
+{%- capture comment_element_id -%}welcomments__comment-{{ comment.id }}{%- endcapture -%}
+{%- capture comment_element_class -%}comment{{nesting_level_class}}{{ author_highlight }}{%- endcapture -%}
+
+{%- capture formatted_date -%}{{ comment.date | date: '%B %d, %Y' }}{%- endcapture -%}
+{%- capture date_xml_schema -%}{{ comment.date }}{%- endcapture -%}
+{%- capture comment_message -%}{{ comment.message | markdownify }}{%- endcapture -%}
+
+{%- include "welcomments/template",
+  id: comment.id,
+  element_id: comment_element_id,
+  element_classname: comment_element_class,
+  nesting_level: nesting_level,
+  formatted_date: formatted_date,
+  date_xml_schema: date_xml_schema,
+  author_name: comment.author.name,
+  author_website: comment.author.website,
+  message: comment_message,
+  api_url: api_url,
+  website_id: website_id -%}

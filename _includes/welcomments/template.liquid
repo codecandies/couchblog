@@ -1,0 +1,25 @@
+<article
+  id="{{ element_id }}"
+  class="{{ element_classname }}"
+  data-comment-id="{{ id }}"
+  data-author-name="{{ author_name }}"
+  data-nesting-level="0"
+  itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+  <div class="comment-header">
+    <div class="comment-author-information">
+      <div class="comment-author-name-and-time">
+        <h3 class="comment-author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <span itemprop="name">{{ author_name }}</span>
+        </h3>
+        <p class="comment-time">
+          <a href="#comment-{{ id }}" itemprop="url">
+            <time datetime="{{ date_xml_schema }}" itemprop="datePublished">
+              {{- formatted_date -}}
+            </time>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div itemprop="text" class="comment-message">{{ message }}</div>
+</article>
