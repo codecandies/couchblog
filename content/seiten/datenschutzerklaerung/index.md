@@ -137,12 +137,10 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 </ul>
 <p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
 <ul class="m-elements">
-  <li><strong>Twitter: </strong>Soziales Netzwerk; <strong>Dienstanbieter:</strong> Twitter International Company, One
-    Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland, Mutterunternehmen: Twitter Inc., 1355 Market Street,
-    Suite 900, San Francisco, CA 94103, USA; <strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S.
-    1 lit. f) DSGVO); <strong>Datenschutzerklärung:</strong> <a href="https://twitter.com/privacy"
-      target="_blank">https://twitter.com/privacy</a>, (Settings: <a href="https://twitter.com/personalization"
-      target="_blank">https://twitter.com/personalization</a>).</li>
+  <li><strong>Mastodon: </strong>Soziales Netzwerk; <strong>Dienstanbieter:</strong> Mastodon gGmbH, Mühlenstraße 8a, 14167 Berlin, Germany; 
+  <strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S.
+    1 lit. f) DSGVO); <strong>Datenschutzerklärung:</strong> <a href="https://joinmastodon.org/privacy-policy"
+      target="_blank">https://joinmastodon.org/privacy-policy</a>.</li>
 </ul>
 <p class="seal"><a href="https://datenschutz-generator.de/"
     title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken." target="_blank"

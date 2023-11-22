@@ -1039,3 +1039,12 @@ article {
   margin-bottom: 2rem;
 }
 
+.welcomments__comment-form details {
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+.welcomments__comment-form details p {
+  font-weight: 300;
+  padding: .5em 0 .5em 0.8em;
+}
