@@ -51,9 +51,6 @@ module.exports = function( eleventyConfig ) {
     array.filter((item) => item[key] === value)
   );
   eleventyConfig.addFilter("interpolate", (a, b) => `${a}${b}`);
-  eleventyConfig.addFilter("markdownify", (value) =>
-    markdownLibrary.render(value)
-  );
   eleventyConfig.addFilter("sortBy", (array, key) =>
     array.slice().sort((a, b) => a[key] - b[key])
   );
@@ -111,6 +108,10 @@ module.exports = function( eleventyConfig ) {
     excerpt: true,
     excerpt_separator: "<!-- excerpt -->",
   });
+
+  eleventyConfig.addFilter("markdownify", (value) =>
+    markdownLib.render(value)
+  );
 
   return {
     templateFormats: ["html", "njk", "md"],
