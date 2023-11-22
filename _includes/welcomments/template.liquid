@@ -5,14 +5,14 @@
   data-author-name="{{ author_name }}"
   data-nesting-level="0"
   itemprop="comment" itemscope itemtype="https://schema.org/Comment">
-  <div class="comment-header">
-    <div class="comment-author-information">
-      <div class="comment-author-name-and-time">
-        <h3 class="comment-author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <div class="welcomments__comment-header">
+    <div class="welcomments__author-information">
+      <div class="welcomments__author-name-and-time">
+        <h3 class="welcomments__author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
           <span itemprop="name">{{ author_name }}</span>
         </h3>
-        <p class="comment-time">
-          <a href="#comment-{{ id }}" itemprop="url">
+        <p class="welcomments__comment-time">
+          <a href="#welcomments__comment-{{ id }}" itemprop="url">
             <time datetime="{{ date_xml_schema }}" itemprop="datePublished">
               {{- formatted_date -}}
             </time>
@@ -21,5 +21,9 @@
       </div>
     </div>
   </div>
-  <div itemprop="text" class="comment-message">{{ message }}</div>
+  <div itemprop="text" class="welcomments__comment-message">{{ message }}</div>
+  <a hidden class="welcomments__comment-reply-link"
+     href="{{ api_url }}/websites/{{ website_id }}/comments/{{ id }}/reply">
+    Reply to {{ author_name }}
+  </a>
 </article>
