@@ -1,5 +1,5 @@
 ---
-layout: layouts/blog.njk
+layout: layouts/page.njk
 title: Über mich
 date: "2022-09-26T10:22:00+02:00"
 eleventyNavigation:

@@ -1,5 +1,5 @@
 ---
-layout: layouts/blog.njk
+layout: layouts/page.njk
 title: Impressum
 eleventyNavigation:
   emoji: 🧑‍🎨

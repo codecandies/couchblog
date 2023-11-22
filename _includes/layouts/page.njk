@@ -1,0 +1,116 @@
+{% extends 'layouts/default.njk' %}
+
+{% block additional_styles %}
+{%- css %}
+{% include "node_modules/prismjs/themes/prism-okaidia.css" %}
+{%- endcss %}
+{% endblock %}
+
+{% block metadata %}
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ title | e }} - Couchblog" />
+{% set meta_description = page.excerpt or description or metadata.description %}
+<meta property="og:description" content="{{ meta_description | trim | e }}" />
+<meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
+<meta property="og:site_name" content="Couchblog" />
+<meta name="last-modified" content="{{ page.date.toISOString() }}">
+<meta name="date" content="{{ page.date.toISOString() }}">
+<meta property="article:published_time" content="{{ page.date.toISOString() }}" />
+<meta name="author" content="{{ metadata.author.name }}" />
+<meta property="article:author" content="{{ metadata.url }}/about/">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="{{ metadata.author.twitter }}" />
+<meta name="twitter:site" content="{{ metadata.author.twitter }}" />
+{% if articleImage -%}
+<link rel="image_src" href="{{ metadata.url }}/images/{{ articleImage.src }}">
+<meta property="og:image" content="{{ metadata.url }}/images/{{ articleImage.src }}" />
+<meta property="og:image:width" content="{{ articleImage.width }}">
+<meta property="og:image:height" content="{{ articleImage.height }}">
+{% elif headerImage -%}
+<link rel="image_src" href="{{ metadata.url }}/img/{{ headerImage.src }}">
+<meta property="og:image" content="{{ metadata.url }}/img/{{ headerImage.src }}" />
+{% endif -%}
+{% endblock %}
+
+{% block main -%}
+<article{% if language %} lang="{{ language }}"{%endif%} {% if (coverImage or articleImage or headerImage) and 'Geknipst' not in tags | filterTagList -%} class="featured"{%endif%}>
+  {{ super() }}
+</article>
+{% endblock -%}
+
+{%- block articleheader %}
+<header class="articleheader">
+  <h1>{{ title }}</h1>
+  {% if date or tags -%}
+    <div class="meta">
+      {% if date %}
+        <time>{{ date | longDate }}</time>
+      {% endif %}
+      {% if tags -%}
+        {% set cue %}{% if tags | filterTagList | length > 1 %}Themen{% else %}Thema{% endif %}{% endset %}
+        <span>{{ cue }}:
+        {% for tag in tags | filterTagList -%}
+          {% set tagUrl %}/category/{{ tag | slugify }}/{% endset -%}
+          <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{% if not loop.last -%}
+          {% if loop.index == loop.length -1 %} und {% else -%}, {% endif %}{% endif %}
+        {% endfor -%}
+      {% endif -%}
+    </div>
+  {% endif -%}
+</header>
+{%- endblock -%}
+
+{%- block content %}
+<div class="content">
+  {{ super() }}
+</div>
+{% endblock %}
+
+{% block featureimage -%}
+  {% if coverImage or articleImage or headerImage -%}
+    <figure class="feature-image">
+      {% if coverImage or articleImage -%}
+        {% set altText = articleImage.alt or title %}
+        <img src="/images/{{ coverImage or articleImage.src }}" alt="{{ altText | e }}" />
+      {% else -%}
+        {% image headerImage.src, headerImage.alt, [400, 700, 1000], "(min-width: 1000px) 1000px, 100vw", "eager" %}
+      {% endif -%}
+    </figure>
+  {% endif -%}
+{% endblock -%}
+
+{% block articlefooter -%}
+{%- if collections.blog %}
+{%- set nextPost = collections.blog | getNextCollectionItem(page) %}
+{%- set previousPost = collections.blog | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<footer class="articlefooter">
+{% if keywords or persons %}
+<nav class="tags" aria-labelledby="tags-nav">
+  <h2 id="tags-nav" class="visually-hidden">Links zu Stichworten dieses Artikels</h2>
+  <ul>
+    {% for person in persons %}
+    <li><a href="/person/{{ person | slugify }}/">#{{ person }}</a></li>
+    {% endfor %}
+    {% for keyword in keywords %}
+    <li><a href="/tag/{{ keyword | slugify }}/">#{{ keyword }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}
+<nav class="prevnext" aria-labelledby="pages-nav">
+  <h2 id="pages-nav" class="visually-hidden">Links zu vorigen oder späteren Einträgen</h2>
+  <ul>
+  {%- if previousPost %}
+    <li class="previous-post"><a href="{{ previousPost.url }}"><span class="visually-hidden">Voriger Eintrag: </span>{{ previousPost.data.title }}</a></li>
+  {% endif %}
+  {%- if nextPost %}
+    <li class="next-post"><a href="{{ nextPost.url }}"><span class="visually-hidden">Nächster Eintrag: </span>{{ nextPost.data.title }}</a></li>
+  {% endif %}
+  </ul>
+</footer>
+{%- endif %}
+{%- endif %}
+{% endblock -%}
+
