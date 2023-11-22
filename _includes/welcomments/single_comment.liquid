@@ -2,11 +2,11 @@
 
 {%- assign author_highlight = "" -%}
 {%- if comment.author.role == "owner" -%}
-  {% assign author_highlight = " comment-role-owner" %}
+  {% assign author_highlight = " welcomments__comment-role-owner" %}
 {%- endif -%}
 
 {%- capture comment_element_id -%}welcomments__comment-{{ comment.id }}{%- endcapture -%}
-{%- capture comment_element_class -%}comment{{nesting_level_class}}{{ author_highlight }}{%- endcapture -%}
+{%- capture comment_element_class -%}welcomments__comment{{nesting_level_class}}{{ author_highlight }}{%- endcapture -%}
 
 {%- capture formatted_date -%}{{ comment.date | date: '%B %d, %Y' }}{%- endcapture -%}
 {%- capture date_xml_schema -%}{{ comment.date }}{%- endcapture -%}

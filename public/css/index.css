@@ -710,15 +710,15 @@ article {
 .content > blockquote p:last-child {
   margin-bottom: 0;
 }
-.content a, .comment a {
+.content a {
   color: var(--color-link);
   -webkit-hyphens: none;
           hyphens: none;
 }
-.content a:visited, .comment a:visited {
+.content a:visited {
   color: var(--color-primary);
 }
-.content h2, .content h3, .content h4, .comments__title {
+.content h2, .content h3, .content h4, .welcomments__comments-title {
   font-weight: 400;
   line-height: 1.25;
   margin-bottom: 0.2em;
@@ -727,7 +727,7 @@ article {
 .content h2 {
   font-size: 1.5em;
 }
-.content h3, .comments__title {
+.content h3, .welcomments__comments-title {
   font-size: 1.25em;
 }
 .content .header-anchor {
@@ -940,23 +940,68 @@ article {
 }
 
 /* welcomments comments section */
-.comments {
+.welcomments__container {
   margin-top: 40px;
 }
 
-.comments__title {
+.welcomments__comments-title {
+  font-size: 1.25em;
+  font-weight: 400;
+  line-height: 1.25;
   margin-bottom: 20px;
+  padding: 0.5rem 0 0;
 }
 
-.comments__form {
+.welcomments__comment-container {
+  counter-reset: count 0;
+}
+
+.welcomments__comment {
+  counter-increment: count 1;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.welcomments__comment a {
+  color: var(--color-link);
+  -webkit-hyphens: none;
+          hyphens: none;
+}
+
+.welcomments__comment a:visited {
+  color: var(--color-primary);
+}
+
+.welcomments__comment-header::before {
+  content: '#' counter(count, decimal);
+  font-size: 2.1em;
+}
+
+.welcomments__comment-header {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin-bottom: 5px;
+}
+
+.welcomments__author-name-and-time {
+  font-size: 1rem;
+}
+
+.welcomments__comment-message p {
+  margin-bottom: .5em;
+}
+
+/* welcomments comment form */
+.welcomments__comment-form {
   margin-top: 20px;
 }
 
-.comments__form-group {
+.welcomments__form-group {
   margin-bottom: 20px;
 }
 
-.comments__form-group label {
+.welcomments__form-group label {
   display: block;
   font-weight: 700;
   font-size: 1rem;
@@ -964,9 +1009,9 @@ article {
   margin-bottom: .5rem;
 }
 
-.comments__form textarea,
-.comments__form input,
-.comments__form button {
+.welcomments__comment-form textarea,
+.welcomments__comment-form input,
+.welcomments__comment-form button {
   appearance: none;
   background-color: var(--background-input);
   border: 1px solid rgba(var(--border-primary-rgb), 0.125);
@@ -977,16 +1022,16 @@ article {
   padding: .75rem 1rem;
 }
 
-.comments__form textarea,
-.comments__form input {
+.welcomments__comment-form textarea,
+.welcomments__comment-form input {
   width: calc(100% - 2rem);
 }
 
-.comments__message::placeholder {
+.welcomments__comment-message::placeholder {
   color: rgba(var(--color-primary-rgb), 0.75);
 }
 
-.comments__notice {
+.welcomments__markdown-notice {
   font-size: 1rem;
   font-weight: 300;
   line-height: 1rem;
@@ -994,33 +1039,3 @@ article {
   margin-bottom: 2rem;
 }
 
-.comment-container {
-  counter-reset: count 0;
-}
-
-.comment {
-  counter-increment: count 1;
-  display: block;
-  margin-bottom: 30px;
-}
-
-.comment-header::before {
-  content: '#' counter(count, decimal);
-  font-size: 2.1em;
-}
-
-.comment-header {
-  display: flex;
-  gap: 10px;
-  align-items: flex-start;
-  margin-bottom: 5px;
-}
-
-.comment-author-name-and-time {
-  font-size: 1rem;
-}
-
-
-.comment-message p {
-  margin-bottom: .5em;
-  }
