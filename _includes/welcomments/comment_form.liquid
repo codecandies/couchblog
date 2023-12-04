@@ -21,5 +21,8 @@
     <textarea class="welcomments__comment-message" rows="10" name="message" id="message" required spellcheck="true" placeholder="Hier zum Thema beitragen…"></textarea>
     <p class="welcomments__markdown-notice">GitHub-flavored Markdown und einfache HTML-Tags werden unterstützt.</p>
   </div>
-  <button type="submit" class="welcomments__submit-button" id="welcomments__submit-button">Kommentar absenden</button>
+  <button class="welcomments__submit-button" id="welcomments__submit-button">Kommentar absenden</button>
 </form>
+<script>
+  document.querySelector('#welcomments__submit-button').type = "submit";
+</script>
