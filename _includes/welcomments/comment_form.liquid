@@ -1,4 +1,4 @@
-<form id="welcomments__form" class="welcomments__comment-form" action="{{ api_url }}/comments" method="post">
+<form id="welcomments__form" class="welcomments__comment-form" method="post">
   <details class="information">
     <summary>Datenschutzhinweis</summary>
     <p>Daten die in dieses Formular eingegeben werden, werden mit Hilfe des Dienstes <a href="https://welcomments.io" target="_blank" rel="noopener">welcomments.io</a> verarbeitet. Dabei fallen die in der <a href="https://welcomments.io/privacy/#as-a-commenter" taget="_blank" rel="noopener">Datenschutzerklärung dieses Dienstes</a> aufgeführten Daten (IP-Adresse, Browserversion) an, die dort auch gespeichert werden. Gebe keine persönlichen Daten in dieses Formular ein, im Zweifelsfall nutze einen Spitznamen, alles eingegebene wird hier öffentlich angezeigt. Es werden keine Cookies gespeichert, lediglich der Kommentartext wird im Localstorage des Browsers zwischengespeichert.</p>
@@ -21,8 +21,8 @@
     <textarea class="welcomments__comment-message" rows="10" name="message" id="message" required spellcheck="true" placeholder="Hier zum Thema beitragen…"></textarea>
     <p class="welcomments__markdown-notice">GitHub-flavored Markdown und einfache HTML-Tags werden unterstützt.</p>
   </div>
-  <button class="welcomments__submit-button" id="welcomments__submit-button">Kommentar absenden</button>
+  <button type="submit" class="welcomments__submit-button" id="welcomments__submit-button">Kommentar absenden</button>
 </form>
 <script>
-  document.querySelector('#welcomments__submit-button').type = "submit";
+  document.querySelector('#welcomments__form').setAttribute('action', '{{ api_url }}/comments');
 </script>
