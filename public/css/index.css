@@ -993,6 +993,10 @@ article {
 }
 
 /* welcomments comment form */
+.no-js .welcomments__comment-form {
+  display: none;
+}
+
 .welcomments__comment-form {
   margin-top: 20px;
 }
