@@ -10,6 +10,11 @@
     <meta name="description" content="{{ meta_description | trim | e }}">
     <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} &raquo; Feed" href="{{ metadata.url }}/feed/" />
     <meta name="color-scheme" content="dark light">
+    <scriipt>
+      (function() {
+        document.documentElement.classList.replace('no-js', 'js');
+      })();
+    </script>
     {%- css %}{% include "public/css/index.css" %}{% endcss %}
     {#- Render the CSS bundle #}
     {%- if eleventy.env.runMode === "serve" %}
