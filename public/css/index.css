@@ -962,6 +962,11 @@ article {
   margin-bottom: 30px;
 }
 
+.welcomments__comment-message {
+  font-weight: 300;
+  line-height: 1.5;
+}
+
 .welcomments__comment a {
   color: var(--color-link);
   -webkit-hyphens: none;
