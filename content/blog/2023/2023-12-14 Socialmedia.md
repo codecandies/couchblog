@@ -21,7 +21,7 @@ headerImage:
 
 Ich traue Mastodon, dem Fediverse und das dahinter stehenden Protokoll Activity Pub inzwischen eine Menge zu, es scheint seinen break even tatsächlich zu erreichen. Und es scheint auch robust genug zu sein. Und vielfältig: es gibt immer noch Friendica-Instanzen (auch neue), die mehr in Richtung Facebook gehen, Peertube (dessen Zweck aus dem Namen ablesbar ist) oder [neue Dinge wie Firefish](https://www.heise.de/hintergrund/Mehr-als-nur-Twitter-Kopie-Calckey-im-Fediverse-denkt-Social-Media-weiter-9205667.html), was eine Art Mastodon auf Steroiden (und mit Markdown!) ist. Ich glaube inzwischen sogar, dass dieses Auenland es aushalten kann, wenn Sauron [seine kalte Hand nach ihm ausstreckt](https://www.theverge.com/2023/12/13/24000120/threads-meta-activitypub-test-mastodon).
 
-Folge mir auf Mastodon, ich bin dort [@nicobruenjes@digitalcourage.social](https://digitalcourage.social/@nicobruenjes/). Falls du nur meine Toots in deinem RSS-Reader lesen willst, geht das unter https://digialcourage.social/@nicobruenjes.rss (wie geil ist das denn?!).
+Folge mir auf Mastodon, ich bin dort [@nicobruenjes@digitalcourage.social](https://digitalcourage.social/@nicobruenjes/). Falls du nur meine Toots in deinem RSS-Reader lesen willst, geht das unter https://digitalcourage.social/@nicobruenjes.rss (wie geil ist das denn?!).
 
 ### Bluesky
 
