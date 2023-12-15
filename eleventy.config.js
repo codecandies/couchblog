@@ -24,7 +24,7 @@ module.exports = function( eleventyConfig ) {
     "./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
   });
 
-  eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
+  eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg,jpg}");
 
   // shortcodes
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
@@ -34,6 +34,7 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addFilter('mediumDate', require("./_includes/_11ty/filters/mediumDate.js"));
   eleventyConfig.addFilter('longDate', require("./_includes/_11ty/filters/longDate.js"));
   eleventyConfig.addFilter('pathDate', require("./_includes/_11ty/filters/pathDate.js"));
+  eleventyConfig.addFilter('imgPath', require("./_includes/_11ty/filters/imgPath.js"));
   eleventyConfig.addFilter('w3cDate', require("./_includes/_11ty/filters/w3cDate.js"));
   eleventyConfig.addFilter("head", require("./_includes/_11ty/filters/head.js"));
   eleventyConfig.addFilter("filterTagList", require("./_includes/_11ty/filters/filterTagList.js"));
@@ -114,7 +115,7 @@ module.exports = function( eleventyConfig ) {
   );
 
   return {
-    templateFormats: ["html", "njk", "md"],
+    templateFormats: ["html", "njk", "md", "jpg", "jpeg", "png"],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplatseEngine: "njk",

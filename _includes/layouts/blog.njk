@@ -20,16 +20,17 @@
 <meta name="author" content="{{ metadata.author.name }}" />
 <meta property="article:author" content="{{ metadata.url }}/about/">
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:creator" content="{{ metadata.author.twitter }}" />
-<meta name="twitter:site" content="{{ metadata.author.twitter }}" />
 {% if articleImage -%}
 <link rel="image_src" href="{{ metadata.url }}/images/{{ articleImage.src }}">
 <meta property="og:image" content="{{ metadata.url }}/images/{{ articleImage.src }}" />
 <meta property="og:image:width" content="{{ articleImage.width }}">
 <meta property="og:image:height" content="{{ articleImage.height }}">
 {% elif headerImage -%}
-<link rel="image_src" href="{{ metadata.url }}/img/{{ headerImage.src }}">
-<meta property="og:image" content="{{ metadata.url }}/img/{{ headerImage.src }}" />
+<link rel="image_src" href="{{ metadata.url }}{{ page.url | imgPath }}{{ headerImage.src }}">
+<meta property="og:image" content="{{ metadata.url }}{{ page.url | imgPath }}{{ headerImage.src }}" />
+{% else -%}
+<link rel="image_src" href="{{ metadata.url }}{{ metadata.author.image }}">
+<meta property="og:image" content="{{ metadata.url }}{{ metadata.author.image }}" />
 {% endif -%}
 {% endblock %}
 

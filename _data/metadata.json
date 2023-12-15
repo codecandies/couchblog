@@ -18,6 +18,8 @@
     "name": "Nico Brünjes",
     "email": "nico@couchblog.de",
     "url": "https://couchblog.de/seiten/about/",
-    "twitter": "@nicobruenjes"
+    "mastodon": "@nicobruenjes@digitalcourage.social",
+    "bluesky": "@nicobruenjes.dev",
+    "image": "/images/nico_thorsminde.jpg"
   }
 }
