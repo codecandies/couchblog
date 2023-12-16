@@ -35,4 +35,4 @@ Das einzig spannende an Bluesky ist, dass ich mir meine seit Jahren zu höherem 
 
 … existiert nicht mehr. Ich habe in diesem Jahr nicht nur Twitter endgültig den Rücken gekehrt, ich habe auch meinen Facebook-Account endgültig gelöscht. Das war noch insofern ein lustiges Erlebnis, als dass ich vorher allen, die ich sonst wirklich nur auf Facebook erreichen konnte, vorher meine Kontaktdaten gesendet habe und das noch am selben Tage, mehrere Mails, Signal- und Telegrammessages eingingen. So habe ich am Tag meines Facebook-Ausstiegs *ohne Facebook* mehr mit meinen Freunden kommuniziert, als in mindestens drei Jahren davor mit. [Say no more](https://www.youtube.com/watch?v=4Kwh3R0YjuQ).
 
-Headerbild: [Dall-E](https://labs.openai.com/s/d3uiCJU0yRk9OtIEA4fAPyXI){:.copyright}
+Headerbild: [Created with DALL·E](https://labs.openai.com/s/d3uiCJU0yRk9OtIEA4fAPyXI){:.copyright}
