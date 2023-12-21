@@ -748,6 +748,9 @@ article {
   height: auto;
   width: 100%;
 }
+.content figure figcaption {
+  margin-top: .5rem;
+}
 .content .inline-image {
   display: block;
   float: left;

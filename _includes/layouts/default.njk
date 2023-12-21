@@ -15,7 +15,7 @@
         document.documentElement.classList.replace('no-js', 'js');
       })();
     </script>
-    {%- css %}{% include "public/css/index.css" %}{% endcss %}
+    {%- css %}{% include "public/css/index.css" %}{% include "public/css/light-yt-embed.css" %}{% endcss %}
     {#- Render the CSS bundle #}
     {%- if eleventy.env.runMode === "serve" %}
     {# External files (local dev live reload will refresh without page reload) #}
@@ -114,5 +114,6 @@
       </footer>
     {% endblock -%}
     </div>
+    <script src="/js/lite-yt-embed.js"></script>
   </body>
 </html>
