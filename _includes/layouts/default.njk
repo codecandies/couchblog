@@ -114,6 +114,40 @@
       </footer>
     {% endblock -%}
     </div>
-    <!--script src="/js/lite-yt-embed.js"></script-->
+    <dialog id="video-dialog" class="video-dialog">
+      <div class="video-dialog-header">
+        <h3>Hinweis…</h3>
+        <button class="video-dismiss close" aria-label="Schliessen">
+        <svg class="close-icon" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><title>Schließen</title><path d="M16.207 3.207l-1.414-1.414L9 7.586 3.207 1.793 1.793 3.207 7.586 9l-5.793 5.793 1.414 1.414L9 10.414l5.793 5.793 1.414-1.414L10.414 9z"></path></svg>
+      </button>
+      </div>
+      <div class="video-dialog-body">
+        <p>Diese Seite enthält Videos von Youtube. Diese sind standardmäßig deaktiviert. <em>Falls</em> Du unten auf „Ja“ klickst, werden Daten von Youtube auf Deinen Rechner geladen und so mindestens Deine IP-Adresse an Youtube weiter gegeben. Cookies werden nicht verwendet. <a href="https://couchblog.de/seiten/datenschutzerklaerung/#m328">Mehr Infos</a>.</p>
+        <p><strong>Möchtest du Youtube auf dieser Seite aktivieren?</strong></p>
+      </div>
+      <div class="video-dialog-footer">
+          <button class="video-dismiss">Nein, danke.</button>
+          <button class="video-affirm">Ja, auf jeden Fall!</button>
+      </div>
+    </dialog>
+    <script>
+      const videos = document.querySelectorAll('lite-youtube');
+      const dialog = document.querySelector('#video-dialog');
+      if ( videos.length > 0 ) {
+        setTimeout(function() { dialog.show(); }, 100);
+      }
+      dialog.addEventListener('click', function(event) {
+        if ( event.target.closest('.video-affirm') ) {
+          for (const video of videos) {
+            video.removeAttribute("style");
+          }
+          let script = document.createElement("script");
+          script.src = "/js/lite-yt-embed.js";
+          script.async = true;
+          document.querySelector('head').appendChild(script);
+        }
+        dialog.close();
+      });
+    </script>
   </body>
 </html>

@@ -1060,3 +1060,75 @@ article {
   font-weight: 300;
   padding: .5em 0 .5em 0.8em;
 }
+
+.video-dialog {
+  bottom: 0;
+  border: none;
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.4);
+  box-sizing: border-box;
+  display: block;
+  left: 0;
+  max-width: 1000px;
+  opacity: 0;
+  padding-bottom: env(safe-area-inset-bottom, 0);
+  position: sticky;
+  right: 0;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 1s linear, opacity 1s linear;
+  z-index: 10;
+}
+.video-dialog[open] {
+  visibility: visible;
+  opacity: 1;
+  transition-delay: 0s;
+}
+.video-dialog-header,
+.video-dialog-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.video-dialog-header,
+.video-dialog-body {
+  padding-bottom: 10px;
+}
+.video-dialog-footer {
+  padding-bottom: 20px;
+}
+.video-dialog .close {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 20px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.video-dialog .close-icon {
+  fill: currentColor;
+  height: 18px;
+  width: 18px;
+}
+.video-dialog > div p {
+  font-size: 15px;
+  margin-bottom: .5em;
+}
+.video-dialog-body a,
+.video-dialog-body a:link,
+.video-dialog-body a:visited,
+.video-dialog-body a:active {
+  color: inherit;
+  text-decoration: underline;
+}
+.video-dialog .video-dialog-footer button {
+  appearance: none;
+  background-color: var(--background-input);
+  border: 1px solid rgba(var(--border-primary-rgb), 0.125);
+  color: var(--color-primary);
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.25;
+  padding: .5rem .75rem;
+}
