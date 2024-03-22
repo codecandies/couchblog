@@ -91,7 +91,6 @@
 
     {% block footer -%}
       <footer class="page-footer">
-        {% block webring %}{% endblock %}
 
         {% block search -%}
         <!-- a11y search like in https://www.a11ymatters.com/pattern/accessible-search/ -->
@@ -109,6 +108,14 @@
           </div>
         </form>
         {% endblock search -%}
+
+        {% block webring %}{% endblock %}
+
+        <div class="kb-club">
+          <a target="blank" href="https://512kb.club"><span class="kb-club-no-bg">512KB Club</span><span class="kb-club-bg">Orange Team</span></a>
+        </div>
+
+
         <p><small>&copy; {% year %} Couchblog, All rights reserved unless otherwise stated.</small></p>
         <p class="visually-hidden">Couchblog auf <a rel="me" href="https://digitalcourage.social/@nicobruenjes">Mastodon</a>.</p>
       </footer>
