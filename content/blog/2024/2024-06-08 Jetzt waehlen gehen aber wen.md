@@ -169,8 +169,8 @@ So, und jetzt: aufstehen und losgehen! Auf zur Wahl!
 
 
 
-[^1]: https://bundeswahlleiterin.de/info/presse/mitteilungen/europawahl-2024/17_24_reihenfolge-parteien.html
-[^2]: https://de.wikipedia.org/wiki/Partei_Mensch_Umwelt_Tierschutz
-[^3]: https://de.wikipedia.org/wiki/Volt_Deutschland
-[^4]: https://mera25.de/wahlprogramm-eu2024/
-[^5]: https://de.wikipedia.org/wiki/B%C3%BCndnis_C_%E2%80%93_Christen_f%C3%BCr_Deutschland
+[^1]: [Die Bundeswahlleiterin: Europawahl 2024: Reihenfolge der Parteien auf Stimmzetteln bundesweit nicht einheitlich](https://bundeswahlleiterin.de/info/presse/mitteilungen/europawahl-2024/17_24_reihenfolge-parteien.html)
+[^2]: [Wikipedia: Partei Mensch Umwelt Tierschutz](https://de.wikipedia.org/wiki/Partei_Mensch_Umwelt_Tierschutz)
+[^3]: [Wikipedia: Volt Deutschland](https://de.wikipedia.org/wiki/Volt_Deutschland)
+[^4]: [MERA25 Wahlprogramm zur Europawahl 2024](https://mera25.de/wahlprogramm-eu2024/)
+[^5]: [Bündnis C – Christen für Deutschland](https://de.wikipedia.org/wiki/B%C3%BCndnis_C_%E2%80%93_Christen_f%C3%BCr_Deutschland)
