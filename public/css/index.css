@@ -1097,9 +1097,8 @@ article {
   padding-bottom: env(safe-area-inset-bottom, 0);
   position: sticky;
   right: 0;
-  visibility: hidden;
-  opacity: 0;
   transition: visibility 1s linear, opacity 1s linear;
+  visibility: hidden;
   z-index: 10;
 }
 .video-dialog[open] {

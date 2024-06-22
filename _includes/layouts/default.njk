@@ -142,6 +142,8 @@
       const dialog = document.querySelector('#video-dialog');
       if ( videos.length > 0 ) {
         setTimeout(function() { dialog.show(); }, 100);
+      } else {
+        dialog.parentNode.removeChild(dialog);
       }
       dialog.addEventListener('click', function(event) {
         if ( event.target.closest('.video-affirm') ) {
@@ -154,6 +156,9 @@
           document.querySelector('head').appendChild(script);
         }
         dialog.close();
+      });
+      dialog.addEventListener('close', function(event) {
+        dialog.parentNode.removeChild(dialog);
       });
     </script>
   </body>
