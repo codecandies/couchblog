@@ -1080,19 +1080,9 @@ article {
 .welcomments__markdown-notice {
   font-size: 1rem;
   font-weight: 300;
-  line-height: 1rem;
+  line-height: 1.4;
   margin-top: .75rem;
   margin-bottom: 2rem;
-}
-
-.welcomments__comment-form details {
-  margin-bottom: 20px;
-  font-size: 1rem;
-}
-
-.welcomments__comment-form details p {
-  font-weight: 300;
-  padding: .5em 0 .5em 0.8em;
 }
 
 .video-dialog {

@@ -1,8 +1,9 @@
+{% assign this_year = "now" | date: '%Y' %}
+{% assign article_year = page.date | date: '%Y' %}
+{% assign diff = this_year | minus: article_year %}
+{% if diff < 1 %}
+<h3 class="welcomments__comments-title">Kommentieren</h3>
 <form id="welcomments__form" class="welcomments__comment-form" method="post">
-  <details class="information">
-    <summary>Datenschutzhinweis</summary>
-    <p>Daten die in dieses Formular eingegeben werden, werden mit Hilfe des Dienstes <a href="https://welcomments.io" target="_blank" rel="noopener">welcomments.io</a> verarbeitet. Dabei fallen die in der <a href="https://welcomments.io/privacy/#as-a-commenter" taget="_blank" rel="noopener">Datenschutzerklärung dieses Dienstes</a> aufgeführten Daten (IP-Adresse, Browserversion) an, die dort auch gespeichert werden. Gebe keine persönlichen Daten in dieses Formular ein, im Zweifelsfall nutze einen Spitznamen, alles eingegebene wird hier öffentlich angezeigt. Es werden keine Cookies gespeichert, lediglich der Kommentartext wird im Localstorage des Browsers zwischengespeichert.</p>
-  </details>
   <input type="hidden" name="website-id" id="website-id" value="{{ website_id }}"/>
   <input type="hidden" name="replying-to" id="replying-to"/>
   <input type="hidden" name="permalink" id="permalink" value="{{ page.url | absoluteUrl }}"/>
@@ -20,6 +21,10 @@
     <textarea class="welcomments__comment-message" rows="10" name="message" id="message" required spellcheck="true" placeholder="Hier zum Thema beitragen…"></textarea>
     <p class="welcomments__markdown-notice">GitHub-flavored Markdown und einfache HTML-Tags werden unterstützt.</p>
   </div>
+  <div class="welcomments__form-group">
+    <h4>Datenschutzhinweis</h4>
+    <p class="welcomments__markdown-notice">Daten die in dieses Formular eingegeben werden, werden mit Hilfe des Dienstes <a href="https://welcomments.io" target="_blank" rel="noopener">welcomments.io</a> verarbeitet. Dabei fallen die in der <a href="https://welcomments.io/privacy/#as-a-commenter" taget="_blank" rel="noopener">Datenschutzerklärung dieses Dienstes</a> aufgeführten Daten (IP-Adresse, Browserversion) an, die dort auch gespeichert werden. Gebe keine persönlichen Daten in dieses Formular ein, im Zweifelsfall nutze einen Spitznamen, alles eingegebene wird hier öffentlich angezeigt. Es werden keine Cookies gespeichert, lediglich der Kommentartext wird im Localstorage des Browsers zwischengespeichert.</p>
+  </div>
   <button type="submit" class="welcomments__submit-button" id="welcomments__submit-button">Kommentar absenden</button>
 </form>
 <script>
@@ -28,3 +33,6 @@
 <noscript>
   <p>Javascript muss aktiviert sein, um kommentieren zu können.</p>
 </noscript>
+{% else %}
+<p>Kommentare geschlossen.</p>
+{% endif %}
