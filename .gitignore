@@ -25,6 +25,7 @@ node_modules/
 # 11ty
 .env
 _site/
+content/blog/drafts/*.md
 
 # obsidian
 .obsidian/
