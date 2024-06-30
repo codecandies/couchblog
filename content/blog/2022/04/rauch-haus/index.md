@@ -5,7 +5,7 @@ tags:
   - "Gehört"
   - "Gelebt"
 keywords:
-  - "ton-steine-scherben"
+  - "Ton Steine Scherben"
 persons:
   - "Georg von Rauch"
   - "Rio Reiser"
