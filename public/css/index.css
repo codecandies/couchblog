@@ -490,6 +490,7 @@ body {
   grid-column: 2;
   line-height: 1;
   margin: 0 auto 2rem;
+  padding-top: 1.25rem;
 }
 
 .kb-club a {
@@ -501,6 +502,12 @@ body {
 
 .kb-club a:hover {
   background: #FFF176;
+}
+
+@media (prefers-color-scheme: dark) {
+  .kb-club a {
+    background: #FFF176;
+  }
 }
 
 .kb-club-bg,
