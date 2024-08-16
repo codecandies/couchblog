@@ -14,16 +14,13 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 - Von dieser Website werden keine Cookies auf ihrem Rechner gespeichert.
 
 ## Verantwortlicher
-<p id="ds-adresse"></p>
+<p id="ds-adresse">Nico Brünjes</p>
 <p>Email: <span id="ds-email"></span></p>
 <p><a href="https://couchblog.de/seiten/impressum/">Impressum</a></p>
 <script type="text/javascript">
   (function(d) {
-    var a = 'TmljbyBCcnVlbmplczxicj4KV2FrZW5pdHp1ZmVyIDQ4PGJyPgoyMzU2NCBMdWViZWNr',
-    e = 'bmljb0Bjb3VjaGJsb2cuZGU=',
-    p1 = d.querySelector('#ds-adresse'),
+    var e = 'bmljb0Bjb3VjaGJsb2cuZGU=',
     p2 = d.querySelector('#ds-email');
-    p1.insertAdjacentHTML('afterbegin', atob(a));
     p2.insertAdjacentHTML('afterbegin', atob(e));
   })(document);
 </script>
