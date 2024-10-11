@@ -920,27 +920,32 @@ article {
   padding-right: 0.25em;
 }
 
-.tip {
+.tip, .info {
   background-color: var(--background-elevated);
   border: 1px solid rgba(var(--border-primary-rgb), 0.2);
   margin-bottom: 1.5625rem;
   padding: 1.25rem;
   position: relative;
 }
-.tip p:last-child {
+.tip p:last-child,
+.info p:last-child {
   margin-bottom: 0;
 }
-
-.tip {
+.tip, .info {
   padding-left: 3.75rem;
+}
+.tip::before,
+.info::before {
+  font-size: 2rem;
+  left: 1.1rem;
+  position: absolute;
+  top: 0.625em;
 }
 .tip::before {
   content: "💡";
-  font-size: 2rem;
-  left: 1.25rem;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+}
+.info::before {
+  content: "🛎️";
 }
 
 .special {

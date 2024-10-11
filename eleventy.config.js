@@ -85,6 +85,7 @@ module.exports = function( eleventyConfig ) {
     .use(markdownItContainer, 'special' )
     .use(markdownItContainer, 'read' )
     .use(markdownItContainer, 'author' )
+    .use(markdownItContainer, 'info' )
     .use(markDownItFootnote)
     .use(markdownItAttrs, {
       leftDelimiter: '{:',
