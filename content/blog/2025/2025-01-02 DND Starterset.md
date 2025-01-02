@@ -27,6 +27,3 @@ Das Spiel ist laut Verpackung für zwei bis sechs Spieler\*innen geeignet und so
 **P.S.: Wo bekomme ich das alles?**
 
 Zunächst braucht es natürlich nur das Starterset, wir haben das online bestellt. Wahrscheinlich wollen wir danach aber noch mehr DnD/Rollenspiel *Dinge* haben, das Angebot ist endlos. Im Sinne der Nerdigkeit, werden wir diese Dinge in einem der beiden ortsansässigen Fachgeschäfte kaufen… ihr wisst schon… *support your local dealer!*
-
-
-%% Foto: Autor unter Lizenz. {:.cc-?copyright} %%
