@@ -14,7 +14,7 @@ headerImage:
   alt: "Das Bild zeigt das Buch von Friedrich Merz, mit dem Titel: Mut zur Zukunft – Wie Deutschland wieder an die Spitze kommt (Goldmann, 2002), auf einem Büchergrabbeltisch der Drogeriekette Kloppenburg, angelehnt an ein großes Preisschild: 2,99 EURO."
 ---
 
-Also das, was wir da jetzt die letzten Tage zu ertragen hatten, wirft ja ein schönes Streiflicht, auf die uns—den Zahlen nach—immer noch bevorstehende nahe Zukunft. Was Friedrich Merz und seine Vasall\*innen von der CDU/CSU, AfD, FDP und BSW da boten, ist ein grenzenloses Beispiel politischer Brandstiftung, wie es die Republik seit dem sogenannten [Asylkompromiss](https://de.wikipedia.org/wiki/Asylkompromiss)[1993](https://couchblog.de/blog/2024/05/29/solingen-1993/) nicht erlebt hat. 
+Also das, was wir da jetzt die letzten Tage zu ertragen hatten, wirft ja ein schönes Streiflicht, auf die uns—den Zahlen nach—immer noch bevorstehende nahe Zukunft. Was Friedrich Merz und seine Vasall\*innen von der CDU/CSU, AfD, FDP und BSW da boten, ist ein grenzenloses Beispiel politischer Brandstiftung, wie es die Republik seit dem sogenannten [Asylkompromiss](https://de.wikipedia.org/wiki/Asylkompromiss) [1993](https://couchblog.de/blog/2024/05/29/solingen-1993/) nicht erlebt hat. 
 
 ## Mit dem Kopf durch die Brandmauer
 
