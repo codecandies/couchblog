@@ -1,6 +1,6 @@
 ---
 title: "Wider besseres Wissen"
-date: "2025-02-01"
+date: "2025-02-01T10:52:24+0100"
 tags:
   - "Gesellschaft"
   - "Gerante"
