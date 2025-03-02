@@ -73,6 +73,10 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
 
+  eleventyConfig.addFilter("plusify", function(path) {
+    return path.replaceAll(' ', '+');
+  });
+
   // markdown config
   let markdownItOptions = {
     html: true,

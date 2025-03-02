@@ -1,18 +1,5 @@
-{%- if api_url -%}
-  {%- assign api_url = api_url -%}
-{%- else -%}
-  {%- assign api_url = "https://welcomments.io/api" -%}
-{%- endif -%}
-
-{%- if website_id == "YOUR-WEBSITE-ID-HERE" -%}
-  <div style="color: #ff0000;">
-    <h1>Website id not configured!</h1>
-    <p>Please replace <code>YOUR-WEBSITE-ID-HERE</code> with the website id from Welcomments console.</p>
-  </div>
-{%- endif -%}
-
 <section id="welcomments__container" class="welcomments__container">
-  {%- assign article_url = page.fileSlug -%}
+  {%- assign article_url = page.fileSlug | plusify -%}
 
   {%- if article_url != "" -%}
     {%- assign all_comments = welcomments[article_url] | objectValues -%}
@@ -41,46 +28,6 @@
     {%- endif -%}
   </div>
 
-  {%- include "welcomments/comment_form",
-    api_url: api_url,
-    website_id: website_id -%}
-</section>
+  <p>Hinweis: Zur Zeit ist die Kommentarfunktion leider deaktiviert.</p>
 
-<script defer id="welcomments__script" src="/js/welcomments.js" type="text/javascript"></script>
-<script type="text/javascript">
-  welcomments = {
-    apiUrl: "{{ api_url }}",
-    // Updates the "x comments" title when there are comments that are dynamically loaded.
-    // By default, the result of this function becomes the innerText of an element with the
-    // id "welcomments__comment-count-title". It's okay if that element doesn't exist.
-    commentCountTitleFactory: function (commentCount) {
-      if (commentCount === 0) {
-        return "Noch keine Kommentare.";
-      }
-      return commentCount === 1 ? "Ein Kommentar" : `${commentCount} Kommentare`;
-    },
-    // Builds comments dynamically when they are not part of the static HTML of the rest of
-    // your Eleventy website yet. Should return the desired HTML as a string. By default, appends
-    // the resulting HTML as a child element into the correct position in an element with the
-    // id "welcomments__comment-container".
-    placeholderCommentFactory: function (comment) {
-      var year = new Intl.DateTimeFormat("en", {year: "numeric"}).format(comment.date);
-      var month = new Intl.DateTimeFormat("en", {month: "long"}).format(comment.date);
-      var day = new Intl.DateTimeFormat("en", {day: "2-digit"}).format(comment.date);
-      var avatarUrl =  comment.author.avatar_url ||
-        `https://eu.ui-avatars.com/api/?background=random&name=${comment.author.name}`
-      return `{% include "welcomments/template",
-        id: "${comment.id}",
-        element_id: "welcomments__comment-${comment.id}",
-        element_classname: "welcomments__comment",
-        nesting_level: "0",
-        formatted_date: "${month} ${day}, ${year}",
-        author_name: "${comment.author.name}",
-        author_website: "${comment.author.website}",
-        avatar_url: "${avatarUrl}",
-        message: "${comment.message}",
-        api_url: api_url,
-        website_id: website_id %}`;
-    },
-  };
-</script>
+</section>
