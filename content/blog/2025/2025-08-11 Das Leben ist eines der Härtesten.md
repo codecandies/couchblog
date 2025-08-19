@@ -1,6 +1,6 @@
 ---
 title: "Das Leben ist eines der Härtesten"
-date: "2025-08-11"
+date: "2025-08-11T11:50:15+0200"
 tags:
   - "Gelesen"
 ---
