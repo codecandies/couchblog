@@ -1,0 +1,14 @@
+---
+title: "Permalink"
+date: "2025-08-30T09:40:30+0200"
+tags:
+  - "Gebloggt"
+keywords:
+  - "Blogosphäre 2000"
+---
+
+Als ich gestern so über Movable Type [grübelte](https://couchblog.de/blog/2025/08/29/trotts-tolle-blogsoftware/), kam mir ein Begriff aus alten Tagen in den Sinn: *Permalink*. Das Kofferwort aus *permanent* und *hyperlink* hat speziell mit Bloggen eigentlich nichts zu tun, sondern mehr mit den seinerzeit erst kurz abgeschlossenen Diskussion darum, wie man dieses *world wide web* nun zu benutzen hatte. Aber es war einer dieser typischen Begriffe, die zu der Zeit nur in Blogs auftauchten, wie bspw. auch RSS (dazu später mehr).
+
+Ein Permalink ist also die Adresse zu einem bestimmten Beitrag oder Artikel, die auch langfristig unverändert bleibt. Die Nutzung des Begriffs wurde vor allem dadurch nötig, dass es in Blogs auch andere Links gab, die zwar in sich natürlich auch permanent waren, aber eben nicht auf ein bestimmtes Item oder einen bestimmten Artikel zeigten. Das waren die Listen von Artikeln, allen voran die Homepage des Blogs, auf der in der Regel die neuesten Einträge aufgelistet wurden, vom Neuesten an rückwärts, meist durch eine bestimmte Anzahl begrenzt und paginiert. Oft waren das sehr viele, auch sehr kurze Einträge ([Beispiel](https://web.archive.org/web/20040519090653/http://schockwellenreiter.de/)), so dass z. B. auf der Startseite auch gleich den ganzen ungekürzten Artikeltext gelesen werden konnte. Diese Einträge wanderten wenn neue Artikel erschienen in der Liste nach unten und dann auf Seite zwei der Liste und so weiter. Sollte darauf verlinkt werden, war eben jener Permalink nötig, der den Artikel direkt, meist auf einer eigenen Seite aufrief und so zitierfähig wurde. Was ja eine weitere Kulturtechnik des Bloggens jener Zeit war: sich gegenseitig zu verlinken. In den allermeisten Fällen zeigte der Permalink also auf eine Artikelseite ([Beispiel](https://couchblog.de/couchblog/2002/05/05/focus-ueber-blogs/)), nur sehr wenige Blogs sammelte ihre Einträge auf Tagesseiten, auf denen dann der einzelne Artikel per `#`-Sprungmarke permanent erreichbar war ([Beispiel](http://scripting.com/1997/06.html#macweekSteveWozniakSays)).
+
+Im Grunde liegt das System auf der Hand, vor allem aus heutiger Sicht, die später starke Verbreitung von Wordpress hat da vieles glatt gezogen, aber der Ausgangspunkt von Blogs waren einfache handgepflegte Webseiten, bei denen die Betreiber\*innen ihre neuesten Nachrichten und Beiträge einfach am Anfang der Seite einfügten. Der Einsatz von [Blogsoftware](http://radio.userland.com/) und Content Management Systemen, sowie Syndicatiomstechniken wie RSS wurden erst mit dem Bloggen entwickelt, bis es dann ab 2001 mit einem Male allgegenwärtig wurde. Das gegenseitige Vernetzen in Form von Verlinkungen war dabei die essentielle Kulturtechnik. All das waren widerum Faktoren, die Blogs so erfolgreich bei Suchmaschinen machten, seinerzeit.
