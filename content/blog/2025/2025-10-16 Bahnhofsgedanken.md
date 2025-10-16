@@ -10,7 +10,7 @@ headerImage:
   alt: "Ein Personenwagen der Regionalbahn Nord im Ausschnitt, der Wagen ist blau mit gelben Dekors, ein Teil der Aufrschrift Schleswig-Holstein, der echte Norden ist zu sehen. Die Anzeige am Wagen zeigt an: bitte alle 12 Wagen nutzen."
 ---
 
-Die Bahn fährt, was mich nach all den Jahren immer noch überrascht und da sollte PR-Menschen bei der Bahn oder eben Anke Engelke meinetwegen mal Gedanken drüber machen. Leider, leider, leider, ist nur fahren dem Grunde nach nicht genug. 
+Die Bahn fährt, was mich nach all den Jahren immer noch überrascht und da sollten sich PR-Menschen bei der Bahn [oder eben Anke Engelke](https://www.t-online.de/unterhaltung/tv/id_100953312/deutsche-bahn-und-anke-engelke-geschmacklose-werbespots-.html) meinetwegen mal Gedanken drüber machen. Leider, leider, leider, ist nur fahren dem Grunde nach nicht genug. 
 
 Da ist zum Beispiel die von mir einst recht regelmäßig genutzte Strecke Hamburg – Berlin, die nun schon eine ganze Zeit gesperrt ist und noch genauso lange gesperrt bleibt. Züge fahren trotzdem, aber eben über [Stendal](https://de.wikipedia.org/wiki/Stendal), einer weitestgehend unbekannten Kreisstadt mitten in Deutschland, mit einem ähnlichen Nachrichtenwert wie meine zweite  Heimatstadt [Delmenhorst](https://couchblog.de/blog/2020/03/03/delmenhorst/), nur eben ohne Sarah Connor. Die Fahrt nach oder von Berlin dauert so mal eben rund zwei Stunden, je nachdem, was sonst so schief geht. Schlimmer aber ist, dass die Frequenz der Fahrten halbiert wurde. Das ist für alle diejenigen, die erst von Lübeck nach Hamburg fahren müssen, um in Richtung Berlin zu kommen, ein mittelschweres Drama. Also für mich. Noch nie hat ein ICE auf Anschlussreisende aus „Richtung Lübeck„ gewartet[^1]. Also absurd früh aufstehen.
 
