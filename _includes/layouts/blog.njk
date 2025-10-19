@@ -1,11 +1,5 @@
 {% extends 'layouts/default.njk' %}
 
-{% block additional_styles %}
-{%- css %}
-{% include "node_modules/prismjs/themes/prism-okaidia.css" %}
-{%- endcss %}
-{% endblock %}
-
 {% block metadata %}
 <meta property="og:locale" content="de_DE" />
 <meta property="og:type" content="article" />
@@ -33,6 +27,13 @@
 <meta property="og:image" content="{{ metadata.url }}{{ metadata.author.image }}" />
 {% endif -%}
 {% endblock %}
+
+{% block additional_styles %}
+{%- css %}
+{% include "node_modules/prismjs/themes/prism-okaidia.css" %}
+{%- endcss %}
+{% endblock %}
+
 
 {% block main -%}
 <article{% if language %} lang="{{ language }}"{%endif%} {% if (coverImage or articleImage or headerImage) and 'Geknipst' not in tags | filterTagList -%} class="featured"{%endif%}>

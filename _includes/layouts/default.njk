@@ -10,21 +10,6 @@
     <meta name="description" content="{{ meta_description | trim | e }}">
     <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} &raquo; Feed" href="{{ metadata.url }}/feed/" />
     <meta name="color-scheme" content="dark light">
-    <script>
-      (function() {
-        document.documentElement.classList.replace('no-js', 'js');
-      })();
-    </script>
-    {%- css %}{% include "public/css/index.css" %}{% include "public/css/light-yt-embed.css" %}{% endcss %}
-    {#- Render the CSS bundle #}
-    {%- if eleventy.env.runMode === "serve" %}
-    {# External files (local dev live reload will refresh without page reload) #}
-    <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
-    {%- else  %}
-    {# Inlined CSS (fastest site performance in production) #}
-    <style>{% getBundle "css" %}</style>
-    {%- endif %}
-    {% block additional_styles %}{% endblock %}
     <link rel="icon" href="/img/admin/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
     <link rel="icon" href="/img/admin/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
     <link rel="apple-touch-icon" href="/img/admin/cropped-android-chrome-512x512-1-180x180.png" />
@@ -35,6 +20,21 @@
     <meta name="last-modified" content="{{ page.date.toISOString() }}">
     <meta name="date" content="{{ page.date.toISOString() }}">
     {% endblock %}
+    {%- css %}{% include "public/css/index.css" %}{% include "public/css/light-yt-embed.css" %}{% endcss %}
+    {#- Render the CSS bundle #}
+    {%- if eleventy.env.runMode === "serve" %}
+    {# External files (local dev live reload will refresh without page reload) #}
+    <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+    {%- else  %}
+    {# Inlined CSS (fastest site performance in production) #}
+    <style>{% getBundle "css" %}</style>
+    {%- endif %}
+    {% block additional_styles %}{% endblock %}
+    <script>
+      (function() {
+        document.documentElement.classList.replace('no-js', 'js');
+      })();
+    </script>
   </head>
   <body>
     <a href="#main" class="skiplink">Zum Inhalt springen…</a>
