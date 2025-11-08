@@ -9,12 +9,7 @@
 
   {%- if all_comments.size > 0 -%}
     <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">{{ all_comments.size }} Kommentar{%- if all_comments.size > 1 -%}e{%- endif -%}</h3>
-  {%- else -%}
-    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">Noch keine Kommentare.</h3>
-  {%- endif -%}
-
-  <div id="welcomments__comment-container" class="welcomments__comment-container">
-    {%- if all_comments.size > 0 -%}
+    <div id="welcomments__comment-container" class="welcomments__comment-container">
       {%- assign parent_comments = all_comments | whereUnset: "replying_to" | sortBy: "id" -%}
 
       {%- for comment_map in parent_comments -%}
@@ -25,9 +20,6 @@
           api_url: api_url,
           website_id: website_id -%}
       {%- endfor -%}
-    {%- endif -%}
-  </div>
-
-  <p>Hinweis: Zur Zeit ist die Kommentarfunktion leider deaktiviert.</p>
-
+    </div>
+  {%- endif -%}
 </section>
