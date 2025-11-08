@@ -8,12 +8,13 @@ const markDownItImplicitFigures = require('markdown-it-implicit-figures');
 const markDownItFootnote = require('markdown-it-footnote');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const bundlerPlugin = require("@11ty/eleventy-plugin-bundle");
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
-module.exports = function( eleventyConfig ) {
+module.exports = async function( eleventyConfig ) {
   eleventyConfig.setQuietMode(true);
+  const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = await import("@11ty/eleventy");
+  const bundlerPlugin = await import("@11ty/eleventy-plugin-bundle");
+
+  // eleventyConfig.setQuietMode(true);
   eleventyConfig.setServerOptions({
     watch: ['_site/css/**/*.css'],
     showAllHosts: true,
@@ -70,7 +71,7 @@ module.exports = function( eleventyConfig ) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(require("./eleventy.config.images.js"));
-  eleventyConfig.addPlugin(bundlerPlugin);
+  eleventyConfig.addPlugin(bundlerPlugin.default);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   eleventyConfig.addFilter("plusify", function(path) {
@@ -101,7 +102,10 @@ module.exports = function( eleventyConfig ) {
       defaultLanguageForUnspecified: 'js'
     })
     .use( markdownItAnchor, {
-      permalink: markdownItAnchor.permalink.headerLink({ safariReaderFix: true })
+      permalink: markdownItAnchor.permalink.linkInsideHeader({
+        placement: 'before',
+        safariReaderFix: true
+      })
     })
     .use( markDownItAttribution, {
       marker: '—',
