@@ -21,7 +21,7 @@ permalink: "{{ metadata.jsonfeed.path }}"
       "url": "{{ absolutePostUrl }}",
       "title": "{{ post.data.title }}",
       "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe }}{% else %}""{% endif %},
-      "date_published": "{{ post.date | rssDate }}"
+      "date_published": "{{ post.date | dateToRfc3339 }}"
     }
     {%- if not loop.last -%}
     ,
