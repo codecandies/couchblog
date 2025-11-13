@@ -103,7 +103,6 @@ module.exports = async function( eleventyConfig ) {
     })
     .use( markdownItAnchor, {
       permalink: markdownItAnchor.permalink.linkInsideHeader({
-        placement: 'before',
         safariReaderFix: true
       })
     })
