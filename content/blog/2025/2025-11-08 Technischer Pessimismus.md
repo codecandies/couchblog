@@ -2,7 +2,7 @@
 title: "Technischer Pessimismus"
 date: "2025-11-08T11:22:47+0100"
 tags:
-  - "Geranted"
+  - "Gerante"
 keywords:
   - "KI"
   - "Social Media"
