@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "del _site",
     "cleanstart": "del _site && eleventy --serve",
-    "start": "eleventy --serve --incremental --ignore-initial",
+    "start": "eleventy --serve --ignore-initial",
     "build": "eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
