@@ -11,7 +11,7 @@ headerImage:
   alt: "Erleuchtete Weihnachtsbaum mit Dekoration vor dem Rathaus in Reinfeld, Schleswig Holstein."
 ---
 
-Wenn es auf Weihnachten zu geht, freut sich die Welt um mich herum auf die sogenannte besinnliche Zeit, ein paar ruhige Tage und vor allem und erneut all das zusammen mit den Liebsten und meistens ist damit die Familie gemeint. Nun komme ich aus einer (schon mal [angemerkt](https://couchblog.de/blog/2025/12/12/norddeich-radio/)) Seefahrerfamilie, da ist die Weihnachtszeit traditionell geprägt von unerfüllten Erwartungen, Familienfeiern bei denen immer jemand fehlt oder gar Entwicklungs- und Beziehungstraumata. Diese Gemengelage paart sich mit einem sehr streitbaren Teilnehmer\*innenkreis, kurz gesagt: ich bin besinnliche Weihnachten wirklich nicht gewohnt. 
+Wenn es auf Weihnachten zugeht, freut sich die Welt um mich herum auf die sogenannte besinnliche Zeit, ein paar ruhige Tage und vor allem und erneut all das zusammen mit den Liebsten und meistens ist damit die Familie gemeint. Nun komme ich aus einer (schon mal [angemerkt](https://couchblog.de/blog/2025/12/12/norddeich-radio/)) Seefahrerfamilie, da ist die Weihnachtszeit traditionell geprägt von unerfüllten Erwartungen, Familienfeiern bei denen immer jemand fehlt oder gar Entwicklungs- und Beziehungstraumata. Diese Gemengelage paart sich mit einem sehr streitbaren Teilnehmer\*innenkreis, kurz gesagt: ich bin besinnliche Weihnachten wirklich nicht gewohnt. 
 
 **Dieses Jahr droht allerdings den Vogel abzuschießen.**
 
