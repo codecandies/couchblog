@@ -4,7 +4,7 @@ date: "2024-12-28T13:45:26+0100"
 tags:
   - "Gesellschaft"
 keywords:
-  - "Rückblick"
+  - "Jahresrückblick"
   - "Politik"
 persons:
   - "Friedrich Merz"

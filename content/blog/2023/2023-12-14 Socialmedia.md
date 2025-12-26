@@ -8,8 +8,7 @@ keywords:
   - Socialmedia
   - Mastodon
   - Bluesky
-  - 2023
-  - Rückblick
+  - "Jahresrückblick"
 headerImage:
   src: socialmedia.jpg
   alt: "a comic book like color drawing of people interacting with their smartphones igonring the world around them"
