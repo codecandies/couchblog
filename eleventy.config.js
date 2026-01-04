@@ -112,6 +112,12 @@ module.exports = async function( eleventyConfig ) {
     })
     .use( markDownItImplicitFigures, {figcaption: true} );
 
+  markdownLib.renderer.rules.footnote_block_open = () => (
+  '<section class="footnotes">\n' +
+  '<h2 class="visually-hidden">Fußnoten</h2>\n' +
+  '<ol class="footnotes-list">\n'
+);
+
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,
