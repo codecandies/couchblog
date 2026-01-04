@@ -8,24 +8,26 @@
 <meta property="og:description" content="{{ meta_description | trim | e }}" />
 <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
 <meta property="og:site_name" content="Couchblog" />
+
+{% if articleImage -%}
+<meta property="og:image" content="{{ metadata.url }}/images/{{ articleImage.src }}" />
+<meta property="og:image:width" content="{{ articleImage.width }}">
+<meta property="og:image:height" content="{{ articleImage.height }}">
+<link rel="image_src" href="{{ metadata.url }}/images/{{ articleImage.src }}">
+{% elif headerImage -%}
+<link rel="image_src" href="{{ metadata.url }}{{ page.url | imgPath }}{{ headerImage.src }}">
+<meta property="og:image" content="{{ metadata.url }}{{ page.url | imgPath }}{{ headerImage.src }}" />
+{% else -%}
+<meta property="og:image" content="{{ metadata.url }}{{ metadata.author.image }}" />
+<link rel="image_src" href="{{ metadata.url }}{{ metadata.author.image }}">
+{% endif -%}
+
 <meta name="last-modified" content="{{ page.date.toISOString() }}">
 <meta name="date" content="{{ page.date.toISOString() }}">
 <meta property="article:published_time" content="{{ page.date.toISOString() }}" />
 <meta name="author" content="{{ metadata.author.name }}" />
 <meta property="article:author" content="{{ metadata.url }}/about/">
 <meta name="twitter:card" content="summary" />
-{% if articleImage -%}
-<link rel="image_src" href="{{ metadata.url }}/images/{{ articleImage.src }}">
-<meta property="og:image" content="{{ metadata.url }}/images/{{ articleImage.src }}" />
-<meta property="og:image:width" content="{{ articleImage.width }}">
-<meta property="og:image:height" content="{{ articleImage.height }}">
-{% elif headerImage -%}
-<link rel="image_src" href="{{ metadata.url }}{{ page.url | imgPath }}{{ headerImage.src }}">
-<meta property="og:image" content="{{ metadata.url }}{{ page.url | imgPath }}{{ headerImage.src }}" />
-{% else -%}
-<link rel="image_src" href="{{ metadata.url }}{{ metadata.author.image }}">
-<meta property="og:image" content="{{ metadata.url }}{{ metadata.author.image }}" />
-{% endif -%}
 {% endblock %}
 
 {% block additional_styles %}
