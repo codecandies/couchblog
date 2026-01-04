@@ -1,25 +1,23 @@
+{%- assign article_url = page.fileSlug | plusify -%}
+{%- if article_url != "" -%}
+  {%- assign all_comments = welcomments[article_url] | objectValues -%}
+{%- else -%}
+  {%- assign all_comments = welcomments["___root___"] | objectValues -%}
+{%- endif -%}
+{%- if all_comments.size > 0 -%}
 <section id="welcomments__container" class="welcomments__container">
-  {%- assign article_url = page.fileSlug | plusify -%}
+  <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">{{ all_comments.size }} Kommentar{%- if all_comments.size > 1 -%}e{%- endif -%}</h3>
+  <div id="welcomments__comment-container" class="welcomments__comment-container">
+    {%- assign parent_comments = all_comments | whereUnset: "replying_to" | sortBy: "id" -%}
 
-  {%- if article_url != "" -%}
-    {%- assign all_comments = welcomments[article_url] | objectValues -%}
-  {%- else -%}
-    {%- assign all_comments = welcomments["___root___"] | objectValues -%}
-  {%- endif -%}
-
-  {%- if all_comments.size > 0 -%}
-    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">{{ all_comments.size }} Kommentar{%- if all_comments.size > 1 -%}e{%- endif -%}</h3>
-    <div id="welcomments__comment-container" class="welcomments__comment-container">
-      {%- assign parent_comments = all_comments | whereUnset: "replying_to" | sortBy: "id" -%}
-
-      {%- for comment_map in parent_comments -%}
-        {%- include "welcomments/single_comment",
-          nesting_level: 0,
-          all_comments: all_comments,
-          comment: comment_map,
-          api_url: api_url,
-          website_id: website_id -%}
-      {%- endfor -%}
-    </div>
-  {%- endif -%}
+    {%- for comment_map in parent_comments -%}
+      {%- include "welcomments/single_comment",
+        nesting_level: 0,
+        all_comments: all_comments,
+        comment: comment_map,
+        api_url: api_url,
+        website_id: website_id -%}
+    {%- endfor -%}
+  </div>
 </section>
+{%- endif -%}
