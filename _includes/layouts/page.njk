@@ -45,7 +45,7 @@
   {% if date or tags -%}
     <div class="meta">
       {% if date %}
-        <time>{{ date | longDate }}</time>
+        <time datetime="{{ date }}">{{ date | longDate }}</time>
       {% endif %}
       {% if tags -%}
         {% set cue %}{% if tags | filterTagList | length > 1 %}Themen{% else %}Thema{% endif %}{% endset %}
