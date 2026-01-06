@@ -29,6 +29,7 @@
     "@11ty/eleventy-navigation": "^1.0.4",
     "@11ty/eleventy-plugin-bundle": "^3.0.7",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@types/node": "^25.0.3",
     "del": "^6.0.0",
     "del-cli": "^4.0.1",
     "dotenv": "^16.4.5",
@@ -42,6 +43,7 @@
     "markdown-it-prism": "^2.3.0"
   },
   "dependencies": {
-    "@netlify/functions": "^5.1.2"
+    "@netlify/functions": "^5.1.2",
+    "octokit": "^5.0.5"
   }
 }
