@@ -119,7 +119,7 @@
 {% endblock -%}
 
 {% block commentsection -%}
-{% if comments %}
+{% if comments and commentsActive %}
 <section id="comments__container" class="comments__container">
   <h2 id="comments__comment-count-title" class="comments__comments-title">
     {% if comments | length == 1 %}
@@ -161,7 +161,7 @@
 {% endblock -%}
 
 {% block commentform -%}
-{% if showComments %}
+{% if showComments and commentsActive %}
 <div id="comments__form" class="comments__container">
   <h2 class="comments__comments-title">Kommentieren</h2>
   <form

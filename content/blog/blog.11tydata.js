@@ -22,6 +22,7 @@ module.exports = ()=> {
     ],
     "layout": "layouts/blog.njk",
     "permalink": "blog/{{ date | pathDate }}/{{ title | slugify }}/index.html",
+    "commentsActive": true,
     eleventyComputed: {
       eleventyExcludeFromCollections: data => showDraft(data) ? data.eleventyExcludeFromCollections : true,
       permalink: data => showDraft(data) ? data.permalink : false,
