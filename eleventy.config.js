@@ -34,6 +34,7 @@ module.exports = async function( eleventyConfig ) {
   eleventyConfig.addFilter('shortDate', require("./_includes/_11ty/filters/shortDate.js"));
   eleventyConfig.addFilter('mediumDate', require("./_includes/_11ty/filters/mediumDate.js"));
   eleventyConfig.addFilter('longDate', require("./_includes/_11ty/filters/longDate.js"));
+  eleventyConfig.addFilter('commentDate', require("./_includes/_11ty/filters/commentDate.js"));
   eleventyConfig.addFilter('pathDate', require("./_includes/_11ty/filters/pathDate.js"));
   eleventyConfig.addFilter('imgPath', require("./_includes/_11ty/filters/imgPath.js"));
   eleventyConfig.addFilter('w3cDate', require("./_includes/_11ty/filters/w3cDate.js"));
