@@ -118,10 +118,45 @@
 {%- endif %}
 {% endblock -%}
 
-{% block comments -%}
-{% if nocomments != true %}
-{% set welcomments_config = {welcomments: welcomments, website_id: "u6qGszNBbQtMLVycDuAz39p0u"} %}
-{% renderFile "./_includes/welcomments/comments.liquid", welcomments_config %}
+{% block commentsection -%}
+{% if comments %}
+<section id="welcomments__container" class="welcomments__container">
+  <h2 id="welcomments__comment-count-title" class="welcomments__comments-title">
+    {% if comments | length == 1 %}
+      1 Kommentar
+    {% else %}
+      {{ comments | length }} Kommentare
+    {% endif %}
+  </h2>
+  <div id="welcomments__comment-container" class="welcomments__comment-container">
+    {% for comment in comments %}
+    <article
+      id="welcomments__comment-{{ comment.id }}"
+      class="welcomments__comment{{ ' welcomments__comment-role-owner' if comment.email == metadata.author.email else '' }}"
+    data-comment-id="{{ comment.id }}"
+    data-author-name="{{ comment.createdBy | e }}"
+    itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+      <div class="welcomments__comment-header">
+        <div class="welcomments__author-information">
+          <div class="welcomments__author-name-and-time">
+            <h3 class="welcomments__author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
+              <span itemprop="name">{{ comment.createdBy | e }}</span>
+            </h3>
+            <p class="welcomments__comment-time">
+              <a href="#welcomments__comment-{{ comment.id }}" itemprop="url">
+                <time datetime="{{ comment.date }}" itemprop="datePublished">
+                  {{- comment.date | commentDate -}}
+                </time>
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div itemprop="text" class="welcomments__comment-message">{{ comment.html | safe }}</div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 {% endif %}
 {% endblock -%}
 

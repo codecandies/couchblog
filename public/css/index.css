@@ -1161,7 +1161,7 @@ article {
 
 /* welcomments comments section */
 .welcomments__container {
-  margin-top: 40px;
+  margin-top: 3.75rem;
 }
 
 .welcomments__comments-title {
@@ -1180,6 +1180,10 @@ article {
   counter-increment: count 1;
   display: block;
   margin-bottom: 30px;
+}
+
+.welcomments__comment-role-owner .welcomments__author-name::after {
+  content: " 😎";
 }
 
 .welcomments__comment-message {
@@ -1205,12 +1209,16 @@ article {
 .welcomments__comment-header {
   display: flex;
   gap: 10px;
-  align-items: flex-start;
+  align-items: last baseline;
   margin-bottom: 5px;
 }
 
 .welcomments__author-name-and-time {
   font-size: 1rem;
+}
+
+.welcomments__comment-time a {
+  text-decoration: none;
 }
 
 .welcomments__comment-message p {
