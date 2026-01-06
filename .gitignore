@@ -31,3 +31,6 @@ content/blog/drafts/*.md
 .obsidian/
 .obsidian-git/
 obsidian_templates/
+
+# Local Netlify folder
+.netlify
