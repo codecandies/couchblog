@@ -48,7 +48,7 @@ export default async (request: Request, context: Context) => {
     }
 
     const ref = new URL(referrer).pathname.split("/");
-    const postName = `src/content/blog/${ref[2]}/${articleTitle}`;
+    const postName = `content/blog/${ref[2]}/${articleTitle}`;
     const octokit = new Octokit({ auth: GITHUB_TOKEN });
     const {
       sha,
