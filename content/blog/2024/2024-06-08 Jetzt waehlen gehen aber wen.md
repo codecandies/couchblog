@@ -15,7 +15,7 @@ Die Reihenfolge auf dem Zettel ist nicht überall gleich, sie „richtet sich in
 
 ## Die Liste
 
-Achtung: teile dieser Liste könnten dich verunsichern.
+Achtung: Teile dieser Liste könnten dich verunsichern.
 
 ### Christlich Demokratische Union (CDU)
 
@@ -43,7 +43,7 @@ Seit der Absspaltung der Wagenknechte ist die Linke leider nicht so aufgeblüht,
 
 ### Freie Demokratische Partei (FDP)
 
-Leider leben Totgeglaubte oft länger als uns lieb ist und diese Politikzombies leben nicht nur noch, sondern zerstören auf dem Weg ins politische Grab nicht weniger als unsere Gesellschaft, die sie bereitwillig auf Altar des sich selbst regulierenden Marktes den Besserverdienenden und Porschefahrer\*innen opfern. Die FPD ist die fleischgewordene Prominentenhochzeit auf Sylt und das Brautpaar singt „Deutschland den Deutschen“ auf Gigi d‘Argostino. Leider viel zu oft dabei gewesen, bitte nicht wieder wählen. 
+Leider leben Totgeglaubte oft länger als uns lieb ist und diese Politikzombies leben nicht nur noch, sondern zerstören auf dem Weg ins politische Grab nicht weniger als unsere Gesellschaft, die sie bereitwillig auf Altar des sich selbst regulierenden Marktes den Besserverdienenden und Porschefahrer\*innen opfern. Die FDP ist die fleischgewordene Prominentenhochzeit auf Sylt und das Brautpaar singt „Deutschland den Deutschen“ auf Gigi d‘Argostino. Leider viel zu oft dabei gewesen, bitte nicht wieder wählen. 
 
 ### Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative (Die PARTEI)
 
@@ -67,7 +67,7 @@ Apropos Familie. Die Familien-Partei koaliert gerne mit der ÖDP, ist Teil der E
 
 ### Volt Deutschland (Volt)
 
-Volt gilt als sozialliberal, progressiv und pro-europäisch, so eine Art grüne Liberale. Im EI-Parlament ist sie Mitglied der Grünen/EFA-Fraktion. „Nach Volt soll Deutschland bis 2035 CO2- und bis  2040 klimaneutral werden.“[^3] Die Plakatkampagne „Sei kein Arschloch“ war nicht die schlechteste. Wer also etwas sucht, was nicht etablierte Partei, aber auch nicht rechts ist, könnte hier fündig werden.
+Volt gilt als sozialliberal, progressiv und pro-europäisch, so eine Art grüne Liberale. Im EU-Parlament ist sie Mitglied der Grünen/EFA-Fraktion. „Nach Volt soll Deutschland bis 2035 CO2- und bis  2040 klimaneutral werden.“[^3] Die Plakatkampagne „Sei kein Arschloch“ war nicht die schlechteste. Wer also etwas sucht, was nicht etablierte Partei, aber auch nicht rechts ist, könnte hier fündig werden.
 
 ### Piratenpartei Deutschland (Piraten)
 
@@ -99,7 +99,7 @@ Das Bündnis C ist der Zusammenschluss der Partei Bibeltreuer Christen der AUF �
 
 ### Partei der Humanisten (PdH)
 
-Das Gegenteil repräsentiert die PdH, die für sozialliberale und säkulare Politik basierend auf einer kritisch-rationalen und wissenschaftlichen Auseinandersetzung mit der Realität stehen möchte. Der Bundesvorsitzende dieser aus einer Facebookgruppe entstandenen Partei, ist der jüngste Parteivorsitzende Deutschlands, die Tage wird er 21 Jahre alt. Das Programm ist vielfältig und enthält viele interessante Dinge wie die Freigabe von Drogen, die Abschaffung privater Krankenkassen, und die verbleibenden Kassen sollen nir noch evidenzbasierte Medizin zahlen. Erschreckend finde ich aber die Aussage, der Ausstieg aus der Kernenergie sei ein Fehler gewesen. 
+Das Gegenteil repräsentiert die PdH, die für sozialliberale und säkulare Politik basierend auf einer kritisch-rationalen und wissenschaftlichen Auseinandersetzung mit der Realität stehen möchte. Der Bundesvorsitzende dieser aus einer Facebookgruppe entstandenen Partei, ist der jüngste Parteivorsitzende Deutschlands, die Tage wird er 21 Jahre alt. Das Programm ist vielfältig und enthält viele interessante Dinge wie die Freigabe von Drogen, die Abschaffung privater Krankenkassen, und die verbleibenden Kassen sollen nur noch evidenzbasierte Medizin zahlen. Erschreckend finde ich aber die Aussage, der Ausstieg aus der Kernenergie sei ein Fehler gewesen. 
 
 ### Menschliche Welt (MENSCHLICHE WELT)
 
@@ -147,7 +147,7 @@ Es gibt einen Verein und eine Partei Klimaliste Deutschland und die distanzieren
 
 ### Parlament aufmischen – Stimme der Letzten Generation (LETZTE GENERATION)
 
-Zumal es ja auch noch die LETZTE GENERATION gibt, die sich aufmachen wollen, den Betrieb in Brüssel und Straßburg [zu stören (€)](https://www.faz.net/aktuell/politik/europawahl/letzte-generation-was-sie-im-europaparlament-vorhat-19749570.html). Da bin ich unsicher, was das heißen soll und ob ich das für sinnvoll halte, aber ich bin auch eher vorletzte Generation…
+Zumal es ja auch noch die LETZTE GENERATION gibt, die sich aufmachen wollen, den Betrieb in Brüssel und Straßburg [zu stören (€)](https://www.faz.net/aktuell/politik/europawahl/letzte-generation-was-sie-im-europaparlament-vorhat-19749570.html). Da bin ich unsicher, was das heissen soll und ob ich das für sinnvoll halte, aber ich bin auch eher vorletzte Generation…
 
 ### Partei der Vernunft (PDV)
 

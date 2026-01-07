@@ -8,6 +8,7 @@ const markDownItImplicitFigures = require('markdown-it-implicit-figures');
 const markDownItFootnote = require('markdown-it-footnote');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const path = require("path");
 
 module.exports = async function( eleventyConfig ) {
   eleventyConfig.setQuietMode(true);
@@ -34,6 +35,7 @@ module.exports = async function( eleventyConfig ) {
   eleventyConfig.addFilter('shortDate', require("./_includes/_11ty/filters/shortDate.js"));
   eleventyConfig.addFilter('mediumDate', require("./_includes/_11ty/filters/mediumDate.js"));
   eleventyConfig.addFilter('longDate', require("./_includes/_11ty/filters/longDate.js"));
+  eleventyConfig.addFilter('commentDate', require("./_includes/_11ty/filters/commentDate.js"));
   eleventyConfig.addFilter('pathDate', require("./_includes/_11ty/filters/pathDate.js"));
   eleventyConfig.addFilter('imgPath', require("./_includes/_11ty/filters/imgPath.js"));
   eleventyConfig.addFilter('w3cDate', require("./_includes/_11ty/filters/w3cDate.js"));
@@ -57,6 +59,13 @@ module.exports = async function( eleventyConfig ) {
     array.slice().sort((a, b) => a[key] - b[key])
   );
 
+  // Dateiname des Artikels (ohne Erweiterung) aus page.inputPath
+  eleventyConfig.addFilter("articleFileName", (inputPath) => {
+    if (!inputPath) return "";
+    const base = path.basename(inputPath);
+    return base.replace(/\.[^/.]+$/, "");
+  });
+
   // collections
   eleventyConfig.addCollection("tagList", require("./_includes/_11ty/collections/tagList.js"));
   eleventyConfig.addCollection("keywordList", require("./_includes/_11ty/collections/keywordList.js"));
@@ -73,10 +82,6 @@ module.exports = async function( eleventyConfig ) {
   eleventyConfig.addPlugin(require("./eleventy.config.images.js"));
   eleventyConfig.addPlugin(bundlerPlugin.default);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
-
-  eleventyConfig.addFilter("plusify", function(path) {
-    return path.replaceAll(' ', '+');
-  });
 
   // markdown config
   let markdownItOptions = {
@@ -123,10 +128,6 @@ module.exports = async function( eleventyConfig ) {
     excerpt: true,
     excerpt_separator: "<!-- excerpt -->",
   });
-
-  eleventyConfig.addFilter("markdownify", (value) =>
-    markdownLib.render(value)
-  );
 
   return {
     templateFormats: ["html", "njk", "md", "jpg", "jpeg", "png"],

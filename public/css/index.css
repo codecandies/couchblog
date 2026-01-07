@@ -872,7 +872,7 @@ article {
 .content h2,
 .content h3,
 .content h4,
-.welcomments__comments-title {
+.comments__comments-title {
   font-weight: 400;
   line-height: 1.25;
   margin-bottom: 0.2em;
@@ -884,7 +884,7 @@ article {
 }
 
 .content h3,
-.welcomments__comments-title {
+.comments__comments-title {
   font-size: 1.25em;
 }
 
@@ -1160,11 +1160,11 @@ article {
 }
 
 /* welcomments comments section */
-.welcomments__container {
-  margin-top: 40px;
+.comments__container {
+  margin-top: 3.75rem;
 }
 
-.welcomments__comments-title {
+.comments__comments-title {
   font-size: 1.25em;
   font-weight: 400;
   line-height: 1.25;
@@ -1172,65 +1172,73 @@ article {
   padding: 0.5rem 0 0;
 }
 
-.welcomments__comment-container {
+.comments__comment-container {
   counter-reset: count 0;
 }
 
-.welcomments__comment {
+.comments__comment {
   counter-increment: count 1;
   display: block;
   margin-bottom: 30px;
 }
 
-.welcomments__comment-message {
+.comments__comment-role-owner .comments__author-name::after {
+  content: " 😎";
+}
+
+.comments__comment-message {
   font-weight: 300;
   line-height: 1.5;
 }
 
-.welcomments__comment a {
+.comments__comment a {
   color: var(--color-link);
   -webkit-hyphens: none;
   hyphens: none;
 }
 
-.welcomments__comment a:visited {
+.comments__comment a:visited {
   color: var(--color-primary);
 }
 
-.welcomments__comment-header::before {
+.comments__comment-header::before {
   content: '#' counter(count, decimal);
   font-size: 2.1em;
 }
 
-.welcomments__comment-header {
+.comments__comment-header {
   display: flex;
   gap: 10px;
-  align-items: flex-start;
+  align-items: last baseline;
   margin-bottom: 5px;
 }
 
-.welcomments__author-name-and-time {
+.comments__author-name-and-time {
   font-size: 1rem;
 }
 
-.welcomments__comment-message p {
+.comments__comment-time a {
+  text-decoration: none;
+}
+
+.comments__comment-message p {
   margin-bottom: .5em;
 }
 
 /* welcomments comment form */
-.no-js .welcomments__comment-form {
+.no-js .comments__comment-form {
   display: none;
 }
 
-.welcomments__comment-form {
+.comments__comment-form {
   margin-top: 20px;
 }
 
-.welcomments__form-group {
+.comments__form-group {
   margin-bottom: 20px;
 }
 
-.welcomments__form-group label {
+.comments__form-group label {
   display: block;
   font-weight: 700;
   font-size: 1rem;
@@ -1238,9 +1246,9 @@ article {
   margin-bottom: .5rem;
 }
 
-.welcomments__comment-form textarea,
-.welcomments__comment-form input,
-.welcomments__comment-form button {
+.comments__comment-form textarea,
+.comments__comment-form input,
+.comments__comment-form button {
   appearance: none;
   background-color: var(--background-input);
   border: 1px solid rgba(var(--border-primary-rgb), 0.125);
@@ -1251,16 +1259,16 @@ article {
   padding: .75rem 1rem;
 }
 
-.welcomments__comment-form textarea,
-.welcomments__comment-form input {
+.comments__comment-form textarea,
+.comments__comment-form input {
   width: calc(100% - 2rem);
 }
 
-.welcomments__comment-message::placeholder {
+.comments__comment-message::placeholder {
   color: rgba(var(--color-primary-rgb), 0.75);
 }
 
-.welcomments__markdown-notice {
+.comments__markdown-notice {
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.4;

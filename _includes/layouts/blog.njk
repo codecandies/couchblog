@@ -118,10 +118,85 @@
 {%- endif %}
 {% endblock -%}
 
-{% block comments -%}
-{% if nocomments != true %}
-{% set welcomments_config = {welcomments: welcomments, website_id: "u6qGszNBbQtMLVycDuAz39p0u"} %}
-{% renderFile "./_includes/welcomments/comments.liquid", welcomments_config %}
+{% block commentsection -%}
+{% if comments and commentsActive %}
+<section id="comments__container" class="comments__container">
+  <h2 id="comments__comment-count-title" class="comments__comments-title">
+    {% if comments | length == 1 %}
+      1 Kommentar
+    {% else %}
+      {{ comments | length }} Kommentare
+    {% endif %}
+  </h2>
+  <div id="comments__comment-container" class="comments__comment-container">
+    {% for comment in comments %}
+    <article
+      id="comments__comment-{{ comment.id }}"
+      class="comments__comment{{ ' comments__comment-role-owner' if comment.email == metadata.author.email else '' }}"
+    data-comment-id="{{ comment.id }}"
+    data-author-name="{{ comment.createdBy | e }}"
+    itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+      <div class="comments__comment-header">
+        <div class="comments__author-information">
+          <div class="comments__author-name-and-time">
+            <h3 class="comments__author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
+              <span itemprop="name">{{ comment.createdBy | e }}</span>
+            </h3>
+            <p class="comments__comment-time">
+              <a href="#comments__comment-{{ comment.id }}" itemprop="url">
+                <time datetime="{{ comment.date }}" itemprop="datePublished">
+                  {{- comment.date | commentDate -}}
+                </time>
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div itemprop="text" class="comments__comment-message">{{ comment.html | safe }}</div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endblock -%}
+
+{% block commentform -%}
+{% if showComments and commentsActive %}
+<div id="comments__form" class="comments__container">
+  <h2 class="comments__comments-title">Kommentieren</h2>
+  <form
+    class="comments__comment-form"
+    id="commentsForm"
+    name="post-comments"
+    method="post"
+    netlify
+    netlify-honeypot="bot-field"
+  >
+    <div class="comments__form-group">
+      <label for="author-name">Name</label>
+      <input type="text" id="author-name" name="name" required spellcheck="false" placeholder="Dein Name">
+    </div>
+    <div class="comments__form-group">
+      <label for="author-url">Website <span class="comments__optional-notice">(optional)</span></label>
+      <input type="url" id="author-url" name="website" placeholder="https://example.com">
+    </div>
+    <div class="comments__form-group">
+      <label for="author-email">E-Mail <span class="comments__optional-notice">(optional)</span></label>
+      <input type="email" id="author-email" name="email" placeholder="du@example.com">
+    </div>
+    <div class="comments__form-group">
+      <label for="message">Kommentar</label>
+      <textarea class="comments__comment-message" rows="10" name="comment" id="message" required spellcheck="true" placeholder="Hier zum Thema beitragen…"></textarea>
+    </div>
+    <div hidden>
+      <label>
+        Dieses Feld leer lassen: <input name="bot-field" />
+      </label>
+    </div>
+    <input type="hidden" name="articleTitle" value="{{ page.inputPath | articleFileName }}">
+    <button type="submit" class="comments__submit-button" id="comments__submit-button">Kommentar absenden</button>
+  </form>
+</div>
 {% endif %}
 {% endblock -%}
 

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "data": {
+      "name": "Sam",
+      "website": "couchblog.de",
+      "comment": "Nice post!",
+      "referrer": "https://couchblog.de/blog/2026/01/04/this-is-a-test/",
+      "email": "nico.bruenjes@example.com",
+      "articleTitle": "2026-01-04 Stranger Things ist lost"
+    },
+    "created_at": "2026-01-06T10:52:16.356Z"
+  },
+  "site": {
+  }
+}
