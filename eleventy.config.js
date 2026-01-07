@@ -75,10 +75,6 @@ module.exports = async function( eleventyConfig ) {
   eleventyConfig.addPlugin(bundlerPlugin.default);
   eleventyConfig.addPlugin(EleventyRenderPlugin);
 
-  eleventyConfig.addFilter("plusify", function(path) {
-    return path.replaceAll(' ', '+');
-  });
-
   // markdown config
   let markdownItOptions = {
     html: true,
@@ -124,10 +120,6 @@ module.exports = async function( eleventyConfig ) {
     excerpt: true,
     excerpt_separator: "<!-- excerpt -->",
   });
-
-  eleventyConfig.addFilter("markdownify", (value) =>
-    markdownLib.render(value)
-  );
 
   return {
     templateFormats: ["html", "njk", "md", "jpg", "jpeg", "png"],
