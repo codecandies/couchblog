@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "id": "01HFVTTXMJFRWYN5T0G6Y2ZZ13",
+      "createdBy": "Nico",
+      "date": "2023-11-22T15:37:02Z",
+      "html": "<p>Nur nochmal, weil ich es so lustig finde: ich habe die Funktion also heute morgen endgültig freigeschaltet, seitdem sind acht Kommentare eingegangen. Alle Spam. :D</p><p>Dabei habe ich extra ein hochdiskussionswürdiges Easteregg in dem Text untergebracht. Vielleicht hätte ich noch erwähnen sollen, dass sich Linux niemals durchsetzen wird…</p>",
+      "email": "nico@couchblog.de",
+      "website": "https://couchblog.de"
+    },
+    {
+      "id": "01HFXFEERGH1QFMTENBC4EVBWZ",
+      "createdBy": "ben_",
+      "date": "2023-11-23T06:56:28Z",
+      "html": "<p>Wun-der-barst. Welcome back!</p><p>Allerdings: Mobil (FF, Android 13) scheint irgendwas nicht zu funktionieren. Ein Touch auf den Kommentar absenden Button führt zu keiner erkennbaren Reaktion …</p>",
+      "email": "",
+      "website": "https://anmutunddemut.de"
+    },
+    {
+      "id": "01HFYWX5HE7CKS8DFKXGC8X5AM",
+      "createdBy": "Nico",
+      "date": "2023-11-23T20:10:56Z",
+      "html": "<p>Hi Ben,<br />oha, muss ich mal reinschauen… ggf. kann ich die JS-Version auch erstmal wieder abschalten. Hatte schon befürchtet, dass die Lösung nicht ideal ist. 😅</p>",
+      "email": "nico@couchblog.de",
+      "website": "https://couchblog.de"
+    },
+    {
+      "id": "01HG0J234WHAVC4WX4PA2MS3HZ",
+      "createdBy": "Kim",
+      "date": "2023-11-24T11:39:52Z",
+      "html": "<p>Sehr schön! Es gab schon öfter Situationen, in denen ich hier gern einen Kommentar dagelassen hätte. :) Überhaupt ist das Thema ja sehr interessant, vor allem in Kombination mit Static Site Generatoren. Ich bin gespannt, wie es damit hier weitergeht.</p>",
+      "email": "",
+      "website": "https://greatestview.de"
+    },
+    {
+      "id": "01HG0NFEPTHFNR9E9ENVQHN4HY",
+      "createdBy": "Holger",
+      "date": "2023-11-24T12:39:35Z",
+      "html": "<p>Gratuliere zu den Spammer-Kommentaren, deren Interesse soll schon was heissen ;)</p>",
+      "email": "",
+      "website": "https://aussernet.de"
+    }
+  ]
+}
