@@ -40,15 +40,15 @@ export default async (request: Request, context: Context) => {
       created_at,
     }: PostComment = (await request.json()).payload;
 
-    if (!name || !comment || !referrer || !email || !articleTitle) {
+    if (!name || !comment || !referrer || !articleTitle) {
       console.error(
-        `Missing at least one required field. Name: ${name}, Comment: ${comment}, Email: ${email}, Referrer: ${referrer}`
+        `Missing at least one required field. Name: ${name}, Comment: ${comment}, Titel: ${articleTitle}, Referrer: ${referrer}`
       );
-      return { statusCode: 400, body: "Name, Mail and comment are required!" };
+      return { statusCode: 400, body: "Name, Mail, Articletitle and comment are required!" };
     }
 
     const ref = new URL(referrer).pathname.split("/");
-    const postName = `src/content/blog/${ref[2]}/${ref[2]}-${ref[3]}-${ref[4]} ${articleTitle}`;
+    const postName = `src/content/blog/${ref[2]}/${articleTitle}`;
     const octokit = new Octokit({ auth: GITHUB_TOKEN });
     const {
       sha,

@@ -8,6 +8,7 @@ const markDownItImplicitFigures = require('markdown-it-implicit-figures');
 const markDownItFootnote = require('markdown-it-footnote');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const path = require("path");
 
 module.exports = async function( eleventyConfig ) {
   eleventyConfig.setQuietMode(true);
@@ -57,6 +58,13 @@ module.exports = async function( eleventyConfig ) {
   eleventyConfig.addFilter("sortBy", (array, key) =>
     array.slice().sort((a, b) => a[key] - b[key])
   );
+
+  // Dateiname des Artikels (ohne Erweiterung) aus page.inputPath
+  eleventyConfig.addFilter("articleFileName", (inputPath) => {
+    if (!inputPath) return "";
+    const base = path.basename(inputPath);
+    return base.replace(/\.[^/.]+$/, "");
+  });
 
   // collections
   eleventyConfig.addCollection("tagList", require("./_includes/_11ty/collections/tagList.js"));
