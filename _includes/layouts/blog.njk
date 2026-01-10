@@ -163,7 +163,8 @@
 {% block commentform -%}
 {% if showComments and commentsActive %}
 <div id="comments__form" class="comments__container">
-  <h2 class="comments__comments-title">Kommentieren</h2>
+  <h2 id="comments__form-title" class="comments__comments-title">Kommentieren</h2>
+  <div id="comments__form-status" class="comments__form-status" role="status" aria-live="polite" aria-atomic="true"></div>
   <form
     class="comments__comment-form"
     id="commentsForm"
@@ -171,22 +172,20 @@
     method="post"
     netlify
     netlify-honeypot="bot-field"
+    aria-labelledby="comments__form-title"
+    novalidate
   >
     <div class="comments__form-group">
-      <label for="author-name">Name</label>
-      <input type="text" id="author-name" name="name" required spellcheck="false" placeholder="Dein Name">
+      <label for="author-name">Name <sup aria-label="erforderlich">*</sup></label>
+      <input type="text" id="author-name" name="name" required spellcheck="false" placeholder="Dein Name" autocomplete="name" aria-required="true">
     </div>
     <div class="comments__form-group">
-      <label for="author-url">Website <span class="comments__optional-notice">(optional)</span></label>
-      <input type="url" id="author-url" name="website" placeholder="https://example.com">
+      <label for="author-url">Website</label>
+      <input type="url" id="author-url" name="website" placeholder="https://example.com" autocomplete="url">
     </div>
     <div class="comments__form-group">
-      <label for="author-email">E-Mail <span class="comments__optional-notice">(optional)</span></label>
-      <input type="email" id="author-email" name="email" placeholder="du@example.com">
-    </div>
-    <div class="comments__form-group">
-      <label for="message">Kommentar</label>
-      <textarea class="comments__comment-message" rows="10" name="comment" id="message" required spellcheck="true" placeholder="Hier zum Thema beitragen…"></textarea>
+      <label for="message">Kommentar <sup aria-label="erforderlich">*</sup></label>
+      <textarea class="comments__comment-message" rows="10" name="comment" id="message" required spellcheck="true" placeholder="Hier zum Thema beitragen…" aria-required="true"></textarea>
     </div>
     <div hidden>
       <label>

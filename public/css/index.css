@@ -1268,6 +1268,11 @@ article {
   color: rgba(var(--color-primary-rgb), 0.75);
 }
 
+.comments__form-status {}
+.comments__form-status--error {
+  color: red;
+}
+
 .comments__markdown-notice {
   font-size: 1rem;
   font-weight: 300;
