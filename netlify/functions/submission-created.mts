@@ -44,7 +44,7 @@ export default async (request: Request, context: Context) => {
       console.error(
         `Missing at least one required field. Name: ${name}, Comment: ${comment}, Titel: ${articleTitle}, Referrer: ${referrer}`
       );
-      return { statusCode: 400, body: "Name, Mail, Articletitle and comment are required!" };
+      return { statusCode: 400, body: "Name, Articletitle and comment are required!" };
     }
 
     const ref = new URL(referrer).pathname.split("/");
