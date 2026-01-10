@@ -1,11 +1,37 @@
 import { Context } from "@netlify/functions";
 import { Octokit } from "octokit";
+import MarkdownIt from "markdown-it";
+import sanitizeHtml from "sanitize-html";
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = process.env.REPO_OWNER;
 const REPO_NAME = process.env.REPO_NAME;
 const COMMENT_BRANCH_BASE_NAME = "add-comment";
 const MAIN_BRANCH_NAME = "main";
+
+// Markdown Parser konfigurieren
+const md = new MarkdownIt({
+  html: false, // HTML-Tags im Markdown nicht erlauben
+  linkify: true,
+  typographer: true,
+  breaks: true // Zeilenumbrüche als <br> behandeln
+});
+
+// Sanitizer-Konfiguration für Kommentare
+const sanitizeOptions = {
+  allowedTags: [
+    'p', 'br', 'strong', 'em', 'u', 's', 'code', 'pre',
+    'a', 'ul', 'ol', 'li', 'blockquote', 'h3', 'h4'
+  ],
+  allowedAttributes: {
+    'a': ['href', 'title'],
+    'code': ['class']
+  },
+  allowedSchemes: ['http', 'https', 'mailto'],
+  allowedSchemesByTag: {
+    a: ['http', 'https', 'mailto']
+  }
+};
 
 interface PostComment {
   created_at: string;
@@ -44,7 +70,7 @@ export default async (request: Request, context: Context) => {
       console.error(
         `Missing at least one required field. Name: ${name}, Comment: ${comment}, Titel: ${articleTitle}, Referrer: ${referrer}`
       );
-      return { statusCode: 400, body: "Name, Mail, Articletitle and comment are required!" };
+      return { statusCode: 400, body: "Name, Articletitle and comment are required!" };
     }
 
     const ref = new URL(referrer).pathname.split("/");
@@ -59,11 +85,17 @@ export default async (request: Request, context: Context) => {
     } = await getPostData(octokit, { fileName: postName });
 
     const now = Date.now();
+
+    // Markdown zu HTML parsen und sanitizen
+    const commentMarkdown = comment || '';
+    const commentHtml = md.render(commentMarkdown);
+    const sanitizedHtml = sanitizeHtml(commentHtml, sanitizeOptions);
+
     postData.comments.push({
       id: now,
       createdBy: name,
       date: created_at,
-      html: comment,
+      html: sanitizedHtml,
       email: email,
       website: website,
     });
