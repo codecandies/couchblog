@@ -848,14 +848,16 @@ article {
   content: close-quote;
 }
 
-.content>blockquote {
+.content>blockquote,
+.comments__comment-message blockquote {
   background-color: var(--background-elevated);
   border-left: 10px solid rgba(var(--color-primary-rgb), 0.25);
   margin-bottom: 1.5625rem;
   padding: 0.9375rem;
 }
 
-.content>blockquote p:last-child {
+.content>blockquote p:last-child,
+.comments__comment-message blockquote p:last-child {
   margin-bottom: 0;
 }
 
