@@ -1,0 +1,11 @@
+{
+  "comments": [
+    {
+      "id": 1768063068387,
+      "createdBy": "Nico",
+      "date": "2026-01-10T16:37:46.512Z",
+      "html": "<p>Das wird ein Absatz.</p>\n<p>Hier ein neuer Absatz mit <em>kursiv</em>.</p>\n<p>Und einer mit einem <a href=\"https://www.zeit.de\">Link</a>.</p>\n",
+      "website": "https://couchblog.de"
+    }
+  ]
+}
