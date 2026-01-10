@@ -1,5 +1,5 @@
 ---
-title: "Haute & Freddy – Big Discgrace"
+title: "Haute & Freddy – Big Disgrace"
 date: "2026-01-10T14:54:43+0100"
 tags:
   - "Gehört"
