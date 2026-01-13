@@ -1,6 +1,6 @@
 ---
 title: "KI nach diesem Blog befragt"
-date: "2026-01-14T00:13:26+0100"
+date: "2026-01-14T00:35:53+0100"
 tags:
   - "Gerante"
 keywords:

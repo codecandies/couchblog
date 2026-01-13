@@ -45,6 +45,7 @@
   "dependencies": {
     "@netlify/functions": "^5.1.2",
     "@types/sanitize-html": "^2.16.0",
+    "luxon": "^3.7.2",
     "octokit": "^5.0.5",
     "sanitize-html": "^2.17.0"
   }

@@ -1,3 +1,5 @@
+const { DateTime } = require('luxon');
+
 /**
  * Return a short formatted date string w/o dots for lists, ie 7 Jan
  * @param {String} dateStr string representation of a date
@@ -5,7 +7,6 @@
  * @returns
  */
 module.exports = ( dateStr, locale='de-DE' ) => {
-  const date = new Date( dateStr );
-  const options = { year: '2-digit', month: 'short', day: 'numeric'};
-  return new Intl.DateTimeFormat( 'de-DE', options ).format( date ).replaceAll( '.', '' );
+  const date = DateTime.fromISO(dateStr, { zone: 'Europe/Berlin' });
+  return date.setLocale(locale).toFormat('dd MMM yy').replace('.', '');
 }

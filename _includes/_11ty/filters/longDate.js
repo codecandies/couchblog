@@ -1,3 +1,5 @@
+const { DateTime } = require('luxon');
+
 /**
  * Return a long formatted date string for articles
  * @param {String} dateStr string representation of a date
@@ -5,7 +7,6 @@
  * @returns
  */
 module.exports = function ( dateStr, locale='de-DE' ) {
-  const date = new Date( dateStr );
-  const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-  return new Intl.DateTimeFormat( locale, options ).format( date );
+  const date = DateTime.fromISO(dateStr, { zone: 'Europe/Berlin' });
+  return date.setLocale(locale).toFormat('cccc, dd. LLLL yyyy');
 }
