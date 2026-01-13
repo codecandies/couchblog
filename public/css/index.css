@@ -217,6 +217,7 @@ body {
   color: var(--color-primary, #121212);
   font-family: "Overpass", "Helvetica Neue", sans-serif;
   font-size: 1.25rem;
+  font-weight: 300;
   min-width: 320px;
 }
 
@@ -948,6 +949,11 @@ article {
 
 .content pre[class*=language-] {
   margin-bottom: 1.5625rem;
+}
+
+.content strong,
+.content b {
+  font-weight: 700;
 }
 
 .content .footnote-ref {
