@@ -6,6 +6,13 @@
       "date": "2026-01-10T19:38:45.196Z",
       "html": "<p>Freut mich, dass du die Kommentare wieder freigegeben hast :)</p>\n<p>Das E-Mail finde ich eigentlich auch überflüssig. Ich weiß aber nicht, an welcher Stelle ich was ändern, um es zu entfernen oder zumindest die Pflicht weg zu machen.</p>\n",
       "website": "https://www.blogissimo.com"
+    },
+    {
+      "id": 1768373634254,
+      "createdBy": "Flusskiesel",
+      "date": "2026-01-14T06:53:52.232Z",
+      "html": "<p>Test <em>Markdown</em>:</p>\n<ul>\n<li>Test 1</li>\n<li>Test 2</li>\n<li>Test 3</li>\n</ul>\n<p>Schön, dass die Kommentare wieder offen sind!</p>\n",
+      "website": "https://kieselblog.flusskiesel.de"
     }
   ]
 }
