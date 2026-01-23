@@ -29,6 +29,28 @@
       "html": "<p>Hereinspaziert! Da kann ich nun gar nicht mitreden, mein self made <a href=\"https://11ty.dev\">11ty</a> Geschraube ist ja in sich ein walled-garden quasi. Wordpress hat mich einfach immer unterfordert. Das hilft jetzt nicht weiter, aber so muss das ja auch sein.</p>",
       "website": "https://couchblog.de",
       "email": "nico@couchblog.de"
+    },
+    {
+      "id": 1769195580874,
+      "createdBy": "Bla",
+      "date": "2026-01-23T19:19:13.786Z",
+      "html": "<p>Dein letzter Satz ist Antwort genug auf die Frage nach den jungen Blogger*n.</p>\n",
+      "website": "https://blablog.de"
+    },
+    {
+      "id": 1769195956250,
+      "createdBy": "Hippo",
+      "date": "2026-01-23T19:20:58.721Z",
+      "html": "<p>Die Unterforderung der Wordpress-Blogger ist die Herausforderung derer, die den Jahrzehnte alten Mist migrieren müssen <em>grins</em></p>\n",
+      "website": ""
+    },
+    {
+      "id": 1769195956260,
+      "createdBy": "Nico",
+      "date": "2026-01-23T19:22:58.721Z",
+      "html": "<p>@Bla: Weiß nicht wovon du sprichst. ;)</p>\n<p>@Hippo: Weiß nicht, wovon du sprichst. LOL.</p>\n",
+      "website": "https://couchblog.de",
+      "email": "nico@couchblog.de"
     }
   ]
 }
