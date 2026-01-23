@@ -21,6 +21,14 @@
       "date": "2026-01-23T15:35:45.202Z",
       "html": "<p>Bin ich hier richtig für den Rant? <em>hüstel</em><br />\nAlso, ich finde weiterhin, dass die Wordpress-Leute es einfach verpasst haben, in irgendeiner Form die Einstiegshürden zu senken. Stattdessen wurde man zu einem vollständigen CMS, auf dessen Pflege selbst halbwegs technisch affine Leute wie ich keine Lust haben, ein paar Social-Plugins drangepappt. Sachen wie Micro.blog blieben halt ein Nischending, weil da niemand war und damit keine Netzwerkeffekte entstehen konnten. Die Netzwerkeffekte waren das entscheidende, bis man alle dort hatte und auf algorithmisierte Sichtbarkeit umsteigen konnte. Und jetzt gibt es halt für Longform-Sachen Substack, das aber diese Woche auch einen Bewegtbild-Feed eingeführt hat, weil sie ja monetarisieren müssen und AZ16 im Nacken sitzt.<br />\nAber ich schweife ebenfalls ab. tl;dr: Wordpress war das Problem. Über den Schwenk zur post-alphabetisierten Digitalgesellschaft auf Videobasis könnte man auch noch etwas schreiben, aber das würde wohl zu weit führen und auch nicht ganz erklären, warum so wenige Menschen U40 bloggen.</p>\n",
       "website": "https://www.kopfzeiler.org"
-    }
+    },
+    {
+      "id": 1769182548153,
+      "createdBy": "Nico",
+      "date": "2026-01-23T15:40:33.000Z",
+      "html": "<p>Hereinspaziert! Da kann ich nun gar nicht mitreden, mein self made <a href=\"https://11ty.dev\">11ty</a> Geschraube ist ja in sich ein walled-garden quasi. Wordpress hat mich einfach immer unterfordert. Das hilft jetzt nicht weiter, aber so muss das ja auch sein.</p>",
+      "website": "https://couchblog.de",
+      "email": "nico@couchblog.de"
+    },
   ]
 }
