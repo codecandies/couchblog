@@ -1,6 +1,6 @@
 ---
 title: Balthasar
-date: 2025-07-05
+date: 2025-07-05T01:08:33+0100
 tags:
   - Gestorben
 keywords:

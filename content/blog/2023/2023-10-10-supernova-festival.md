@@ -1,6 +1,6 @@
 ---
 title: Supernova Festival Massaker
-date: 2023-10-10T11:10:44+02:00
+date: "2023-10-10T11:10:44+02:00"
 tags:
   - Gesellschaft
 keywords:
