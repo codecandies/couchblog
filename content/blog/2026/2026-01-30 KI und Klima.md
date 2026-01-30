@@ -43,6 +43,6 @@ Na, das klingt ja nach wenig. Kein Marketing, übrigens, is klar. Freundlicherwe
 > <tr><td>1 l Wasser um 1 °C erwärmen</td><td>4.200 J</td></tr>
 > <tr><td>1 km Autofahren</td><td>~2.000.000 J</td></tr></table>
 
-Dann wird kurz eingestanden, dass das Training der KI wesentlich mehr Energie verbraucht, vor allem aber auch der Betrieb der Infrastruktur. Dagegen sei die Nutzung pro Anfrage aber *viel günstiger*, als bspw. Videostreaming oder *herumscrollen*. Schon klar, in welche Richtung das geht. Was soll die auch anderes sagen? Und vielleicht wird KI ja mal eines Tages sogar helfen, den weltweiten Energieverbrauch zu senken. Ja, vielleicht.
+Dann wird kurz eingestanden, dass das Training der KI wesentlich mehr Energie verbraucht, vor allem aber auch der Betrieb der Infrastruktur. Dagegen sei die Nutzung pro Anfrage aber _viel günstiger_, als bspw. Videostreaming oder _herumscrollen_. Schon klar, in welche Richtung das geht. Was soll die auch anderes sagen? Und vielleicht wird KI ja mal eines Tages sogar helfen, den weltweiten Energieverbrauch zu senken. Ja, vielleicht.
 
-Ich weiß da natürlich auch keine Lösung, werde aber das Gefühl nach wie vor nicht los, mir steuerten auf einen Abhang zu und drücken gerade nochmal so richtig auf das Gaspedal. Das Nachdenken darüber überlasse ich am besten einer KI, die hat den größeren Kopf.
+Ich weiß da natürlich auch keine Lösung, werde aber das Gefühl nach wie vor nicht los, <del>m</del><ins>w</ins>ir steuerten auf einen Abhang zu und drücken gerade nochmal so richtig auf das Gaspedal. Das Nachdenken darüber überlasse ich am besten einer KI, die hat den größeren Kopf.
