@@ -4,6 +4,8 @@ date: "2026-02-03T07:39:58+0100"
 tags:
   - "Gestorben"
 keywords:
+  - "CDU"
+persons:
   - "Rita Süssmuth"
 ---
 
