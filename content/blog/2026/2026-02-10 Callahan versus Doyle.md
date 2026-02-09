@@ -1,6 +1,6 @@
 ---
 title: "Harry Callahan versus Jimmy Popeye Doyle"
-date: "2026-02-09T16:12:59+0100"
+date: "2026-02-10T00:31:51+0100"
 tags:
   - "Gesehen"
 keywords:
