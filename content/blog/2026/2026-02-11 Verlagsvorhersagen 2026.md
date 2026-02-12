@@ -2,7 +2,6 @@
 title: "Verlagsvorhersagen 2026"
 date: "2026-02-11T19:12:59+0100"
 tags:
-  - "Geleser"
   - "Gelinkt"
 keywords:
   - "Medien"
