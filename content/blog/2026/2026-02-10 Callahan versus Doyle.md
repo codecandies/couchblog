@@ -15,6 +15,8 @@ persons:
 headerImage:
   src: "callahan_doyle.jpg"
   alt: "Fotomontage zeigt Harry Callahan und Jimmy Doyle vor einer 70er Jahre Straßenszene, s/w Bild."
+series:
+  - "70s Rewatch"
 ---
 
 **Zwei Cops, zwei Großstädte, ein Jahrgang. 1971: Während Harry Callahan in „Dirty Harry“ die Law-and-Order-Fantasie zur Ikone verhärtet, hetzt Jimmy „Popeye“ Doyle in „The French Connection“ durch einen dokumentarisch kühlen New-York-Thriller, der den Preis dieser Besessenheit gleich mitliefert. Beide Filme lieferten damit die Blaupause für das spätere Crime- und Action-Kino.**
