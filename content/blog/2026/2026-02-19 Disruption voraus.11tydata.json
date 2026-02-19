@@ -21,6 +21,36 @@
       "date": "2026-02-19T09:42:25.110Z",
       "html": "<p>Die Prämisse ist schon falsch.</p>\n<p>Kein Programmierer, der diesen Namen verdient, hat im letzten Jahr eine LLM gesehen und gedacht: “does my job better than I do”.</p>\n<p>Eine LLM kann nicht programmieren. Sie hat kein Gehirn, keine Intelligenz, kein Verständnis. Sie lernt nicht. Sie kann Zusammenhänge nicht verstehen. Alles, was für das Programmieren wichtig ist, fehlt ihr.</p>\n<p>Deshalb ist LLM-Code schlecht und gefährlich und wird es auch immer bleiben.</p>\n<p>LLM kann Code raushauen in unglaublicher Geschwindigkeit. Aber das ist halt nicht die (Haupt-)Aufgabe von Programmierern:<br />\n<a href=\"https://doctorow.medium.com/https-pluralistic-net-2026-01-06-1000x-liability-graceful-failure-modes-d69f384af9e4\">https://doctorow.medium.com/https-pluralistic-net-2026-01-06-1000x-liability-graceful-failure-modes-d69f384af9e4</a></p>\n<p>Deshalb ist “KI” nicht “wie die industrial revolution”. Eine Dampfmaschine oder Buchpresse kann Produkte schneller und in vergleichbarer oder besserer Qualität herstellen als jeder Mensch. Eine LLM produziert schneller in schlechterer Qualität. Not the same.</p>\n",
       "website": ""
+    },
+    {
+      "id": 1771494147207,
+      "createdBy": "Nico",
+      "date": "2026-02-19T09:52:25.110Z",
+      "html": "<p>Entschuldigt bitte, ich komme gerade heute mit dem Moderieren nicht nach, weil ich in einem ganztägigen Workshop bin.</p>\n<p>@Skythe: Aber das ist doch die Prämisse in dem Artikel: <em>dass</em> LLM rasend schnell Code generiert, der eben <em>ausreicht</em> um durch Masse die Qualität in ein Nischendasein zu verbannen. (Nicht dass ich das wollte oder billigen würde.) Ich finde es aber auch nicht hilfreich mit Absolutismen zu arbeiten, denn kein Entwickler, der einen Chef hat, war in diesem Jahr nicht gezwungen, sich irgendwie mit KI auseiander zu setzen.</p>\n",
+      "website": "https://couchblog.de",
+      "email": "nico@couchblog.de"
+    },
+    {
+      "id": 1771507355297,
+      "createdBy": "Marc",
+      "date": "2026-02-19T13:22:33.070Z",
+      "html": "<p>Zu dem vibe-geschriebenen Pamphlet von Matt Shumer: <a href=\"https://bsky.app/profile/edzitron.com/post/3meocjcybgc2h\">https://bsky.app/profile/edzitron.com/post/3meocjcybgc2h</a></p>\n<p>Ich bin immer noch einer Meinung mit Ed, dass das alles überhypter Blödsinn ist und <em>niemals</em> Arbeitsplätze in nennenswerter Stückzahl ersetzen wird.</p>\n",
+      "website": "https://adamek-it.de/"
+    },
+    {
+      "id": 1771508830089,
+      "createdBy": "ClaudiaBerlin",
+      "date": "2026-02-19T13:47:07.806Z",
+      "html": "<p>Ja, ich beobachte das auch, wenn auch “nur” am Beispiel meiner Auftragsartikel: Umfangreiche Info- und Pflegeartikel zu Pflanzen, deren Struktur sich mit einigen Abweichungen wiederholt.</p>\n<p>Habe Perplexity / Claude Sonnet 4.5 beigebracht, meinen Stil zu imitieren, sich an Gliederung und Textlänge an Beispielartikeln zu orientieren - dennoch spart mir das “nur” ca. 30% Zeit, denn ich bemerke Unstimmigkeiten, muss gegenchecken, an den Texten doch noch feilen… NOCH bin ich nicht ohne große Qualitätsverluste ersetzbar.</p>\n<p>Und ehrlich gesagt glaube ich nicht dran, dass die Falschbehauptungen irgendwann nicht mehr kommen werden, denn die sind bedingt durch die Schulungstexte und die Art und Weise, wie die KI “gewichtet”:  nach “Nähe” der Begriffe.</p>\n<p>Im Bereich Pflanzen-Infos ist das oft so, dass das Richtige und das Falsche in den Quellen “nahe beeinander” stehen, aber eben in einem (korrekten!) logischen Zusammenhang, den die KI nicht begreift. Aus der begrifflichen “Nähe” lässt sich nun mal nicht immer etwas Richtiges konstruieren.</p>\n<p>Dennoch bin ich von der Disruption betroffen, denn angesichts der Internet-Entwicklung insgesamt, wird schon fraglich, wie lange meine Texte für den Auftraggeber überhaupt noch sinnvoll sein werden.</p>\n<p>Beim Coding scheint das alles etwas anders zu laufen, da verbessern sich die KIs ja wirklich grundstürzend. Das Beispiel von Matt Shumer wurde allerdings vielfach kritisiert: 4 Stunden weg und das KI-Ergebnis sei super… erscheint übertrieben und war auch nicht sehr konkret! Ich denke auch, dass Auftraggeber geschäftsrelevante Prozesse nicht mal eben so jemanden “vibecoden” lassen, der keine Ahnung hat. Wer aber weiß, was er tut (wie du) kann Zeit sparen und hat weniger öde Arbeit!</p>\n<p>Noch VOR KI las ich übrigens Statements von Wirtschaftsexperten, die meinten, man könne den ganzen (Produktions-Vertriebs-Konsum-)Laden auch mit 30% der Belegschaft managen - wegen bereits vorhandener Automatisierungen, Wegfall von Überflüssigem etc.<br />\nMIT KI halte ich das für hoch wahrscheinlich.</p>\n<p>Wird wirklich Zeit, dass die Politik sich damit befasst! Evtl. sollten wir alle auch was dafür tun: nachfragen, mailen, fordern…</p>\n",
+      "website": "https://www.claudia-klinger.de/digidiary/"
+    },
+    {
+      "id": 1771508830090,
+      "createdBy": "Nico",
+      "date": "2026-02-19T16:12:48.568Z",
+      "html": "<p>Danke für die Kommentare. Ihr habt alle Recht. Vor allem der zweite Text ist ein fieser <em>hot take</em>, der versucht Fuzz wahrscheinlich für Shumers Firma zu generieren.</p><p><strong>Aber:</strong> ich bin von dem Gedanken ab, dass a) die Entwicklung ein Ende haben wird und b) dass es noch sehr lange dauern wird, bis ich persönlich die Konsequenzen zu spüren bekomme. Ob nun morgen die Welt gleich unter geht… eher nicht, aber ich glaube langsam wirklich, dass es heftiger wird, als ich zunächst dachte. Und das bildet der Artikel von Shumer auch irgendwie ab, dieses Gefühl: hey, mit der letzten Version der KI ging das noch nicht und jetzt geht es plötzlich doch. Und dass viele bei ihrer Meinungsbildung zu dem Thema möglichweise nicht up to date sind.</p><p>Oder wie Doctorow (Link siehe oben) schreibt:</p><blockquote><p>Code is a liability (not an asset).</p></blockquote><p>Jaaaa… finde ich auch, aber dem setzt der Artikel von Chris Loy eine andere interessante Perspektive entgegen: stimmt, aber Scheiß drauf. Das geht nicht immer, ein guter Freund hat immer gesagt: <q>Zum Glück programmieren wir hier keine Herzschrittmacher.</q>, aber oft.</p><p>Letzter Satz: eigentlich will ich aber auch darüber reden, wie wir unsere Welt umbauen müssen, damit bei der Welle, die <em>ich</em> da kommen sehe, wir alle profitieren. Wenn sie dann nicht <em>sofort</em> kommt: super, dann haben wir mehr Zeit.</p>\n",
+      "website": "https://couchblog.de",
+      "email": "nico@couchblog.de"
     }
   ]
 }
