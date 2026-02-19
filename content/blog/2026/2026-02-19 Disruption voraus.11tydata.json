@@ -14,6 +14,13 @@
       "html": "<p>Danke für deinen Kommentar, Thomas! Ich teile die Fassungslosigkeit. Aber ich kenne jetzt auch nicht viele politische Parteien, die das irgendwie auf dem Schirm haben. Also eigentlich keine… lasse mich da gerne eines Besseren belehren.</p>\n",
       "website": "https://couchblog.de",
       "email": "nico@couchblog.de"
+    },
+    {
+      "id": 1771494147206,
+      "createdBy": "Skythe",
+      "date": "2026-02-19T09:42:25.110Z",
+      "html": "<p>Die Prämisse ist schon falsch.</p>\n<p>Kein Programmierer, der diesen Namen verdient, hat im letzten Jahr eine LLM gesehen und gedacht: “does my job better than I do”.</p>\n<p>Eine LLM kann nicht programmieren. Sie hat kein Gehirn, keine Intelligenz, kein Verständnis. Sie lernt nicht. Sie kann Zusammenhänge nicht verstehen. Alles, was für das Programmieren wichtig ist, fehlt ihr.</p>\n<p>Deshalb ist LLM-Code schlecht und gefährlich und wird es auch immer bleiben.</p>\n<p>LLM kann Code raushauen in unglaublicher Geschwindigkeit. Aber das ist halt nicht die (Haupt-)Aufgabe von Programmierern:<br />\n<a href=\"https://doctorow.medium.com/https-pluralistic-net-2026-01-06-1000x-liability-graceful-failure-modes-d69f384af9e4\">https://doctorow.medium.com/https-pluralistic-net-2026-01-06-1000x-liability-graceful-failure-modes-d69f384af9e4</a></p>\n<p>Deshalb ist “KI” nicht “wie die industrial revolution”. Eine Dampfmaschine oder Buchpresse kann Produkte schneller und in vergleichbarer oder besserer Qualität herstellen als jeder Mensch. Eine LLM produziert schneller in schlechterer Qualität. Not the same.</p>\n",
+      "website": ""
     }
   ]
 }
