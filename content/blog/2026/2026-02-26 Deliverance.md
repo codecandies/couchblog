@@ -10,6 +10,8 @@ persons:
 headerImage:
   src: "deliverance.jpg"
   alt: "Ausschnitt aus einem 70er Jahre Film Poster, Stil: Filmpostergemälde. Das Bild zeigt ein großes einzelnes Auge im Zentrum des Bildes, dessen blau wie ein Fluß wirkt, aus dem auf den Betrachter zu sein Kanu herausspingt, mit drei hintereinander positionierten, in roten Schwimmwesten bekleideten Männern. Der vorderste und der hintere steuern mit ihren Rudern das Kanu, der mittlere zielt mit einem Jagdbogen auf etwas."
+series:
+  - "70s Rewatch"
 ---
 
 Am Wochenende hing hier bei uns der Haussegen nicht ganz gerade, was mir etwas zusätzliche Zeit verschafft hat, einen weiteren Film von der [70‘s Rewatch](https://couchblog.de/blog/2026/02/12/70s-rewatch/) Liste zu sehen. Dass ich hier noch nicht darüber geschrieben habe, liegt daran, dass ich den Film als extrem verstörend und auch als ziellos empfunden habe. Oder anders: ich habe ihn nicht verstanden.
