@@ -1,5 +1,5 @@
 ---
-title: "Beim Sterben ist jeder der Erste"
+title: "Beim Sterben ist jeder der Erste (1972)"
 date: "2026-02-26T11:23:13+0100"
 tags:
   - "Gesehen"
