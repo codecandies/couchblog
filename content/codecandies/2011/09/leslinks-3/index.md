@@ -4,13 +4,13 @@ date: "2011-09-30"
 tags:
   - "Gefunden"
 persons:
-  - "Felix Schwenzel"
+  - "Felix"
   - "Sascha Lobo"
 keywords:
   - "Datenschutz"
 ---
 
-Felix Schwenzel kommentiert [am eigenen, pointierten Artikel](http://wirres.net/article/articleview/5933/1/6/):
+Felix kommentiert [am eigenen, pointierten Artikel](http://wirres.net/article/articleview/5933/1/6/):
 
 > ich habe das gefühl, wenn man mit kotze im mund sascha lobo liest, missversteht man ihn leicht.
 
