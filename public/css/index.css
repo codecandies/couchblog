@@ -639,9 +639,9 @@ body {
 }
 
 .main nav[aria-labelledby=main-nav] ul h2 {
-  border-bottom: 1px solid transparent;
-  transition: border-bottom 1s cubic-bezier(0.86, 0, 0.07, 1);
   font-weight: inherit;
+  text-decoration-color: transparent;
+  transition: text-decoration-color .5s cubic-bezier(0.86, 0, 0.07, 1);
 }
 
 .main nav[aria-labelledby=main-nav] ul a {
@@ -654,7 +654,9 @@ body {
 }
 
 .main nav[aria-labelledby=main-nav] ul a:hover h2 {
-  border-bottom: 1px solid currentColor;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: currentColor;
 }
 
 .main nav[aria-labelledby=main-nav] ul time {
