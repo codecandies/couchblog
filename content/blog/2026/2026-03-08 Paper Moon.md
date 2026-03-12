@@ -7,6 +7,7 @@ keywords:
   - "70er"
 persons:
   - "Tatum O'Neal"
+  - "Ryan O'Neal"
   - "Peter Bogdanovich"
   - "Road Movie"
 headerImage:
