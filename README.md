@@ -19,5 +19,9 @@ npm run export:wordpress
 Optional kannst du Pfade und Metadaten überschreiben:
 
 ```bash
-node scripts/export-wordpress.js --input=content --output=wordpress-export.xml --site-url=https://couchblog.de --title=Couchblog --language=de-DE --author="Nico Brünjes"
+node scripts/export-wordpress.js \
+  --input=content \
+  --output=wordpress-export.xml \
+  --author="Nico Brünjes" \
+  --author-email=nico@couchblog.de
 ```

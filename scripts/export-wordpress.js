@@ -6,6 +6,7 @@ const matter = require("gray-matter");
 const MarkdownIt = require("markdown-it");
 
 const metadata = require("../_data/metadata.json");
+const PAGE_CONTENT_SEGMENT = `${path.sep}seiten${path.sep}`;
 
 const markdownIt = new MarkdownIt({
   html: true,
@@ -19,7 +20,8 @@ function parseArgs(argv = process.argv.slice(2)) {
     siteUrl: metadata.url,
     title: metadata.title,
     language: metadata.language || "de-DE",
-    author: metadata.author?.name || "admin"
+    author: metadata.author?.name || "admin",
+    authorEmail: metadata.author?.email || ""
   };
 
   for (const arg of argv) {
@@ -34,6 +36,7 @@ function parseArgs(argv = process.argv.slice(2)) {
     if (key === "title") defaults.title = value;
     if (key === "language") defaults.language = value;
     if (key === "author") defaults.author = value;
+    if (key === "author-email") defaults.authorEmail = value;
   }
 
   return defaults;
@@ -55,6 +58,7 @@ function toCData(text = "") {
 function slugify(text = "") {
   return String(text)
     .toLowerCase()
+    .replaceAll("ß", "ss")
     .normalize("NFKD")
     .replace(/[^\w\s-]/g, "")
     .trim()
@@ -113,7 +117,7 @@ function toAbsoluteUrl(urlPath, siteUrl) {
 }
 
 function getPostType(filePath) {
-  return filePath.includes(`${path.sep}seiten${path.sep}`) ? "page" : "post";
+  return filePath.includes(PAGE_CONTENT_SEGMENT) ? "page" : "post";
 }
 
 function normalizeTags(tags) {
@@ -182,7 +186,7 @@ function buildWxrDocument(posts, config) {
     <wp:author>
       <wp:author_id>1</wp:author_id>
       <wp:author_login>${toCData(config.author)}</wp:author_login>
-      <wp:author_email>${toCData(metadata.author?.email || "")}</wp:author_email>
+      <wp:author_email>${toCData(config.authorEmail || "")}</wp:author_email>
       <wp:author_display_name>${toCData(config.author)}</wp:author_display_name>
       <wp:author_first_name>${toCData("")}</wp:author_first_name>
       <wp:author_last_name>${toCData("")}</wp:author_last_name>
