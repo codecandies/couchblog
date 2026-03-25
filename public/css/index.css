@@ -958,6 +958,11 @@ article {
   font-weight: 700;
 }
 
+.content ins {
+  text-decoration: none;
+  background-color: var(--background-elevated);
+}
+
 .content .footnote-ref {
   font-size: 80%;
 }
