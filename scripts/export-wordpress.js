@@ -4,6 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const matter = require("gray-matter");
 const MarkdownIt = require("markdown-it");
+const pathDate = require("../_includes/_11ty/filters/pathDate");
 
 const metadata = require("../_data/metadata.json");
 const PAGE_CONTENT_SEGMENT = `${path.sep}seiten${path.sep}`;
@@ -107,6 +108,31 @@ function deriveSlug(filePath, permalink) {
   return slugify(path.basename(filePath, ".md"));
 }
 
+function buildComputedPermalink(filePath, title, date, contentRoot) {
+  const relativePath = path.relative(contentRoot, filePath);
+  const segments = relativePath.split(path.sep);
+  const section = segments[0];
+  if (!section) return "";
+
+  if (["blog", "nico", "codecandies", "couchblog", "webpropaganda"].includes(section) && date && title) {
+    return `/${section}/${pathDate(String(date))}/${slugify(title)}/`;
+  }
+
+  if (section === "seiten") {
+    const stem = path.basename(filePath, path.extname(filePath)) === "index"
+      ? path.dirname(relativePath)
+      : relativePath.slice(0, -path.extname(relativePath).length);
+    return `/${stem.replaceAll(path.sep, "/")}/`;
+  }
+
+  return "";
+}
+
+function resolvePermalink(post) {
+  if (post.permalink) return post.permalink;
+  return buildComputedPermalink(post.filePath, post.title, post.date, post.contentRoot);
+}
+
 function toAbsoluteUrl(urlPath, siteUrl) {
   if (!urlPath) return siteUrl;
   try {
@@ -126,18 +152,87 @@ function normalizeTags(tags) {
   return [String(tags).trim()].filter(Boolean);
 }
 
+function buildTaxonomyTerms(post) {
+  const terms = [];
+
+  for (const category of normalizeTags(post.categories)) {
+    terms.push({
+      domain: "category",
+      nicename: slugify(category),
+      name: category
+    });
+  }
+
+  for (const keyword of normalizeTags(post.keywords)) {
+    terms.push({
+      domain: "post_tag",
+      nicename: slugify(keyword),
+      name: keyword
+    });
+  }
+
+  for (const person of normalizeTags(post.person || post.persons)) {
+    terms.push({
+      domain: "person",
+      nicename: slugify(person),
+      name: person
+    });
+  }
+
+  for (const series of normalizeTags(post.series)) {
+    terms.push({
+      domain: "series",
+      nicename: slugify(series),
+      name: series
+    });
+  }
+
+  return terms;
+}
+
+function getHeaderImageUrl(post, permalink) {
+  if (!post.headerImage?.src) return "";
+  if (post.type === "page") {
+    return toAbsoluteUrl(`/img/${post.headerImage.src}`, post.siteUrl);
+  }
+
+  const yearMatch = permalink.match(/\/\d{4}\//);
+  if (yearMatch) {
+    const yearPath = permalink.slice(0, yearMatch.index + yearMatch[0].length);
+    return toAbsoluteUrl(`${yearPath}${post.headerImage.src}`, post.siteUrl);
+  }
+
+  const fallbackDir = permalink.endsWith("/") ? permalink : `${permalink}/`;
+  return toAbsoluteUrl(`${fallbackDir}${post.headerImage.src}`, post.siteUrl);
+}
+
+function getPostThumbnailUrl(post, permalink) {
+  if (post.articleImage?.src) {
+    return toAbsoluteUrl(`/images/${post.articleImage.src}`, post.siteUrl);
+  }
+  return getHeaderImageUrl(post, permalink);
+}
+
 function buildWxrItem(post, index) {
-  const link = toAbsoluteUrl(post.permalink, post.siteUrl);
-  const slug = deriveSlug(post.filePath, post.permalink);
+  const resolvedPermalink = resolvePermalink(post);
+  const link = toAbsoluteUrl(resolvedPermalink, post.siteUrl);
+  const slug = deriveSlug(post.filePath, resolvedPermalink);
   const postDate = toWpDate(post.date || new Date().toISOString());
   const postDateGmt = toWpDate(post.date || new Date().toISOString(), true);
   const postStatus = post.draft ? "draft" : "publish";
-  const categories = normalizeTags(post.tags)
-    .map((tag) => {
-      const nicename = slugify(tag);
-      return `    <category domain="post_tag" nicename="${xmlEscape(nicename)}">${toCData(tag)}</category>`;
+  const taxonomyTerms = buildTaxonomyTerms(post)
+    .map((term) => {
+      return `    <category domain="${xmlEscape(term.domain)}" nicename="${xmlEscape(term.nicename)}">${toCData(term.name)}</category>`;
     })
     .join("\n");
+  const postThumbnail = getPostThumbnailUrl(post, resolvedPermalink);
+  const postMeta = postThumbnail
+    ? `
+    <wp:postmeta>
+      <wp:meta_key>${toCData("post_thumbnail")}</wp:meta_key>
+      <wp:meta_value>${toCData(postThumbnail)}</wp:meta_value>
+    </wp:postmeta>`
+    : "";
 
   return `<item>
     <title>${toCData(post.title || slug || "Untitled")}</title>
@@ -159,7 +254,7 @@ function buildWxrItem(post, index) {
     <wp:menu_order>0</wp:menu_order>
     <wp:post_type>${xmlEscape(post.type)}</wp:post_type>
     <wp:post_password></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>${categories ? `\n${categories}` : ""}
+    <wp:is_sticky>0</wp:is_sticky>${taxonomyTerms ? `\n${taxonomyTerms}` : ""}${postMeta}
   </item>`;
 }
 
@@ -211,12 +306,18 @@ function exportWordpress(config) {
       title: parsed.data.title,
       date: parsed.data.date,
       permalink: parsed.data.permalink,
-      tags: parsed.data.tags,
-      description: parsed.data.description,
+      categories: parsed.data.tags,
+      keywords: parsed.data.keywords,
+      person: parsed.data.person,
+      persons: parsed.data.persons,
+      series: parsed.data.series,
+      headerImage: parsed.data.headerImage,
+      articleImage: parsed.data.articleImage,
       draft: Boolean(parsed.data.draft),
       author: config.author,
       type: getPostType(filePath),
       siteUrl: config.siteUrl,
+      contentRoot: inputPath,
       contentHtml: markdownIt.render(body)
     };
   });
@@ -240,6 +341,7 @@ module.exports = {
   slugify,
   toWpDate,
   deriveSlug,
+  resolvePermalink,
   buildWxrItem,
   buildWxrDocument,
   exportWordpress
