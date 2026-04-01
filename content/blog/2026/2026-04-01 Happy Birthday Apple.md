@@ -11,7 +11,7 @@ persons:
   - "Ronald Wayne"
 ---
 
-Heute vor nunmehr 50 Jahren, am 1. April 1986, gründeten Steve Jobs, Steve Wozniak und Ronald Wayne das Unternehmen Apple. 
+Heute vor nunmehr 50 Jahren, am 1. April 1976, gründeten Steve Jobs, Steve Wozniak und Ronald Wayne das Unternehmen Apple. 
 
 > Fifty years ago in a small garage, a big idea was born. Apple was founded on the simple notion that technology should be personal, and that belief — radical at the time — changed everything.
 > — [Tim Cook](https://www.apple.com/50-years-of-thinking-different/)
