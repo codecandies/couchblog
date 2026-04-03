@@ -7,7 +7,7 @@ keywords:
   - "70er"
 persons:
   - "Brian De Palma"
-  - "Quentin Tarrantino"
+  - "Quentin Tarantino"
   - "Alfred Hitchcock"
 headerImage:
   src: "dressed_to_kill.jpg"
@@ -16,7 +16,7 @@ series:
   - "70s Rewatch"
 ---
 
-Brian de Palma gehört neben Sergio Leone zu den Lieblingsregisseuren von Quentin Tarrantino, dem ich [die Liste](https://couchblog.de/blog/2026/02/12/70s-rewatch/) ja zu verdanken habe, an der ich mich hier entlang schaue. Den Nachfolger von „Dressed to Kill“ habe ich hier auch schon besprochen, „[Blow Out](https://couchblog.de/blog/2026/03/14/blow-out-1981/)“ und es überrascht wenig, beide Filme haben viel gemeinsam. 
+Brian de Palma gehört neben Sergio Leone zu den Lieblingsregisseuren von Quentin Tarantino, dem ich [die Liste](https://couchblog.de/blog/2026/02/12/70s-rewatch/) ja zu verdanken habe, an der ich mich hier entlang schaue. Den Nachfolger von „Dressed to Kill“ habe ich hier auch schon besprochen, „[Blow Out](https://couchblog.de/blog/2026/03/14/blow-out-1981/)“ und es überrascht wenig, beide Filme haben viel gemeinsam. 
 
 <figure><lite-youtube videoid="AE37peg5fTU" style="background-image:url('/blog/2026/video_dressed_to_kill.jpg');"><a href="https://www.youtube.com/watch?v=AE37peg5fTU" class="lty-playbtn" title="Play Video"><span class="lyt-visually-hidden">Play Video: Dressed To Kill (1980)</span></a></lite-youtube><figcaption>Dressed To Kill (1980)</figcaption></figure>
 
