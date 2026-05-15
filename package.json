@@ -8,7 +8,8 @@
     "cleanstart": "del _site && eleventy --serve",
     "start": "eleventy --serve --ignore-initial",
     "build": "eleventy",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test test/**/*.test.js",
+    "export:wordpress": "node scripts/export-wordpress.js"
   },
   "repository": {
     "type": "git",
